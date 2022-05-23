@@ -24,6 +24,11 @@
 
   <link rel="stylesheet" href="{{ "https://zera-dev.github.io/tenacity-tera.github.io/css/main.css" | absURL}}" />
 
+
+  {{ if .Site.Params.GoogleAnalytics }}
+  {{ partial "analytics-gtag.html" . }}
+  {{ end }}
+
   <!-- Katex support -->
   {{ if .Params.math }}
     <link
