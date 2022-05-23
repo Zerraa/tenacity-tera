@@ -4,7 +4,7 @@ timeZone = "Europe/Prague"
 defaultContentLanguage = "en"
 title = "Tenacity"
 theme = "digitalgarden"
-publishDir = "public"
+publishDir = "docs"
 
 googleAnalytics = "UA-PROPERTY_ID"
 
