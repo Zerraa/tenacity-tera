@@ -65,7 +65,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   weight = 1
 [[menu.social]]
   name = 'RSS'
-  url = 'articles/index.xml'
+  url = '/'
   weight = 2
 
 # syntax highlight settings
