@@ -3,7 +3,7 @@ languageCode = "en-us"
 timeZone = "Europe/Prague"
 defaultContentLanguage = "en"
 title = "Tenacity"
-theme = "digitalgarden"
+theme = "digital-garden-hugo-theme"
 publishDir = "docs"
 
 googleAnalytics = "UA-PROPERTY_ID"
