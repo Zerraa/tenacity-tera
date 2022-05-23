@@ -4,9 +4,11 @@ description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | B
 ---
 ![](https://i.imgur.com/y1Ii9IP.png)
 ## Hello! 👋
+
 <hr/>
 
 `Glad you made it here!` <br>
+`Im Zeratu, but you will mostly see me on character named Hostility on Menma’s Tera.`
 `Its been time for some visual and functional update am I right? ` 
  
 You can find many of the previous posts here, together with many new ones with hopefully smoother performence than before. <br>
