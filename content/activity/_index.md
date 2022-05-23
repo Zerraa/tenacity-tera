@@ -1,5 +1,6 @@
 ---
 title: Activities
+description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
 ---
 
 ```toml

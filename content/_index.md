@@ -1,5 +1,6 @@
 ---
 title: Homepage
+description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
 ---
 ![](https://i.imgur.com/y1Ii9IP.png)
 ## Hello! 👋
@@ -14,8 +15,8 @@ You can find many of the previous posts here, together with many new ones with h
 <hr/>
 
 ### 💬 Something is broken?
-If you happen to find issues, feel free to report them to Mellichar#0001 on Discord. <br>
-Or on my github page which you can find [HERE](https://github.com/Zera-dev/tenacity.github.io).
+If you happen to find issues, feel free to report them to **Mellichar#0001** on Discord. <br>
+Or on my github page which you can find [HERE](https://github.com/Zera-dev/tenacity-tera.github.io).
 
 <hr/>
 

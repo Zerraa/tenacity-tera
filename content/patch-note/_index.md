@@ -1,5 +1,6 @@
 ---
 title: Patch Notes for Menma's TERA
+description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
 ---
 
 ```toml
