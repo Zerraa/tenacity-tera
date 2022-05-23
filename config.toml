@@ -12,7 +12,6 @@ googleAnalytics = "UA-PROPERTY_ID"
   description = "TERA website"
   images = ['/tenacity-tera-header.png']
 
-
 [menu]
 [[menu.main]]
   name = 'Home'
