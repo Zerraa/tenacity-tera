@@ -1,3 +1,6 @@
 [submodule "tenacity/themes/digitalgarden"]
 	path = tenacity/themes/digitalgarden
 	url = https://github.com/apvarun/digital-garden-hugo-theme.git
+[submodule "themes/digitalgarden"]
+	path = themes/digitalgarden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git
