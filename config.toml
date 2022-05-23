@@ -76,3 +76,4 @@ googleAnalytics = "UA-PROPERTY_ID"
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+
