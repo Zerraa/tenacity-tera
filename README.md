@@ -10,7 +10,7 @@
 ----
 #  Tenacity
 <p>Repository for personal TERA website<br>
-Focusing on translation of KTERA Patch and GM notes, together with other informations like gear and dungeons.</p>
+Focusing on Dungeon guides and Patch notes for Menma's TERA, together with other informations like gear and overworld activities.</p>
 
 
 ## Contents
