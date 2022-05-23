@@ -1,0 +1,78 @@
+baseURL = "https://tenacity-tera.github.io"
+languageCode = "en-us"
+timeZone = "Europe/Prague"
+defaultContentLanguage = "en"
+title = "Tenacity"
+theme = "digitalgarden"
+publishDir = "public"
+
+googleAnalytics = "UA-PROPERTY_ID"
+
+[Params]
+  description = "TERA website"
+  images = ['/tenacity-tera-header.png']
+
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'General'
+  url = '/articles'
+  weight = 2  
+[[menu.main]]
+  name = 'Classes'
+  url = '/class'
+  weight = 3  
+[[menu.main]]
+  name = 'Activities'
+  url = '/activity'
+  weight = 4    
+[[menu.main]]
+  name = 'Dungeons'
+  url = '/dungeons'
+  weight = 5
+[[menu.main]]
+  name = 'Battlegrounds'
+  url = '/battlegrounds'
+  weight = 6
+[[menu.main]]
+  name = 'Achievements'
+  url = '/achievements'
+  weight = 7
+  
+[[menu.main]]
+  name = ''
+  weight = 9
+
+[[menu.main]]
+  name = 'Patch Notes'
+  url = '/patch-note'
+  weight = 10   
+[[menu.main]]
+  name = 'Menma’s Tera - Guide'
+  url = '/menma-guide'
+  weight = 12
+[[menu.main]]
+  name = 'Menma’s Discord'
+  url = 'https://discord.gg/menmastera'
+  weight = 13
+
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com'
+  weight = 1
+[[menu.social]]
+  name = 'RSS'
+  url = '/articles/index.xml'
+  weight = 2
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
