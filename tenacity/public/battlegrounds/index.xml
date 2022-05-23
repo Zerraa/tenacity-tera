@@ -1,94 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Battlegrounds on Tenacity</title>
-    <link>https://tenacity-tera.github.io/battlegrounds/</link>
-    <description>Recent content in Battlegrounds on Tenacity</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://tenacity-tera.github.io/battlegrounds/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Champion Skyring</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/champion-skyring/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/champion-skyring/</guid>
-      <description>The purpose of this thread is in a way to compress things which you learn in arena with a lot of experience and time and to explain them to the newer players so they can improve faster by understanding how the pvp actually works much quicker than others. Hopefully after reading this thread more people will improve in pvp faster than they would normally and we&amp;rsquo;ll get more arena in which people are going to play their classes to the maximum.</description>
-    </item>
-    
-    <item>
-      <title>Corsair Stronghold</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/corsair-stronghold/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/corsair-stronghold/</guid>
-      <description>Corsairs’ Stronghold is available for level 65 players through the Battleground matching system.  Two teams of 20 take turns attacking and defending an Anchorstone. The team to destroy the Anchorstone the fastest wins! Players can queue in groups of up to five players or as a 20 man raid.  Kills do not directly affect the results of the match. Only the results of the Anchorstone matter.  However, if a player has more contribution points, they will receive more Battleground credits.</description>
-    </item>
-    
-    <item>
-      <title>Fraywind Canyon</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/fraywind-canyon/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/fraywind-canyon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gridiron</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/gridiron/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/gridiron/</guid>
-      <description>Gridiron is a PVP Battleground available for players who are level 65 through the Battleground matching system.
- Two teams of 15 compete in a death match to obtain 70 kills first (or the highest amount when the time runs out).  Every kill you execute will count towards your team, but it will also count towards your ranking within the team.  The individual rankings will give extra rewards, such as an extra reward box for rank 1-3.</description>
-    </item>
-    
-    <item>
-      <title>Shore Hold</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/shore-hold/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/shore-hold/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Colloseum</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/colloseum/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/colloseum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wintera Snowfield</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/wintera-snowfield/</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/wintera-snowfield/</guid>
-      <description>This is a limited availability special PVP Battleground usually only available in the winter season. Res eachother when someone gets down. Most of all though, have fun!!!
-Skills SnowballA small snowball to throw at your enemies.Snow BarrageHold and charge the skill button to prepare and throw a number of snowballs with increasing damage.FireballA flame that burns the area where it lands, turning snow to slush and slowing anyone who passes through.</description>
-    </item>
-    
-    <item>
-      <title>Kumas Royale</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/kumas-royale/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/kumas-royale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kumasylum</title>
-      <link>https://tenacity-tera.github.io/battlegrounds/kumasylum/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.github.io/battlegrounds/kumasylum/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
