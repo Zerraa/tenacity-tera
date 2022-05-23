@@ -9,8 +9,8 @@ description: TERA Guide for Demon's Wheel
 | [First boss](#first-boss) 
 | [Last boss](#last-boss) 
 <hr/>
-**Strongly advise running the dungeon without reading this guide first.** <br>
-You will only get confused by reading– experience it first, then try to look at this guide to understand how the mechanic works. This is just as bad as Broken Prison.
+**Strongly advise running the dungeon without reading this guide first.**
+* You will only get confused by reading– experience it first, then try to look at this guide to understand how the mechanic works. This is just as bad as Broken Prison.
 
 <div id="first-boss">
 
