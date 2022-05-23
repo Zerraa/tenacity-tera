@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Achievements on Tenacity</title>
+    <link>https://tenacity-tera.github.io/achievements/</link>
+    <description>Recent content in Achievements on Tenacity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://tenacity-tera.github.io/achievements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Progression</title>
+      <link>https://tenacity-tera.github.io/achievements/progression/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.github.io/achievements/progression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2. Encounters and Exploration</title>
+      <link>https://tenacity-tera.github.io/achievements/encounters-and-exploration/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.github.io/achievements/encounters-and-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2.1 World Bosses (Arun)</title>
+      <link>https://tenacity-tera.github.io/achievements/world-bosses-arun/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.github.io/achievements/world-bosses-arun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2.2 World Bosses (Shara)</title>
+      <link>https://tenacity-tera.github.io/achievements/world-bosses-shara/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.github.io/achievements/world-bosses-shara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3. Tours of Duty</title>
+      <link>https://tenacity-tera.github.io/achievements/tours-of-duty/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.github.io/achievements/tours-of-duty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4. Dungeons and Battlegrounds</title>
+      <link>https://tenacity-tera.github.io/achievements/dungeons-and-battlegrounds/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.github.io/achievements/dungeons-and-battlegrounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5. Extracurricular Activities</title>
+      <link>https://tenacity-tera.github.io/achievements/extracurricular-activities/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.github.io/achievements/extracurricular-activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PvP and Duels</title>
+      <link>https://tenacity-tera.github.io/achievements/pvp/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.github.io/achievements/pvp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
