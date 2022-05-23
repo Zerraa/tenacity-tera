@@ -9,8 +9,8 @@ publishDir = "docs"
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
-  description = "TERA website"
-  images = ['/tenacity-tera-header.png']
+  description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
+  images = ['https://i.imgur.com/y1Ii9IP.png']
 
 [menu]
 [[menu.main]]

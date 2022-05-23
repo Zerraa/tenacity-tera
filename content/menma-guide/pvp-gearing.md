@@ -1,6 +1,7 @@
 ---
 title: 4.1 Gearing - PvP
 date: 2022-05-04
+description: How to gear up for PvP in Menma's TERA?
 ---
 ## Gear
 

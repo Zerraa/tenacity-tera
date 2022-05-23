@@ -1,6 +1,7 @@
 ---
 title: 1. Download
 date: 2022-05-05
+description: Where to download Menma's TERA?
 images:
 - https://i.imgur.com/nYr4vz2.png
 ---

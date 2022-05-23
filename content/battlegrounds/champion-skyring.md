@@ -1,6 +1,7 @@
 ---
 title: Champion Skyring
-date: 2022-05-04   
+date: 2022-05-04 
+description: Champion Skyring [Battleground]   
 ---
 ![](https://i.imgur.com/Hc60yPF.png)
 The purpose of this thread is in a way to compress things which you learn in arena with a lot of experience and time and to explain them to the newer players so they can improve faster by understanding how the pvp actually works much quicker than others. 

@@ -1,6 +1,7 @@
 ---
 title: 3. Introduction to basics
 date: 2022-05-04
+description: Basic information about Menma's TERA
 ---
 ## Basic about the server
 

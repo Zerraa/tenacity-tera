@@ -1,6 +1,7 @@
 ---
 title: 4.2 Gearing - PvE
 date: 2022-05-04
+description: How to gear up for PvE in Menma's TERA?
 ---
 ## Gear
 

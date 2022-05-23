@@ -1,6 +1,7 @@
 ---
 title: Wintera Snowfield
-date: 2021-12-24         
+date: 2021-12-24  
+description: Wintera Snowfield [Seasonal Battleground]        
 ---
 ![](https://i.imgur.com/U7ERjNn.png)
 This is a limited availability special PVP Battleground usually only available in the winter season. <br>
