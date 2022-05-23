@@ -16,31 +16,31 @@ googleAnalytics = "UA-PROPERTY_ID"
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = ''
+  url = '/'
   weight = 1
 [[menu.main]]
   name = 'General'
-  url = 'articles'
+  url = '/articles/'
   weight = 2  
 [[menu.main]]
   name = 'Classes'
-  url = 'class'
+  url = '/class/'
   weight = 3  
 [[menu.main]]
   name = 'Activities'
-  url = 'activity'
+  url = '/activity/'
   weight = 4    
 [[menu.main]]
   name = 'Dungeons'
-  url = 'dungeons'
+  url = '/dungeons/'
   weight = 5
 [[menu.main]]
   name = 'Battlegrounds'
-  url = 'battlegrounds'
+  url = '/battlegrounds/'
   weight = 6
 [[menu.main]]
   name = 'Achievements'
-  url = 'achievements'
+  url = '/achievements/'
   weight = 7
   
 [[menu.main]]
@@ -49,11 +49,11 @@ googleAnalytics = "UA-PROPERTY_ID"
 
 [[menu.main]]
   name = 'Patch Notes'
-  url = 'patch-note'
+  url = '/patch-note/'
   weight = 10   
 [[menu.main]]
   name = 'Menma’s Tera - Guide'
-  url = 'menma-guide'
+  url = '/menma-guide/'
   weight = 12
 [[menu.main]]
   name = 'Menma’s Discord'
