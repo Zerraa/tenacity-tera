@@ -5,7 +5,7 @@
   <section
     class="w-full h-full md:min-w-[400px] md:w-1/4 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col py-3 overflow-y-auto scroll-area">
     <a href="{{ .Permalink }}">
-      <center> <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">{{ .Title }}</h2> </center>
+   <center>   <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">{{ .Title }}</h2>  </center>
     </a>
     <div class="space-y-2.5">
       {{ range .Data.Pages -}}
@@ -14,12 +14,10 @@
         {{ $title := .Params.title }}
         {{ with .Params.images }}
         {{- range first 1 . }}
-        
+    <!--      <img class="rounded max-w-full mb-4" src="{{ . }}" alt="{{ $title }}" />     -->
         {{ end -}}
         {{ end }}
         <h3 class="text-lg font-semibold mb-0.5">{{ $title }}</h3>
-        <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
-        </div>
       </a>
       {{ end -}}
     </div>
