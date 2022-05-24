@@ -2,6 +2,8 @@
 title: Demokron Factory (Hard)
 date: 2022-05-04
 description: TERA Guide for Demonkron Factory (Hard)
+images:
+- https://i.imgur.com/w7zb0Ut.png
 ---
  | **Level Requirement:** 65
 <br> | **Party:** 5-man

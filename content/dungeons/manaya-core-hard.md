@@ -2,6 +2,8 @@
 title: Manaya Core (Hard)
 date: 2022-05-04
 description: TERA Guide for Manaya's Core (Hard)
+images:
+- https://i.imgur.com/hLb6hlX.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

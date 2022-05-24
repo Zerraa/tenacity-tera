@@ -2,6 +2,8 @@
 title: Gossamer Vault (Hard)
 date: 2022-05-04
 description: TERA Guide for Gossamer's Vault (Hard)
+images:
+- https://i.imgur.com/t0oSYPo.png
 ---
  | **Level Requirement:** 68
 <br> | **Party:** 5-man

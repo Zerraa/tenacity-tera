@@ -2,6 +2,8 @@
 title: Channelworks
 date: 2022-05-04
 description: TERA Guide for Channelworks
+images:
+- https://i.imgur.com/oQVbXqb.png
 ---
  | **Level Requirement:** 65
 <br> | **Party:** 5-man

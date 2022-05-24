@@ -2,6 +2,8 @@
 title: Sea of Honor
 date: 2022-05-04
 description: TERA Guide for Sea of Honor
+images:
+- https://i.imgur.com/FxMYZ74.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man
@@ -22,7 +24,6 @@ Sea of Honor is a 65 level 5-man dungeon.
 
 <div id="first-boss">
 
-![](https://i.imgur.com/FxMYZ74.png)
 <h3>Boss: Ironfang Dixie</h3>
 <center><h3>Key Mechanics</h3></center>
 

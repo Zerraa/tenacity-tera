@@ -20,7 +20,7 @@
         {{ $title := .Params.title }}
         {{ with .Params.images }}
         {{- range first 1 . }}
-        <img class="rounded max-w-full mb-4" src="{{ . }}" alt="{{ $title }}" />
+        
         {{ end -}}
         {{ end }}
         <h3 class="text-lg font-semibold mb-0.5">{{ $title }}</h3>

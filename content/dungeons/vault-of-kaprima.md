@@ -2,6 +2,8 @@
 title: Vault of Kaprima
 date: 2022-05-04
 description: TERA Guide for Vault of Kaprima
+images:
+- https://i.imgur.com/Qt5TV9C.png
 ---
  | **Level Requirement:** 65
 <br> | **Party:** 5-man

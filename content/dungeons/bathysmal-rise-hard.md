@@ -2,6 +2,8 @@
 title: Bathysmal Rise (Hard)
 date: 2022-05-04
 description: TERA Guide for Bathysmal Rise (Hard)
+images:
+- https://i.imgur.com/rY3ZkKn.png
 ---
  | **Level Requirement:** 65
 <br> | **Party:** 5-man

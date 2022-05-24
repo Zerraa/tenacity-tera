@@ -2,6 +2,8 @@
 title: Demon's Wheel
 date: 2022-05-04
 description: TERA Guide for Demon's Wheel
+images:
+- https://i.imgur.com/2l4mHYa.png
 ---
 <br> | **Party:** 5-man
 <br>

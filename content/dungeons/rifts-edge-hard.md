@@ -2,6 +2,8 @@
 title: Rift's Edge (Hard)
 date: 2022-05-04
 description: TERA Guide for Rift's Edge (Hard)
+images:
+- https://i.imgur.com/l6Rastq.png
 ---
  | **Level Requirement:** 65
 <br> | **Party:** 5-man

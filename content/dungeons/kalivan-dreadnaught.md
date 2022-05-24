@@ -2,6 +2,8 @@
 title: Kalivan's Dreadnaught
 date: 2022-05-04
 description: TERA Guide for Kalivan's Dreadnaught
+images:
+- https://i.imgur.com/lCYOuDt.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

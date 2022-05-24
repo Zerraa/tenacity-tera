@@ -2,6 +2,8 @@
 title: Sky Cruiser Endeavor (Hard)
 date: 2022-05-04
 description: TERA Guide for Sky Cruiser Endeavor (Hard)
+images:
+- https://i.imgur.com/VUupNRj.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

@@ -2,6 +2,8 @@
 title: Forsaken Island (Hard)
 date: 2022-05-04
 description: TERA Guide for Forsaken Island (Hard)
+images:
+- https://i.imgur.com/tk092Sd.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

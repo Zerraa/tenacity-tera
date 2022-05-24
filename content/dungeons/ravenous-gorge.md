@@ -2,6 +2,8 @@
 title: Ravenous Gorge 
 date: 2022-05-04
 description: TERA Guide for Ravenous Gorge
+images:
+- https://i.imgur.com/0bweG4d.png
 ---
  | **Level Requirement:** 65
 <br> | **Party:** 3-man NM, 5-man HM/EM

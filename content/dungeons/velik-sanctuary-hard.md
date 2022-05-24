@@ -2,6 +2,8 @@
 title: Velik's Sanctuary (Hard)
 date: 2022-05-04
 description: TERA Guide for Velik's Sanctuary (Hard)
+images:
+- https://i.imgur.com/BXmHnex.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

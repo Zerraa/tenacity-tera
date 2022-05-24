@@ -2,6 +2,8 @@
 title: Manglemire
 date: 2022-05-04
 description: TERA Guide for Manglemire
+images:
+- https://i.imgur.com/HTrPxi2.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

@@ -2,6 +2,8 @@
 title: Timescape (Hard)
 date: 2022-05-04
 description: TERA Guide for Timescape (Hard)
+images: 
+- https://i.imgur.com/MvYR3fN.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

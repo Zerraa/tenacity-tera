@@ -2,6 +2,8 @@
 title: Broken Prison
 date: 2022-05-04
 description: TERA Guide for Broken Prison
+images:
+- https://i.imgur.com/2EeRmXA.png
 ---
  | **Level Requirement:** 65
 <br> | **Party:** 5-man

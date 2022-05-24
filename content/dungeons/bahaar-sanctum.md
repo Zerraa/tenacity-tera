@@ -2,6 +2,8 @@
 title: Bahaar Sanctum
 date: 2022-05-04
 description: TERA Guide for Bahaar's Sanctum
+images:
+- https://i.imgur.com/MN5bii6.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

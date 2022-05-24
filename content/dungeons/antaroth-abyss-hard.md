@@ -2,6 +2,8 @@
 title: Antaroth Abyss (Hard)
 date: 2022-05-04       
 description: TERA Guide for Antaroth Abyss (Hard)
+images:
+- https://i.imgur.com/afetztA.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

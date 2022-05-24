@@ -2,6 +2,8 @@
 title: Shattered Fleet
 date: 2022-05-04
 description: TERA Guide for Shattered Fleet
+images:
+- https://i.imgur.com/6kl3JuD.png
 ---
  | **Level Requirement:** 65
 <br> | **Party:** 5-man

@@ -2,6 +2,8 @@
 title: RK-9 Kennel (Hard)
 date: 2022-05-04
 description: TERA Guide for RK-9 Kennel (Hard)
+images:
+- https://i.imgur.com/k9i1GJw.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

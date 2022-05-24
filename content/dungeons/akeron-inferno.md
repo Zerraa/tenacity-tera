@@ -2,6 +2,8 @@
 title: Akeron's Inferno (Hard)
 date: 2022-05-04
 description: TERA Guide for Akeron's Inferno
+images:
+- https://i.imgur.com/js8HC1T.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

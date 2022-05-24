@@ -2,6 +2,8 @@
 title: Grotto of Lost Souls (Hard)
 date: 2022-05-04
 description: TERA Guide for Grotto of Lost Souls
+images:
+- https://i.imgur.com/bPA9gAs.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man

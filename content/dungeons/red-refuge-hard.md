@@ -2,6 +2,8 @@
 title: Red Refuge (Hard)
 date: 2022-05-04
 description: TERA Guide for Red Refuge (Hard)
+images:
+- https://i.imgur.com/oGpsVF6.png
 ---
  | **Level Requirement:** 70
 <br> | **Party:** 5-man
