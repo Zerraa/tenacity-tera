@@ -17,9 +17,17 @@ Focusing on Dungeon guides and Patch notes for Menma's TERA, together with other
 
   <div align="left">
     
-  - x
-  - x
-  - x
+  - [Articles](https://zera-dev.github.io/tenacity-tera.github.io/articles/)
+  - [Classes](https://zera-dev.github.io/tenacity-tera.github.io/class/)
+  - [Activities](https://zera-dev.github.io/tenacity-tera.github.io/activity/)
+  - [Dungeons](https://zera-dev.github.io/tenacity-tera.github.io/dungeons/)
+  - [Battlegrounds](https://zera-dev.github.io/tenacity-tera.github.io/battlegrounds/)
+  - [Achievements](https://zera-dev.github.io/tenacity-tera.github.io/achievements/)
+ 
+ #### Menma's TERA   
+    
+  - [Patch Notes](https://zera-dev.github.io/tenacity-tera.github.io/patch-note/)
+  - [Guide](https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/)
     
   </div> 
 
