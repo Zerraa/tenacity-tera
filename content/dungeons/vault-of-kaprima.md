@@ -131,11 +131,11 @@ Begin to cast a spell which increases his defense by 500. **During the casting, 
 **Pentagrams** - Kaprima will slam the ground with immense power, you must pay attention to either the words she speaks or the damage indicators as this will notify you whether the damage area is small, or large.
 * If the damage area is directly beneath Kaprima, in a small circle, she’ll say: 
   
-     “Irritating pests…! I shall exterminate you!”
+      “Irritating pests…! I shall exterminate you!”
 
 * If the damage area is a larger area around Kaprima, she’ll say: 
 
-     “Vermin! I will wipe you out… all of you!”
+      “Vermin! I will wipe you out… all of you!”
 
 Getting hit will cause you to take on **“Curse of Kaprima”** which applies a damage over time debuff, as well as **increases damage received by Kaprima by 30% for 15 seconds**.
 
