@@ -45,6 +45,15 @@
     </item>
     
     <item>
+      <title>Iron Battleground</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/battlegrounds/iron-battleground/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/battlegrounds/iron-battleground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shore Hold</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/battlegrounds/shore-hold/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -78,7 +87,9 @@
       <pubDate>Mon, 04 May 2020 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/battlegrounds/kumas-royale/</guid>
-      <description></description>
+      <description>In Kumas Royale, all players are transformed into kumases and battle it out for victory over three rounds.
+The aim is to eliminate the enemy team&amp;rsquo;s boss; manage that and you win the round. The team which wins two rounds claims victory on the battleground and will receive additional reputation!
+At the start of the round, each player starts off as a Baby Kumas. Once the round starts, after a short waiting period, one player in the group can become the Kumas Boss by talking to him with the ‘F’ key.</description>
     </item>
     
     <item>

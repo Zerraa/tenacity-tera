@@ -50,41 +50,69 @@ Torrent file can be found on Menma’s Discord https://discord.gg/menmastera
     </item>
     
     <item>
-      <title>4.2 Gearing - PvE</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/pve-gearing/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      <title>Civil Unrest on Menma</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/civil-unrest-menma/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/pve-gearing/</guid>
-      <description>Gear   You get the basic blue Azart gear to start with when you make your character.
-  You can get accessory crystals from vanguards credits, like in the original version.   For Dark Light &amp;amp; Annihilation gear you should do dungeons such as Red Refuge &amp;amp; RK9, there you will get gear boxes (The gear options always random)
-  Best you can get: 4x random roll on weapon (In addition to have double CRD) Except healers, their max rolls are 3x   Enchanting gear You get feedstock from Guardians</description>
-    </item>
-    
-    <item>
-      <title>Class Crit Caps</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/class-crit-cap/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/class-crit-cap/</guid>
-      <description>As of 15/5/2022 </description>
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/civil-unrest-menma/</guid>
+      <description>Look HERE if youre looking for a broader overview of Civil Unrest.
+Main difference you will notice is that map is different. As of p1.0.7 Civil Unrest is being held on destroyed Island of Dawn.
+  You can also freely use Prime battle solution inside the area.
+  Towers can only be placed 100 meters apart from each other.
+ Spots only reachable by climbing are blocked off and if tower is still placed on such spots its destroyed when Civil Unrest starts.</description>
     </item>
     
     <item>
       <title>Guild vs Guild</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/guild-vs-guild/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/guild-vs-guild/</guid>
-      <description></description>
+      <description>Guilds on Menma&amp;rsquo;s TERA are slightly different. Limit of players in one guild was set to 30 meters max; impossible to raise slots further.
+Guild vs Guild Guilds can participate in Guild versus Guild (GvG) battles.
+ Once war is declared, for up to 24 hours, the competing guilds can attack and kill each other on sight anywhere except in Safe Zones. A guild can be involved in up to three such battles at one time.</description>
     </item>
     
     <item>
       <title>Outlaw</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/outlaw-system/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/outlaw-system/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Rally Quest</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/rally-quest-menma/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/rally-quest-menma/</guid>
+      <description>All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit has not been reached. Rally Quest can be completed regardless of the amount of contribution as long as a Guild Member has contributed.
+Reward    RANK BOX REWARD     Rank 1 Rank 1 Reward Box 5 milion Bellicarium Reputation
+2.000 Tikat   Rank 2 Rank 2 Reward Box 1 milion Bellicarium Reputation</description>
+    </item>
+    
+    <item>
+      <title>4.2 Gearing - PvE</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/pve-gearing/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/pve-gearing/</guid>
+      <description>Gear   You get the basic blue Azart gear to start with when you make your character.
+  You can get accessory crystals from vanguards credits, like in the original version.   For Dark Light &amp;amp; Annihilation gear you should do dungeons such as Red Refuge &amp;amp; RK9, there you will get gear boxes (The gear options always random)
+  Best you can get: 4x random roll on weapon (In addition to have double CRD) Except healers, their max rolls are 3x   How to get Kaia / Mythic Gear Mythic gear, also referred to as Kaia gear, is an available upgrade for gold Exodor gear.</description>
+    </item>
+    
+    <item>
+      <title>Class Crit Factors</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/class-crit-cap/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/class-crit-cap/</guid>
+      <description>A crit cap or crit-factor cap is the point at which having any more crit factor is a detriment to your DPS potential.
+What Factors Influence the Crit Cap?  Boss Level versus Your Level  The difference between the target and your level will adjust how much crit factor is needed for your skills to crit.
+It might be an impact on how much crit resist the boss has but the important part is the higher you are relative to the target, the lower amount of crit factor you need.</description>
     </item>
     
   </channel>

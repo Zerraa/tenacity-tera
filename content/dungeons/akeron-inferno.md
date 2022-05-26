@@ -17,7 +17,7 @@ images:
 
 <div id="first-boss">
 
-![]()
+![](https://i.imgur.com/bMSoWlW.png)
 <h3>First Boss: Darumag</h3>
 
 <center><h3>Basic attacks</h3></center>
@@ -42,7 +42,7 @@ images:
 
 <div id="second-boss">
 
-![]()
+![](https://i.imgur.com/wl0vMV8.png)
 <h3>Second Boss: Magnarox</h3>
 <center><h3>Key Mechanics</h3></center>
 
@@ -75,7 +75,7 @@ images:
 
 <div id="third-boss">
 
-![]()
+![](https://i.imgur.com/GuveE8d.png)
 <h3>Third Boss: Sammar-Sammal</h3>
 
 This boss is usually kept in the middle, due to AoE’s around it.
