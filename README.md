@@ -6,7 +6,9 @@
 ![https://github.com/Zera-dev/tenacity-tera.github.io](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 ![https://zera-dev.github.io/tenacity-tera.github.io/](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 ![https://github.com/Zera-dev/tenacity-tera.github.io/issues?q=is%3Aopen+is%3Aissue](https://img.shields.io/github/issues/Zera-dev/tenacity-tera.github.io.svg)
-![https://github.com/Zera-dev/tenacity-tera.github.io/](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![https://github.com/Zera-dev/tenacity-tera.github.io/](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![https://github.com/Zera-dev/tenacity-tera.github.io/](https://komarev.com/ghpvc/?username=Zera-dev&color=green)
+![https://github.com/Zera-dev/tenacity-tera.github.io/](https://img.shields.io/github/license/Zera-dev/tenacity-tera.github.io.svg)
 ----
 #  Tenacity
 <p>Repository for personal TERA website<br>
