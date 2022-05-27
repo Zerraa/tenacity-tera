@@ -350,6 +350,17 @@ Special attacksThere is a mechanic at 75%, 50% and 25% where walls will spawn M
     </item>
     
     <item>
+      <title>Draakon Arena</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/dungeons/draakon-arena/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/dungeons/draakon-arena/</guid>
+      <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
+Boss: KalligarA lot of attacks give a bleed debuff, this is cleansable.
+ In Normal Mode this is a 10% per second bleed In Hard Mode it’s 20% per second and per Stack.   All of the following are only in Hard Mode: If Kalligar hits anyone with an attack, he will gain an defense buff which gives him</description>
+    </item>
+    
+    <item>
       <title>Dreamstorm</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/activity/dreamstorm/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
