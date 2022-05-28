@@ -22,7 +22,8 @@
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/activity/companions/</guid>
-      <description></description>
+      <description>In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI.
+ Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage. Pets also have Skills and their description is of the following :     Ability Description     Auto-Caring Uses a pet food or present when your pet&amp;rsquo;s Energy / Stamina drops below the percentage indicated.</description>
     </item>
     
     <item>
@@ -43,7 +44,8 @@ As with the previous version of the Nexus, these events take place at specific t
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/activity/field-bosses/</guid>
-      <description></description>
+      <description>Field Boss Monsters are large monsters in open world. These bosses won&amp;rsquo;t display their remaining or maximum HP. Currently there are 3 Field Boss Monsters - Ortan, Hazard, and Cerrus - all three spawn on Arborea.
+Lag Issues Similar to Nexus or Dreamstorm, large number of players concentrated in a small area exposed the 32bit client&amp;rsquo;s inability to handle the overload of network packets and graphically rendering actions of over a hundred players, leading to client freezing until the surge of information decreased or disconnecting from the server.</description>
     </item>
     
     <item>
@@ -52,7 +54,9 @@ As with the previous version of the Nexus, these events take place at specific t
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/activity/fishing/</guid>
-      <description></description>
+      <description>Fishing is a casual open world activity. In order to catch fish, Bait and Fishing Rod are necessary. Both can be purchased with Gold from a [Fishing Supplies] merchant, and higher grade Fishing Rods and Baits can be exchanged with Angler Tokens from an [Angler Token Vendor].
+[Fishing Supplies] merchant and [Angler Token Vendor] are located at fisheries and major cities.
+Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Kirash Filet (Exodor Fish) which can be used as Cooking materials.</description>
     </item>
     
     <item>

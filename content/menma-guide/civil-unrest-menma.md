@@ -12,6 +12,8 @@ Look [HERE](../activity/civil-unrest.md) if youre looking for a broader overview
 
 </center>
 
+- **Server operates in UTC timezone. Please keep it in mind and act accordingly.**
+
 <hr/>
 
 Main difference you will notice is that map is different. As of **p1.0.7** Civil Unrest is being held on destroyed Island of Dawn.

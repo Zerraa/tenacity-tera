@@ -4,6 +4,8 @@ date: 2022-05-03
 description: Rally Quest is a once-per-daily Guild Quest associated with Rally boss monsters that spawn throughout Arborea. Players can group up together in a Party or a Raid to defeat Rally monsters to receive rewards based on group-based contribution.         
 ---
 
+- **Server operates in UTC timezone. Please keep it in mind and act accordingly.**
+
 All Guilds can accept **[Rally] Guild Quest** as long as weekly Valderon Token limit has not been reached. <br>
 Rally Quest can be completed regardless of the amount of contribution as long as a Guild Member has contributed.
 
