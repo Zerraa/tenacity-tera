@@ -22,7 +22,7 @@ Rally Quest can be completed regardless of the amount of contribution as long as
 | Rank 1   | Rank 1 Reward Box       | 5 milion Bellicarium Reputation<br>2.000 Tikat |
 | Rank 2   | Rank 2 Reward Box       | 1 milion Bellicarium Reputation<br>1.600 Tikat |
 | Rank 3   | Rank 3 Reward Box       | ? Bellicarium Reputation<br>1.400 Tikat        |
-| Rank 4   | Rank 4 Reward Box       | ? Bellicarium Reputation<br>800 Tikat          |
+| Rank 4   | Rank 4 Reward Box       | 400k Bellicarium Reputation<br>800 Tikat       |
 | Rank 4   | Rank 5 Reward Box       | ? Bellicarium Reputation<br>400 Tikat          |
 
 - Rewards are distributed based on group-based contribution.
