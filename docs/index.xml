@@ -585,17 +585,6 @@ City Merchant and Wandering Merchants spawn mechanism varies by region and regio
     </item>
     
     <item>
-      <title>Mystery Merchants</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/activity/test-mm/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/activity/test-mm/</guid>
-      <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin.
-There are two different types of merchants: City Merchant and Wandering Merchant.
-City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.</description>
-    </item>
-    
-    <item>
       <title>Mystic</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/class/mystic/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>

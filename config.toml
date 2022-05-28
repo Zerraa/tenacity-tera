@@ -65,7 +65,7 @@ googleAnalytics = "G-JCGLY16DT0"
   weight = 1
 [[menu.social]]
   name = 'RSS'
-  url = '/activity/index.xml'
+  url = ''
   weight = 2
 
 # syntax highlight settings
