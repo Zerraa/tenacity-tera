@@ -229,6 +229,17 @@ First Boss: VentaronKey MechanicsThreat level rising! Initiating destruction! 
     </item>
     
     <item>
+      <title>Ruinous Manor (Hard)</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/dungeons/ruinous-manor-hard/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/dungeons/ruinous-manor-hard/</guid>
+      <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
+First Boss: AtrocitasKey MechanicsRed/Blue Explosion - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
+ In hard mode only this will deal 35,000Hp direct damage to all players.  You can look at the boss to see what color it is or see the color of its debuff which is below the life bar.</description>
+    </item>
+    
+    <item>
       <title>Sea of Honor</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/dungeons/sea-of-honor/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
