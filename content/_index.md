@@ -3,16 +3,18 @@ title: Homepage
 description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
 ---
 ![](https://i.imgur.com/y1Ii9IP.png)
-## Hello! 👋
+<center> <h2> Hello! 👋 </h2> </center>
 
 <hr/>
 
-`Glad you made it here!` <br>
 `Im Zeratu, but you will mostly see me on character named Hostility on Menma’s Tera.` <br>
-`Its been time for some visual and functional update am I right? ` 
- 
-You can find many of the previous posts here, together with many new ones with hopefully smoother performence than before. <br>
+You can find many of the previous website posts here, together with many new ones with hopefully smoother performence than before. <br>
+<hr/>
+<center> <h2>Language Selection</h2> </center>
 
+| [Swap to Russian]() | [Swap to Korean]() |
+
+Language selection is **temporarily disabled** as pages are not currently translated. Thank you for undestanding 💖
 - Articles are still **work in progress** , several pages are still empty. Most of the focus was aimed towards → [DUNGEONS](dungeons/) ⭠ 
 <hr/>
 
