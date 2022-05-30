@@ -113,7 +113,8 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/activity/mystery-merchant/</guid>
       <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin.
 There are two different types of merchants: City Merchant and Wandering Merchant.
-City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.</description>
+City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.
+| Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
     </item>
     
     <item>
