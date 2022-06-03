@@ -12,7 +12,7 @@ You can find many of the previous website posts here, together with many new one
 <hr/>
 <center> <h2>Language Selection</h2> </center>
 
-| [Swap to Russian]() | [Swap to Korean]() |
+| [English]() | [Français]() | [Deutscher]() | [Español]() | [Русский]() | [한국인]() |
 
 Language selection is **temporarily disabled** as pages are not currently translated. Thank you for undestanding 💖
 - Articles are still **work in progress** , several pages are still empty. Most of the focus was aimed towards → [DUNGEONS](dungeons/) ⭠ 
