@@ -4,7 +4,7 @@ date: 2022-05-04
 description: Iron Battleground [Battleground]        
 ---
 
-![](https://i.imgur.com/0pz41JD.png)
+![](https://i.imgur.com/mIyfZX0.png)
 
 A new 8v8 battleground where you use cannons to shoot down your enemy! 
 
@@ -16,7 +16,7 @@ A new 8v8 battleground where you use cannons to shoot down your enemy!
 
 Matches are best-of-three affairs: the first team to win two rounds claims victory.
 
-![]()
+![](https://i.imgur.com/CDHd4P4.png)
 
 <hr/>
 

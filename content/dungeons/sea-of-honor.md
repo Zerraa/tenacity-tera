@@ -24,6 +24,8 @@ Sea of Honor is a 65 level 5-man dungeon.
 
 <div id="first-boss">
 
+![](https://i.imgur.com/yPShIXu.png)
+
 <h3>Boss: Ironfang Dixie</h3>
 <center><h3>Key Mechanics</h3></center>
 

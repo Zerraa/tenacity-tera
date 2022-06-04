@@ -28,11 +28,3 @@ Each round lasts a maximum of 5 minutes. If neither boss has been defeated after
 If both bosses have the same HP, then the round is drawn.
 
 ![](https://i.imgur.com/02Tl23k.png)
-
-<hr/>
-
-
-
-
-
-<hr/>

@@ -113,8 +113,16 @@ Will notify your group that a barrier is surrounding the pool in the center of t
 
 **Looping** - The boss will suck up any nearby players, bringing them underneath it and then slam on top of them dealing damage. 
 * You can iframe both the pull and slam.
-  * **Crossed Waves** - During the fight, the pool will overflow. The room will split into danger and safe zones. If hit, you will be flung to the edge of the map and receive flat damage.
+
+<center><video controls>
+  <source src="https://i.imgur.com/L8Z2Df7.mp4" type="video/mp4">
+</video></center>
+
+**Crossed Waves** - During the fight, the pool will overflow. The room will split into danger and safe zones. 
+* If hit, you will be flung to the edge of the map and receive flat damage.
   * Danger zones are highlighted with a purple, watery effect.
+
+![](https://i.imgur.com/0dXNeE1.png)
 
 </div>
 <hr/>
@@ -138,8 +146,14 @@ Will notify your group that a barrier is surrounding the pool in the center of t
   * The pushback cannot be iframed and it will apply a cleanseable debuff that will damage players for a percentage of their maximum health per second. 
   * The party should gather up so they all face the same wall so the healer can cleanse the party easier.
 
+<center><video controls>
+  <source src="https://i.imgur.com/TU4DnwF.mp4" type="video/mp4">
+</video></center>
+
 **Fulmisphere** - The boss will summon spheres, which he throws at players. There will be 3 of them, they do not do a lot of damage, so you can stack them to avoid having them all over the map.
 * However if you feel they become a pain, you can kill them. They begin to do regular attacks when the message **“These might sting a bit“** pops up.
+
+![](https://i.imgur.com/ia9hEFQ.png)
 
 **Lightning Shield** - Fulminar will get a blue aura, start walking towards the person with primary aggro, and then swipe his blade dealing massive damage. You’ll then receive the message: 
 
@@ -171,6 +185,10 @@ And the boss will disappear to summon its clones from the corners of the room.
 * They transform and move in a straight-line shown with a red line. **Avoid the lines as this is a 1-shot mechanic.**
   * Every Buzz Mode occurrence will have its own pattern and the last two cutters will leave DOT lines dealing damage rapidly.
   
+<center><video controls>
+  <source src="https://i.imgur.com/HwT0Nii.mp4" type="video/mp4">
+</video></center>
+
 **Massive Chainsaw** - The boss slams the ground with his razor, causing an AoE zone. Players who are on the outer edge of this zone will be drawn towards the center; those who were impacted receive the debuff Electric Nimbus. 
 * This debuff creates an AoE circle around you (which grows) damaging your teammates if they step inside. 
   * Cannot be cleansed.

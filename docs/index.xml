@@ -179,6 +179,15 @@ The spawn times noted are a general time of what has been seen in the past. For 
     </item>
     
     <item>
+      <title>2.3 5000 World Boss Kills</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/achievements/5k-world-boss-achievement/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/achievements/5k-world-boss-achievement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3. Introduction to basics</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/menma-guide/introduction/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -1076,7 +1085,9 @@ At the start of the round, each player starts off as a Baby Kumas. Once the roun
       <pubDate>Mon, 04 May 2020 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/battlegrounds/kumasylum/</guid>
-      <description></description>
+      <description>A 10 v 3 battleground where the team of 10 Federation players is attempting to steal the Kuma&amp;rsquo;s Candy. There are 3 candies in total, and whoever has the most candy at the end will win.
+The game will end if the Federation team manages to secure all 3. Older players may refer to Candy as Diamonds. Same thing.
+Kuma Team This is the easiest team to win as. Your objective is to prevent the Federation team from successfully stealing 2 or more candies.</description>
     </item>
     
   </channel>
