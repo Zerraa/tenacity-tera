@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on Tenacity</title>
+    <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/</link>
+    <description>Recent content in Activities on Tenacity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Civil Unrest</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/civil-unrest/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/civil-unrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Companions</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/companions/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/companions/</guid>
+      <description>In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI.
+ Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage. Pets also have Skills and their description is of the following :     Ability Description     Auto-Caring Uses a pet food or present when your pet&amp;rsquo;s Energy / Stamina drops below the percentage indicated.</description>
+    </item>
+    
+    <item>
+      <title>Dreamstorm</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/dreamstorm/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/dreamstorm/</guid>
+      <description>During Dreamstorm large number of archdevans spawn to attack Bakara scientists&amp;rsquo; Oneiric Generators.
+Event lasts 10 minutes during which increasingly powerful enemies will spawn. Players win and get rewarded if central generator lasts whole event.
+As with the previous version of the Nexus, these events take place at specific times each day.
+TIME SCHEDULE    DAY/TIME 14:00 15:00 16:00 17:00 18:00 19:00 20:00 21:00 22:00     MONDAY - - - - 🗸 🗸 🗸 🗸 🗸   TUESDAY - - - - 🗸 🗸 🗸 🗸 🗸   WEDNESDAY - - - - 🗸 🗸 🗸 🗸 🗸   THURSDAY - - - - 🗸 🗸 🗸 🗸 🗸   FRIDAY - - - - 🗸 🗸 🗸 🗸 🗸   SATURDAY 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸   SUNDAY 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸    The event is announced thirty minutes before the first monsters are summoned (e.</description>
+    </item>
+    
+    <item>
+      <title>Field Bosses</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/field-bosses/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/field-bosses/</guid>
+      <description>Field Boss Monsters are large monsters in open world. These bosses won&amp;rsquo;t display their remaining or maximum HP. Currently there are 3 Field Boss Monsters - Ortan, Hazard, and Cerrus - all three spawn on Arborea.
+Lag Issues Similar to Nexus or Dreamstorm, large number of players concentrated in a small area exposed the 32bit client&amp;rsquo;s inability to handle the overload of network packets and graphically rendering actions of over a hundred players, leading to client freezing until the surge of information decreased or disconnecting from the server.</description>
+    </item>
+    
+    <item>
+      <title>Fishing</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/fishing/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/fishing/</guid>
+      <description>Fishing is a casual open world activity. In order to catch fish, Bait and Fishing Rod are necessary. Both can be purchased with Gold from a [Fishing Supplies] merchant, and higher grade Fishing Rods and Baits can be exchanged with Angler Tokens from an [Angler Token Vendor].
+[Fishing Supplies] merchant and [Angler Token Vendor] are located at fisheries and major cities.
+Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Kirash Filet (Exodor Fish) which can be used as Cooking materials.</description>
+    </item>
+    
+    <item>
+      <title>Gathering Resources</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/gathering-resources/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/gathering-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guardian Missions</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/guardian-missions/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/guardian-missions/</guid>
+      <description>The Guardian Missions are special types of missions that appear in the open world for a limited period of time.
+ You can participate in this content after achieving level 65.  There are a total of six types of guardian missions, such as BAM fighting, Wagon escort, mini-games or flying.</description>
+    </item>
+    
+    <item>
+      <title>Island of Dawn</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/island-of-dawn/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/island-of-dawn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaderboard</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/leaderboard/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/leaderboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loot maps</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</guid>
+      <description>Naslow maps are a random drop from dungeons that allow you and up to a party of five people to go to a location and get some loot. The maps have a duration of 3 hours from the time of their pickup so you should keep an eye on your inventory for maps. They cannot be traded but they can be stored in a guild bank and other people with guild bank access can take them out.</description>
+    </item>
+    
+    <item>
+      <title>Mystery Merchants</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/mystery-merchant/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/mystery-merchant/</guid>
+      <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin.
+There are two different types of merchants: City Merchant and Wandering Merchant.
+City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.
+| Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
+    </item>
+    
+    <item>
+      <title>Rally Quest</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/rally-quest/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/rally-quest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reputation</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/reputation/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/reputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tera Lore</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/game-lore/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/game-lore/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

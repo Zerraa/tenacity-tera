@@ -2,6 +2,7 @@ baseURL = "https://zera-dev.github.io/tenacity-tera.github.io/"
 languageCode = "en-us"
 timeZone = "Europe/Prague"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 title = "Tenacity"
 theme = "digital-garden"
 publishDir = "docs"
@@ -12,61 +13,6 @@ googleAnalytics = "G-JCGLY16DT0"
   description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
   images = ['https://i.imgur.com/y1Ii9IP.png']
 
-[menu]
-[[menu.main]]
-  name = 'Home'
-  url = '/'
-  weight = 1
-[[menu.main]]
-  name = 'General'
-  url = '/articles/'
-  weight = 2  
-[[menu.main]]
-  name = 'Classes'
-  url = '/class/'
-  weight = 3  
-[[menu.main]]
-  name = 'Activities'
-  url = '/activity/'
-  weight = 4    
-[[menu.main]]
-  name = 'Dungeons'
-  url = '/dungeons/'
-  weight = 5
-[[menu.main]]
-  name = 'Battlegrounds'
-  url = '/battlegrounds/'
-  weight = 6
-[[menu.main]]
-  name = 'Achievements'
-  url = '/achievements/'
-  weight = 7
-  
-[[menu.main]]
-  name = ''
-  weight = 9
-
-[[menu.main]]
-  name = 'Patch Notes'
-  url = '/patch-note/'
-  weight = 10   
-[[menu.main]]
-  name = 'Menma’s Tera - Guide'
-  url = '/menma-guide/'
-  weight = 12
-[[menu.main]]
-  name = 'Menma’s Discord'
-  url = 'https://discord.gg/menmastera'
-  weight = 13
-
-[[menu.social]]
-  name = 'GitHub'
-  url = 'https://github.com'
-  weight = 1
-[[menu.social]]
-  name = 'RSS'
-  url = ''
-  weight = 2
 
 # syntax highlight settings
 [markup]
@@ -75,4 +21,333 @@ googleAnalytics = "G-JCGLY16DT0"
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
-         
+
+[Languages]
+[Languages.en]
+	title = "Tenacity"
+	name = "Tenacity"
+	description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
+  contentDir = "/content/en"
+	weight = 0
+[[Languages.en.menu.main]]
+	url    = "/en/"
+	name   = "Home"
+	weight = 1
+[[Languages.en.menu.main]]
+  name = 'General'
+  url = '/en/articles/'
+  weight = 2  
+[[Languages.en.menu.main]]
+  name = 'Classes'
+  url = '/en/class/'
+  weight = 3  
+[[Languages.en.menu.main]]
+  name = 'Activities'
+  url = '/en/activity/'
+  weight = 4    
+[[Languages.en.menu.main]]
+  name = 'Dungeons'
+  url = '/en/dungeons/'
+  weight = 5
+[[Languages.en.menu.main]]
+  name = 'Battlegrounds'
+  url = '/en/battlegrounds/'
+  weight = 6
+[[Languages.en.menu.main]]
+  name = 'Achievements'
+  url = '/en/achievements/'
+  weight = 7
+
+[[Languages.en.menu.main]]
+  name = ''
+  weight = 9
+
+[[Languages.en.menu.main]]
+  name = 'Patch Notes'
+  url = '/en/patch-note'
+  weight = 10   
+[[Languages.en.menu.main]]
+  name = 'Menma’s Tera - Guide'
+  url = '/en/menma-guide'
+  weight = 12
+[[Languages.en.menu.main]]
+  name = 'Menma’s Discord'
+  url = 'https://discord.gg/menmastera'
+  weight = 13
+
+[[Languages.en.menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com'
+  weight = 1
+[[Languages.en.menu.social]]
+  name = 'RSS'
+  url = '/en/articles/index.xml'
+  weight = 2
+
+
+
+
+
+[Languages.fr]
+	title = "Ténacité"
+	name = "Ténacité"
+  description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
+  contentDir = "/content/fr/"
+	weight = 0
+[[Languages.fr.menu.main]]
+	url    = "/fr/"
+	name   = "Accueil"
+	weight = 1
+[[Languages.fr.menu.main]]
+  name = 'Général'
+  url = '/fr/articles/'
+  weight = 2  
+[[Languages.fr.menu.main]]
+  name = 'Classes'
+  url = '/fr/class/'
+  weight = 3  
+[[Languages.fr.menu.main]]
+  name = 'Activités'
+  url = '/fr/activity/'
+  weight = 4    
+[[Languages.fr.menu.main]]
+  name = 'Donjons'
+  url = '/fr/dungeons/'
+  weight = 5
+[[Languages.fr.menu.main]]
+  name = 'Champs de bataille'
+  url = '/fr/battlegrounds/'
+  weight = 6
+[[Languages.fr.menu.main]]
+  name = 'Exploits'
+  url = '/fr/achievements/'
+  weight = 7
+
+[[Languages.fr.menu.main]]
+  name = ''
+  weight = 9
+
+[[Languages.fr.menu.main]]
+  name = 'Notes de mises à jours'
+  url = '/fr/patch-note/'
+  weight = 10   
+[[Languages.fr.menu.main]]
+  name = 'Menma’s Tera - Guide'
+  url = '/fr/menma-guide/'
+  weight = 12
+[[Languages.fr.menu.main]]
+  name = 'Discord de Menma'
+  url = 'https://discord.gg/menmastera'
+  weight = 13
+
+[[Languages.fr.menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com'
+  weight = 1
+[[Languages.fr.menu.social]]
+  name = 'RSS'
+  url = '/fr/articles/index.xml'
+  weight = 2
+
+
+
+
+
+[Languages.es]
+	title = "Tenacidad"
+	name = "Tenacidad"
+  description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
+  contentDir = "/content/es/"
+	weight = 0
+[[Languages.es.menu.main]]
+	url    = "/es/"
+	name   = "Inicio"
+	weight = 1
+[[Languages.es.menu.main]]
+  name = 'General'
+  url = '/es/articles/'
+  weight = 2  
+[[Languages.es.menu.main]]
+  name = 'Classes'
+  url = '/es/class/'
+  weight = 3  
+[[Languages.es.menu.main]]
+  name = 'Actividades '
+  url = '/es/activity/'
+  weight = 4    
+[[Languages.es.menu.main]]
+  name = 'Dungeons'
+  url = '/es/dungeons/'
+  weight = 5
+[[Languages.es.menu.main]]
+  name = 'Battlegrounds'
+  url = '/es/battlegrounds/'
+  weight = 6
+[[Languages.es.menu.main]]
+  name = 'Achievements'
+  url = '/es/achievements/'
+  weight = 7
+
+[[Languages.es.menu.main]]
+  name = ''
+  weight = 9
+
+[[Languages.es.menu.main]]
+  name = 'Notas de Parche'
+  url = '/es/patch-note/'
+  weight = 10   
+[[Languages.es.menu.main]]
+  name = 'Menma’s Tera Guías'
+  url = '/es/menma-guide/'
+  weight = 12
+[[Languages.es.menu.main]]
+  name = 'Menma’s Discord '
+  url = 'https://discord.gg/menmastera'
+  weight = 13
+
+[[Languages.es.menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com'
+  weight = 1
+[[Languages.es.menu.social]]
+  name = 'RSS'
+  url = '/es/articles/index.xml'
+  weight = 2
+
+
+
+
+
+
+[Languages.ru]
+	title = "Tenacity"
+	name = "Tenacity"
+  description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
+  contentDir = "content/ru/"
+	weight = 1
+[[Languages.ru.menu.main]]
+	url    = "/ru/"
+	name   = "Домашняя страница"
+	weight = 1
+[[Languages.ru.menu.main]]
+  name = 'Общая информация'
+  url = '/ru/articles/'
+  weight = 2  
+[[Languages.ru.menu.main]]
+  name = 'Классы'
+  url = '/ru/class/'
+  weight = 3  
+[[Languages.ru.menu.main]]
+  name = 'Виды занятий'
+  url = '/ru/activity/'
+  weight = 4    
+[[Languages.ru.menu.main]]
+  name = 'Подземелья'
+  url = '/ru/dungeons/'
+  weight = 5
+[[Languages.ru.menu.main]]
+  name = 'Арены'
+  url = '/ru/battlegrounds/'
+  weight = 6
+[[Languages.ru.menu.main]]
+  name = 'Достижения'
+  url = '/ru/achievements/'
+  weight = 7
+
+[[Languages.ru.menu.main]]
+  name = ''
+  weight = 9
+
+[[Languages.ru.menu.main]]
+  name = 'Список изменений обновления'
+  url = '/ru/patch-note/'
+  weight = 10   
+[[Languages.ru.menu.main]]
+  name = 'Menma’s Tera Гайд'
+  url = '/ru/menma-guide/'
+  weight = 12
+[[Languages.ru.menu.main]]
+  name = 'Menma’s Дискорд'
+  url = 'https://discord.gg/menmastera'
+  weight = 13  
+
+
+
+[[Languages.ru.menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com'
+  weight = 1
+[[Languages.ru.menu.social]]
+  name = 'RSS'
+  url = '/ru/articles/index.xml'
+  weight = 2  
+
+
+
+
+
+
+  [Languages.ko]
+	title = "Tenacity"
+	name = "Tenacity"
+  description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
+  contentDir = "content/ko/"
+	weight = 1
+[[Languages.ko.menu.main]]
+	url    = "/ko/"
+	name   = "홈페이지"
+	weight = 1
+[[Languages.ko.menu.main]]
+  name = '기사'
+  url = '/ko/articles/'
+  weight = 2  
+[[Languages.ko.menu.main]]
+  name = '클래스'
+  url = '/ko/class/'
+  weight = 3  
+[[Languages.ko.menu.main]]
+  name = '활동'
+  url = '/ko/activity/'
+  weight = 4    
+[[Languages.ko.menu.main]]
+  name = '던전'
+  url = '/ko/dungeons/'
+  weight = 5
+[[Languages.ko.menu.main]]
+  name = '전장'
+  url = '/ko/battlegrounds/'
+  weight = 6
+[[Languages.ko.menu.main]]
+  name = '업적'
+  url = '/ko/achievements/'
+  weight = 7
+
+[[Languages.ko.menu.main]]
+  name = ''
+  weight = 9
+
+[[Languages.ko.menu.main]]
+  name = '업데이트 안내'
+  url = '/ko/patch-note/'
+  weight = 10   
+[[Languages.ko.menu.main]]
+  name = 'Menma’s Tera - 안내'
+  url = '/ko/menma-guide/'
+  weight = 12
+[[Languages.ko.menu.main]]
+  name = 'Menma’s Discord'
+  url = 'https://discord.gg/menmastera'
+  weight = 13  
+
+
+
+[[Languages.ko.menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com'
+  weight = 1
+[[Languages.ko.menu.social]]
+  name = 'RSS'
+  url = '/ko/articles/index.xml'
+  weight = 2  
+
+
