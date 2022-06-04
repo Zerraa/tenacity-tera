@@ -27,7 +27,7 @@ googleAnalytics = "G-JCGLY16DT0"
 	title = "Tenacity"
 	name = "Tenacity"
 	description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
-  contentDir = "/content/en"
+  contentDir = "/content/en/"
 	weight = 0
 [[Languages.en.menu.main]]
 	url    = "/en/"
