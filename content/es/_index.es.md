@@ -12,7 +12,4 @@ description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | B
 | [English](../en/) | [Français](../fr/) | [Español](../es/) | [Русский](../ru/) | [한국인](../ko/) |
 
 Language selection is **temporarily disabled** as pages are not currently translated. Thank you for undestanding 💖
-- Articles are still **work in progress** , several pages are still empty. Most of the focus was aimed towards → [DUNGEONS](dungeons/) ⭠ 
-
- 
-     
+- Articles are still **work in progress** , several pages are still empty.

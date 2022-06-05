@@ -18,7 +18,6 @@ description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | B
 문제가 발견되면 Discord의 Melichar#0001에 보고하십시오.<br>
 아니면 내 github에 신고해도 돼 [HERE](https://github.com/Zera-dev/tenacity-tera.github.io).
 
-<hr/>
 
  
      

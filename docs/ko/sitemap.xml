@@ -282,6 +282,47 @@
                 href="https://zera-dev.github.io/tenacity-tera.github.io/ko/menma-guide/pvp-gearing/"
                 />
   </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/dungeons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/es/dungeons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/velik-sanctuary-hard/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/velik-sanctuary-hard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/velik-sanctuary-hard/"
+                />
+  </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/ko/menma-guide/guild-vs-guild/</loc>
     <lastmod>2022-05-03T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -780,33 +821,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/ko/articles/"
-                />
-  </url><url>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/dungeons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/es/dungeons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/"
                 />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/ko/achievements/</loc>

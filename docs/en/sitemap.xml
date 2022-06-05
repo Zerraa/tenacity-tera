@@ -525,13 +525,13 @@
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/dungeons/"
+                hreflang="ko"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/"
+                hreflang="ru"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/dungeons/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -683,6 +683,16 @@
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/velik-sanctuary-hard/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/dungeons/velik-sanctuary-hard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/velik-sanctuary-hard/"
+                />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/velik-hold-hard/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
