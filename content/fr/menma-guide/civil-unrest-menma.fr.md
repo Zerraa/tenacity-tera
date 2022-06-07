@@ -48,4 +48,4 @@ Si vous et votre guilde vous parvenez à en vaincre un, **Votre groupe sera réc
 
 **Kaithan, Le roi des Crabes**
 - Kaithan apparaît après 90 minutes de combat.
-- Le Roi des Crabes donne un buff qui augmente la vitesse d'attaque et le facteur de coups criti 
+- Le Roi des Crabes donne un buff qui augmente la vitesse d'attaque et le facteur de coups critique de 20%
