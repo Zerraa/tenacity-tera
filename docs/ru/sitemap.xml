@@ -39,13 +39,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,6 +67,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/patch-note/"
                 />
@@ -74,11 +79,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/patch-note/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/"
                 />
     <xhtml:link
                 rel="alternate"

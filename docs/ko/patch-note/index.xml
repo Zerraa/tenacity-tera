@@ -6,7 +6,16 @@
     <description>Recent content in 업데이트 안내 Menma&#39;s TERA on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.0.9</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/2022-06-10-p1.0.9/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/2022-06-10-p1.0.9/</guid>
+      <description>길드 변경  길드 퀘스트에서 길드 XP 보상을 10배 증가시킵니다. 각 길드 레벨에 필요한 길드 XP의 양이 20% 감소합니다. 발데론 토큰의 최대 양이 900개에서 1500개로 증가했습니다.  기타  페트락스 리더보드의 비활성화된 피트입니다. 엘레온의 5개 마크에 강력 카네포라 물약 을 엘엘리온의 증표 에 추가했습니다. 엘리온의 증표 에 호박 파이 모든 개방된 세계 지역의 채널 증가. 마나야의 핵심(솔로)이 추가되었습니다. 아르곤 멜디티아/샨드라 마나이아 의 핵심 텔레포탈을 통해 액세스할 수 있습니다. 천체 경기장이 활성화되었습니다.</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.0.8</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/2022-06-02-p1.0.8/</link>
