@@ -5,10 +5,10 @@ description: TERA Guide for Akeron's Inferno
 images:
 - https://i.imgur.com/js8HC1T.png
 ---
- | **Niveau requis:** 70
-<br> | **Groupe:** 5-personnes
+ | **Niveau requis :** 70
+<br> | **Groupe :** 5-personnes
 <br>
-<br> | **Liens rapides:**
+<br> | **Liens rapides :**
 | [Premier boss](#first-boss) 
 | [Second boss](#second-boss) 
 | [Troisième boss](#third-boss) 
@@ -25,12 +25,12 @@ images:
 **Griffe** - Darumag will attack frequently uses his claws. Claw attacks can be frontal, or to the side. He can even swipe from above. 
 **Griffe** - Darumag  attaque fréquemment en utilisant ses griffes. Les attaques avec griffe peuvent être frontale, ou de côté. Il peut aussi bien attaquer d'au-dessus.
 * Tous les joueurs touchés reçoivent un malus de saignement.
-  * Darumag peut aussi **piétiner** (frapper le sol avec ses deux griffes) ou **sauter** (saute sur un joueur et lui cause des dégats). 
+  * Darumag peut aussi **piétiner** (frapper le sol avec ses deux griffes) ou **sauter** (saute sur un joueur et lui cause des dégâts). 
   * Ces deux attaques impliquent un malus de saignement.
 
 <center><h3>Attaques spéciales</h3></center>
 
-**Cri de Guerre** - Les yeux de Darumag vont briller d'une couleur rouge, et infliger des dégats mortels grâce à une onde de choc qui partira de son buste.
+**Cri de Guerre** - Les yeux de Darumag vont briller d'une couleur rouge et infliger des dégâts mortels grâce à une onde de choc qui partira de son buste.
 
 **Chanceler** - Darumag fera un pas en arrière avant de sauter en avant, tout en faisant tituber les joueurs qui se font toucher.
 * Les joueurs touchés recevront un malus de saignement.
@@ -58,20 +58,20 @@ Une équipe devra combattre le boss, tandis que l'autre devra protéger le **God
 
 ![](https://i.imgur.com/agKTL6z.png)
 
-* Vous pouvez régénérer les PV du Godbinder en tuant certains monstres (Prêtres et Guerriers) and restant au dessus de leurs corps sans vie. **Vous recevrez un buff, qui soignera l'épée quand vous la toucherez.**
+* Vous pouvez régénérer les PV du Godbinder en tuant certains monstres (Prêtres et Guerriers) and restant au-dessus de leurs corps sans vie. **Vous recevrez un buff, qui soignera l'épée quand vous la toucherez.**
 
 <center><h3>Attaques spéciales</h3></center>
 
-**Projectiles de lave** - Similaire aux autres tortues en fusions, ce boss peu cracher des jets de lave, des boules de feux, et des éruptions en face de lui.
+**Projectiles de lave** - Similaire aux autres tortues en fusions, ce boss peu cracher des jets de lave, des boules de feux et des éruptions en face de lui.
 * Faites attention, ça fait mal.
 
-**Claques et rotations** - Ce boss dispose aussi d'attaque physiques, ce qui inclue **Plat sauté** (Une attaque frontal sautée), **Glissement** (le boss **glisse sur le sol**, causant des dégats et créant des éruptions sur son passage), **Piétinement** (Similaire au glissement, il chargera le joueur pour essayer de l'écraser) et **Rotation** (le boss tourne sur lui même et infligera des dégats mortels à ceux qui sont proche).
+**Claques et rotations** - Ce boss dispose aussi d'attaque physique, ce qui inclue **Plat sauté** (Une attaque frontal sautée), **Glissement** (le boss **glisse sur le sol**, causant des dégâts et créant des éruptions sur son passage), **Piétinement** (Similaire au glissement, il chargera le joueur pour essayer de l'écraser) et **Rotation** (le boss tourne sur lui-même et infligera des dégâts mortels à ceux qui sont proche).
 
-**Anneau de lave** - Une dense fummée sortira des côtés du boss, c'est une indication pour sa prochaine attaque, signifiant qu'il va innonder de lave la zone autour de lui.
+**Anneau de lave** - Une dense fumée sortira des côtés du boss, c'est une indication pour sa prochaine attaque, signifiant qu'il va inonder de lave la zone autour de lui.
 * Courez !
 
 **Anneau de feu** - Magnarox va se mettre sur deux pattes, déployant un nuage de poussières, un anneau de feu va ensuite exploser autour de lui.
-* La poussière ainsi que le feu infligent des dégats.
+* La poussière ainsi que le feu infligent des dégâts.
 
 </div>
 <hr/>
@@ -81,13 +81,13 @@ Une équipe devra combattre le boss, tandis que l'autre devra protéger le **God
 ![](https://i.imgur.com/GuveE8d.png)
 <h3>Troisième Boss: Sammar-Sammal</h3>
 
-Ce boss doit rester au milieu, à cause des dégats de zone qu'il effectue autour de lui.
+Ce boss doit rester au milieu, à cause des dégâts de zone qu'il effectue autour de lui.
 
 <center><h3>Mécaniques clés</h3></center>
 
 **Surcharge d'énergie** - Durant le combat, de l'énergie va tomber au hasard.
 * **Il suffit d'éviter les zones rouges du télégraphe pour ne pas être touché.**
-* Si vous êtes touchés, vous prendrez un nombre fixe de dégat, ça ne devrait pas vous tuer, mais en prendre trop d'un coup sera punitif.
+* Si vous êtes touchés, vous prendrez un nombre fixe de dégât, ça ne devrait pas vous tuer, mais en prendre trop d'un coup sera punitif.
 
 <center><h3>Attaques basiques</h3></center>
 
@@ -96,12 +96,12 @@ Ce boss doit rester au milieu, à cause des dégats de zone qu'il effectue autou
 
 <center><h3>Attaques spéciales</h3></center>
 
-**Onde de choc** - Pendant le combat, Sammar va tourner son corps à la verticale (La moitié inférieur sera en haut), et indique que la prochaine attaque sera une onde ed choc.
+**Onde de choc** - Pendant le combat, Sammar va tourner son corps à la verticale (La moitié inférieure sera en haut), et indique que la prochaine attaque sera une onde ed choc.
 * La zone autour de Sammar sera secouée par des vagues d'énergies, faisant tituber votre personnage et plusieurs tics de dégats pour ceux qui se font avoir.
 
 **Energie inversée** - 30 secondes après que le combat ait commencé, Sommar va enrouler les serpents autour de lui, avant de les libérer ainsi qu'un voile d'énergie inversé.
-* Cela va causer une inversion des contrôls de votre personnage pour ceux qui sont touchés, pendant 10 secondes.
-* Ca ne peux pas être purifié, et est répété toutes les 45 secondes après l'attaque initiale.
+* Cela va causer une inversion des contrôles de votre personnage pour ceux qui sont touchés, pendant 10 secondes.
+* Ca ne peux pas être purifié et est répété toutes les 45 secondes après l'attaque initiale.
 
 </div>
 <hr/>
@@ -116,19 +116,19 @@ Il va tourner dans tous les sens, comme Fulminar, le boss de Bathysmal Rise, vou
 <center><h3>Mécaniques clés</h3></center>
 
 **Armure Fondue** - les bras de Duras vont **briller en orange** puis frappera. Les joueurs touchés recevront un malus.
-* **La statistique de défense des joueurs touchés (Le montant de bloquage absorbé) sera réduite.** Ce malus survient après le deuxième Piétinement.
-* Si un tank reçoit trois effets de Armure Fondue **Melted Armor en anglais**, bloquer des attaques drainera plus de Résolution.
+* **La statistique de défense des joueurs touchés (Le montant de blockage absorbé) sera réduite.** Ce malus survient après le deuxième Piétinement.
+* Si un tank reçoit trois effets d'Armure Fondue **Melted Armor en anglais**, bloquer des attaques drainera plus de Résolution.
 
 **Pyrovores** - Durant le combat, ces pyrovores vont spawn en étant annoncés par :
 
     “chopper la bonne phrase“
 
-* **Ils doivent être élimiés rapidement.**
-* S'ils atteignent les grilles, ils recevront un bonus de défense, les rendant plus dur à tuer. Ca deviendra aussi un problème pour la prochaine mécanique, car ces grilles seront nécessaires :
+* **Ils doivent être éliminés rapidement.**
+* S'ils atteignent les grilles, ils recevront un bonus de défense, les rendant plus dur à tuer. Ça deviendra aussi un problème pour la prochaine mécanique, car ces grilles seront nécessaires :
 
-**Déchainement de lave** - Quand Duras atteint: 80%, 60%, 40%, 20% de PV, il se dirigera au centre de la pièce et plongera dans le sol to libérer une vague de lave qui se répendra dans toute la zone. Ce sera annoncé par :
+**Déchainement de lave** - Quand Duras atteint : 80%, 60%, 40%, 20% de PV, il se dirigera au centre de la pièce et plongera dans le sol to libérer une vague de lave qui se répendra dans toute la zone. Ce sera annoncé par :
 
-     “Burn for me!“
+     “Brûlez pour moi !“
 
 * To survive this attack, you must make your way to one of the vents located on the outer edges. Standing on them will push you into the air, saving you from burning. 
 * **Be aware, there is a limit for the amount of players per vent (3).**
