@@ -6,7 +6,16 @@
     <description>Recent content in Patch Notes for Menma&#39;s TERA on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.0.9</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-10-p1.0.9/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-10-p1.0.9/</guid>
+      <description>Guild Changes  Increased Guild XP Rewards from Guild Quests by 10x. Decreased amount of Guild XP required for each Guild Level by 20%. Increased maximum amount of Valderon Tokens from 900 to 1500.  Miscellaneous  Disabled Pit of Petrax Leaderboards. Added Strong Canephora Potion to Elleon’s Mark of Valor for 5 Elleon’s Marks. Added Moongourd Pie to Eleon’s Mark of Valor for 10 Eleon’s Marks. Increased channels of all open world zones.</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.0.8</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-02-p1.0.8/</link>
