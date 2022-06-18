@@ -23,9 +23,9 @@ Guardian missions are divided into Basic/Rare/Superior types.
 
 ### Basic (green)
 - Flight missions
-  - a
 - Fight
-  - a
+  - Eyes wide open
+  - Supply Delivery
 ### Rare (blue)
 - Flight missions 
   - Search and Destroy
@@ -33,7 +33,6 @@ Guardian missions are divided into Basic/Rare/Superior types.
 - Fight missions
   - Shadow of the Gutrends
   - Escape from Balder's Refuge
-  -
 ### Superior (yellow)
 - Flight missions
   - None

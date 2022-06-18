@@ -595,15 +595,6 @@ The flame will swallow you whole!!! - This message appears at certain intervals 
     </item>
     
     <item>
-      <title>Loot maps</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</guid>
-      <description>Naslow maps are a random drop from dungeons that allow you and up to a party of five people to go to a location and get some loot. The maps have a duration of 3 hours from the time of their pickup so you should keep an eye on your inventory for maps. They cannot be traded but they can be stored in a guild bank and other people with guild bank access can take them out.</description>
-    </item>
-    
-    <item>
       <title>Manaya Core (Hard)</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/manaya-core-hard/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -644,6 +635,15 @@ City Merchant and Wandering Merchants spawn mechanism varies by region and regio
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/class/mystic/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Naslow Maps</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</guid>
+      <description>Naslow maps are a random drop from dungeons that allow you and up to a party of five people to go to a location and get some loot. The maps have a duration of 3 hours from the time of their pickup so you should keep an eye on your inventory for maps. They cannot be traded but they can be stored in a guild bank and other people with guild bank access can take them out.</description>
     </item>
     
     <item>

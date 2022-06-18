@@ -99,15 +99,6 @@ After opening the world map (M), you can check the Guardian Missions by clicking
     </item>
     
     <item>
-      <title>Loot maps</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</guid>
-      <description>Naslow maps are a random drop from dungeons that allow you and up to a party of five people to go to a location and get some loot. The maps have a duration of 3 hours from the time of their pickup so you should keep an eye on your inventory for maps. They cannot be traded but they can be stored in a guild bank and other people with guild bank access can take them out.</description>
-    </item>
-    
-    <item>
       <title>Mystery Merchants</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/mystery-merchant/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -117,6 +108,15 @@ After opening the world map (M), you can check the Guardian Missions by clicking
 There are two different types of merchants: City Merchant and Wandering Merchant.
 City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.
 | Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
+    </item>
+    
+    <item>
+      <title>Naslow Maps</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</guid>
+      <description>Naslow maps are a random drop from dungeons that allow you and up to a party of five people to go to a location and get some loot. The maps have a duration of 3 hours from the time of their pickup so you should keep an eye on your inventory for maps. They cannot be traded but they can be stored in a guild bank and other people with guild bank access can take them out.</description>
     </item>
     
     <item>
