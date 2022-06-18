@@ -6,7 +6,18 @@
     <description>Recent content in Homepage on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15/6/2022 Last Quest</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-15-last-quest-ktera/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-15-last-quest-ktera/</guid>
+      <description>If you access the Korean servers by 30th June, you can play Last Quest, created by the BHS as a final Goodbye before the live servers officially shut down.
+It was confirmed that Gameforge (EU,NA,SEA publisher) will NOT be releasing this questline themself. As of writing, they only released translated cutscene from last part of the series of quests.
+But honestly, their translated version is as cheap as it can get&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.0.9</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-10-p1.0.9/</link>
@@ -355,7 +366,8 @@ Special attacksThere is a mechanic at 75%, 50% and 25% where walls will spawn M
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/civil-unrest/</guid>
-      <description></description>
+      <description>Civil Unrest occasionally called Guild Wars is weekly PvP event which happens every Sunday.
+Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on pserver)original retail opened at 15:00 and started at 17:00 Before the start of Civil Unrest the Guild Master needs to buy a Guild Tower Blueprint from the [NPC: Amvya] in front of the Velika Federation Headquarters in Velika for Guild Coins. Guild Tower Blueprint can also be purchased from NPC in other major cities :  Allemantheia City with NPC: Jarkek Kaiator City with NPC: Frarang  To join the battle, players need to talk to [NPC: Brahem] who is a GvG Guide in Velika City - walk from the Ring teleport point forward and you will see him right on the right side near some bushes and a Skycastle model in front of him.</description>
     </item>
     
     <item>
@@ -510,7 +522,9 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/guardian-missions/</guid>
       <description>The Guardian Missions are special types of missions that appear in the open world for a limited period of time.
- You can participate in this content after achieving level 65.  There are a total of six types of guardian missions, such as BAM fighting, Wagon escort, mini-games or flying.</description>
+ You can participate in this content after achieving level 65.  There are a total of six types of guardian missions, such as BAM fighting, Wagon escort, mini-games or flying.
+How to participate in the mission You can participate in Guardian missions through the World Map (M).
+After opening the world map (M), you can check the Guardian Missions by clicking the Shield Icon in the upper left corner.</description>
     </item>
     
     <item>
@@ -582,15 +596,6 @@ The flame will swallow you whole!!! - This message appears at certain intervals 
     </item>
     
     <item>
-      <title>Loot maps</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</guid>
-      <description>Naslow maps are a random drop from dungeons that allow you and up to a party of five people to go to a location and get some loot. The maps have a duration of 3 hours from the time of their pickup so you should keep an eye on your inventory for maps. They cannot be traded but they can be stored in a guild bank and other people with guild bank access can take them out.</description>
-    </item>
-    
-    <item>
       <title>Manaya Core (Hard)</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/manaya-core-hard/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -631,6 +636,15 @@ City Merchant and Wandering Merchants spawn mechanism varies by region and regio
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/class/mystic/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Naslow Maps</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/</guid>
+      <description>Naslow maps are a random drop from dungeons that allow you and up to a party of five people to go to a location and get some loot. The maps have a duration of 3 hours from the time of their pickup so you should keep an eye on your inventory for maps. They cannot be traded but they can be stored in a guild bank and other people with guild bank access can take them out.</description>
     </item>
     
     <item>
