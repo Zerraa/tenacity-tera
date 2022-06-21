@@ -6,7 +6,8 @@ description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | B
 <center> <h2> Bonjour ! 👋 </h2> </center>
 
 <hr/>
-`Je suis Zeratu, mais vous me retrouverez le plus souvent sur mon personnage Hostility sur Menm'as Tera.` <br>
+
+`Je suis Zeratu, mais vous me retrouverez le plus souvent sur mon personnage Hostility sur Menma's Tera.` <br>
 Vous retrouverez plusieurs de mes anciens articles ici, ainsi que des nouveaux, en espérant que la performance soit meilleur qu'avant. <br>
 <hr/>
 <center> <h2>Sélection de langue</h2> </center>
