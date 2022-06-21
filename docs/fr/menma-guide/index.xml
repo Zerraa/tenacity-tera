@@ -6,7 +6,18 @@
     <description>Recent content in Menma’s Tera - Guide on Ténacité</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guerre de guilde sur Menma</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/civil-unrest-menma/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/civil-unrest-menma/</guid>
+      <description>Visitez ce lien ICI si vous voulez plus de détails.
+ Le serveur est à l&amp;rsquo;heure Française.  La principale différence avec la version officielle est la carte. Depuis le patch p1.0.7 la Guerre de Guilde se passe sur l&amp;rsquo;île de l&amp;rsquo;Aube détruite.
+ On peut aussi utiliser la potion de combat librement, ainsi que la multi potion appelée Menma&amp;rsquo;s multi-nostrum qui donne plusieurs effets en une fois (Potion de bravoure, potion de combat, buff de nourriture qui s&amp;rsquo;adapte à la classe jouée).</description>
+    </item>
+    
     <item>
       <title>1. Download</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/download/</link>
@@ -47,18 +58,6 @@ Torrent file can be found on Menma’s Discord https://discord.gg/menmastera
  Since pve gear have debuffs on it for pvp :
 (Reduced damage by 40% &amp;amp; Increased damage taken by 40%)    You will instantly receive 1.000 eternal tokens to buy all you need, you don&amp;rsquo;t need to buy them after.
  Through said tokens you can also buy special  Radiant Jewelery which is not useable in dungeons and maxed Relic/Halidom    Enchanting gear  Through Eternal tokens which you get at the start when you create your character or through Bellicardum reputation merchant you can buy +9 Enchantment Scrolls for PvP Gear    NOTE: Through those tokens you can also buy Lvl 5 Brooch and other max.</description>
-    </item>
-    
-    <item>
-      <title>Civil Unrest on Menma</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/civil-unrest-menma/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/civil-unrest-menma/</guid>
-      <description>Look HERE if youre looking for a broader overview of Civil Unrest.
- Server operates in UTC timezone. Please keep it in mind and act accordingly.  Main difference you will notice is that map is different. As of p1.0.7 Civil Unrest is being held on destroyed Island of Dawn.
-  You can also freely use Prime battle solution inside the area.
-  Towers can only be placed 100 meters apart from each other.</description>
     </item>
     
     <item>

@@ -304,13 +304,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -329,6 +329,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/velik-sanctuary-hard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/velik-sanctuary-hard/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -373,6 +378,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/civil-unrest-menma/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/civil-unrest-menma/"
                 />
@@ -380,11 +390,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/menma-guide/civil-unrest-menma/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/civil-unrest-menma/"
                 />
     <xhtml:link
                 rel="alternate"
