@@ -13,8 +13,12 @@ images:
 | [Second boss](#second-boss) 
 | [Third boss](#third-boss) 
 | [Last boss](#last-boss) 
-<hr/>
 
+     Menma's TERA changes:
+
+     - Entries: 1 without TERA Club (2 with TERA Club)
+
+<hr/>
 <div id="first-boss">
 
 ![](https://i.imgur.com/bMSoWlW.png)
