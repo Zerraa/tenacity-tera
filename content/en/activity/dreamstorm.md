@@ -1,7 +1,7 @@
 ---
 title: Dreamstorm
 date: 2022-05-04    
-description: Open world activity that replaced old Nexus. 
+description: Open world activity that replaced old Nexus which happens every day in the afternoon. 
 images:
 - https://i.imgur.com/vT1nmDA.png
 ---
@@ -12,9 +12,18 @@ During Dreamstorm large number of archdevans spawn to attack Bakara scientists' 
 Event lasts 10 minutes during which increasingly powerful enemies will spawn. Players win and get rewarded if central generator lasts whole event. 
 
 As with the previous version of the Nexus, these events take place at specific times each day.
+
 <center>
 
-## TIME SCHEDULE
+| [Menma’s TERA Dreamstorm](#menmas-tera) | 
+
+</center>
+
+<hr/>
+
+<center>
+
+## TIME SCHEDULE 
 
 </center>
 
@@ -77,14 +86,12 @@ During the battle, the mini-map converts into a kind of overview, replacing the 
 <hr/>
 <center>
 
-## REWARDS
+## Menma's TERA
 
 </center>
 
-Not finished. Come later.
+- Solo content which you can do **once** daily on each of your characters.
 
-<hr/>
-
-
-
-
+Only **requirement is to kill AT LEAST one mob** to receive the reward for the character. 
+  * By completing the vanguard you will get **1.000 Tikat**.
+    * Depending on your ranking during the event, you will receive extra 500 Tikat.
