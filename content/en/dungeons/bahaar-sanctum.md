@@ -11,6 +11,11 @@ images:
 <br> | **Quick links:**
 | [Phase 1](#phase-1) 
 | [Phase 2](#phase-2) 
+
+     Menma's TERA changes:
+
+     - x
+
 <hr/>
 
 The dungeon is broken up into two phases with the 2nd phase starting when you get **Bahaar down to 20% health**. <br>

@@ -75,6 +75,7 @@ Ovolith World Boss located in the Windwhistle Woods, Essenia.
 
 ![](https://i.imgur.com/lnoldES.png)
 
+<hr/>
 
 <center><h3>Sources</h3></center>
 

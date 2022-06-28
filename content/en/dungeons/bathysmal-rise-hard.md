@@ -5,7 +5,7 @@ description: TERA Guide for Bathysmal Rise (Hard)
 images:
 - https://i.imgur.com/rY3ZkKn.png
 ---
- | **Level Requirement:** 65
+ | **Level Requirement:** 70
 <br> | **Party:** 5-man
 <br>
 <br> | **Quick links:**
