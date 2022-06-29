@@ -1,7 +1,7 @@
 ---
-title: 20/5/2022 - Menma’s TERA goes 64-bit 
+title: 20/6/2022 - Menma’s TERA goes 64-bit 
 date: 2022-06-20   
-description: 20/5/2022 - Menma’s TERA goes 64-bit 
+description: 20/6/2022 - Menma’s TERA goes 64-bit 
 ---
 ![](https://i.imgur.com/y1Ii9IP.png)
 
