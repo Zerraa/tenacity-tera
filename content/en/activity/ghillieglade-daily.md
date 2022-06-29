@@ -31,6 +31,45 @@ If you choose to skip the two guardians they get possessed and spawn on sides of
 
 <center>
 
+### Mechanics
+
+</center>
+
+Throughout the fight, he’ll spawn Ghilliedhus which will attack you. They have relatively low health and drop motes which heal and regenerate your MP. <br> These Ghilliedhus can be knocked down and stunned.
+
+**Lateral Shockwave** - Depending on which side you’re on, Banyakas will send a wave of damage on one half of the field.<br>
+This is easy to notice and dodge as it’s a slow attack, pay attention to his hands.
+
+**Heavy Blow** - You’ll receive a warning message :
+
+     “There will be nothing left of you but ash!” 
+     
+Banyakas will slam his hands on the ground on the left and right side, if you stand near you’ll receive quite a lot of damage.
+* You can easily avoid this mechanic by staying in the middle section. 
+* The area of damage is not big and you’ll find yourself not worrying about this mechanic as much. 
+  * He’ll then proceed to do **Frontal Fire** 
+
+**Frontal Fire** - Banyakas will exert fire in front of him towards Dominolith Shard and the bridge. Dealing damage in that area. 
+* This is a fixed position and he can only exert fire down the middle of the field.
+
+**Bitter Fruits** - You’ll receive a warning message :
+
+     “I bear the most bitter fruit!“
+    
+The field will be split with a red zone and a safe zone. You must get away from Banyakas by heading to the safe outer section of the field as it’s a close range attack. 
+* You’ll receive multiple damage and a slowing debuff if hit.
+
+**Fiery Breath** - You’ll receive a warning message: 
+
+     “I’ll burn you to ash!“
+     
+The field will be split with a red zone and a safe zone. You must get close to Banyakas by heading to the safe inner section of the field as it’s a long range attack. 
+* You’ll receive multiple damage and a slowing debuff if hit.
+
+<hr/>
+
+<center>
+
 ### Tips
 
 </center>
