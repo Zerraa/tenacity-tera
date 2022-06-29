@@ -6,7 +6,18 @@
     <description>Recent content in Homepage on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30/6/2022 - Official TERA Shutdown</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-30-official-tera-shutdown/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-30-official-tera-shutdown/</guid>
+      <description>Unfortunately, TERA’s developers, Bluehole, have decided to cease work on TERA.
+The TERA servers will be switched off at 10 AM CEST (4 AM EDT) on 30th June 2022.
+ After nearly 10 long years, the TERA legend must sadly come to an end.  Please note that the game cannot be added in the Gameforge client anymore, and in case you have it installed, its recommended for you to uninstall it after the server closing.</description>
+    </item>
+    
     <item>
       <title>20/6/2022 - Menma’s TERA goes 64-bit</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-20-menma-64-bit-update/</link>

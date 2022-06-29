@@ -3,7 +3,7 @@ title: 15/6/2022 Last Quest
 date: 2022-06-15  
 description: 15/6/2022 TERA LAST QUEST
 ---
-![](https://i.imgur.com/QV5Judu.png)
+![](https://i.imgur.com/GbdmWvS.png)
 
 <hr/>
 

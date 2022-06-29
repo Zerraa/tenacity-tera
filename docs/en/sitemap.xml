@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-20-menma-64-bit-update/</loc>
-    <lastmod>2022-06-20T00:00:00+02:00</lastmod>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-30-official-tera-shutdown/</loc>
+    <lastmod>2022-06-29T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/</loc>
-    <lastmod>2022-06-20T00:00:00+02:00</lastmod>
+    <lastmod>2022-06-29T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -34,7 +34,7 @@
                 />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/</loc>
-    <lastmod>2022-06-20T00:00:00+02:00</lastmod>
+    <lastmod>2022-06-29T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -60,6 +60,9 @@
                 hreflang="en"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/en/"
                 />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-20-menma-64-bit-update/</loc>
+    <lastmod>2022-06-20T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-15-last-quest-ktera/</loc>
     <lastmod>2022-06-15T00:00:00+02:00</lastmod>
