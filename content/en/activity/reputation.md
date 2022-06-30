@@ -8,6 +8,8 @@ images:
 | [Hyderad Legacy](#hyderad-legacy) | [Invalesco](#invalesco) | [Shariar](#shariar) | [Valsekyr Hunt](#valsekyr-hunt) | <br>
 | [Hands of Velika](#hands-of-velika) | [Unified Theory Institute](#unified-theory-institute) | [Jax Trust](#jax-trust) | <br>
 
+| [Black Panther Mount](#black-panther-mount) | 
+
 <hr/>
 <center>
 
@@ -215,6 +217,23 @@ Noctenium Society is a faction specialized in researching noctenium and its uses
 Noctenium Society credits were gained doing Alliance quests and killing monsters in Alliance Territories. **Faction is closed due removal of Alliance**.
 
 ![](https://i.imgur.com/YB2YOSg.png)
+
+<hr/>
+
+<center>
+
+## Black Panther Mount
+
+</center>
+
+The Black Panther can be earned through reputation grinding. <br>
+You'll be introduced to all reputations once you hit lvl 60.
+
+- **Talk to Hands of Velika beastmaster to start those quests.**
+
+![](https://i.imgur.com/Z8Nb7Ox.png)
+
+It takes a while to grind the reputation for a character. But surely feels like an accomplishment!
 
 <hr/>
 
