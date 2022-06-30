@@ -546,7 +546,9 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/gathering-resources/</guid>
-      <description></description>
+      <description>Gathering is a game feature in TERA which allows a character to gather materials from various materials across Arborea and Exodor which can be used in crafting.
+There are three types of gathering professions:
+ Ore gathering Essence gathering Plant gathering.   All three gathering professions are automatically learned upon character creation, and start off at level 1 with 0 points. There are 6 levels of gathering and a total of 350 gathering points to be earned.</description>
     </item>
     
     <item>
