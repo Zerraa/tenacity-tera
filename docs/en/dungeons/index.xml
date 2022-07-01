@@ -86,6 +86,17 @@ Special attacksThere is a mechanic at 75%, 50% and 25% where walls will spawn M
     </item>
     
     <item>
+      <title>Dark Reach Citadel</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/dark-reach-citadel/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/dark-reach-citadel/</guid>
+      <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
+First Boss: TheropathKey MechanicsPull AoE - The boss will pull everyone towards him and then put an iframeable AoE on everyone, to survive this people need to spread so that the AoE does not overlap.
+ They do 50% HP damage in Normal Mode and 75% in Hard Mode.</description>
+    </item>
+    
+    <item>
       <title>Demokron Factory (Hard)</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/demokron-factory-hard/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
