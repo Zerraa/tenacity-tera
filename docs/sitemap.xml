@@ -9,20 +9,6 @@
   </sitemap>
   
   <sitemap>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/es/sitemap.xml</loc>
-    
-      <lastmod>2022-06-02T00:00:00+02:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/sitemap.xml</loc>
-    
-      <lastmod>2022-06-07T00:00:00+02:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/ko/sitemap.xml</loc>
     
       <lastmod>2022-06-10T00:00:00+02:00</lastmod>
@@ -33,6 +19,20 @@
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/ru/sitemap.xml</loc>
     
       <lastmod>2022-06-02T00:00:00+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/es/sitemap.xml</loc>
+    
+      <lastmod>2022-06-02T00:00:00+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/sitemap.xml</loc>
+    
+      <lastmod>2022-06-07T00:00:00+02:00</lastmod>
     
   </sitemap>
   
