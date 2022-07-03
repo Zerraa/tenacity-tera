@@ -99,17 +99,6 @@ Special attacksThere is a mechanic at 75%, 50% and 25% where walls will spawn M
     </item>
     
     <item>
-      <title>Crucible of Flame</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/crucible-of-flame/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/crucible-of-flame/</guid>
-      <description>| Level Requirement: 60 | Party: 5-man | Quick links: | Stage One | Stage Two | Point Ranking
-The Crucible of Flame has two stages with multiple rounds each. And since there are two stages to the Crucible of Flame each is on its own level.
-Stage One: The FoundationOnce the door to the brazier closes, you’re sealed off from getting or giving help to the rest of your party.</description>
-    </item>
-    
-    <item>
       <title>Dark Reach Citadel</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/dark-reach-citadel/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -426,6 +415,29 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
 | F6: Krakatox | F7: Lakan | F8: Desolarus | F9: Darkan | F10: Shandra Manaya
  This version is currently on Menma&amp;rsquo;s Tera  New version of Dreadspire has 10 Floors, on each floor you wil fight a single boss.
  Each of these bosses are buffed up versions of the same boss we’ve seen before from hard modes/raids/previous DS.</description>
+    </item>
+    
+    <item>
+      <title>Crucible of Flame</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/crucible-of-flame/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/crucible-of-flame/</guid>
+      <description>| Level Requirement: 60 | Party: 5-man | Quick links: | Stage One | Stage Two | Point Ranking
+The Crucible of Flame has two stages with multiple rounds each. And since there are two stages to the Crucible of Flame each is on its own level.
+Stage One: The FoundationOnce the door to the brazier closes, you’re sealed off from getting or giving help to the rest of your party.</description>
+    </item>
+    
+    <item>
+      <title>Temple of Temerity</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/temple-of-temerity/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/temple-of-temerity/</guid>
+      <description>| Level Requirement: 60 | Party: 5-man | Quick links: | First boss | Second boss | Third boss
+When you first enter the instance you will notice a little fairy with a repeatable quest marker. Talk to him and obtain a potion.
+ DO NOT USE YET.  Just keep it in your bag. This potion lasts for 3 min and has a cooldown of 20 min.
+ This is used to negate the silencing effect in the boss room.</description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 ---
 title: Crucible of Flame
-date: 2022-05-04
+date: 2022-05-02
 description: TERA Guide for Crucible of Flame
 images:
 - https://i.imgur.com/KXT7fSq.png

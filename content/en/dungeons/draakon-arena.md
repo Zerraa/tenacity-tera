@@ -55,7 +55,8 @@ Make sure you get away from the boss so you don’t kill the people around you.
     
 And then target everyone with 3 circles which leave behind puddles, which deal moderate damage when standing in it.<br>
 **After everyone has gotten hit 3 times he will follow it up by an AoE around the players with a safe zone at the center so everyone has to walk backwards while placing down the circles and group after.**
- * The final bomb (the one where you gather) has a delay on coming down even though the explosion is a bit later. You have to stop moving early.
+
+* The final bomb (the one where you gather) has a delay on coming down even though the explosion is a bit later. You have to stop moving early.
  * **If the tank goes backwards, the healer goes backwards from the side** and the dps goes backwards from the back then only the DPS will need to group because the healer and tank will be out of range.
 
 * In normal mode you can still take damage from the bombs but there will not be a puddle. 
