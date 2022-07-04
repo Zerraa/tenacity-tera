@@ -155,6 +155,16 @@ Special attacksThere is a mechanic at 75%, 50% and 25% where walls will spawn M
     </item>
     
     <item>
+      <title>Forbidden Arena (Brawler)</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/forbidden-arena-brawler/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/forbidden-arena-brawler/</guid>
+      <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
+Boss: Undying WarlordKey MechanicsRed Debuff Getting hit by any fist attack(glows red) will apply a stack.  This deals 1% max hp every couple seconds and stacks to 5. Lasts 60 seconds. If you do reach 5, itll turn into a separate debuff.This lasts forever and ticks for 5% max hp every few seconds.</description>
+    </item>
+    
+    <item>
       <title>Forbidden Arena (Hagufna)</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/forbidden-arena-hagufna/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
