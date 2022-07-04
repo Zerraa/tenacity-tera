@@ -50,7 +50,12 @@ The fight **starts off with one of two random moves**, these are usually a doubl
 
 Kelsaik has access to all attacks listed above; for this part just DPS him down as normal. 
 * **DPS need to make sure they're paying attention and swapping out their debuffs.** 
-  * The easiest way to do this is to stand behind the hind leg associated with the front paw of whichever element you need, and then whenever he does a double rend, the element of that paw will create a low damaging conic AoE that shoots behind him.
+
+![](https://i.imgur.com/XA3FEt2.png)
+
+![](https://i.imgur.com/tHAUUu7.png)
+
+* The easiest way to do this is to stand behind the hind leg associated with the front paw of whichever element you need, and then whenever he does a double rend, the element of that paw will create a low damaging conic AoE that shoots behind him.
 
 At random times during the fight, **he will purple circle (secondary target) random people.** 
 * During this phase that is a sign that he will do one of two things: 
@@ -68,7 +73,7 @@ During this phase, while the torch is in effect, **stack on as many debuffs/shre
 
 If an on-screen prompts appears that says :
 
-     "Kelsaik Roars / Howls" 
+     "Kelsaik howls" 
      
 This is a sign that **he's about to use an AoE roar**.
 * At this time everyone wants to get close as they can, as the roar will stun anyone caught in it for about 8-9 seconds.
@@ -130,11 +135,18 @@ At this point, an **eight-minute timer starts**.
 * This is where the real fight begins, especially for your **healer**.
 
 During this phase a new, persistent, **debuff is introduced called "Curse of Kelsaik"** this **debuff increases your power by x%, but at the same time removes y% of your max HP per five seconds**, and **can stack up to 99 times**. 
+
+![](https://i.imgur.com/P9IP5Ee.png)
+
 * The **healer's role heal, in addition to healing, is to keep everyone cleansed of these stacks**
 * They can be removed, but they keep coming back, so it's a constant affair. 
   * A few stacks isn't too deadly, but *once your reach 7 or more stacks*, you will want to get a **cleanse** as soon as possible.
 
-**Additionally during this phase, Kelsaik will walk to the center of the arena, drop a crystal/wardstone, and then walk and jump outside of the arena.** 
+<center><video controls>
+  <source src="https://i.imgur.com/Oqrrp1n.mp4" type="video/mp4">
+</video></center>
+
+**Breath Attack** - Additionally during this phase, **Kelsaik will walk to the center of the arena, drop a crystal/wardstone, and then walk and jump outside of the arena.** 
 * He will follow this up with a **large flame wave that covers the entire arena**, dealing an extreme amount of damage which usually kills everyone. <br>
 
 <center><video controls>
@@ -157,9 +169,6 @@ Following the flame wave attack, Kelsaik will jump back into the arena and then 
 At **5%**, **pools from claw attacks become persistent again** and **Kelsaik enrages**.
 
 Nothing new is introduced at this point however, just keep up damage and you've got it.
-
-
-
 
 </div>
 <hr/>
