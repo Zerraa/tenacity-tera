@@ -210,14 +210,16 @@ Depending on how/what you do during cocoon phase, you generally won't have much 
      Menma's TERA changes:
 
      - Timer has been moved to 10 minutes.
-     - She has 44 bilion HP now.
+     - She has 46 bilion HP now.
      - Shield has been buffed to 750m as of writing.
 
-     - She is way quicker, more like retail Manaya from p115.
+     - She is way quicker, more than retail Manaya from p115.
      - Her 20% Shield was removed.
 
      - Due to the attack speed she starts attacking before shield breaks.
-       - Keep it in mind.
+       - Shield is no longer 15seconds.
+         - Changed to 10 seconds.
+       - Keep it in mind. BREAK IT QUICK.
 
 <center><h3>Key Mechanics</h3></center>
 
