@@ -18,6 +18,12 @@ images:
 
 ![](https://i.imgur.com/oAMIr5O.png)
 <h3>First Boss: Atrocitas</h3>
+
+     Menma's TERA changes:
+
+     - Nothing changed.
+     - Pulses his for 45% of total HP.
+
 <center><h3>Key Mechanics</h3></center>
 
 **Red/Blue Explosion** - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
@@ -74,6 +80,12 @@ Afterwards, the boss will jump towards the tank with the highest aggro.
 
 ![](https://i.imgur.com/ICM9brq.png)
 <h3>Second Boss: Malgarios </h3>
+
+     Menma's TERA changes:
+
+     - Spit attack will oneshot most classes.
+     - There is now 7 eggs in the room.
+
 <center><h3>Key Mechanics</h3></center>
 
 **Spider baby meter** - A few seconds into the fight, a message will appear in the center of the screen 
@@ -133,6 +145,15 @@ You can jump when he chains you and get knocked down. Priests can use Guardian S
 <h3>Last Boss: Lachelith</h3>
 
 As a Tank, avoid taking the curse debuff or you will suffer while tanking her.
+
+     Menma's TERA changes:
+     
+     - Her attack speed is increased by a lot.
+     - Her tail attack oneshots.
+     - Debuff makes you take 2x damage and is 15 seconds longer.
+       - Red skulls hit for 80% HP, increase bar by 15.
+       - White skulls hit for 40% HP, increase bar by 10.
+     - Way more punishing if you plan to greed.
 
 <center><h3>Key Mechanics</h3></center>
 

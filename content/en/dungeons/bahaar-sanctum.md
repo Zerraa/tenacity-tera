@@ -12,10 +12,6 @@ images:
 | [Phase 1](#phase-1) 
 | [Phase 2](#phase-2) 
 
-     Menma's TERA changes:
-
-     - x
-
 <hr/>
 
 The dungeon is broken up into two phases with the 2nd phase starting when you get **Bahaar down to 20% health**. <br>
@@ -32,6 +28,11 @@ You get loot after the first phase and you may even see LFGs for "Bahaar Farm P1
 
 ![](https://i.imgur.com/r8D7c7O.png)
 <h3>Phase 1</h3>
+
+     Menma's TERA changes:
+
+     - Phase 1 is unchanged.
+
 <center><h3>Basic attacks</h3></center>
 
 **Hammer Drop** - Most common attack.
@@ -109,6 +110,19 @@ You get loot after the first phase and you may even see LFGs for "Bahaar Farm P1
 <div id="phase-2">
 
 <h3>Phase 2</h3>
+
+     Menma's TERA changes:
+
+     - He is now permanently enraged.
+       - Once you hit him, he will enrage and have wrath buff.
+     - He can’t do Wrath mechanic in the first 5 seconds of fight.
+     - His Wrath gives him 30% more power instead of 20%.
+       - Most attacks will oneshot a DPS.
+
+     - He is a lot like <30% HP Bahaar from 100%. 
+       - Exception of lasers. Those will proc at 30%.
+     - His HP has been increased by a lot.
+
 <center><h3>Buffs</h3></center>
 
 **Enrage Buff** - When Bahaar enrages, he gains the Bahaar’s Rage buff on the left for 15 seconds.

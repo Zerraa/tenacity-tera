@@ -6,7 +6,18 @@
     <description>Recent content in Patch Notes for Menma&#39;s TERA on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.1</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-08-p1.1/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-08-p1.1/</guid>
+      <description>The long awaited 1.1 patch is finally here. With changes to PvE, PvP, Open World content, Class Balancing and of course, the 64-bit client.
+Game Client  The game client has been updated to 64-bit, DirectX 11. Added new supported game languages: German, French, Russian.  Dungeons &amp;amp; PvE   The following dungeons are closing their doors:
+ Dreadspire Velik’s Sanctuary (Hard) Forsaken Island (Hard) Timescape (Hard) Grotto of Lost Souls (Hard) Antaroth’s Abyss (Hard) RK-9 Kennel Red Refuge Velik’s Hold Velik’s Sanctuary    The new dungeon list is as follows:</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.0.9</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-10-p1.0.9/</link>

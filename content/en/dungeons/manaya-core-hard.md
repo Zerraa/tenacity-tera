@@ -18,6 +18,12 @@ images:
 
 ![](https://i.imgur.com/oHUeDfw.png)
 <h3>First Boss: Hrathgol</h3>
+
+     Menma's TERA changes:
+
+     - He gained 20% attack speed buff. 
+     - Timer reduced to 3:30 minutes.
+
 <center><h3>Key Mechanics</h3></center>
 
 **Hrathgol now has a 6 minute enrage timer**; in other words, if you don't kill him within 6 minutes he'll flip his feces and one-shot you all.
@@ -73,6 +79,13 @@ Melkatran is probably the easiest boss in the dungeon. <br>
 Before you go in to attack this boss, **make sure your jump and chained skill keys are different**. If not, rebind one of them. <br>
 You need to make sure that you can press your jump key at any time during this boss fight.
 
+     Menma's TERA changes:
+
+     - He has more HP now.
+     - He is getting 13 stacks instead of 10 during the color mechanic
+     - IN/OUT Donuts will oneshot you.
+     - 5 stacks of parasites will oneshot you.
+
 <center><h3>Key Mechanics</h3></center>
 
 **The boss now has a 6 minute enrage timer like the first boss.** Don't get stunned; healers should be ready to immediately cleanse party members that do.
@@ -104,11 +117,6 @@ You will receive a debuff accompanied by red veins creeping over the edge of you
   * **Dodge the hell out.** NOT BLOCKABLE 
 * Either one or two things will happen after stun - either a red circle AoE will appear immidiately after the first one only slightly larger.
 * If you wont see the red AoE right after stun, boss will do outer donut AoE instead, so move closer to him.
-
-<center><h3>Special attacks</h3></center>
-
-
-
 
 </div>
 <hr/>
@@ -198,6 +206,18 @@ For **RANGED**, if the poison circle is targeted on you, reposition yourself so 
 <h3>Last Boss: Shandra Manaya</h3>
 
 Depending on how/what you do during cocoon phase, you generally won't have much time to prepare for anything.
+
+     Menma's TERA changes:
+
+     - Timer has been moved to 10 minutes.
+     - She has 44 bilion HP now.
+     - Shield has been buffed to 750m as of writing.
+
+     - She is way quicker, more like retail Manaya from p115.
+     - Her 20% Shield was removed.
+
+     - Due to the attack speed she starts attacking before shield breaks.
+       - Keep it in mind.
 
 <center><h3>Key Mechanics</h3></center>
 

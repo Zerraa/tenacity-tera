@@ -20,13 +20,19 @@ Perimos will be firing lasers at random players, notified by <br>
      
 This does not follow players and is indicated by the purple secondary aggro circle. The tank should tank the mobs near Perimos, to make dodging lasers easier.
 
-
 <div id="first-boss">
 
 ![](https://i.imgur.com/GcXwMgF.png)
 <h3>First Boss: Putrion</h3>
 
 The tank should attempt to position the boss far from the gate, as certain attacks may cause Putrion to charge through the gate and reset.
+
+     Menma's TERA changes:
+
+     - He is quicker.
+     - Can still be knocked up / bullrushed.
+     - Mobs (archers and hulks) hurt a LOT. Stun them and focus.
+
 
 <center><h3>Special attacks</h3></center>
 
@@ -52,6 +58,14 @@ The tank should attempt to position the boss far from the gate, as certain attac
 <h3>Second Boss: Perimos</h3>
 
 All players should attempt to stay in the middle of the room, to avoid the boss moving around too far for certain mechanics.
+
+     Menma's TERA changes:
+
+     - Crystals have 200k HP
+     - Lasers have been buffed.
+       - They deal 960k total damage. 
+       - 5 people MUST GATHER or it will break the crystal.
+     - When a crystal gets destroyed he gains a 400M shield. 
 
 <center><h3>Key Mechanics</h3></center>
 
@@ -102,6 +116,27 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
 <h3>Last Boss: Darkan</h3>
 
 The tank should aim to fight the boss in the middle, so mechanics such as DoT circles can be placed on the sides.
+
+     Menma's TERA changes:
+
+    - He is extremely fast.
+    - 1 Swipe is still iframable.
+    - When he kneels down, he applies a bleed and a root.
+      - Prevents useage of skills and slows you down.
+    - Gains a 5% attack speed and 3% power buff every 25% 
+      - on 75,50,25,10%
+    - He gains 10minute buff on engage. 
+      - Acts as a timer. Once it runs out its impossible to clear.
+    - At 25% he will put a 3minute bleeding debuff on every person.
+      - Bleeds for 7% every 2 seconds. 
+      - Bleeds way more when fully buffed at 10%.
+    - Fire bleeding from his attacks is no longer cleansable.
+      - Stacks up. 
+    - His secondary aggro will most likely kill you, its very fast.
+
+    - Ghosts have 2.5 bilion HP.
+      - They hit for 150k
+    - They MUST be stunned or you will have a bad time.
 
 <center><h3>Key Mechanics</h3></center>
 

@@ -16,6 +16,13 @@ images:
 ![](https://i.imgur.com/axjltqe.png)
 <h3>Boss: Hagufna</h3>
 
+     Menma's TERA changes:
+
+     - His phase triggers were moved to 90%, 80%, 70%.
+       - Old were 90%, 55%, 30%.
+     - He unlocks all his combos at 70%.
+     - Shield has been buffed.
+
 <center><h3>Key Mechanics</h3></center>
 
      85% Phase Change

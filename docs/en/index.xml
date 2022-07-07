@@ -6,7 +6,18 @@
     <description>Recent content in Homepage on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.1</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-08-p1.1/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-08-p1.1/</guid>
+      <description>The long awaited 1.1 patch is finally here. With changes to PvE, PvP, Open World content, Class Balancing and of course, the 64-bit client.
+Game Client  The game client has been updated to 64-bit, DirectX 11. Added new supported game languages: German, French, Russian.  Dungeons &amp;amp; PvE   The following dungeons are closing their doors:
+ Dreadspire Velik’s Sanctuary (Hard) Forsaken Island (Hard) Timescape (Hard) Grotto of Lost Souls (Hard) Antaroth’s Abyss (Hard) RK-9 Kennel Red Refuge Velik’s Hold Velik’s Sanctuary    The new dungeon list is as follows:</description>
+    </item>
+    
     <item>
       <title>30/6/2022 - Official TERA Shutdown</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-30-official-tera-shutdown/</link>
@@ -351,7 +362,8 @@ The attack patterns are easy to learn and it does not have any 1 hit kill moves.
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/bahaar-sanctum/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Phase 1 | Phase 2
- Menma&#39;s TERA changes:- x The dungeon is broken up into two phases with the 2nd phase starting when you get Bahaar down to 20% health. You get loot after the first phase and you may even see LFGs for &amp;ldquo;Bahaar Farm P1&amp;rdquo; for this purpose, though probably less so now.</description>
+The dungeon is broken up into two phases with the 2nd phase starting when you get Bahaar down to 20% health. You get loot after the first phase and you may even see LFGs for &amp;ldquo;Bahaar Farm P1&amp;rdquo; for this purpose, though probably less so now.
+  Finding videos of P1 is a bit tricky since most people who regularly clear P2 would consider P1 kinda pointless.</description>
     </item>
     
     <item>
@@ -562,8 +574,7 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/forbidden-arena-hagufna/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
-Boss: HagufnaKey Mechanics 85% Phase Change 85% Pull in Mechanic - Starting at 85% and then about every minute after, the boss will hold his sword straight up in the air and begin channeling energy into it, either pink or purple energy. After 85% the boss gains a few new combos.
- This will then pull everyone within 25m right on top of him and then do a mechanic based on which energy color it was.</description>
+Boss: Hagufna Menma&#39;s TERA changes:- His phase triggers were moved to 90%, 80%, 70%.- Old were 90%, 55%, 30%.- He unlocks all his combos at 70%.- Shield has been buffed. Key Mechanics 85% Phase Change 85% Pull in Mechanic - Starting at 85% and then about every minute after, the boss will hold his sword straight up in the air and begin channeling energy into it, either pink or purple energy.</description>
     </item>
     
     <item>
@@ -726,9 +737,7 @@ The flame will swallow you whole!!! - This message appears at certain intervals 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/manaya-core-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: HrathgolKey MechanicsHrathgol now has a 6 minute enrage timer; in other words, if you don&amp;rsquo;t kill him within 6 minutes he&amp;rsquo;ll flip his feces and one-shot you all.
-When Hrathgol&amp;rsquo;s health reaches 80%, 60%, 40%, and 20%, the boss mechanic will come into play.
-Debuffs - A message will appear in the center of your screen that saying</description>
+First Boss: Hrathgol Menma&#39;s TERA changes:- He gained 20% attack speed buff. - Timer reduced to 3:30 minutes. Key MechanicsHrathgol now has a 6 minute enrage timer; in other words, if you don&amp;rsquo;t kill him within 6 minutes he&amp;rsquo;ll flip his feces and one-shot you all.</description>
     </item>
     
     <item>
@@ -883,8 +892,8 @@ First Boss: VentaronKey MechanicsThreat level rising! Initiating destruction! 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/ruinous-manor-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: AtrocitasKey MechanicsRed/Blue Explosion - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
- In hard mode only this will deal 35,000Hp direct damage to all players.  You can look at the boss to see what color it is or see the color of its debuff which is below the life bar.</description>
+First Boss: Atrocitas Menma&#39;s TERA changes:- Nothing changed.- Pulses his for 45% of total HP. Key MechanicsRed/Blue Explosion - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
+ In hard mode only this will deal 35,000Hp direct damage to all players.</description>
     </item>
     
     <item>
