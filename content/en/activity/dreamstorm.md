@@ -27,6 +27,8 @@ As with the previous version of the Nexus, these events take place at specific t
 
 </center>
 
+</center>
+
 | **DAY/TIME** | **14:00** | **15:00** | **16:00** | **17:00** | **18:00** | **19:00** | **20:00** | **21:00** | **22:00** |
 |:------------:|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|:---------:|
 |    MONDAY    |     -     |     -     |     -     |     -     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |
@@ -36,6 +38,10 @@ As with the previous version of the Nexus, these events take place at specific t
 |    FRIDAY    |     -     |     -     |     -     |     -     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |
 |   SATURDAY   |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |
 |    SUNDAY    |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |     🗸     |
+
+Time is written in CEST.
+
+</center>
 
 <hr/>
 
@@ -94,4 +100,22 @@ During the battle, the mini-map converts into a kind of overview, replacing the 
 
 Only **requirement is to kill AT LEAST one mob** to receive the reward for the character. 
   * By completing the vanguard you will get **1.000 Tikat**.
-    * Depending on your ranking during the event, you will receive extra 500 Tikat.
+    * Depending on your ranking during the event, you will receive extra 500/400/300 Tikat.
+
+* Remember that Dreamstorm is open 10minutes before, so you can pick up the quest.
+
+<center>
+
+| **DAY/TIME** 	| **04:00** 	| **10:00** 	| **16:00** 	| **23:00** 	|
+|:------------:	|:---------:	|:---------:	|:---------:	|:---------:	|
+| MONDAY       	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
+| TUESDAY      	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
+| WEDNESDAY    	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
+| THURSDAY     	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
+| FRIDAY       	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
+| SATURDAY     	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
+| SUNDAY       	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
+
+Time is written in CEST.
+
+</center>
