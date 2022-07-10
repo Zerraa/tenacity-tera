@@ -116,6 +116,8 @@ Only **requirement is to kill AT LEAST one mob** to receive the reward for the c
 | SATURDAY     	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
 | SUNDAY       	|     🗸     	|     🗸     	|     🗸     	|     🗸     	|
 
+Note: Times are not 100%, still needs to be confirmed.
+
 Time is written in CEST.
 
 </center>
