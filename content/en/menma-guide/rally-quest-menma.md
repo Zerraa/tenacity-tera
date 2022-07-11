@@ -40,7 +40,7 @@ Rally Quest can be completed regardless of the amount of contribution as long as
 |:---------:|:----------------------------------:|:--------:|:-------------------------------:|
 |   Monday  | 14:00-0:00 CET<br>15:00-1:00 CEST  | Sabranak | Bleakrock - Screaming Snowfield |
 |  Tuesday  | 20:00-0:00 CET<br>21:00-1:00 CEST  | Anansha  | Tria - Timeless Woods           |
-| Wednesday | 20:00-0:00 CET<br>21:00-1:00 CEST  | Frygaras | Tria - Timeless Woods           |
+| Wednesday | 20:00-0:00 CET<br>21:00-1:00 CEST  | Frygaras | Bleakrock - Howling Glacier     |
 |  Thursday |                  -                 |     -    |                -                |
 |   Friday  | 20:00-0:00 CET<br>21:00-1:00 CEST  | Anansha  | Tria - Timeless Woods           |
 |  Saturday | 20:00-0:00 CET<br>21:00-1:00 CEST  | Frygaras | Bleakrock - Howling Glacier     |
