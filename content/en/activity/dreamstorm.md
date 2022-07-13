@@ -8,7 +8,7 @@ images:
 
 ![](https://i.imgur.com/4PUHgon.png)
 
-During Dreamstorm large number of archdevans spawn to attack Bakara scientists' Oneiric Generators.<br>
+During Dreamstorm large number of archdevans spawn to attack Baraka scientists' Oneiric Generators.<br>
 Event lasts 10 minutes during which increasingly powerful enemies will spawn. Players win and get rewarded if central generator lasts whole event. 
 
 As with the previous version of the Nexus, these events take place at specific times each day.
