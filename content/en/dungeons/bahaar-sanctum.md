@@ -113,8 +113,7 @@ You get loot after the first phase and you may even see LFGs for "Bahaar Farm P1
 
      Menma's TERA changes:
 
-     - He is now permanently enraged.
-       - Once you hit him, he will enrage and have wrath buff.
+     - Once you hit him, he will enrage and have wrath buff.
      - He can’t do Wrath mechanic in the first 5 seconds of fight.
      - His Wrath gives him 30% more power instead of 20%.
        - Most attacks will oneshot a DPS.
