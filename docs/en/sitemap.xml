@@ -6,13 +6,13 @@
     <lastmod>2022-07-12T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/"
+                hreflang="ru"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/"
+                hreflang="ko"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,13 +37,13 @@
     <lastmod>2022-07-12T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/"
+                hreflang="ru"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/"
+                hreflang="ko"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,6 +63,16 @@
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-08-p1.1/</loc>
     <lastmod>2022-07-05T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2022-07-08-p1.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-08-p1.1/"
+                />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-30-official-tera-shutdown/</loc>
     <lastmod>2022-06-29T00:00:00+02:00</lastmod>
@@ -123,11 +133,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2022-06-02-p1.0.8/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/patch-note/2022-06-02-p1.0.8/"
                 />
@@ -157,11 +162,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2022-05-22-p1.0.7/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/patch-note/2022-05-22-p1.0.7/"
                 />
@@ -182,11 +182,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/2022-05-15-p1.0.6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2022-05-15-p1.0.6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1230,11 +1225,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2022-05-01-p1.0.5/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/patch-note/2022-05-01-p1.0.5/"
                 />
@@ -1284,11 +1274,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2021-09-13-p1.0.4/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/patch-note/2021-09-13-p1.0.4/"
                 />
@@ -1309,11 +1294,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/ko/patch-note/2021-09-08-p1.0.3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2021-09-08-p1.0.3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1340,11 +1320,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2021-08-30-p1.0.2/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/patch-note/2021-08-30-p1.0.2/"
                 />
@@ -1368,11 +1343,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2021-08-29-p1.0.1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/patch-note/2021-08-29-p1.0.1/"
                 />
@@ -1389,11 +1359,6 @@
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-09-01-dev-note/</loc>
     <lastmod>2021-08-28T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2021-09-01-dev-note/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -1417,11 +1382,6 @@
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-08-28-p1.0/</loc>
     <lastmod>2021-08-28T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2021-08-28-p1.0/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -1452,11 +1412,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2021-06-29-p0.2/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/patch-note/2021-06-29-p0.2/"
                 />
@@ -1473,11 +1428,6 @@
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-06-12-p0.1/</loc>
     <lastmod>2021-06-12T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/patch-note/2021-06-12-p0.1/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
