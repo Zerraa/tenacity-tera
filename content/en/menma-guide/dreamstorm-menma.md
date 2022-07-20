@@ -8,7 +8,7 @@ description: Civil Unrest occasionally called Guild Wars is weekly PvP event whi
 
 <center>
 
-Look [HERE](../../en/activity/dreamstorm.md) if youre looking for a broader overview of Dreamstorm.
+Look [HERE](https://zera-dev.github.io/tenacity-tera.github.io/en/activity/dreamstorm/) if youre looking for a broader overview of Dreamstorm.
 
 </center>
 
