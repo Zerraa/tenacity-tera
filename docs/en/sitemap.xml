@@ -1095,9 +1095,6 @@
                 href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/dreadspire-upper/"
                 />
   </url><url>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/dreamstorm-menma/</loc>
-    <lastmod>2022-05-03T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/guild-vs-guild/</loc>
     <lastmod>2022-05-03T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -1264,6 +1261,9 @@
                 hreflang="en"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/class-crit-cap/"
                 />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/dreamstorm-menma/</loc>
+    <lastmod>2022-04-28T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/battlegrounds/wintera-snowfield/</loc>
     <lastmod>2021-12-24T00:00:00+01:00</lastmod>

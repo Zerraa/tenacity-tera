@@ -62,18 +62,6 @@ Torrent file can be found on Menma’s Discord https://discord.gg/menmastera
     </item>
     
     <item>
-      <title>Dreamstorm on Menma</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/dreamstorm-menma/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/dreamstorm-menma/</guid>
-      <description>Look HERE if youre looking for a broader overview of Dreamstorm.
-Menma&amp;rsquo;s TERA  Solo content which you can do once daily on each of your characters.  Only requirement is to kill AT LEAST one mob to receive the reward for the character.
-  By completing the vanguard you will get 500 Tikat.
- Depending on your ranking during the event, you will receive extra 500/400/300/200/100 Tikat.</description>
-    </item>
-    
-    <item>
       <title>Guild vs Guild</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/guild-vs-guild/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
@@ -124,6 +112,18 @@ Slots were later increased to 35 members in patch 1.0.8
       <description>A crit cap or crit-factor cap is the point at which having any more crit factor is a detriment to your DPS potential.
 What Factors Influence the Crit Cap?  Boss Level versus Your Level  The difference between the target and your level will adjust how much crit factor is needed for your skills to crit.
 It might be an impact on how much crit resist the boss has but the important part is the higher you are relative to the target, the lower amount of crit factor you need.</description>
+    </item>
+    
+    <item>
+      <title>Dreamstorm on Menma</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/dreamstorm-menma/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/dreamstorm-menma/</guid>
+      <description>Look HERE if youre looking for a broader overview of Dreamstorm.
+Menma&amp;rsquo;s TERA  Solo content which you can do once daily on each of your characters.  Only requirement is to kill AT LEAST one mob to receive the reward for the character.
+  By completing the vanguard you will get 500 Tikat.
+ Depending on your ranking during the event, you will receive extra 500/400/300/200/100 Tikat.</description>
     </item>
     
   </channel>
