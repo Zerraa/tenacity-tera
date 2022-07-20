@@ -99,8 +99,8 @@ During the battle, the mini-map converts into a kind of overview, replacing the 
 - Solo content which you can do **once** daily on each of your characters.
 
 Only **requirement is to kill AT LEAST one mob** to receive the reward for the character. 
-  * By completing the vanguard you will get **1.000 Tikat**.
-    * Depending on your ranking during the event, you will receive extra 500/400/300 Tikat.
+  * By completing the vanguard you will get **500 Tikat**.
+    * Depending on your ranking during the event, you will receive extra 500/400/300/200/100 Tikat.
 
 * Remember that Dreamstorm is open 10minutes before, so you can pick up the quest.
 
