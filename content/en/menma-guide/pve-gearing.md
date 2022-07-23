@@ -26,19 +26,18 @@ You can upgrade a +0 to a +15 piece of gold gear to Kaia / Mythic at any time on
 
 1. Go the the Kaiator Command center. You'll have quest prompts on how to get there if you've never been before.
 2. Smash 'F' on some NPCs then you'll need to clear 2 dungeons to get quest materials.
-3. Clear **Broken Prison**.
-4. Go back to Kaiator Command, smash 'f' on NPCs again then you'll do the same at Muhrak's Workshop in Habere.
-5. After talking with Kaia and Fovarth, you'll need to clear Gossamer's Vault (HARD) for another quest material.
-6. Clear **Gossamer's Vault (HARD)** once.
-7. Go back to Muhrak's Workshop and finish the quest. You'll get a token Black Shard and Nodule for your effort.
-8. You can now use Kaia's Anvil to upgrade to Kaia / mythic whenever you have the required materials.
+3. Go back to Kaiator Command, smash 'f' on NPCs again then you'll do the same at Muhrak's Workshop in Habere.
+4. After talking with Kaia and Fovarth, you'll need to clear Gossamer's Vault (HARD) for quest material.
+5. Clear **Gossamer's Vault (HARD)** once.
+6. Go back to Muhrak's Workshop and finish the quest. You'll get a token Black Shard and Nodule for your effort.
+7. You can now use Kaia's Anvil to upgrade to Kaia / mythic whenever you have the required materials.
 
 <hr/>
 
 ## Enchanting gear
 
 **You get feedstock from Guardians**
-* You can do 100x daily (on every character)
+* You can do 100x daily 
  * **Loot:** 1 guardian done :<br>
  1x Weapon Feedstock <br>
  3x Armor Feedstrock <br>
@@ -46,16 +45,4 @@ You can upgrade a +0 to a +15 piece of gold gear to Kaia / Mythic at any time on
 
 **You can buy Improved Feedstocks from Guardian Credits at Velika**
 ![](https://i.imgur.com/XzY50rS.png)
-
-
-<hr/> 
-
-<center><h3>Sources</h3></center>
-
-* Thanks to my guildie Kagekao
-
-
-
-
-
 

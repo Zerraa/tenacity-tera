@@ -25,7 +25,11 @@ description: How to gear up for PvP in Menma's TERA?
   <u><strong> NOTE: Through those tokens you can also buy Lvl 5 Brooch and other max. equipment you will need.</strong></u> 
 </center>
 
-<hr/> 
+<hr/>
+
+## PvP Innerwear
+
+PvP Innerwear is not useable, so you will have to get yourself HP% Innerwear (Comfy) or Power Innerwear (Fresh)
 
 <center><h3>Sources</h3></center>
 
