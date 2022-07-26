@@ -101,12 +101,9 @@ Une compétence donnée Change Coupon est requise pour changer la compétence do
 | Emergency Service I-III     | May replenish [500, 750, 1000] MP per second for [3, 4, 5] seconds.                                                               |
 | Barrier I-III               | Peut absorber [50,000, 80,000, 125,000] de dommages pendant [9, 12, 15] secondes.                                                 |
 | Fellowship I-III            | Peut auguementer durée d'une compétence de lien de [20%, 40%, 60%] pendant 10 minutes quand vous entrez en combat.                |
-| Rapid Growth I-III          | Peut auguementer le nombre de points d'xp en chasse de [5%, 10%, 15%] pendant 30 minutes après usage de la compétence de lien     |
-|                             | de vôtre compagnon.                                                                                                               |       
-| Rapid Advancement I-III     | Peut auguementer le nombre de points d''xp enrécompenses d'avancement des compétences de  [5%, 10%, 15%] pendant 30 minutes       |
-|                             | après usage de la compétence de lien de vôtre compagnon.                                                                          |
-| Dual Boost I-III            | Peut auguementer le nombre de point d'xp en chasse et compétences de [2.5%, 5%, 7.5%] pendant 30 minutes après usage de la        |
-|                             | compétence de lien de vôtre compagnon.                                                                                            |
+| Rapid Growth I-III          | Peut auguementer le nombre de points d'xp en chasse de [5%, 10%, 15%] pendant 30 minutes après usage de la compétence de lien de vôtre compagnon.    |                                                                                                              |       
+| Rapid Advancement I-III     | Peut auguementer le nombre de points d''xp enrécompenses d'avancement des compétences de  [5%, 10%, 15%] pendant 30 minutes après usage de la compétence de lien de vôtre compagnon.      |
+| Dual Boost I-III            | Peut auguementer le nombre de point d'xp en chasse et compétences de [2.5%, 5%, 7.5%] pendant 30 minutes après usage de la compétence de lien de vôtre compagnon.        |
 | Critical Crafting I-III     | Peut auguementer  les chances de succes ccritique pendant un craft de [10%, 15%, 20%] pendant 5 minutes.                          |
 | Backup Fisherman I-III      | Peut auguementer  les chances d'attraper un BAF de [30%, 40%, 50%] pendant 5 minutes.                                             |
 | Gathering Support I-III     | Peut diminuer le temps de collecte de [10%, 15%, 20%] pendant 5 minutes.                                                          |

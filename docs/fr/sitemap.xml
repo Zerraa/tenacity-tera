@@ -295,6 +295,34 @@
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/pvp-gearing/"
                 />
   </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/es/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/"
+                />
+  </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/akeron-inferno/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -347,6 +375,19 @@
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/bathysmal-rise-hard/"
                 />
   </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/field-bosses/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/field-bosses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/field-bosses/"
+                />
+  </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/broken-prison/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -371,6 +412,58 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/channelworks/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/civil-unrest/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/civil-unrest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/civil-unrest/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/leaderboard/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/leaderboard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/leaderboard/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/gathering-resources/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/gathering-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/gathering-resources/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/companions/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/companions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/companions/"
                 />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/demokron-factory-hard/</loc>
@@ -440,6 +533,32 @@
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/draakon-arena/"
                 />
   </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/dreamstorm/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/dreamstorm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/dreamstorm/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/fishing/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/fishing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/fishing/"
+                />
+  </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/forsaken-island-hard/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -492,6 +611,19 @@
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/kalivan-dreadnaught/"
                 />
   </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/island-of-dawn/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/island-of-dawn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/island-of-dawn/"
+                />
+  </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/lilith-keep-hard/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -503,6 +635,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/lilith-keep-hard/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/loot-maps/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/loot-maps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/loot-maps/"
                 />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/manaya-core-hard/</loc>
@@ -531,6 +676,45 @@
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/manglemire/"
                 />
   </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/guardian-missions/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/guardian-missions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/guardian-missions/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/mystery-merchant/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/mystery-merchant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/mystery-merchant/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/rally-quest/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/rally-quest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/rally-quest/"
+                />
+  </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/ravenous-gorge/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -555,6 +739,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/red-refuge-hard/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/reputation/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/reputation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/reputation/"
                 />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/rifts-edge-hard/</loc>
@@ -633,6 +830,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/sky-cruiser-endeavor-hard/"
+                />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/game-lore/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/game-lore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/game-lore/"
                 />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/dungeons/thaumetal-refinery/</loc>
@@ -1071,33 +1281,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/fr/patch-note/2021-06-12-p0.1/"
-                />
-  </url><url>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/activity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/activity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/activity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/es/activity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/"
                 />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/fr/categories/</loc>
