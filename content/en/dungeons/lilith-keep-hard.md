@@ -71,7 +71,7 @@ Arachandelbra is best tanked from room borders, circle around it in concentric c
 
 <center><h3>Key Mechanics</h3></center>
 
-**Wax counter** - Wih message:
+**Wax counter** - With message:
 
       Now you're trapped!
 

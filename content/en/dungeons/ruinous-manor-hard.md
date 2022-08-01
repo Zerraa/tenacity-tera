@@ -27,7 +27,7 @@ images:
 <center><h3>Key Mechanics</h3></center>
 
 **Red/Blue Explosion** - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
-* In hard mode only this will deal 35,000Hp direct damage to all players.
+* In hard mode only this will deal direct damage to all players.
   * You can look at the boss to see what color it is or see the color of its debuff which is below the life bar. 
 
 ![](https://i.imgur.com/rkFhwA9.png)
@@ -150,7 +150,7 @@ As a Tank, avoid taking the curse debuff or you will suffer while tanking her.
      
      - Her attack speed is increased by a lot.
      - Her tail attack oneshots.
-     - Debuff makes you take 2x damage and is 15 seconds longer.
+     - Debuff makes you take 2x damage and is 5 seconds longer.
        - Red skulls hit for 80% HP, increase bar by 15.
        - White skulls hit for 40% HP, increase bar by 10.
      - Way more punishing if you plan to greed.
