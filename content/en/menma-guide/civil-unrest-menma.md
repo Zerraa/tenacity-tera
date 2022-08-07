@@ -33,9 +33,9 @@ Main difference you will notice is that map is different. As of **p1.0.7** Civil
 
 | **RANK** |         **BOX**         |                   **REWARD**                   |
 |:--------:|:-----------------------:|:----------------------------------------------:|
-| Rank 1   | Rank 1 Reward Box       | ---   |
+| Rank 1   | Rank 1 Reward Box       | 5.000 Tikat and 5.000.000 Bellicarium Credit   |
 | Rank 2   | Rank 2 Reward Box       | --- |
-| Rank 3   | Rank 3 Reward Box       | 2.000 Tikat and 5.000.000 Bellicarium Credit |
+| Rank 3   | Rank 3 Reward Box       | 2.000 Tikat and 5.000.000 Bellicarium Credit   |
 | Rank 4   | Rank 4 Reward Box       | --- |
 | Rank 4   | Rank 5 Reward Box       | --- |
 
