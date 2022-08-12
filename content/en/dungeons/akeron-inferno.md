@@ -66,7 +66,10 @@ images:
 **Lava Projectiles** - Similar to other molten turtles, this boss can spit out Lava Jets, Fireballs, and Eruptions infront of him. 
 * Be careful as these hurt.
 
-**Slams and Spins** - This boss has physical attacks as well, including **Belly Flop** (a frontal ground slam), **Slides** (boss will **slide against the ground**, causing damage and leaving behind an eruption), **Trample** (similar to Slides, he’ll charge at a player in attempt to trample them) and **Spin** (the boss will spin and move around causing deadly damage to anyone close enough).
+**Slams and Spins** - This boss has physical attacks as well, including **Belly Flop** (a frontal ground slam)
+* **Slides** (boss will **slide against the ground**, causing damage and leaving behind an eruption)
+* **Trample** (similar to Slides, he’ll charge at a player in attempt to trample them)
+* **Spin** (the boss will spin and move around causing deadly damage to anyone close enough).
 
 **Lava Ring** - Deadly smoke will seep out of the sides of the boss, this is an indication that he will flood the area around him with deadly lava. 
 * Be sure to get out!
