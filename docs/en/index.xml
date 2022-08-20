@@ -6,7 +6,16 @@
     <description>Recent content in Homepage on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.1.4 &#43; New PvE Community Managers Notes</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-20-p1.1.4/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-20-p1.1.4/</guid>
+      <description>General/Miscellaneous changes  Disabled GvGs inside the city of Highwatch Enabled GvGs in the Velika region + inner city. Decreased cooldown of Strong Canephora Potion to 5 seconds. Decreased cooldown of Tempestuous Savage Draught to 5 minutes. Decreased cooldown of Inexorable Savage Draught to 5 minutes. Strong Canephora Potion is now overwritable by itself. Menma’s Multi-Nostrum will now give the Crit Factor Fish Buffet (Spicy) Instead of the Endurance Fish Buffet (Salty).</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.1.1 - Hotfixes (Part 1)</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-12-p1.1.1/</link>
