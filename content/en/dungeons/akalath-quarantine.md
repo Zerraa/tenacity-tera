@@ -314,16 +314,16 @@ Thats your cue to spread. You dont want to snipe a member in your party.
 **Left Scratch** - Basic attack
 * Can be blocked 
 
-<center><video width="320" height="240" controls>
-  <source src="https://i.imgur.com/8cf2pqk.gif" type="video/mp4">
-</video></center>
+<center>
+  <img width="320" height="240" src="https://i.imgur.com/8cf2pqk.gif">
+  </center>
 
 **Double Scratch** - Basic attack
 * Can be blocked
 
-<center><video width="320" height="240" controls>
-  <source src="https://i.imgur.com/Pbfwh0T.gif" type="video/mp4">
-</video></center>
+<center>
+  <img width="320" height="240" src="https://i.imgur.com/Pbfwh0T.gif">
+</center>
 
 **Left,Right,Hug** - Basic attack
 * Can be blocked
@@ -339,7 +339,7 @@ Thats your cue to spread. You dont want to snipe a member in your party.
   <source src="https://i.imgur.com/q39zh8t.mp4" type="video/mp4">
 </video></center>
 
-**Fury swipes into spin** - 
+**Fury swipes into spin** - Basic attack
 
 <center><video width="320" height="240" controls>
   <source src="https://i.imgur.com/ZFDz8pF.mp4" type="video/mp4">
