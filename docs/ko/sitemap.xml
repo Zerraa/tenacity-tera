@@ -335,11 +335,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/guild-vs-guild/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/es/menma-guide/guild-vs-guild/"
                 />
@@ -416,11 +411,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/ru/menma-guide/outlaw-system/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/outlaw-system/"
                 />
     <xhtml:link
                 rel="alternate"

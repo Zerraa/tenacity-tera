@@ -3,6 +3,19 @@ title: 4.1 Gearing - PvP
 date: 2022-05-04
 description: How to gear up for PvP in Menma's TERA?
 ---
+
+
+<center>
+
+## General Guide
+
+Massive thanks to Prince.Pluto for creating this document! <br>
+You can find it [HERE - General Guide to Menma's TERA Server](https://docs.google.com/document/d/1ZP0x52mzhdUGG9j1yvCJUlvF40dZgXePdSdCYamuNWA/edit?usp=drivesdk)
+
+</center>
+
+<hr/>
+
 ## Gear
 
 ![](https://i.imgur.com/x4XxIt4.png)

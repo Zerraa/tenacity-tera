@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/</loc>
-    <lastmod>2022-09-27T00:00:00+02:00</lastmod>
+    <lastmod>2022-10-11T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -30,11 +30,11 @@
                 href="https://zera-dev.github.io/tenacity-tera.github.io/en/"
                 />
   </url><url>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-09-27-p1.2/</loc>
-    <lastmod>2022-09-27T00:00:00+02:00</lastmod>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-10-11-p1.2.1/</loc>
+    <lastmod>2022-10-11T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/</loc>
-    <lastmod>2022-09-27T00:00:00+02:00</lastmod>
+    <lastmod>2022-10-11T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -60,6 +60,9 @@
                 hreflang="en"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/"
                 />
+  </url><url>
+    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-09-27-p1.2/</loc>
+    <lastmod>2022-09-27T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-30-p1.1.5/</loc>
     <lastmod>2022-08-30T00:00:00+02:00</lastmod>
@@ -1254,62 +1257,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/dreadspire-upper/"
-                />
-  </url><url>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/guild-vs-guild/</loc>
-    <lastmod>2022-05-03T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/menma-guide/guild-vs-guild/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/menma-guide/guild-vs-guild/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/es/menma-guide/guild-vs-guild/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/guild-vs-guild/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/guild-vs-guild/"
-                />
-  </url><url>
-    <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/outlaw-system/</loc>
-    <lastmod>2022-05-03T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ru/menma-guide/outlaw-system/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/ko/menma-guide/outlaw-system/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/es/menma-guide/outlaw-system/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/fr/menma-guide/outlaw-system/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/outlaw-system/"
                 />
   </url><url>
     <loc>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/rally-quest-menma/</loc>
