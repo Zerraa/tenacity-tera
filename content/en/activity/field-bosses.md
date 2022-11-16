@@ -8,6 +8,12 @@ images:
 
 Field Boss Monsters are large monsters in open world. These bosses won't display their remaining or maximum HP. Currently there are 3 Field Boss Monsters - Ortan, Hazard, and Cerrus - all three spawn on Arborea.
 
+<center>
+
+| [Menma’s TERA Field Bosses](../../en/menma-guide/field-bosses.md) | 
+
+</center>
+
 <hr/>
 
 ### Lag Issues

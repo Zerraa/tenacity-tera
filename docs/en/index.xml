@@ -6,7 +6,26 @@
     <description>Recent content in Homepage on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.3.1 – Battle Pass Adjustments &amp; General Hotfixes</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-11-15-p1.3.1/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-11-15-p1.3.1/</guid>
+      <description>Menma’s Hunter Event (Battle Pass) After reviewing feedback from the community, we’ve decided to make some significant changes to the Battle Pass system. Alongside a wealth of quality of life improvements, the new Dungeon Mission Box now contains 2 new “Mission Tickets,” allowing players to select specific dungeons they’d like to run. Dungeons within the “Dungeon Group Mission” boxes have also been amended. We hope these changes make it slightly more enjoyable to complete your Battle Pass!</description>
+    </item>
+    
+    <item>
+      <title>Menma’s TERA 1.3 – Finishing Accessories And Preparing For The Future</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-11-07-p1.3/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-11-07-p1.3/</guid>
+      <description>Dungeon Changes New Dungeons The following dungeons have been added:
+ RK-9 Kennel – Item level 472. Dragon’s Lair (previously Commander’s Residence) – Item level 481. Demokron Factory (Hard) – Item level 485.  Dragon’s Lair will be available twice per character per day on the weekends, and the vanguard will be claimable once daily on Saturday + Sunday. Notable rewards include: Refined Mana Essence, Agaia Material Tokens, 10K Item XP.</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.2.1 – Jewellery And More…</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-10-11-p1.2.1/</link>
@@ -638,7 +657,8 @@ As with the previous version of the Nexus, these events take place at specific t
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/field-bosses/</guid>
       <description>Field Boss Monsters are large monsters in open world. These bosses won&amp;rsquo;t display their remaining or maximum HP. Currently there are 3 Field Boss Monsters - Ortan, Hazard, and Cerrus - all three spawn on Arborea.
-Lag Issues Similar to Nexus or Dreamstorm, large number of players concentrated in a small area exposed the 32bit client&amp;rsquo;s inability to handle the overload of network packets and graphically rendering actions of over a hundred players, leading to client freezing until the surge of information decreased or disconnecting from the server.</description>
+| Menma’s TERA Field Bosses |
+Lag Issues Similar to Nexus or Dreamstorm, large number of players concentrated in a small area exposed the 32bit client&amp;rsquo;s inability to handle the overload of network packets and graphically rendering actions of over a hundred players, leading to client freezing until the surge of information decreased or disconnecting from the server.</description>
     </item>
     
     <item>
@@ -1300,6 +1320,18 @@ It might be an impact on how much crit resist the boss has but the important par
 Menma&amp;rsquo;s TERA  Solo content which you can do once daily on each of your characters.  Only requirement is to kill AT LEAST one mob to receive the reward for the character.
   By completing the vanguard you will get 500 Tikat.
  Depending on your ranking during the event, you will receive extra 500/400/300/200/100 Tikat.</description>
+    </item>
+    
+    <item>
+      <title>Field Bosses</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/field-bosses-menma/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/field-bosses-menma/</guid>
+      <description>Field Boss Monsters are large monsters in open world. They usually respawn every 5 to 6 hours after they die and drop great loot!
+On Menma&amp;rsquo;s TERA you can find many more World Bosses spawning around different areas! Get your party and claim the loot for yourself.
+Spawn Rates Field Boss Monsters Ortan, Hazard, and Cerrus can spawn between 4hr 30min to 5hr 30min from their death.
+Images of new bosses will come soon.</description>
     </item>
     
     <item>
