@@ -14,7 +14,7 @@
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/field-bosses/</guid>
       <description>Les boss de champ sont de gros monstres en monde ouvert. Ces boss n&amp;rsquo;afficheront pas leurs PV restant ni leurs PV maximum. Actuellement, il y a 3 Boss de champ - Ortan, Hazard, et Cerrus - tous les trois spawn dans Arborea.
- Problèmes de Lag Tout comme Nexus ou Dreamstorm, un grand nombre de joueurs concentrés dans une petite zone expose le logiciel client 32-bits à une impossibilité à tolérer la surcharge de paquets réseau ainsi que le rendu graphique au-delà de 100 joueurs, conduisant à un freez du logiciel client jusqu&amp;rsquo;à ce que la charge d&amp;rsquo;informations à traiter diminue ou que vous soyez déconnecté du serveur.</description>
+Problèmes de Lag Tout comme Nexus ou Dreamstorm, un grand nombre de joueurs concentrés dans une petite zone expose le logiciel client 32-bits à une impossibilité à tolérer la surcharge de paquets réseau ainsi que le rendu graphique au-delà de 100 joueurs, conduisant à un freez du logiciel client jusqu&amp;rsquo;à ce que la charge d&amp;rsquo;informations à traiter diminue ou que vous soyez déconnecté du serveur.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/companions/</guid>
       <description>Par le passé, les compagnon n&amp;rsquo;étaient que des animaux que l&amp;rsquo;on pouvait invoquer depuis l&amp;rsquo;interface des compétences. Depuis la v81 avec l&amp;rsquo;addition des partenaires et des ownward, les deux peuvent être invoqués depuis l&amp;rsquo;interface des compagnons.
- Les animaux ayant des abilités spéciales peuvent effectuer tedious tâches tel que le loot d&amp;rsquo;items, d&amp;rsquo;or, collecter les ressources, ou procurer un stockage supplémentaire. Les animaux ont aussi des compétences et leurs description est donnée dans le paragraphe ci-dessous :     Abilité Description     Soins-Auto Utilisez de la nourriture pour familiers ou des cadeaux quand l&amp;rsquo;énergie (stanima) de vôtre animal chute en dessous du pourcentage indiqué.</description>
+Les animaux ayant des abilités spéciales peuvent effectuer tedious tâches tel que le loot d&amp;rsquo;items, d&amp;rsquo;or, collecter les ressources, ou procurer un stockage supplémentaire. Les animaux ont aussi des compétences et leurs description est donnée dans le paragraphe ci-dessous : Abilité Description Soins-Auto Utilisez de la nourriture pour familiers ou des cadeaux quand l&amp;rsquo;énergie (stanima) de vôtre animal chute en dessous du pourcentage indiqué.</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <description>Durant Dreamstorm un grand nombre d&amp;rsquo;archidevans spawn pour attaquer les générateurs Oneiriques des scientifiques Bakara.
 L&amp;rsquo;évenement dure 10 minutes durant lesquelles des ennemis de plus en plus puissants vont spawn. Les joueurs gagnent et sont récompensés si le générateur central est toujours debout à la fin de l&amp;rsquo;évenement.
 Comme la précédente version de nexux, ces événements apparaissent suivant une heure spécifique chaque jours.
- HORAIRES     JOUR/HEURE 14:00 15:00 16:00 17:00 18:00 19:00 20:00 21:00 22:00     LUNDI - - - - 🗸 🗸 🗸 🗸 🗸   MARDI - - - - 🗸 🗸 🗸 🗸 🗸   MERCREDI - - - - 🗸 🗸 🗸 🗸 🗸   JEUDI - - - - 🗸 🗸 🗸 🗸 🗸   VENDREDI - - - - 🗸 🗸 🗸 🗸 🗸   SAMEDI 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸   DIMANCHE 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸     L&amp;rsquo;évenement est annoncé 30 minutes avant l&amp;rsquo;apparition des premiers monstres (ex.</description>
+HORAIRES JOUR/HEURE 14:00 15:00 16:00 17:00 18:00 19:00 20:00 21:00 22:00 LUNDI - - - - 🗸 🗸 🗸 🗸 🗸 MARDI - - - - 🗸 🗸 🗸 🗸 🗸 MERCREDI - - - - 🗸 🗸 🗸 🗸 🗸 JEUDI - - - - 🗸 🗸 🗸 🗸 🗸 VENDREDI - - - - 🗸 🗸 🗸 🗸 🗸 SAMEDI 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 DIMANCHE 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 L&amp;rsquo;évenement est annoncé 30 minutes avant l&amp;rsquo;apparition des premiers monstres (ex.</description>
     </item>
     
     <item>
@@ -102,7 +102,7 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/guardian-missions/</guid>
       <description>Les missions de gardien sont des types spéciaux de missions qui apparaîssent en monde ouvert pour une durée limité.
- Vous pouvez participer à ces missions après avoir ateint le niveau 65.  Il y a au total 6 types de missions de gardien, comme le combat de BAM, escorte de wagon, mini-jeux ou vol.</description>
+Vous pouvez participer à ces missions après avoir ateint le niveau 65. Il y a au total 6 types de missions de gardien, comme le combat de BAM, escorte de wagon, mini-jeux ou vol.</description>
     </item>
     
     <item>
@@ -114,7 +114,7 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin.
 There are two different types of merchants: City Merchant and Wandering Merchant.
 City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.
- | Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
+| Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
     </item>
     
     <item>
@@ -144,7 +144,7 @@ All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/fr/activity/game-lore/</guid>
       <description>| Chapitre Un - Age of Creation | Chapitre Two - Age of Divinity | Chapitre Three - Age of Legends | Chapitre Four - Age of Mortals | Argon Arc - Fate of Arun | Baldera Arc - Vergos and his followers | Manahan Arc
-  Chapitre Un - Age de la Création  01- Arun and Shara In the beginning of time, above the vast open universe, lived Arun and Shara.</description>
+Chapitre Un - Age de la Création 01- Arun and Shara In the beginning of time, above the vast open universe, lived Arun and Shara.</description>
     </item>
     
   </channel>

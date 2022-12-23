@@ -6,9 +6,18 @@
     <description>Recent content in Patch Notes for Menma&#39;s TERA on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Menma’s TERA 1.4 – Life Skilling, Class Revamps, PvE Resign and Christmas</title>
+      <title>Menma’s TERA 1.4.1 – Hotfixes</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-12-18-p1.4.1/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-12-18-p1.4.1/</guid>
+      <description>PVE Content Changes Events Fixed Wintera not awarding Wintera tokens. Wintera now awards 50 tokens via vanguard quest. Fixed Christmas Map Treasures to be party-wide rather than rolled for. Fat Santa loot updated. Dungeons The Plexus Decreased Nightmare Shandra Manaya&amp;rsquo;s HP from 50.6 billion to 47.5 billion. Changed Nightmare Shandra Manaya&amp;rsquo;s spawn location to the center of the room. Nightmare Shandra Manaya will not aggro until attacked. Fixed issue where Nightmare Shandra Manaya would not drop aggro if people were outside the arena.</description>
+    </item>
+    
+    <item>
+      <title>Menma’s TERA 1.4 – Life Skilling, Class Revamps, PvE Redesign and Christmas</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-12-13-p1.4/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0100</pubDate>
       
@@ -33,7 +42,7 @@ A number of dungeons in the current PVE roster, ranging from entry-level dungeon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-11-07-p1.3/</guid>
       <description>Dungeon Changes New Dungeons The following dungeons have been added:
- RK-9 Kennel – Item level 472. Dragon’s Lair (previously Commander’s Residence) – Item level 481. Demokron Factory (Hard) – Item level 485.  Dragon’s Lair will be available twice per character per day on the weekends, and the vanguard will be claimable once daily on Saturday + Sunday. Notable rewards include: Refined Mana Essence, Agaia Material Tokens, 10K Item XP.</description>
+RK-9 Kennel – Item level 472. Dragon’s Lair (previously Commander’s Residence) – Item level 481. Demokron Factory (Hard) – Item level 485. Dragon’s Lair will be available twice per character per day on the weekends, and the vanguard will be claimable once daily on Saturday + Sunday. Notable rewards include: Refined Mana Essence, Agaia Material Tokens, 10K Item XP. The raid can be accessed via scrolls sold by the Specialty Merchant, or via instance matching.</description>
     </item>
     
     <item>
@@ -43,9 +52,9 @@ A number of dungeons in the current PVE roster, ranging from entry-level dungeon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-10-11-p1.2.1/</guid>
       <description>Dungeon Changes New Dungeons The following dungeons have been added:
- Forbidden Arena [Undying Warlord] – Item level 480. Forbidden Arena [Nightmare Undying Warlord] – Item level 490. Rampaging RK-9 Kennel – Item level 490.  Dungeons can be accessed via the Vanguard menu or from teleport scrolls in the Specialty Store.
+Forbidden Arena [Undying Warlord] – Item level 480. Forbidden Arena [Nightmare Undying Warlord] – Item level 490. Rampaging RK-9 Kennel – Item level 490. Dungeons can be accessed via the Vanguard menu or from teleport scrolls in the Specialty Store.
 Unique rewards covered in the gear section below.
-Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to the drop table.</description>
+Dungeon Adjustments Ghilleglade: Added Dragonwing Scales and Item XP +10% to the drop table.</description>
     </item>
     
     <item>
@@ -55,7 +64,7 @@ Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to t
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-09-27-p1.2/</guid>
       <description>Dungeon Changes The following dungeons have been added:
- Akalath Quarantine – Item level 475. Draakon Arena – Item level 480. Draakon Arena (Hard) – Item level 490.  Dungeons can be accessed via the Vanguard menu or from teleport scrolls in the Specialty Store (Verrak Fortress Teleport Scroll + Draakon Arena Teleport Scroll). Entry to Draakon Arena must be unlocked by completing the quest &amp;lt;[Important] The Azart Commander&amp;gt;. Quest start is located outside of the dungeon entrance.</description>
+Akalath Quarantine – Item level 475. Draakon Arena – Item level 480. Draakon Arena (Hard) – Item level 490. Dungeons can be accessed via the Vanguard menu or from teleport scrolls in the Specialty Store (Verrak Fortress Teleport Scroll + Draakon Arena Teleport Scroll). Entry to Draakon Arena must be unlocked by completing the quest &amp;lt;[Important] The Azart Commander&amp;gt;. Quest start is located outside of the dungeon entrance.</description>
     </item>
     
     <item>
@@ -64,7 +73,7 @@ Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to t
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-30-p1.1.5/</guid>
-      <description>Festival of the Sun  The well known festival of the sun event is coming a little late in the game and will be remaining active from 1.1.5 maintenance until the end of September. Daily questing to earn Seashell Tokens that can be used in the Shurimon NPC located in Highwatch.  Rewards are as follows:    Battlegrounds Elin Event  Duration: 7 Days (30th August 2022 after maintenance – 6th September 2022 23:59:59 UTC) Shore Hold  Play 5 Games for Exodor Laundry Basket x3 Play 10 Games for 3,000 Tikat Play 15 Games for Dragon Skill: Mighty Solarian Wyvern (7 Days)   Corsairs’ Stronghold  Play 5 Games for Kaia’s Gear Box x5 Play 8 Games for 5,000 Tikat Play 10 Games for Exodor Laundry Basket x5 Play 20 Games for Liberation Scroll   Champions’ Skyring  Play 5 Games for 10 Diamonds Play 10 Games for 3,000 Tikat Play 15 Games for Dragon Skill: Mighty Solarian Wyvern (7 Days)    Battleground Changes  Equalised Gear: We added new equalised gear for battlegrounds provide a more balanced experience inside the battlegrounds.</description>
+      <description>Festival of the Sun The well known festival of the sun event is coming a little late in the game and will be remaining active from 1.1.5 maintenance until the end of September. Daily questing to earn Seashell Tokens that can be used in the Shurimon NPC located in Highwatch. Rewards are as follows: Battlegrounds Elin Event Duration: 7 Days (30th August 2022 after maintenance – 6th September 2022 23:59:59 UTC) Shore Hold Play 5 Games for Exodor Laundry Basket x3 Play 10 Games for 3,000 Tikat Play 15 Games for Dragon Skill: Mighty Solarian Wyvern (7 Days) Corsairs’ Stronghold Play 5 Games for Kaia’s Gear Box x5 Play 8 Games for 5,000 Tikat Play 10 Games for Exodor Laundry Basket x5 Play 20 Games for Liberation Scroll Champions’ Skyring Play 5 Games for 10 Diamonds Play 10 Games for 3,000 Tikat Play 15 Games for Dragon Skill: Mighty Solarian Wyvern (7 Days) Battleground Changes Equalised Gear: We added new equalised gear for battlegrounds provide a more balanced experience inside the battlegrounds.</description>
     </item>
     
     <item>
@@ -73,7 +82,7 @@ Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to t
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-20-p1.1.4/</guid>
-      <description>General/Miscellaneous changes  Disabled GvGs inside the city of Highwatch Enabled GvGs in the Velika region + inner city. Decreased cooldown of Strong Canephora Potion to 5 seconds. Decreased cooldown of Tempestuous Savage Draught to 5 minutes. Decreased cooldown of Inexorable Savage Draught to 5 minutes. Strong Canephora Potion is now overwritable by itself. Menma’s Multi-Nostrum will now give the Crit Factor Fish Buffet (Spicy) Instead of the Endurance Fish Buffet (Salty).</description>
+      <description>General/Miscellaneous changes Disabled GvGs inside the city of Highwatch Enabled GvGs in the Velika region + inner city. Decreased cooldown of Strong Canephora Potion to 5 seconds. Decreased cooldown of Tempestuous Savage Draught to 5 minutes. Decreased cooldown of Inexorable Savage Draught to 5 minutes. Strong Canephora Potion is now overwritable by itself. Menma’s Multi-Nostrum will now give the Crit Factor Fish Buffet (Spicy) Instead of the Endurance Fish Buffet (Salty).</description>
     </item>
     
     <item>
@@ -83,7 +92,7 @@ Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to t
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-09-p1.1.3/</guid>
       <description>New Elin Event An account based Elin Event has been added. It will last from 9/8/2022 till 15/8/2022. Participate in the following activities in order to receive additional rewards during the event period:
-PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamonds 25 Times = 10.000 Tikat   Clear Forbidden Arena [Hagufna]  5 times = 500 Tikat 15 times = 1.</description>
+PvE Events Clear Bahaar’s Sanctum 5 Times = 25 Diamonds 15 Times = 50 Diamonds 25 Times = 10.000 Tikat Clear Forbidden Arena [Hagufna] 5 times = 500 Tikat 15 times = 1.000 Tikat 25 times = 5.</description>
     </item>
     
     <item>
@@ -93,7 +102,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-12-p1.1.1/</guid>
       <description>On this maintenance, a part of scheduled hotfixes have been added. More hotfixes will be coming in the following days.
-General  Reverted Reaper Starting Area to Ashen Hope. Character deleting timer is now normally set to 24 hours over level 50. Updated some skill tooltips to more accurately display skill descriptions. Stepstone Island quest that required the use of Bravery Potion, now requires Strong Bravery Potion instead, to avoid issues with Menma’s Multi Nostrum.</description>
+General Reverted Reaper Starting Area to Ashen Hope. Character deleting timer is now normally set to 24 hours over level 50. Updated some skill tooltips to more accurately display skill descriptions. Stepstone Island quest that required the use of Bravery Potion, now requires Strong Bravery Potion instead, to avoid issues with Menma’s Multi Nostrum.</description>
     </item>
     
     <item>
@@ -103,7 +112,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-01-p1.1.2/</guid>
       <description>This week’s maintenance will come in 2 parts. First, this small part with some adjustments/fixes. Second will be coming towards the end of this week or next week’s Monday.
-General  Dressing Room has finally been fixed and is now the recommended way of picking up and buying costumes. Increased all Keen IV Etchings Crit Factor from 22 to 24. Added the following items to the Elleon’s Mark of Valor Shop:  Federation Supply: Rejuvenation Potion for 10 Elleon’s Marks.</description>
+General Dressing Room has finally been fixed and is now the recommended way of picking up and buying costumes. Increased all Keen IV Etchings Crit Factor from 22 to 24. Added the following items to the Elleon’s Mark of Valor Shop: Federation Supply: Rejuvenation Potion for 10 Elleon’s Marks.</description>
     </item>
     
     <item>
@@ -113,8 +122,8 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-08-p1.1/</guid>
       <description>The long awaited 1.1 patch is finally here. With changes to PvE, PvP, Open World content, Class Balancing and of course, the 64-bit client.
-Game Client  The game client has been updated to 64-bit, DirectX 11. Added new supported game languages: German, French, Russian.  Dungeons &amp;amp; PvE   The following dungeons are closing their doors:
- Dreadspire Velik’s Sanctuary (Hard) Forsaken Island (Hard) Timescape (Hard) Grotto of Lost Souls (Hard) Antaroth’s Abyss (Hard) RK-9 Kennel Red Refuge Velik’s Hold Velik’s Sanctuary    The new dungeon list is as follows:</description>
+Game Client The game client has been updated to 64-bit, DirectX 11. Added new supported game languages: German, French, Russian. Dungeons &amp;amp; PvE The following dungeons are closing their doors:
+Dreadspire Velik’s Sanctuary (Hard) Forsaken Island (Hard) Timescape (Hard) Grotto of Lost Souls (Hard) Antaroth’s Abyss (Hard) RK-9 Kennel Red Refuge Velik’s Hold Velik’s Sanctuary The new dungeon list is as follows:</description>
     </item>
     
     <item>
@@ -123,7 +132,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-10-p1.0.9/</guid>
-      <description>Guild Changes  Increased Guild XP Rewards from Guild Quests by 10x. Decreased amount of Guild XP required for each Guild Level by 20%. Increased maximum amount of Valderon Tokens from 900 to 1500.  Miscellaneous  Disabled Pit of Petrax Leaderboards. Added Strong Canephora Potion to Elleon’s Mark of Valor for 5 Elleon’s Marks. Added Moongourd Pie to Eleon’s Mark of Valor for 10 Eleon’s Marks. Increased channels of all open world zones.</description>
+      <description>Guild Changes Increased Guild XP Rewards from Guild Quests by 10x. Decreased amount of Guild XP required for each Guild Level by 20%. Increased maximum amount of Valderon Tokens from 900 to 1500. Miscellaneous Disabled Pit of Petrax Leaderboards. Added Strong Canephora Potion to Elleon’s Mark of Valor for 5 Elleon’s Marks. Added Moongourd Pie to Eleon’s Mark of Valor for 10 Eleon’s Marks. Increased channels of all open world zones.</description>
     </item>
     
     <item>
@@ -132,7 +141,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-02-p1.0.8/</guid>
-      <description>Miscellaneous  Maximum guild size has been increased to 35. All inactive accounts that did not log in since January 1st, 2022, have had their character names freed. Approximately 800 names have been freed. All Characters of level 70 have received 1x Eternal Gear Token Box on their Parcel Post. Fishing Rods have been temporarily disabled due to them being used to escape knockdown state with no cooldown. They will be fixed and brought back at a later patch.</description>
+      <description>Miscellaneous Maximum guild size has been increased to 35. All inactive accounts that did not log in since January 1st, 2022, have had their character names freed. Approximately 800 names have been freed. All Characters of level 70 have received 1x Eternal Gear Token Box on their Parcel Post. Fishing Rods have been temporarily disabled due to them being used to escape knockdown state with no cooldown. They will be fixed and brought back at a later patch.</description>
     </item>
     
     <item>
@@ -141,7 +150,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <pubDate>Sun, 22 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-05-22-p1.0.7/</guid>
-      <description>Golden Halidoms &amp;amp; Relics  Manaya’s Core (Hard)  Nightmare Shandra Manaya has a 20% chance to drop 1-2 Rank IV Halidoms or Relics alongside the Rank II ones that would already drop, the latter which now has a 50% chance to drop.   Velik’s Sanctuary (Hard)  Nightmare Lakan has a 50% chance to drop 1-3 Rank II Halidoms or Relics.   Bahaar/Timescape/Forsaken Island  75% chance to drop 1-4 Rank I Halidoms or Relics.</description>
+      <description>Golden Halidoms &amp;amp; Relics Manaya’s Core (Hard) Nightmare Shandra Manaya has a 20% chance to drop 1-2 Rank IV Halidoms or Relics alongside the Rank II ones that would already drop, the latter which now has a 50% chance to drop. Velik’s Sanctuary (Hard) Nightmare Lakan has a 50% chance to drop 1-3 Rank II Halidoms or Relics. Bahaar/Timescape/Forsaken Island 75% chance to drop 1-4 Rank I Halidoms or Relics. Partners Physical and Magical Amplification Superior Companions have been added to the Tikat Shop for 5,000 Tikats.</description>
     </item>
     
     <item>
@@ -151,7 +160,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-05-15-p1.0.6/</guid>
       <description>Patch v1.0.6 brings various unique changes to the gear, PvP and miscellaneous gameplay improvements. Please find the details below.
-TERA Club  New item added: &amp;lt;Menma’s Multi-Nostrum&amp;gt;  Upon use, applies Everful Nostrum, Strong Bravery, Superior Noctenium Elixir and Hot or Salty Fish Buffet buffs, the last one depending on your class.    New Starting Item  Eternal Gear Token Box has been added.  Eternal Gear Token Box will replace existing Bellicarium Credits Item which new characters used to receive at the start of the game.</description>
+TERA Club New item added: &amp;lt;Menma’s Multi-Nostrum&amp;gt; Upon use, applies Everful Nostrum, Strong Bravery, Superior Noctenium Elixir and Hot or Salty Fish Buffet buffs, the last one depending on your class. New Starting Item Eternal Gear Token Box has been added. Eternal Gear Token Box will replace existing Bellicarium Credits Item which new characters used to receive at the start of the game.</description>
     </item>
     
     <item>
@@ -161,7 +170,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-05-01-p1.0.5/</guid>
       <description>Some scheduled changes have been postponed for the next patch due to time limitations, and will be coming as soon as possible.
-Battleground  Fraywind Canyon no longer gives personal gear over item level 448. All Battlegrounds should stay up 24/7 now with no shutdown time. Removed faulty Civil Unrest NPC Teleport option (You would get doomzoned if you used it) Changed CU Rewards to:  1st Place:  5M Bellicarium Credit token 5k Tikat Tokens   2nd Place:  5M Bellicarium Credit Token 3.</description>
+Battleground Fraywind Canyon no longer gives personal gear over item level 448. All Battlegrounds should stay up 24/7 now with no shutdown time. Removed faulty Civil Unrest NPC Teleport option (You would get doomzoned if you used it) Changed CU Rewards to: 1st Place: 5M Bellicarium Credit token 5k Tikat Tokens 2nd Place: 5M Bellicarium Credit Token 3.</description>
     </item>
     
     <item>
@@ -170,7 +179,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-09-13-p1.0.4/</guid>
-      <description>Crafting  Changed craft level requirements of Golden Darics &amp;amp; Silver Siglos to 1 point (Basic Crafting Level) Changed craft level requirements of Golden Plates &amp;amp; Silver Plates to 500 points (Artisan Crafting Level) Artisan level test of Smelting now requires Golden Daric crafting only to pass. Master level test of Smelting now requires Golden Plate crafting only to pass. Artisan level test of Processing now requires Silver Siglo crafting only to pass.</description>
+      <description>Crafting Changed craft level requirements of Golden Darics &amp;amp; Silver Siglos to 1 point (Basic Crafting Level) Changed craft level requirements of Golden Plates &amp;amp; Silver Plates to 500 points (Artisan Crafting Level) Artisan level test of Smelting now requires Golden Daric crafting only to pass. Master level test of Smelting now requires Golden Plate crafting only to pass. Artisan level test of Processing now requires Silver Siglo crafting only to pass.</description>
     </item>
     
     <item>
@@ -179,7 +188,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-09-08-p1.0.3/</guid>
-      <description>General  Kaia’s Anvil quest required for unlocking the Kaia upgrade NPC is now automatically starting at level 70 (minimum item level required 461). You no longer have to do the exodor quest line to get it. The item Bellicarium Credits (5m) no longer expires after 1 hour of acquiring. Increased amount of maximum Adventure Coins to 2000 for non-TERA Club members and to 6000 for TERA Club members. The UI now properly displays Adventure Coins recharge rate of 20 for TERA Club members.</description>
+      <description>General Kaia’s Anvil quest required for unlocking the Kaia upgrade NPC is now automatically starting at level 70 (minimum item level required 461). You no longer have to do the exodor quest line to get it. The item Bellicarium Credits (5m) no longer expires after 1 hour of acquiring. Increased amount of maximum Adventure Coins to 2000 for non-TERA Club members and to 6000 for TERA Club members. The UI now properly displays Adventure Coins recharge rate of 20 for TERA Club members.</description>
     </item>
     
     <item>
@@ -188,7 +197,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-08-30-p1.0.2/</guid>
-      <description>General  Healers weapons should now drop unidentified. Non-healer weapons with no stats will drop identified now and will be missing the top selectable stat (enrage/cdr/attack speed/crit factor). Masks from Transcendent Mask Coupon shop require 1 coupon now instead of previous 6(?). Adjusted Battered Oath Gear sell price to 1,000 gold. Deleting a character over level 50 will now require 24 hours waiting time before being deleted. Replaced some of the non tradeable costumes with their tradeable versions.</description>
+      <description>General Healers weapons should now drop unidentified. Non-healer weapons with no stats will drop identified now and will be missing the top selectable stat (enrage/cdr/attack speed/crit factor). Masks from Transcendent Mask Coupon shop require 1 coupon now instead of previous 6(?). Adjusted Battered Oath Gear sell price to 1,000 gold. Deleting a character over level 50 will now require 24 hours waiting time before being deleted. Replaced some of the non tradeable costumes with their tradeable versions.</description>
     </item>
     
     <item>
@@ -197,7 +206,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-08-29-p1.0.1/</guid>
-      <description>General  Skill Advancement gold cost has been reduced to 0. Tikat is now obtainable through vanguard initiative merchant on an exchange ratio of 1:1. Ancient Accessory Morpher merchant price has been changed to 1,000g compared to previous 10,000g. Skill Advancement scrolls have been added to the Bellicarium Credit Merchant shop at 10 credit per scroll. Adjusted price of Prime Battle Solution to 10 gold. Veteran title reward has been switched to the special glowing title called “Pride of Menma”.</description>
+      <description>General Skill Advancement gold cost has been reduced to 0. Tikat is now obtainable through vanguard initiative merchant on an exchange ratio of 1:1. Ancient Accessory Morpher merchant price has been changed to 1,000g compared to previous 10,000g. Skill Advancement scrolls have been added to the Bellicarium Credit Merchant shop at 10 credit per scroll. Adjusted price of Prime Battle Solution to 10 gold. Veteran title reward has been switched to the special glowing title called “Pride of Menma”.</description>
     </item>
     
     <item>
@@ -207,8 +216,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-09-01-dev-note/</guid>
       <description>Instead of reposting Dev-Note here, you can find it at the official website:
- Menma’s TERA Server
-</description>
+Menma’s TERA Server</description>
     </item>
     
     <item>
@@ -218,9 +226,9 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-08-28-p1.0/</guid>
       <description>Menma’s TERA release is finally upon us, aiming to bring the game to as close to its glory days as possible. And now a word from our patch notes. Let’s goooo. Good luck to me writing the notes now.
-Character Creation
- On character creation you will be receiving Heroic Oath Gear, PvP crystals, Relic/Halidom I, accessories and a level 70 scroll.  Adventure Coins
- Maximum Adventure Coins for TERA Club accounts increased to 5000.</description>
+Character Creation
+On character creation you will be receiving Heroic Oath Gear, PvP crystals, Relic/Halidom I, accessories and a level 70 scroll. Adventure Coins
+Maximum Adventure Coins for TERA Club accounts increased to 5000.</description>
     </item>
     
     <item>
@@ -229,7 +237,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-06-29-p0.2/</guid>
-      <description>The First Class Balance Attempt General  Added War Cry Chest to Tikat Shop. Guild Join Cooldown is now set to 0. Increased maximum amount of Bellicarium credits from 2m to 32m. (Maximum limit won’t show in client yet) Apex Scroll has been added to the Eternal Gear Token Shop. The Colosseum is now only solo queue. Added The Colosseum 3v3 (Team) premade queue. (Currently accessible from Champion’s Skyring Mark V (Team) option in Instance Matching.</description>
+      <description>The First Class Balance Attempt General Added War Cry Chest to Tikat Shop. Guild Join Cooldown is now set to 0. Increased maximum amount of Bellicarium credits from 2m to 32m. (Maximum limit won’t show in client yet) Apex Scroll has been added to the Eternal Gear Token Shop. The Colosseum is now only solo queue. Added The Colosseum 3v3 (Team) premade queue. (Currently accessible from Champion’s Skyring Mark V (Team) option in Instance Matching.</description>
     </item>
     
     <item>
@@ -239,9 +247,9 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-06-12-p0.1/</guid>
       <description>Menma’s TERA open beta testing is upon us, and comes with huge changes to the game we know as TERA. It’s time to make the switch!
-Character Selection Screen
- The Character Selection screen has been replaced with the old 2013 style character selection.  Island of Dawn
- The ruined Island of Dawn has been replaced with the old 2013 Island of Dawn. The Island of Dawn monsters of the areas in the bottom have been buffed.</description>
+Character Selection Screen
+The Character Selection screen has been replaced with the old 2013 style character selection. Island of Dawn
+The ruined Island of Dawn has been replaced with the old 2013 Island of Dawn. The Island of Dawn monsters of the areas in the bottom have been buffed.</description>
     </item>
     
   </channel>

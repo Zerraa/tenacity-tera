@@ -6,9 +6,18 @@
     <description>Recent content in Homepage on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Menma’s TERA 1.4 – Life Skilling, Class Revamps, PvE Resign and Christmas</title>
+      <title>Menma’s TERA 1.4.1 – Hotfixes</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-12-18-p1.4.1/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-12-18-p1.4.1/</guid>
+      <description>PVE Content Changes Events Fixed Wintera not awarding Wintera tokens. Wintera now awards 50 tokens via vanguard quest. Fixed Christmas Map Treasures to be party-wide rather than rolled for. Fat Santa loot updated. Dungeons The Plexus Decreased Nightmare Shandra Manaya&amp;rsquo;s HP from 50.6 billion to 47.5 billion. Changed Nightmare Shandra Manaya&amp;rsquo;s spawn location to the center of the room. Nightmare Shandra Manaya will not aggro until attacked. Fixed issue where Nightmare Shandra Manaya would not drop aggro if people were outside the arena.</description>
+    </item>
+    
+    <item>
+      <title>Menma’s TERA 1.4 – Life Skilling, Class Revamps, PvE Redesign and Christmas</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-12-13-p1.4/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0100</pubDate>
       
@@ -33,7 +42,7 @@ A number of dungeons in the current PVE roster, ranging from entry-level dungeon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-11-07-p1.3/</guid>
       <description>Dungeon Changes New Dungeons The following dungeons have been added:
- RK-9 Kennel – Item level 472. Dragon’s Lair (previously Commander’s Residence) – Item level 481. Demokron Factory (Hard) – Item level 485.  Dragon’s Lair will be available twice per character per day on the weekends, and the vanguard will be claimable once daily on Saturday + Sunday. Notable rewards include: Refined Mana Essence, Agaia Material Tokens, 10K Item XP.</description>
+RK-9 Kennel – Item level 472. Dragon’s Lair (previously Commander’s Residence) – Item level 481. Demokron Factory (Hard) – Item level 485. Dragon’s Lair will be available twice per character per day on the weekends, and the vanguard will be claimable once daily on Saturday + Sunday. Notable rewards include: Refined Mana Essence, Agaia Material Tokens, 10K Item XP. The raid can be accessed via scrolls sold by the Specialty Merchant, or via instance matching.</description>
     </item>
     
     <item>
@@ -43,9 +52,9 @@ A number of dungeons in the current PVE roster, ranging from entry-level dungeon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-10-11-p1.2.1/</guid>
       <description>Dungeon Changes New Dungeons The following dungeons have been added:
- Forbidden Arena [Undying Warlord] – Item level 480. Forbidden Arena [Nightmare Undying Warlord] – Item level 490. Rampaging RK-9 Kennel – Item level 490.  Dungeons can be accessed via the Vanguard menu or from teleport scrolls in the Specialty Store.
+Forbidden Arena [Undying Warlord] – Item level 480. Forbidden Arena [Nightmare Undying Warlord] – Item level 490. Rampaging RK-9 Kennel – Item level 490. Dungeons can be accessed via the Vanguard menu or from teleport scrolls in the Specialty Store.
 Unique rewards covered in the gear section below.
-Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to the drop table.</description>
+Dungeon Adjustments Ghilleglade: Added Dragonwing Scales and Item XP +10% to the drop table.</description>
     </item>
     
     <item>
@@ -55,7 +64,7 @@ Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to t
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-09-27-p1.2/</guid>
       <description>Dungeon Changes The following dungeons have been added:
- Akalath Quarantine – Item level 475. Draakon Arena – Item level 480. Draakon Arena (Hard) – Item level 490.  Dungeons can be accessed via the Vanguard menu or from teleport scrolls in the Specialty Store (Verrak Fortress Teleport Scroll + Draakon Arena Teleport Scroll). Entry to Draakon Arena must be unlocked by completing the quest &amp;lt;[Important] The Azart Commander&amp;gt;. Quest start is located outside of the dungeon entrance.</description>
+Akalath Quarantine – Item level 475. Draakon Arena – Item level 480. Draakon Arena (Hard) – Item level 490. Dungeons can be accessed via the Vanguard menu or from teleport scrolls in the Specialty Store (Verrak Fortress Teleport Scroll + Draakon Arena Teleport Scroll). Entry to Draakon Arena must be unlocked by completing the quest &amp;lt;[Important] The Azart Commander&amp;gt;. Quest start is located outside of the dungeon entrance.</description>
     </item>
     
     <item>
@@ -64,7 +73,7 @@ Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to t
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-30-p1.1.5/</guid>
-      <description>Festival of the Sun  The well known festival of the sun event is coming a little late in the game and will be remaining active from 1.1.5 maintenance until the end of September. Daily questing to earn Seashell Tokens that can be used in the Shurimon NPC located in Highwatch.  Rewards are as follows:    Battlegrounds Elin Event  Duration: 7 Days (30th August 2022 after maintenance – 6th September 2022 23:59:59 UTC) Shore Hold  Play 5 Games for Exodor Laundry Basket x3 Play 10 Games for 3,000 Tikat Play 15 Games for Dragon Skill: Mighty Solarian Wyvern (7 Days)   Corsairs’ Stronghold  Play 5 Games for Kaia’s Gear Box x5 Play 8 Games for 5,000 Tikat Play 10 Games for Exodor Laundry Basket x5 Play 20 Games for Liberation Scroll   Champions’ Skyring  Play 5 Games for 10 Diamonds Play 10 Games for 3,000 Tikat Play 15 Games for Dragon Skill: Mighty Solarian Wyvern (7 Days)    Battleground Changes  Equalised Gear: We added new equalised gear for battlegrounds provide a more balanced experience inside the battlegrounds.</description>
+      <description>Festival of the Sun The well known festival of the sun event is coming a little late in the game and will be remaining active from 1.1.5 maintenance until the end of September. Daily questing to earn Seashell Tokens that can be used in the Shurimon NPC located in Highwatch. Rewards are as follows: Battlegrounds Elin Event Duration: 7 Days (30th August 2022 after maintenance – 6th September 2022 23:59:59 UTC) Shore Hold Play 5 Games for Exodor Laundry Basket x3 Play 10 Games for 3,000 Tikat Play 15 Games for Dragon Skill: Mighty Solarian Wyvern (7 Days) Corsairs’ Stronghold Play 5 Games for Kaia’s Gear Box x5 Play 8 Games for 5,000 Tikat Play 10 Games for Exodor Laundry Basket x5 Play 20 Games for Liberation Scroll Champions’ Skyring Play 5 Games for 10 Diamonds Play 10 Games for 3,000 Tikat Play 15 Games for Dragon Skill: Mighty Solarian Wyvern (7 Days) Battleground Changes Equalised Gear: We added new equalised gear for battlegrounds provide a more balanced experience inside the battlegrounds.</description>
     </item>
     
     <item>
@@ -73,7 +82,7 @@ Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to t
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-20-p1.1.4/</guid>
-      <description>General/Miscellaneous changes  Disabled GvGs inside the city of Highwatch Enabled GvGs in the Velika region + inner city. Decreased cooldown of Strong Canephora Potion to 5 seconds. Decreased cooldown of Tempestuous Savage Draught to 5 minutes. Decreased cooldown of Inexorable Savage Draught to 5 minutes. Strong Canephora Potion is now overwritable by itself. Menma’s Multi-Nostrum will now give the Crit Factor Fish Buffet (Spicy) Instead of the Endurance Fish Buffet (Salty).</description>
+      <description>General/Miscellaneous changes Disabled GvGs inside the city of Highwatch Enabled GvGs in the Velika region + inner city. Decreased cooldown of Strong Canephora Potion to 5 seconds. Decreased cooldown of Tempestuous Savage Draught to 5 minutes. Decreased cooldown of Inexorable Savage Draught to 5 minutes. Strong Canephora Potion is now overwritable by itself. Menma’s Multi-Nostrum will now give the Crit Factor Fish Buffet (Spicy) Instead of the Endurance Fish Buffet (Salty).</description>
     </item>
     
     <item>
@@ -83,7 +92,7 @@ Dungeon Adjustments  Ghilleglade:  Added Dragonwing Scales and Item XP +10% to t
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-09-p1.1.3/</guid>
       <description>New Elin Event An account based Elin Event has been added. It will last from 9/8/2022 till 15/8/2022. Participate in the following activities in order to receive additional rewards during the event period:
-PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamonds 25 Times = 10.000 Tikat   Clear Forbidden Arena [Hagufna]  5 times = 500 Tikat 15 times = 1.</description>
+PvE Events Clear Bahaar’s Sanctum 5 Times = 25 Diamonds 15 Times = 50 Diamonds 25 Times = 10.000 Tikat Clear Forbidden Arena [Hagufna] 5 times = 500 Tikat 15 times = 1.000 Tikat 25 times = 5.</description>
     </item>
     
     <item>
@@ -93,7 +102,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-12-p1.1.1/</guid>
       <description>On this maintenance, a part of scheduled hotfixes have been added. More hotfixes will be coming in the following days.
-General  Reverted Reaper Starting Area to Ashen Hope. Character deleting timer is now normally set to 24 hours over level 50. Updated some skill tooltips to more accurately display skill descriptions. Stepstone Island quest that required the use of Bravery Potion, now requires Strong Bravery Potion instead, to avoid issues with Menma’s Multi Nostrum.</description>
+General Reverted Reaper Starting Area to Ashen Hope. Character deleting timer is now normally set to 24 hours over level 50. Updated some skill tooltips to more accurately display skill descriptions. Stepstone Island quest that required the use of Bravery Potion, now requires Strong Bravery Potion instead, to avoid issues with Menma’s Multi Nostrum.</description>
     </item>
     
     <item>
@@ -103,7 +112,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-08-01-p1.1.2/</guid>
       <description>This week’s maintenance will come in 2 parts. First, this small part with some adjustments/fixes. Second will be coming towards the end of this week or next week’s Monday.
-General  Dressing Room has finally been fixed and is now the recommended way of picking up and buying costumes. Increased all Keen IV Etchings Crit Factor from 22 to 24. Added the following items to the Elleon’s Mark of Valor Shop:  Federation Supply: Rejuvenation Potion for 10 Elleon’s Marks.</description>
+General Dressing Room has finally been fixed and is now the recommended way of picking up and buying costumes. Increased all Keen IV Etchings Crit Factor from 22 to 24. Added the following items to the Elleon’s Mark of Valor Shop: Federation Supply: Rejuvenation Potion for 10 Elleon’s Marks.</description>
     </item>
     
     <item>
@@ -113,8 +122,8 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-07-08-p1.1/</guid>
       <description>The long awaited 1.1 patch is finally here. With changes to PvE, PvP, Open World content, Class Balancing and of course, the 64-bit client.
-Game Client  The game client has been updated to 64-bit, DirectX 11. Added new supported game languages: German, French, Russian.  Dungeons &amp;amp; PvE   The following dungeons are closing their doors:
- Dreadspire Velik’s Sanctuary (Hard) Forsaken Island (Hard) Timescape (Hard) Grotto of Lost Souls (Hard) Antaroth’s Abyss (Hard) RK-9 Kennel Red Refuge Velik’s Hold Velik’s Sanctuary    The new dungeon list is as follows:</description>
+Game Client The game client has been updated to 64-bit, DirectX 11. Added new supported game languages: German, French, Russian. Dungeons &amp;amp; PvE The following dungeons are closing their doors:
+Dreadspire Velik’s Sanctuary (Hard) Forsaken Island (Hard) Timescape (Hard) Grotto of Lost Souls (Hard) Antaroth’s Abyss (Hard) RK-9 Kennel Red Refuge Velik’s Hold Velik’s Sanctuary The new dungeon list is as follows:</description>
     </item>
     
     <item>
@@ -125,7 +134,7 @@ PvE Events  Clear Bahaar’s Sanctum  5 Times = 25 Diamonds 15 Times = 50 Diamon
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-30-official-tera-shutdown/</guid>
       <description>Unfortunately, TERA’s developers, Bluehole, have decided to cease work on TERA.
 The TERA servers will be switched off at 10 AM CEST (4 AM EDT) on 30th June 2022.
- After nearly 10 long years, the TERA legend must sadly come to an end.  Please note that the game cannot be added in the Gameforge client anymore, and in case you have it installed, its recommended for you to uninstall it after the server closing.</description>
+After nearly 10 long years, the TERA legend must sadly come to an end. Please note that the game cannot be added in the Gameforge client anymore, and in case you have it installed, its recommended for you to uninstall it after the server closing.</description>
     </item>
     
     <item>
@@ -156,7 +165,7 @@ But honestly, their translated version is as cheap as it can get&amp;hellip;</de
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-10-p1.0.9/</guid>
-      <description>Guild Changes  Increased Guild XP Rewards from Guild Quests by 10x. Decreased amount of Guild XP required for each Guild Level by 20%. Increased maximum amount of Valderon Tokens from 900 to 1500.  Miscellaneous  Disabled Pit of Petrax Leaderboards. Added Strong Canephora Potion to Elleon’s Mark of Valor for 5 Elleon’s Marks. Added Moongourd Pie to Eleon’s Mark of Valor for 10 Eleon’s Marks. Increased channels of all open world zones.</description>
+      <description>Guild Changes Increased Guild XP Rewards from Guild Quests by 10x. Decreased amount of Guild XP required for each Guild Level by 20%. Increased maximum amount of Valderon Tokens from 900 to 1500. Miscellaneous Disabled Pit of Petrax Leaderboards. Added Strong Canephora Potion to Elleon’s Mark of Valor for 5 Elleon’s Marks. Added Moongourd Pie to Eleon’s Mark of Valor for 10 Eleon’s Marks. Increased channels of all open world zones.</description>
     </item>
     
     <item>
@@ -165,7 +174,7 @@ But honestly, their translated version is as cheap as it can get&amp;hellip;</de
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-06-02-p1.0.8/</guid>
-      <description>Miscellaneous  Maximum guild size has been increased to 35. All inactive accounts that did not log in since January 1st, 2022, have had their character names freed. Approximately 800 names have been freed. All Characters of level 70 have received 1x Eternal Gear Token Box on their Parcel Post. Fishing Rods have been temporarily disabled due to them being used to escape knockdown state with no cooldown. They will be fixed and brought back at a later patch.</description>
+      <description>Miscellaneous Maximum guild size has been increased to 35. All inactive accounts that did not log in since January 1st, 2022, have had their character names freed. Approximately 800 names have been freed. All Characters of level 70 have received 1x Eternal Gear Token Box on their Parcel Post. Fishing Rods have been temporarily disabled due to them being used to escape knockdown state with no cooldown. They will be fixed and brought back at a later patch.</description>
     </item>
     
     <item>
@@ -186,7 +195,7 @@ That being said Im also looking for translators who would help our translating t
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-05-23-release/</guid>
       <description>First article! Yay! Website was released while still work in progress.
- I believe that many of the dungeon guides will be useful already while the website is in development.  This website is still under development. Some articles will not be available to view.</description>
+I believe that many of the dungeon guides will be useful already while the website is in development. This website is still under development. Some articles will not be available to view.</description>
     </item>
     
     <item>
@@ -195,7 +204,7 @@ That being said Im also looking for translators who would help our translating t
       <pubDate>Sun, 22 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-05-22-p1.0.7/</guid>
-      <description>Golden Halidoms &amp;amp; Relics  Manaya’s Core (Hard)  Nightmare Shandra Manaya has a 20% chance to drop 1-2 Rank IV Halidoms or Relics alongside the Rank II ones that would already drop, the latter which now has a 50% chance to drop.   Velik’s Sanctuary (Hard)  Nightmare Lakan has a 50% chance to drop 1-3 Rank II Halidoms or Relics.   Bahaar/Timescape/Forsaken Island  75% chance to drop 1-4 Rank I Halidoms or Relics.</description>
+      <description>Golden Halidoms &amp;amp; Relics Manaya’s Core (Hard) Nightmare Shandra Manaya has a 20% chance to drop 1-2 Rank IV Halidoms or Relics alongside the Rank II ones that would already drop, the latter which now has a 50% chance to drop. Velik’s Sanctuary (Hard) Nightmare Lakan has a 50% chance to drop 1-3 Rank II Halidoms or Relics. Bahaar/Timescape/Forsaken Island 75% chance to drop 1-4 Rank I Halidoms or Relics. Partners Physical and Magical Amplification Superior Companions have been added to the Tikat Shop for 5,000 Tikats.</description>
     </item>
     
     <item>
@@ -205,7 +214,7 @@ That being said Im also looking for translators who would help our translating t
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-05-15-p1.0.6/</guid>
       <description>Patch v1.0.6 brings various unique changes to the gear, PvP and miscellaneous gameplay improvements. Please find the details below.
-TERA Club  New item added: &amp;lt;Menma’s Multi-Nostrum&amp;gt;  Upon use, applies Everful Nostrum, Strong Bravery, Superior Noctenium Elixir and Hot or Salty Fish Buffet buffs, the last one depending on your class.    New Starting Item  Eternal Gear Token Box has been added.  Eternal Gear Token Box will replace existing Bellicarium Credits Item which new characters used to receive at the start of the game.</description>
+TERA Club New item added: &amp;lt;Menma’s Multi-Nostrum&amp;gt; Upon use, applies Everful Nostrum, Strong Bravery, Superior Noctenium Elixir and Hot or Salty Fish Buffet buffs, the last one depending on your class. New Starting Item Eternal Gear Token Box has been added. Eternal Gear Token Box will replace existing Bellicarium Credits Item which new characters used to receive at the start of the game.</description>
     </item>
     
     <item>
@@ -270,9 +279,8 @@ Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum s
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/download/</guid>
       <description>Create an account:https://account.menmastera.com/register
-Download link:https://menmastera.com/download
-Torrent file can be found on Menma’s Discord https://discord.gg/menmastera
-</description>
+Download link:https://menmastera.com/download
+Torrent file can be found on Menma’s Discord https://discord.gg/menmastera</description>
     </item>
     
     <item>
@@ -283,7 +291,7 @@ Torrent file can be found on Menma’s Discord https://discord.gg/menmastera
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/achievements/progression/</guid>
       <description>| Level | Sundry |
 Progression achievements are very easy to obtain, as you will gather them while leveling up to lvl70 and then by progressing your skill advancements.
-Level    Name Class Description     Level 10 All Reached level 10.   Level 20 All Reached level 20.   Level 30 All Reached level 30.   Level 40 All Reached level 40.</description>
+Level Name Class Description Level 10 All Reached level 10. Level 20 All Reached level 20. Level 30 All Reached level 30. Level 40 All Reached level 40. Level 50 All Reached level 50. You&amp;rsquo;ve earned extra inventory space. Master Archer Archer Reach level 60 as an archer.</description>
     </item>
     
     <item>
@@ -313,8 +321,8 @@ Progression achievements are very easy to obtain, as you will gather them while 
       <description>Locations and Spawn Times are completely random. While some bosses only have 1 possible location, others have more than one spot where they can spawn.
 The spawn times noted are a general time of what has been seen in the past. For example 6-24, it means random respawn time between 6 hours to 24 hours.
 | South Arun
-South Arun Arakia Respawn time: 6-24 hours
-Lanok Respawn time: 6-24 hours</description>
+South Arun Arakia Respawn time: 6-24 hours
+Lanok Respawn time: 6-24 hours</description>
     </item>
     
     <item>
@@ -325,11 +333,13 @@ The spawn times noted are a general time of what has been seen in the past. For 
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/achievements/world-bosses-shara/</guid>
       <description>The spawn times noted are a general time of what has been seen in the past. For example 6-24, it means random respawn time between 6 hours to 24 hours.
 | South Shara | North Shara
-South Shara Andras Respawn time: 6-24 hours
-Terkasia Respawn time: 6-24 hours
-Kestol Respawn time: 6-24 hours
-Teriak Respawn time: 6-24 hours
-Dulagoras Respawn time: 6-24 hours</description>
+South Shara Andras Respawn time: 6-24 hours
+Terkasia Respawn time: 6-24 hours
+Kestol Respawn time: 6-24 hours
+Teriak Respawn time: 6-24 hours
+Dulagoras Respawn time: 6-24 hours
+Nyxarras Respawn time: 12-24+ hours
+Huzrat Respawn time: 12-24+ hours</description>
     </item>
     
     <item>
@@ -356,7 +366,7 @@ The spawn times noted are a general time of what has been seen in the past. For 
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/introduction/</guid>
-      <description>Basic about the server  Server is running on old lvl70 Patch - 92.4 from March 2020 As of writing this post, server are located in Starsbourg, France, EU. Server is set to PvP As of writing this post,the client is 32-bit, and possible compatibility with a 64-bit client might come later.   Support for Menma&amp;rsquo;s TERA has been added to Shinra which you can find HERE    Skill advancements are same as normal Tera, but you have one EP page &amp;amp; no cards</description>
+      <description>Basic about the server Server is running on old lvl70 Patch - 92.4 from March 2020 As of writing this post, server are located in Starsbourg, France, EU. Server is set to PvP As of writing this post,the client is 32-bit, and possible compatibility with a 64-bit client might come later. Support for Menma&amp;rsquo;s TERA has been added to Shinra which you can find HERE Skill advancements are same as normal Tera, but you have one EP page &amp;amp; no cards</description>
     </item>
     
     <item>
@@ -384,9 +394,10 @@ The spawn times noted are a general time of what has been seen in the past. For 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/pvp-gearing/</guid>
       <description>General Guide Massive thanks to Prince.Pluto for creating this document! You can find it HERE - General Guide to Menma&amp;amp;rsquo;s TERA Server
-Gear   You require FULL PVP GEAR
- Since pve gear have debuffs on it for pvp :
-(Reduced damage by 40% &amp;amp; Increased damage taken by 40%)    You will instantly receive 1.000 eternal tokens to buy all you need, you don&amp;rsquo;t need to buy them after.</description>
+Gear You require FULL PVP GEAR
+Since pve gear have debuffs on it for pvp :
+(Reduced damage by 40% &amp;amp; Increased damage taken by 40%) You will instantly receive 1.000 eternal tokens to buy all you need, you don&amp;rsquo;t need to buy them after.
+Through said tokens you can also buy special Radiant Jewelery which is not useable in dungeons and maxed Relic/Halidom Enchanting gear Through Eternal tokens which you get at the start when you create your character or through Bellicardum reputation merchant you can buy +9 Enchantment Scrolls for PvP Gear NOTE: Through those tokens you can also buy Lvl 5 Brooch and other max.</description>
     </item>
     
     <item>
@@ -405,8 +416,8 @@ The spawn times noted are a general time of what has been seen in the past. For 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/abscess/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Last boss
-PreFightJust few mobs on the way when you enter the pathway to the first mobs. Nothing special, kill them and move to the first boss.
-First Boss: ThalwegBasic attacksSlap - Simple two hit attack.
+PreFightJust few mobs on the way when you enter the pathway to the first mobs. Nothing special, kill them and move to the first boss.
+First Boss: ThalwegBasic attacksSlap - Simple two hit attack.
 Slam - Simple two hit attack.
 Random Target Laser - Basically, a random target will get the purple secondary aggro circle, the boss will turn to face him, and then he will shoot a beam of laser.</description>
     </item>
@@ -418,9 +429,9 @@ Random Target Laser - Basically, a random target will get the purple secondary a
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/akalath-quarantine/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second
-First Boss: Akalath TravanKey MechanicsColor Mechanic - This mechanic is the same as in Ruinous Manor (Hard), oneshotting you if you fail or your debuff times out.
-  Mechanic starts when the boss says :
-Bear my curse!   And draws his swords away from his body.
+First Boss: Akalath TravanKey MechanicsColor Mechanic - This mechanic is the same as in Ruinous Manor (Hard), oneshotting you if you fail or your debuff times out.
+Mechanic starts when the boss says :
+Bear my curse!And draws his swords away from his body.
 Whenever he uses this mechanic, it will create a pulse of energy debuff on the players.</description>
     </item>
     
@@ -431,8 +442,8 @@ Whenever he uses this mechanic, it will create a pulse of energy debuff on the p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/akeron-inferno/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Third boss | Last boss
- Menma&#39;s TERA changes:- Entries: 1 without TERA Club (2 with TERA Club) First Boss: DarumagBasic attacksClaw - Darumag will attack frequently uses his claws. Claw attacks can be frontal, or to the side. He can even swipe from above.
- All players hit will receive a Bleeding Effect.</description>
+Menma&#39;s TERA changes:- Entries: 1 without TERA Club (2 with TERA Club)First Boss: DarumagBasic attacksClaw - Darumag will attack frequently uses his claws. Claw attacks can be frontal, or to the side. He can even swipe from above.
+All players hit will receive a Bleeding Effect.</description>
     </item>
     
     <item>
@@ -442,8 +453,8 @@ Whenever he uses this mechanic, it will create a pulse of energy debuff on the p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/antaroth-abyss-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: GhergofKey MechanicsIce Puddle - The boss will target one of the players with a growing red circle, once it fills it will put down an Ice patch which will be used to avoid the mechanic below.
- It is important to place this away from the boss, but not far because you’re going to need it for the “Delete This” mechanic.</description>
+First Boss: GhergofKey MechanicsIce Puddle - The boss will target one of the players with a growing red circle, once it fills it will put down an Ice patch which will be used to avoid the mechanic below.
+It is important to place this away from the boss, but not far because you’re going to need it for the “Delete This” mechanic.</description>
     </item>
     
     <item>
@@ -462,9 +473,9 @@ Whenever he uses this mechanic, it will create a pulse of energy debuff on the p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/argon-corpus-hard/</guid>
       <description>| Level Requirement: 60 | Party: 5-man | Quick links: | First boss | Second boss | Third boss | Last boss
-First Boss: CygnusNothing too special on this boss.
+First Boss: CygnusNothing too special on this boss.
 The attack patterns are easy to learn and it does not have any 1 hit kill moves.
- One notable attack is a poison trap attack that leaves a puddle of poison on the ground. When the mob HP is above 40%, the poison floor attack is usually targeted at a ranged DD or the healer.</description>
+One notable attack is a poison trap attack that leaves a puddle of poison on the ground. When the mob HP is above 40%, the poison floor attack is usually targeted at a ranged DD or the healer.</description>
     </item>
     
     <item>
@@ -474,8 +485,8 @@ The attack patterns are easy to learn and it does not have any 1 hit kill moves.
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/bahaar-sanctum/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Phase 1 | Phase 2
-The dungeon is broken up into two phases with the 2nd phase starting when you get Bahaar down to 20% health. You get loot after the first phase and you may even see LFGs for &amp;ldquo;Bahaar Farm P1&amp;rdquo; for this purpose, though probably less so now.
-  Finding videos of P1 is a bit tricky since most people who regularly clear P2 would consider P1 kinda pointless.</description>
+The dungeon is broken up into two phases with the 2nd phase starting when you get Bahaar down to 20% health. You get loot after the first phase and you may even see LFGs for &amp;ldquo;Bahaar Farm P1&amp;rdquo; for this purpose, though probably less so now.
+Finding videos of P1 is a bit tricky since most people who regularly clear P2 would consider P1 kinda pointless.</description>
     </item>
     
     <item>
@@ -485,8 +496,8 @@ The attack patterns are easy to learn and it does not have any 1 hit kill moves.
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/bamarama/</guid>
       <description>The New Bamarama is available now on Menma&amp;rsquo;s TERA.
- Head over to the Freeholds North of Chebika to participate.    To begin, speak with one of the Bookies: Tayana, Teena, or Linu. First, open the “Bamarama Tickets” Menu and purchase a minimum of 5 Menma’s Coins.
-  After purchasing your Menma’s Coins, interact with a Bookie again and open the “Monster Wager” menu.
+Head over to the Freeholds North of Chebika to participate. To begin, speak with one of the Bookies: Tayana, Teena, or Linu. First, open the “Bamarama Tickets” Menu and purchase a minimum of 5 Menma’s Coins.
+After purchasing your Menma’s Coins, interact with a Bookie again and open the “Monster Wager” menu.
 Select the monster you want, and bet as many Menma’s Coins as you’d like!</description>
     </item>
     
@@ -497,8 +508,8 @@ Select the monster you want, and bet as many Menma’s Coins as you’d like!</d
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/ghillieglade-daily/</guid>
       <description>Can be accessed through the teleport scroll &amp;ldquo;Teleport Scroll: Premium-only Area&amp;rdquo; that can be bought for VG Credits in Highwatch. Tera club/Premium account gives free unlimited teleport scroll in the perks bar.
-| Menma’s TERA Ghilieglade |
-All Players start in front of the last boss Banyakas. But there are the other two bosses in the back in the original teleport location. If you want to complete the instance the old way, you can go protect both of the bosses before finally arriving to Banyaka.</description>
+| Menma’s TERA Ghilieglade |
+All Players start in front of the last boss Banyakas. But there are the other two bosses in the back in the original teleport location. If you want to complete the instance the old way, you can go protect both of the bosses before finally arriving to Banyaka.</description>
     </item>
     
     <item>
@@ -508,8 +519,8 @@ Select the monster you want, and bet as many Menma’s Coins as you’d like!</d
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/bathysmal-rise-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: Mephisis The tank should aggro the boss towards the rock near the exit of the platform. You will be pushed a lot.  Key MechanicsPoisonous Gas - At 80% HP, you will receive a warning
- “The air’s too fresh. Let’s fix that!” That means the rocks will shatter in set timed interval.</description>
+First Boss: MephisisThe tank should aggro the boss towards the rock near the exit of the platform. You will be pushed a lot. Key MechanicsPoisonous Gas - At 80% HP, you will receive a warning
+“The air’s too fresh. Let’s fix that!”That means the rocks will shatter in set timed interval.</description>
     </item>
     
     <item>
@@ -537,7 +548,7 @@ Select the monster you want, and bet as many Menma’s Coins as you’d like!</d
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/broken-prison/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-Pre-Boss Battle The first room has 6 Archdevan mobs.
+Pre-Boss Battle The first room has 6 Archdevan mobs.
 They’re are just as same as Archdevan mobs you’ve encountered in Shadow Sanguinary and Lilith’s Keep. Defeat them and Balbatos will make his first appearance. After fighting him for 10% of his HP, he will summon Gorgoth and run away.First Boss: GorgothBasic attacksBasic Attack (Primary Aggro) – Strikes the person with Aggro twice with its snake arms and delivers a third blow.</description>
     </item>
     
@@ -557,9 +568,9 @@ They’re are just as same as Archdevan mobs you’ve encountered in Shadow Sang
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/channelworks/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: Sentry AA-24This first boss is a stationary boss which deals damage by lasers which are ejected in front and behind of the boss. The boss can rotate however.
+First Boss: Sentry AA-24This first boss is a stationary boss which deals damage by lasers which are ejected in front and behind of the boss. The boss can rotate however.
 Special attacksThere is a mechanic at 75%, 50% and 25% where walls will spawn Message:
- Initializing Trap Mode.</description>
+Initializing Trap Mode.You must get out of the middle and behind either side of walls as the boss will spawn ghost forms of previous bosses who will deal damage to anyone in the middle section.</description>
     </item>
     
     <item>
@@ -569,7 +580,7 @@ Special attacksThere is a mechanic at 75%, 50% and 25% where walls will spawn M
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/civil-unrest/</guid>
       <description>Civil Unrest occasionally called Guild Wars is weekly PvP event which happens every Sunday.
-Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on pserver)original retail opened at 15:00 and started at 17:00 Before the start of Civil Unrest the Guild Master needs to buy a Guild Tower Blueprint from the [NPC: Amvya] in front of the Velika Federation Headquarters in Velika for Guild Coins. Guild Tower Blueprint can also be purchased from NPC in other major cities :  Allemantheia City with NPC: Jarkek Kaiator City with NPC: Frarang  To join the battle, players need to talk to [NPC: Brahem] who is a GvG Guide in Velika City - walk from the Ring teleport point forward and you will see him right on the right side near some bushes and a Skycastle model in front of him.</description>
+Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on pserver)original retail opened at 15:00 and started at 17:00Before the start of Civil Unrest the Guild Master needs to buy a Guild Tower Blueprint from the [NPC: Amvya] in front of the Velika Federation Headquarters in Velika for Guild Coins. Guild Tower Blueprint can also be purchased from NPC in other major cities : Allemantheia City with NPC: Jarkek Kaiator City with NPC: Frarang To join the battle, players need to talk to [NPC: Brahem] who is a GvG Guide in Velika City - walk from the Ring teleport point forward and you will see him right on the right side near some bushes and a Skycastle model in front of him.</description>
     </item>
     
     <item>
@@ -579,7 +590,7 @@ Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/companions/</guid>
       <description>In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI.
- Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage. Pets also have Skills and their description is of the following :     Ability Description     Auto-Caring Uses a pet food or present when your pet&amp;rsquo;s Energy / Stamina drops below the percentage indicated.</description>
+Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage. Pets also have Skills and their description is of the following : Ability Description Auto-Caring Uses a pet food or present when your pet&amp;rsquo;s Energy / Stamina drops below the percentage indicated.</description>
     </item>
     
     <item>
@@ -589,9 +600,9 @@ Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/corrupted-skynest-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
-Pre-Boss BattleThere are some mobs in front of the gate. Simply kill them, no need to waste big skills on them.
-Before the start of the fight, you should already be familiar with all following debuffs:
-Standard debuff, if you dont take any other debuff before this one expires you will die.Fire debuffIce debuffVery Similar to Dreadspire, a bar exists that starts at 50 and will either tick up or down based on the debuffs the group has in total.</description>
+Pre-Boss BattleThere are some mobs in front of the gate. Simply kill them, no need to waste big skills on them.
+Before the start of the fight, you should already be familiar with all following debuffs:
+Standard debuff, if you dont take any other debuff before this one expires you will die.Fire debuffIce debuffVery Similar to Dreadspire, a bar exists that starts at 50 and will either tick up or down based on the debuffs the group has in total.</description>
     </item>
     
     <item>
@@ -600,7 +611,7 @@ Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on p
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/battlegrounds/corsair-stronghold/</guid>
-      <description>Corsairs’ Stronghold is available for level 65 players through the Battleground matching system.  Two teams of 20 take turns attacking and defending an Anchorstone. The team to destroy the Anchorstone the fastest wins! Players can queue in groups of up to five players or as a 20 man raid.  Kills do not directly affect the results of the match. Only the results of the Anchorstone matter.  However, if a player has more contribution points, they will receive more Battleground credits.</description>
+      <description>Corsairs’ Stronghold is available for level 65 players through the Battleground matching system. Two teams of 20 take turns attacking and defending an Anchorstone. The team to destroy the Anchorstone the fastest wins! Players can queue in groups of up to five players or as a 20 man raid. Kills do not directly affect the results of the match. Only the results of the Anchorstone matter. However, if a player has more contribution points, they will receive more Battleground credits.</description>
     </item>
     
     <item>
@@ -610,8 +621,8 @@ Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/dark-reach-citadel/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: TheropathKey MechanicsPull AoE - The boss will pull everyone towards him and then put an iframeable AoE on everyone, to survive this people need to spread so that the AoE does not overlap.
- They do 50% HP damage in Normal Mode and 75% in Hard Mode.</description>
+First Boss: TheropathKey MechanicsPull AoE - The boss will pull everyone towards him and then put an iframeable AoE on everyone, to survive this people need to spread so that the AoE does not overlap.
+They do 50% HP damage in Normal Mode and 75% in Hard Mode. If you hit the boss with an AoE in hard mode the gauge will add 30 to it.</description>
     </item>
     
     <item>
@@ -621,8 +632,8 @@ Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/demokron-factory-hard/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-In this dungeon, all Bosses will enrage naturally when it loses 1% HP.First Boss: Vera &amp; Prima  Vera is an Archdevan Lancer and Prima is an Archdevan Sorcerer. Players only need to take care of one of the two, usually the Lancer.
-  The other will disappear if one of them dies.</description>
+In this dungeon, all Bosses will enrage naturally when it loses 1% HP.First Boss: Vera &amp; PrimaVera is an Archdevan Lancer and Prima is an Archdevan Sorcerer. Players only need to take care of one of the two, usually the Lancer.
+The other will disappear if one of them dies.</description>
     </item>
     
     <item>
@@ -632,8 +643,8 @@ Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/demon-wheel/</guid>
       <description>| Party: 5-man | Quick links: | First boss | Last boss
-Strongly advise running the dungeon without reading this guide first.
- You will only get confused by reading– experience it first, then try to look at this guide to understand how the mechanic works. This is just as bad as Broken Prison.  First Boss: BandersnatchKey MechanicsCounting game - There will be a message on the screen :</description>
+Strongly advise running the dungeon without reading this guide first.
+You will only get confused by reading– experience it first, then try to look at this guide to understand how the mechanic works. This is just as bad as Broken Prison. First Boss: BandersnatchKey MechanicsCounting game - There will be a message on the screen :</description>
     </item>
     
     <item>
@@ -643,8 +654,8 @@ Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on p
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/draakon-arena/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
-Boss: KalligarA lot of attacks give a bleed debuff, this is cleansable.
- In Normal Mode this is a 10% per second bleed In Hard Mode it’s 20% per second and per Stack.   All of the following are only in Hard Mode: If Kalligar hits anyone with an attack, he will gain an defense buff which gives him</description>
+Boss: KalligarA lot of attacks give a bleed debuff, this is cleansable.
+In Normal Mode this is a 10% per second bleed In Hard Mode it’s 20% per second and per Stack. All of the following are only in Hard Mode: If Kalligar hits anyone with an attack, he will gain an defense buff which gives him</description>
     </item>
     
     <item>
@@ -656,8 +667,8 @@ Restrictions: Level 11 and higher.Time: Every Sunday from --- (time varies on p
       <description>During Dreamstorm large number of archdevans spawn to attack Baraka scientists&amp;rsquo; Oneiric Generators.
 Event lasts 10 minutes during which increasingly powerful enemies will spawn. Players win and get rewarded if central generator lasts whole event.
 As with the previous version of the Nexus, these events take place at specific times each day.
-| Menma’s TERA Dreamstorm |
-TIME SCHEDULE    DAY/TIME 14:00 15:00 16:00 17:00 18:00 19:00 20:00 21:00 22:00     MONDAY - - - - 🗸 🗸 🗸 🗸 🗸   TUESDAY - - - - 🗸 🗸 🗸 🗸 🗸   WEDNESDAY - - - - 🗸 🗸 🗸 🗸 🗸   THURSDAY - - - - 🗸 🗸 🗸 🗸 🗸   FRIDAY - - - - 🗸 🗸 🗸 🗸 🗸   SATURDAY 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸   SUNDAY 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸    Time is written in CEST.</description>
+| Menma’s TERA Dreamstorm |
+TIME SCHEDULE DAY/TIME 14:00 15:00 16:00 17:00 18:00 19:00 20:00 21:00 22:00 MONDAY - - - - 🗸 🗸 🗸 🗸 🗸 TUESDAY - - - - 🗸 🗸 🗸 🗸 🗸 WEDNESDAY - - - - 🗸 🗸 🗸 🗸 🗸 THURSDAY - - - - 🗸 🗸 🗸 🗸 🗸 FRIDAY - - - - 🗸 🗸 🗸 🗸 🗸 SATURDAY 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 SUNDAY 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 🗸 Time is written in CEST.</description>
     </item>
     
     <item>
@@ -667,8 +678,8 @@ As with the previous version of the Nexus, these events take place at specific t
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/field-bosses/</guid>
       <description>Field Boss Monsters are large monsters in open world. These bosses won&amp;rsquo;t display their remaining or maximum HP. Currently there are 3 Field Boss Monsters - Ortan, Hazard, and Cerrus - all three spawn on Arborea.
-| Menma’s TERA Field Bosses |
-Lag Issues Similar to Nexus or Dreamstorm, large number of players concentrated in a small area exposed the 32bit client&amp;rsquo;s inability to handle the overload of network packets and graphically rendering actions of over a hundred players, leading to client freezing until the surge of information decreased or disconnecting from the server.</description>
+| Menma’s TERA Field Bosses |
+Lag Issues Similar to Nexus or Dreamstorm, large number of players concentrated in a small area exposed the 32bit client&amp;rsquo;s inability to handle the overload of network packets and graphically rendering actions of over a hundred players, leading to client freezing until the surge of information decreased or disconnecting from the server.</description>
     </item>
     
     <item>
@@ -689,7 +700,8 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/forbidden-arena-brawler/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
-Boss: Undying WarlordKey MechanicsRed Debuff Getting hit by any fist attack(glows red) will apply a stack.  This deals 1% max hp every couple seconds and stacks to 5. Lasts 60 seconds. If you do reach 5, itll turn into a separate debuff.This lasts forever and ticks for 5% max hp every few seconds.</description>
+Boss: Undying WarlordKey MechanicsRed DebuffGetting hit by any fist attack(glows red) will apply a stack. This deals 1% max hp every couple seconds and stacks to 5. Lasts 60 seconds. If you do reach 5, itll turn into a separate debuff.This lasts forever and ticks for 5% max hp every few seconds.
+If you reach 5x red debuff you will get 1 permanent red debuff and can begin stacking red debuff again.</description>
     </item>
     
     <item>
@@ -699,7 +711,7 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/forbidden-arena-hagufna/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
-Boss: Hagufna Menma&#39;s TERA changes:- His phase triggers were moved to 90%, 80%, 70%.- Old were 90%, 55%, 30%.- He unlocks all his combos at 70%.- Shield has been buffed. Key Mechanics 85% Phase Change 85% Pull in Mechanic - Starting at 85% and then about every minute after, the boss will hold his sword straight up in the air and begin channeling energy into it, either pink or purple energy.</description>
+Boss: HagufnaMenma&#39;s TERA changes:- His phase triggers were moved to 90%, 80%, 70%.- Old were 90%, 55%, 30%.- He unlocks all his combos at 70%.- Shield has been buffed.Key Mechanics85% Phase Change85% Pull in Mechanic - Starting at 85% and then about every minute after, the boss will hold his sword straight up in the air and begin channeling energy into it, either pink or purple energy.</description>
     </item>
     
     <item>
@@ -709,8 +721,8 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/forsaken-island-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: RokdosKey MechanicsCurse of Rokdos - The boss will say “Who hungers for my curse?” and cast a curse on the two members closest to the boss every minute.
-  Debuff ticks for 8% of your max HP every 2 seconds per stack, and puts a red circle above your head.</description>
+First Boss: RokdosKey MechanicsCurse of Rokdos - The boss will say “Who hungers for my curse?” and cast a curse on the two members closest to the boss every minute.
+Debuff ticks for 8% of your max HP every 2 seconds per stack, and puts a red circle above your head.</description>
     </item>
     
     <item>
@@ -729,8 +741,8 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/gathering-resources/</guid>
       <description>Gathering is a game feature in TERA which allows a character to gather materials from various materials across Arborea and Exodor which can be used in crafting.
-There are three types of gathering professions:
- Ore gathering Essence gathering Plant gathering.   All three gathering professions are automatically learned upon character creation, and start off at level 1 with 0 points. There are 6 levels of gathering and a total of 350 gathering points to be earned.</description>
+There are three types of gathering professions:
+Ore gathering Essence gathering Plant gathering. All three gathering professions are automatically learned upon character creation, and start off at level 1 with 0 points. There are 6 levels of gathering and a total of 350 gathering points to be earned.</description>
     </item>
     
     <item>
@@ -740,8 +752,8 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/gossamer-vault-hard/</guid>
       <description>| Level Requirement: 68 | Party: 5-man | Quick links: | First boss | Last boss
-This dungeon is extremely healer reliant.First Boss: HellgramiteEntering combatUpon entering combat of this boss, a text appears in the middle of the screen : “Who’s there” He proceeds to attack the front then follows up with a multi-tick HP drain which does about 130-150% of your HP.
- Healers should use Kaia/TOP.</description>
+This dungeon is extremely healer reliant.First Boss: HellgramiteEntering combatUpon entering combat of this boss, a text appears in the middle of the screen :“Who’s there”He proceeds to attack the front then follows up with a multi-tick HP drain which does about 130-150% of your HP.
+Healers should use Kaia/TOP. Priest can use Healing Immersion when HP is about 70-80% while in the midst of the healing zone so you heal yourself as well Mystics should summon TOL at about 70-80% HP and prepare motes to heal up after the mechanic.</description>
     </item>
     
     <item>
@@ -751,7 +763,7 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/battlegrounds/gridiron/</guid>
       <description>Gridiron is a PVP Battleground available for players who are level 65 through the Battleground matching system.
- Two teams of 15 compete in a death match to obtain 70 kills first (or the highest amount when the time runs out).  Every kill you execute will count towards your team, but it will also count towards your ranking within the team.  The individual rankings will give extra rewards, such as an extra reward box for rank 1-3.</description>
+Two teams of 15 compete in a death match to obtain 70 kills first (or the highest amount when the time runs out). Every kill you execute will count towards your team, but it will also count towards your ranking within the team. The individual rankings will give extra rewards, such as an extra reward box for rank 1-3.</description>
     </item>
     
     <item>
@@ -761,7 +773,7 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/grotto-of-lost-souls-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: Nedra The room and yourself will be surrounded in either Purple or Green auras. Periodically flowers will drop down from the sky; we’ll talk more about this in Key Mechanics.  Understand that getting hit by the flower explosion will swap your debuff. After all flowers are done dropping, you need to have an aura that matches with the color of the room.</description>
+First Boss: NedraThe room and yourself will be surrounded in either Purple or Green auras. Periodically flowers will drop down from the sky; we’ll talk more about this in Key Mechanics. Understand that getting hit by the flower explosion will swap your debuff. After all flowers are done dropping, you need to have an aura that matches with the color of the room.</description>
     </item>
     
     <item>
@@ -771,7 +783,7 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/guardian-missions/</guid>
       <description>The Guardian Missions are special types of missions that appear in the open world for a limited period of time.
- You can participate in this content after achieving level 65.  There are a total of six types of guardian missions, such as BAM fighting, Wagon escort, mini-games or flying.
+You can participate in this content after achieving level 65. There are a total of six types of guardian missions, such as BAM fighting, Wagon escort, mini-games or flying.
 How to participate in the mission You can participate in Guardian missions through the World Map (M).
 After opening the world map (M), you can check the Guardian Missions by clicking the Shield Icon in the upper left corner.</description>
     </item>
@@ -792,7 +804,7 @@ After opening the world map (M), you can check the Guardian Missions by clicking
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/battlegrounds/iron-battleground/</guid>
       <description>A new 8v8 battleground where you use cannons to shoot down your enemy!
-RUN OF PLAY &amp;amp; AIM The aim of the game on this 8v8 battleground is to survive as a team longer than your opponents. The team with the most players killed loses the round, while the team which manages to either kill all of their enemies, or have the most players still standing after 6 minutes, is victorious.</description>
+RUN OF PLAY &amp;amp; AIM The aim of the game on this 8v8 battleground is to survive as a team longer than your opponents. The team with the most players killed loses the round, while the team which manages to either kill all of their enemies, or have the most players still standing after 6 minutes, is victorious.</description>
     </item>
     
     <item>
@@ -811,8 +823,8 @@ After opening the world map (M), you can check the Guardian Missions by clicking
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/kalivan-dreadnaught/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: PeperoKey MechanicsProtect the Kegs! - Throughout the fight, mobs will spawn:
- “Suicide Soldiers are targeting the X! Break an oak barrel and use Inferno Spores to take them out“ Players will have to prevent these mobs from destroying the different Piles (Wine Barrels, Bomb Piles, Gunpowder Boxes, or Oil Barrels) in each corner of the arena.</description>
+First Boss: PeperoKey MechanicsProtect the Kegs! - Throughout the fight, mobs will spawn:
+“Suicide Soldiers are targeting the X! Break an oak barrel and use Inferno Spores to take them out“Players will have to prevent these mobs from destroying the different Piles (Wine Barrels, Bomb Piles, Gunpowder Boxes, or Oil Barrels) in each corner of the arena.</description>
     </item>
     
     <item>
@@ -822,8 +834,9 @@ After opening the world map (M), you can check the Guardian Missions by clicking
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/kelsaik-nest-hard/</guid>
       <description>| Level Requirement: 58 | Party: 5-man | Quick links: | Protector’s Room | Boss
-In this area, you will have to defeat 5 protectors. Their classes are Lancer, Slayer, Archer, Sorcerer, and Mystic.
- The Slayer protector is the most difficult. Defeat each in order. When 3 are down, the last 2 will automatically attack your party at the same time.  Kelsaik is 99% Crit Resistant.</description>
+In this area, you will have to defeat 5 protectors. Their classes are Lancer, Slayer, Archer, Sorcerer, and Mystic.
+The Slayer protector is the most difficult. Defeat each in order. When 3 are down, the last 2 will automatically attack your party at the same time. Kelsaik is 99% Crit Resistant.
+The fight starts off with one of two random moves, these are usually a double rend followed by a Fire AoE, but it&amp;rsquo;s not 100%.</description>
     </item>
     
     <item>
@@ -851,7 +864,7 @@ After opening the world map (M), you can check the Guardian Missions by clicking
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/lilith-keep-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: PyrepeltKey MechanicsHow annoying&amp;hellip; I will kill you all!! - Shortly after you see this message, Pyrepelt will leap into the air. Upon impact, the entire area except for a narrow strip will be covered in a raging fire.
+First Boss: PyrepeltKey MechanicsHow annoying&amp;hellip; I will kill you all!! - Shortly after you see this message, Pyrepelt will leap into the air. Upon impact, the entire area except for a narrow strip will be covered in a raging fire.
 The flame will swallow you whole!!! - This message appears at certain intervals once Pyrepelt has lost sufficient health, and is followed by a series of multiple attacks.</description>
     </item>
     
@@ -862,7 +875,8 @@ The flame will swallow you whole!!! - This message appears at certain intervals 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/manaya-core-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: Hrathgol Menma&#39;s TERA changes:- He gained 20% attack speed buff. - Timer reduced to 3:30 minutes. Key MechanicsHrathgol now has a 6 minute enrage timer; in other words, if you don&amp;rsquo;t kill him within 6 minutes he&amp;rsquo;ll flip his feces and one-shot you all.</description>
+First Boss: HrathgolMenma&#39;s TERA changes:- He gained 20% attack speed buff. - Timer reduced to 3:30 minutes.Key MechanicsHrathgol now has a 6 minute enrage timer; in other words, if you don&amp;rsquo;t kill him within 6 minutes he&amp;rsquo;ll flip his feces and one-shot you all.
+When Hrathgol&amp;rsquo;s health reaches 80%, 60%, 40%, and 20%, the boss mechanic will come into play.</description>
     </item>
     
     <item>
@@ -872,7 +886,7 @@ The flame will swallow you whole!!! - This message appears at certain intervals 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/manglemire/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
-Boss: ManglemoreKey MechanicsManglemore&amp;rsquo;s Mechanics Tricks - The trick to fighting Manglemore is figuring out when he is lying. As the NPCs around the dungeon suggest, the key lies in paying careful attention to the buffs Manglemore gets.  Keep an eye out for these buffs. These buffs can be in any combination, such as 6-9 or 3-6-9.</description>
+Boss: ManglemoreKey MechanicsManglemore&amp;rsquo;s Mechanics Tricks - The trick to fighting Manglemore is figuring out when he is lying. As the NPCs around the dungeon suggest, the key lies in paying careful attention to the buffs Manglemore gets. Keep an eye out for these buffs. These buffs can be in any combination, such as 6-9 or 3-6-9. These buffs also give Manglemore a 5% endurance buff each.</description>
     </item>
     
     <item>
@@ -884,7 +898,7 @@ The flame will swallow you whole!!! - This message appears at certain intervals 
       <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin.
 There are two different types of merchants: City Merchant and Wandering Merchant.
 City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.
-| Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
+| Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
     </item>
     
     <item>
@@ -912,8 +926,8 @@ City Merchant and Wandering Merchants spawn mechanism varies by region and regio
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/class/ninja/</guid>
       <description>Class Discord You can find Discord invite for this class HERE - Ninja Discord
-Guides Multiple guides can be found made by ninja mains, especially:
- Menma&amp;amp;rsquo;s TERA Guide for Ninja by Regini Menma&amp;amp;rsquo;s TERA ENG Guide for Ninja by Ynnon Menma&amp;amp;rsquo;s TERA RUS Guide for Ninja by Squirrel  </description>
+Guides Multiple guides can be found made by ninja mains, especially:
+Menma&amp;amp;rsquo;s TERA Guide for Ninja by Regini Menma&amp;amp;rsquo;s TERA ENG Guide for Ninja by Ynnon Menma&amp;amp;rsquo;s TERA RUS Guide for Ninja by Squirrel </description>
     </item>
     
     <item>
@@ -933,7 +947,8 @@ City Merchant and Wandering Merchants spawn mechanism varies by region and regio
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/achievements/pvp/</guid>
       <description>| Duels | Deathmatches | Battlegrounds | Skills | Civil Unrest |
 PvP achievements are marked in &amp;ldquo;Special&amp;rdquo; tab in Achievement menu. They do not count towards your Laurel overall, but finishing specific ones can grant you a slight buff.
-Duels Duels can be simply started by clicking on a player and selection the &amp;ldquo;Duel&amp;rdquo; option which asks the other player if they wish to duel you.</description>
+Duels Duels can be simply started by clicking on a player and selection the &amp;ldquo;Duel&amp;rdquo; option which asks the other player if they wish to duel you.
+Name Class Description Reward Competitive All Participated in 10 duels.</description>
     </item>
     
     <item>
@@ -954,8 +969,8 @@ All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/ravenous-gorge/</guid>
       <description>| Level Requirement: 65 | Party: 3-man NM, 5-man HM/EM | Quick links: | First boss | Second boss | Last boss
-First Boss: ArdentmawKey MechanicsBanana tree, Herbs and Lamb - Ardentmaw will move to the middle of the room, a message will pop up telling you that Ardentmaw will travel to either; Banana tree, Herbs or Lamb.
- You need to DPS the location that it’s running too.</description>
+First Boss: ArdentmawKey MechanicsBanana tree, Herbs and Lamb - Ardentmaw will move to the middle of the room, a message will pop up telling you that Ardentmaw will travel to either; Banana tree, Herbs or Lamb.
+You need to DPS the location that it’s running too. Success results in it being stunned for 10 seconds.</description>
     </item>
     
     <item>
@@ -974,9 +989,9 @@ All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/red-refuge-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: KalaveseTank in the middle of the room to make the run a lot more smooth to deal with a Key Mechanic mentioned later.
+First Boss: KalaveseTank in the middle of the room to make the run a lot more smooth to deal with a Key Mechanic mentioned later.
 Key MechanicsSpinning In-Out - Cannot be blocked and iframed. A text indicator will show up saying:
- “I’ll burn you to ashes” The boss stars spinning and will either attack in an inner donut or an outer donut first, followed by the other one.</description>
+“I’ll burn you to ashes”The boss stars spinning and will either attack in an inner donut or an outer donut first, followed by the other one.</description>
     </item>
     
     <item>
@@ -986,8 +1001,8 @@ Key MechanicsSpinning In-Out - Cannot be blocked and iframed. A text indicator 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/reputation/</guid>
       <description>| Hyderad Legacy | Invalesco | Shariar | Valsekyr Hunt | | Hands of Velika | Unified Theory Institute | Jax Trust | | Black Panther Mount |
-Reputation levels and points Reputation is very similar to experience.
-Reputation is divided into a number of different levels for which players must earn reputation points to progress through. Higher reputation levels generally require more points than the previous level to progress.</description>
+Reputation levels and points Reputation is very similar to experience.
+Reputation is divided into a number of different levels for which players must earn reputation points to progress through. Higher reputation levels generally require more points than the previous level to progress. Reputation points, just like experience points, are gained through quests and killing various mobs.</description>
     </item>
     
     <item>
@@ -997,8 +1012,8 @@ Reputation is divided into a number of different levels for which players must e
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/rifts-edge-hard/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: YativioKey MechanicsMinions - Minons will spawn with the message :
- &amp;quot;Yativio spawned minios to shield itself!&amp;quot;  When Yativio&amp;rsquo;s HP bar reaches x27 x22 x10 and x3 (~90%, ~70%, ~30°, ~10%) the boss spawns a group of miniplants which have to be killed ASAP.  If they are not eliminated within a few seconds, each (remaining) plant will give Yativio a +1% power buff.</description>
+First Boss: YativioKey MechanicsMinions - Minons will spawn with the message :
+&amp;quot;Yativio spawned minios to shield itself!&amp;quot;When Yativio&amp;rsquo;s HP bar reaches x27 x22 x10 and x3 (~90%, ~70%, ~30°, ~10%) the boss spawns a group of miniplants which have to be killed ASAP. If they are not eliminated within a few seconds, each (remaining) plant will give Yativio a +1% power buff.</description>
     </item>
     
     <item>
@@ -1008,8 +1023,8 @@ Reputation is divided into a number of different levels for which players must e
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/r9-kennel-extreme/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-You can jump off the platform and fall somewhere around the center of the map.
-First Boss: VentaronKey MechanicsThreat level rising! Initiating destruction! - The boss will move to the center and blast an entire area. The floating cylinders will shoot out missiles up in the air 4 times.</description>
+You can jump off the platform and fall somewhere around the center of the map.
+First Boss: VentaronKey MechanicsThreat level rising! Initiating destruction! - The boss will move to the center and blast an entire area. The floating cylinders will shoot out missiles up in the air 4 times. After 4th missile, there will be a barrage of missile falling from the skies.</description>
     </item>
     
     <item>
@@ -1019,8 +1034,8 @@ First Boss: VentaronKey MechanicsThreat level rising! Initiating destruction! 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/ruinous-manor-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: Atrocitas Menma&#39;s TERA changes:- Nothing changed.- Pulses his for 45% of total HP. Key MechanicsRed/Blue Explosion - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
- In hard mode only this will deal direct damage to all players.</description>
+First Boss: AtrocitasMenma&#39;s TERA changes:- Nothing changed.- Pulses his for 45% of total HP.Key MechanicsRed/Blue Explosion - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
+In hard mode only this will deal direct damage to all players.</description>
     </item>
     
     <item>
@@ -1030,8 +1045,8 @@ First Boss: VentaronKey MechanicsThreat level rising! Initiating destruction! 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/sea-of-honor/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Requires: A map | Quick links: | Boss
-Sea of Honor is a 65 level 5-man dungeon.
- To start the dungeon you need a responding item (Sea of Honor dungeon map) and then you can select the difficulty  Level 1 Level 2 Level 3 Level 4   Various mobs and bosses spawn on ship deck before the official last boss.</description>
+Sea of Honor is a 65 level 5-man dungeon.
+To start the dungeon you need a responding item (Sea of Honor dungeon map) and then you can select the difficulty Level 1 Level 2 Level 3 Level 4 Various mobs and bosses spawn on ship deck before the official last boss. Boss: Ironfang DixieKey MechanicsFront Stun - When Dixie&amp;rsquo;s eyes quickly flash red, he will perform a stun axe slam on the tank.</description>
     </item>
     
     <item>
@@ -1041,7 +1056,7 @@ First Boss: VentaronKey MechanicsThreat level rising! Initiating destruction! 
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/shadow-sanguinary-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: PahoegarFor tanks in Hard Mode he hits a lot tougher when he&amp;rsquo;s not enraged where it may bleed through your block. Using Infuriate at the start of the fight is a good idea where it won&amp;rsquo;t bleed through block.
+First Boss: PahoegarFor tanks in Hard Mode he hits a lot tougher when he&amp;rsquo;s not enraged where it may bleed through your block. Using Infuriate at the start of the fight is a good idea where it won&amp;rsquo;t bleed through block.
 Key MechanicsPillars - Message shown on the center of your screen.</description>
     </item>
     
@@ -1052,7 +1067,7 @@ Key MechanicsPillars - Message shown on the center of your screen.</description
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/shattered-fleet/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: MulmokNormal tank and spank boss. You should aim to keep the boss tanked in a corner at the back to avoid barrels.
+First Boss: MulmokNormal tank and spank boss. You should aim to keep the boss tanked in a corner at the back to avoid barrels.
 Key MechanicsEnraged Mulmok - When Mulmok’s HP reaches 75%, 50% and 25%, he’ll receive a buff which makes him stronger for the rest of the fight.</description>
     </item>
     
@@ -1072,7 +1087,7 @@ Key MechanicsEnraged Mulmok - When Mulmok’s HP reaches 75%, 50% and 25%, he�
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/sky-cruiser-endeavor-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-Perimos will be firing lasers at random players, notified by  “Perimos is gathering power for an attack!” This does not follow players and is indicated by the purple secondary aggro circle. The tank should tank the mobs near Perimos, to make dodging lasers easier.
+Perimos will be firing lasers at random players, notified by “Perimos is gathering power for an attack!”This does not follow players and is indicated by the purple secondary aggro circle. The tank should tank the mobs near Perimos, to make dodging lasers easier.
 First Boss: PutrionThe tank should attempt to position the boss far from the gate, as certain attacks may cause Putrion to charge through the gate and reset.</description>
     </item>
     
@@ -1092,7 +1107,7 @@ First Boss: PutrionThe tank should attempt to position the boss far from the ga
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/class/sorcerer/</guid>
       <description>Class Discord You can find Discord invite for this class HERE - Sorcerer Discord
-Guides Sorc discord has up to date information for the current patch, written mostly by Icha and other known sorcerer mains.</description>
+Guides Sorc discord has up to date information for the current patch, written mostly by Icha and other known sorcerer mains.</description>
     </item>
     
     <item>
@@ -1102,7 +1117,8 @@ First Boss: PutrionThe tank should attempt to position the boss far from the ga
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/activity/game-lore/</guid>
       <description>| Chapter One - Age of Creation | Chapter Two - Age of Divinity | Chapter Three - Age of Legends | Chapter Four - Age of Mortals | Argon Arc - Fate of Arun | Baldera Arc - Vergos and his followers | Manahan Arc
-Chapter One- Age of Creation 01- Arun and Shara In the beginning of time, above the vast open universe, lived Arun and Shara.</description>
+Chapter One- Age of Creation 01- Arun and Shara In the beginning of time, above the vast open universe, lived Arun and Shara.
+There was an endless battle between light and darkness.</description>
     </item>
     
     <item>
@@ -1112,8 +1128,9 @@ First Boss: PutrionThe tank should attempt to position the boss far from the ga
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/thaumetal-refinery/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: BirchbackKey MechanicsBananas - During the run, a random member of party will have a banana on their head. This means that person will place a banana under them! That person must run near the tree ASAP.
-There are two ways to tell when banana drops.</description>
+First Boss: BirchbackKey MechanicsBananas - During the run, a random member of party will have a banana on their head. This means that person will place a banana under them! That person must run near the tree ASAP.
+There are two ways to tell when banana drops.
+Debuff timer will run out and banana will be placed.</description>
     </item>
     
     <item>
@@ -1132,7 +1149,7 @@ There are two ways to tell when banana drops.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/timescape-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Minigame | Second boss | Last boss
-TimespheresBall 3 will be shieldless and the other two will be protected with a reflective shield. Dealing damage to a shielded sphere will deal damage to the player equal to 10% of his maximum HP. High DPS parties should kill the shielded balls (1+2)Then destroy the remaining ball (3).</description>
+TimespheresBall 3 will be shieldless and the other two will be protected with a reflective shield. Dealing damage to a shielded sphere will deal damage to the player equal to 10% of his maximum HP.High DPS parties should kill the shielded balls (1+2)Then destroy the remaining ball (3).</description>
     </item>
     
     <item>
@@ -1151,8 +1168,8 @@ There are two ways to tell when banana drops.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/vault-of-kaprima/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: AgartaKey MechanicsDrills - When Agarta hits 90% of her total HP, drills will spawn on either side of the room. This is where players must focus on the field, as well as the boss.
- The drills will deal fatal damage and apply a harmful effect if you are hit by them.</description>
+First Boss: AgartaKey MechanicsDrills - When Agarta hits 90% of her total HP, drills will spawn on either side of the room. This is where players must focus on the field, as well as the boss.
+The drills will deal fatal damage and apply a harmful effect if you are hit by them.</description>
     </item>
     
     <item>
@@ -1162,7 +1179,7 @@ There are two ways to tell when banana drops.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/velik-sanctuary-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Miniboss | Last boss
-First Boss: Revived DarkanKey MechanicsMana Generators - When the ring of fire appears, you will also notice the Lesser Magic Generators. However, if Darkan’s HP falls below 50%, the Lesser Generators will be replaced by Greater Generators and Ring of Fire will reset. Annihilation - Break the pylons with this attack so that it creates a safe zone for next attack.</description>
+First Boss: Revived DarkanKey MechanicsMana Generators - When the ring of fire appears, you will also notice the Lesser Magic Generators. However, if Darkan’s HP falls below 50%, the Lesser Generators will be replaced by Greater Generators and Ring of Fire will reset. Annihilation - Break the pylons with this attack so that it creates a safe zone for next attack.</description>
     </item>
     
     <item>
@@ -1172,8 +1189,8 @@ There are two ways to tell when banana drops.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/velik-hold-hard/</guid>
       <description>| Level Requirement: 65 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: KavadorKey MechanicsNightmare Roly Poly - He will randomly target a party member and roll in straight path and a message will appear:
- “Doom!”  He will do this 3 times. Then, he will bury underground and pop up near the person with aggro.  This attack is instant death.</description>
+First Boss: KavadorKey MechanicsNightmare Roly Poly - He will randomly target a party member and roll in straight path and a message will appear:
+“Doom!”He will do this 3 times. Then, he will bury underground and pop up near the person with aggro. This attack is instant death. Basic attacksRight/Left Scratch - Attacks the person with aggro.</description>
     </item>
     
     <item>
@@ -1192,9 +1209,9 @@ There are two ways to tell when banana drops.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/wonderholme/</guid>
       <description>Quick links: | Enterance | | Two Ring Circus | Playroom | | Felbane | Bandersnatch | | Secret Minibosses |
-Enterance You’ll encounter a miniboss near the entrance, Mock Lobster.
+Enterance You’ll encounter a miniboss near the entrance, Mock Lobster.
 Mock Lobster summons caiman minions that rush in from both exits of the terrace. These shouldn’t be hard to deal with as you hit the miniboss. Watch out if they aggro on weak party members.
-A few other attacks to watch out for:  When Mock Lobster says “Obey me!</description>
+A few other attacks to watch out for: When Mock Lobster says “Obey me!</description>
     </item>
     
     <item>
@@ -1204,9 +1221,9 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/civil-unrest-menma/</guid>
       <description>Look HERE if youre looking for a broader overview of Civil Unrest.
- Server operates in UTC timezone. Please keep it in mind and act accordingly.  Main difference you will notice is that map is different. As of p1.0.7 Civil Unrest is being held on destroyed Island of Dawn.
-  You can also freely use Prime battle solution inside the area.
-  Towers can only be placed 100 meters apart from each other.</description>
+Server operates in UTC timezone. Please keep it in mind and act accordingly. Main difference you will notice is that map is different. As of p1.0.7 Civil Unrest is being held on destroyed Island of Dawn.
+You can also freely use Prime battle solution inside the area.
+Towers can only be placed 100 meters apart from each other.</description>
     </item>
     
     <item>
@@ -1216,8 +1233,8 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/dreadspire-original/</guid>
       <description>Quick links: | F16: Hrathgol | F17: Melkatran | F18: Lokmar Sorgalur | F19: Meldita | F20: Koleogg | F21: Kaprima | F22: Shandra Manaya
-Nicknamed “Dreadspire 3” this season, this dungeon features multiple floors, each featuring its own challenge.
- The first 15 floors feature various challenges, from BAMs to old Bosses, each featuring its own unique mechanics and twists. The last 7 floors features some of the toughest bosses with their own tweaks.</description>
+Nicknamed “Dreadspire 3” this season, this dungeon features multiple floors, each featuring its own challenge.
+The first 15 floors feature various challenges, from BAMs to old Bosses, each featuring its own unique mechanics and twists. The last 7 floors features some of the toughest bosses with their own tweaks.</description>
     </item>
     
     <item>
@@ -1228,8 +1245,8 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/dreadspire-upper/</guid>
       <description>Quick links: | F1: Akasha | F2: Baphomet | F3: Dakuryon | F4: Meldita | F5: Kelsaik
 | F6: Krakatox | F7: Lakan | F8: Desolarus | F9: Darkan | F10: Shandra Manaya
- This version is currently on Menma&amp;rsquo;s Tera  New version of Dreadspire has 10 Floors, on each floor you wil fight a single boss.
- Each of these bosses are buffed up versions of the same boss we’ve seen before from hard modes/raids/previous DS.</description>
+This version is currently on Menma&amp;rsquo;s Tera New version of Dreadspire has 10 Floors, on each floor you wil fight a single boss.
+Each of these bosses are buffed up versions of the same boss we’ve seen before from hard modes/raids/previous DS.</description>
     </item>
     
     <item>
@@ -1238,8 +1255,9 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/rally-quest-menma/</guid>
-      <description>Server operates in UTC timezone. Please keep it in mind and act accordingly.  All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit has not been reached. Rally Quest can be completed regardless of the amount of contribution as long as a Guild Member has contributed.
-Reward    RANK BOX REWARD     Rank 1 Rank 1 Reward Box 5 milion Bellicarium Reputation</description>
+      <description>Server operates in UTC timezone. Please keep it in mind and act accordingly. All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit has not been reached. Rally Quest can be completed regardless of the amount of contribution as long as a Guild Member has contributed.
+Reward RANK BOX REWARD Rank 1 Rank 1 Reward Box 5 milion Bellicarium Reputation
+2.000 Tikat Rank 2 Rank 2 Reward Box 1 milion Bellicarium Reputation</description>
     </item>
     
     <item>
@@ -1249,8 +1267,8 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/crucible-of-flame/</guid>
       <description>| Level Requirement: 60 | Party: 5-man | Quick links: | Stage One | Stage Two | Point Ranking
-The Crucible of Flame has two stages with multiple rounds each. And since there are two stages to the Crucible of Flame each is on its own level.
-Stage One: The FoundationOnce the door to the brazier closes, you’re sealed off from getting or giving help to the rest of your party.</description>
+The Crucible of Flame has two stages with multiple rounds each. And since there are two stages to the Crucible of Flame each is on its own level.
+Stage One: The FoundationOnce the door to the brazier closes, you’re sealed off from getting or giving help to the rest of your party.</description>
     </item>
     
     <item>
@@ -1260,8 +1278,8 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/sirjuka-gallery/</guid>
       <description>| Level Requirement: 60 | Party: 5-man | Quick links: | Platform 1 | Platform 2 | Platform 3 | Ranking Rewards
-DPS - A large majority of the mobs in this dungeon cannot be stunned or slept, and can only be slowed.
- Since they will be making a beeline for the crystals in the center of each platform, you&amp;rsquo;ll need to delay them for as long as possible so that you have time to kill them.</description>
+DPS - A large majority of the mobs in this dungeon cannot be stunned or slept, and can only be slowed.
+Since they will be making a beeline for the crystals in the center of each platform, you&amp;rsquo;ll need to delay them for as long as possible so that you have time to kill them.</description>
     </item>
     
     <item>
@@ -1271,9 +1289,9 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/dungeons/temple-of-temerity/</guid>
       <description>| Level Requirement: 60 | Party: 5-man | Quick links: | First boss | Second boss | Third boss
-When you first enter the instance you will notice a little fairy with a repeatable quest marker. Talk to him and obtain a potion.
- DO NOT USE YET.  Just keep it in your bag. This potion lasts for 3 min and has a cooldown of 20 min.
- This is used to negate the silencing effect in the boss room.</description>
+When you first enter the instance you will notice a little fairy with a repeatable quest marker. Talk to him and obtain a potion.
+DO NOT USE YET. Just keep it in your bag. This potion lasts for 3 min and has a cooldown of 20 min.
+This is used to negate the silencing effect in the boss room.</description>
     </item>
     
     <item>
@@ -1283,8 +1301,8 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/pve-gearing/</guid>
       <description>General Guide Massive thanks to Prince.Pluto for creating this document! You can find it HERE - General Guide to Menma&amp;amp;rsquo;s TERA Server
-Gear   You get the basic blue Azart gear to start with when you make your character.
-  You can get accessory crystals from vanguards credits, like in the original version.   For Dark Light &amp;amp; Annihilation gear you should do dungeons such as Red Refuge &amp;amp; RK9, there you will get gear boxes (The gear options always random)</description>
+Gear You get the basic blue Azart gear to start with when you make your character.
+You can get accessory crystals from vanguards credits, like in the original version. For Dark Light &amp;amp; Annihilation gear you should do dungeons such as Red Refuge &amp;amp; RK9, there you will get gear boxes (The gear options always random)</description>
     </item>
     
     <item>
@@ -1294,7 +1312,7 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2022-05-01-p1.0.5/</guid>
       <description>Some scheduled changes have been postponed for the next patch due to time limitations, and will be coming as soon as possible.
-Battleground  Fraywind Canyon no longer gives personal gear over item level 448. All Battlegrounds should stay up 24/7 now with no shutdown time. Removed faulty Civil Unrest NPC Teleport option (You would get doomzoned if you used it) Changed CU Rewards to:  1st Place:  5M Bellicarium Credit token 5k Tikat Tokens   2nd Place:  5M Bellicarium Credit Token 3.</description>
+Battleground Fraywind Canyon no longer gives personal gear over item level 448. All Battlegrounds should stay up 24/7 now with no shutdown time. Removed faulty Civil Unrest NPC Teleport option (You would get doomzoned if you used it) Changed CU Rewards to: 1st Place: 5M Bellicarium Credit token 5k Tikat Tokens 2nd Place: 5M Bellicarium Credit Token 3.</description>
     </item>
     
     <item>
@@ -1304,8 +1322,8 @@ A few other attacks to watch out for:  When Mock Lobster says “Obey me!</descr
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/bamarama-menma/</guid>
       <description>The New Bamarama is available now on Menma&amp;rsquo;s TERA.
- Head over to the Freeholds North of Chebika to participate.    To begin, speak with one of the Bookies: Tayana, Teena, or Linu. First, open the “Bamarama Tickets” Menu and purchase a minimum of 5 Menma’s Coins.
-  After purchasing your Menma’s Coins, interact with a Bookie again and open the “Monster Wager” menu.
+Head over to the Freeholds North of Chebika to participate. To begin, speak with one of the Bookies: Tayana, Teena, or Linu. First, open the “Bamarama Tickets” Menu and purchase a minimum of 5 Menma’s Coins.
+After purchasing your Menma’s Coins, interact with a Bookie again and open the “Monster Wager” menu.
 Select the monster you want, and bet as many Menma’s Coins as you’d like!</description>
     </item>
     
@@ -1316,7 +1334,7 @@ Select the monster you want, and bet as many Menma’s Coins as you’d like!</d
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/class-crit-cap/</guid>
       <description>A crit cap or crit-factor cap is the point at which having any more crit factor is a detriment to your DPS potential.
-What Factors Influence the Crit Cap?  Boss Level versus Your Level  The difference between the target and your level will adjust how much crit factor is needed for your skills to crit.
+What Factors Influence the Crit Cap? Boss Level versus Your Level The difference between the target and your level will adjust how much crit factor is needed for your skills to crit.
 It might be an impact on how much crit resist the boss has but the important part is the higher you are relative to the target, the lower amount of crit factor you need.</description>
     </item>
     
@@ -1327,9 +1345,9 @@ It might be an impact on how much crit resist the boss has but the important par
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/dreamstorm-menma/</guid>
       <description>Look HERE if youre looking for a broader overview of Dreamstorm.
-Menma&amp;rsquo;s TERA  Solo content which you can do once daily on each of your characters.  Only requirement is to kill AT LEAST one mob to receive the reward for the character.
-  By completing the vanguard you will get 500 Tikat.
- Depending on your ranking during the event, you will receive extra 500/400/300/200/100 Tikat.</description>
+Menma&amp;rsquo;s TERA Solo content which you can do once daily on each of your characters. Only requirement is to kill AT LEAST one mob to receive the reward for the character.
+By completing the vanguard you will get 500 Tikat.
+Depending on your ranking during the event, you will receive extra 500/400/300/200/100 Tikat. Remember that Dreamstorm is open 10minutes before, so you can pick up the quest.</description>
     </item>
     
     <item>
@@ -1340,7 +1358,7 @@ It might be an impact on how much crit resist the boss has but the important par
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/menma-guide/field-bosses-menma/</guid>
       <description>Field Boss Monsters are large monsters in open world. They usually respawn every 5 to 6 hours after they die and drop great loot!
 On Menma&amp;rsquo;s TERA you can find many more World Bosses spawning around different areas! Get your party and claim the loot for yourself.
-Spawn Rates Field Boss Monsters Ortan, Hazard, and Cerrus can spawn between 4hr 30min to 5hr 30min from their death.
+Spawn Rates Field Boss Monsters Ortan, Hazard, and Cerrus can spawn between 4hr 30min to 5hr 30min from their death.
 Images of new bosses will come soon.</description>
     </item>
     
@@ -1351,7 +1369,7 @@ Images of new bosses will come soon.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/battlegrounds/wintera-snowfield/</guid>
       <description>This is a limited availability special PVP Battleground usually only available in the winter season. Res eachother when someone gets down. Most of all though, have fun!!!
-Skills SnowballA small snowball to throw at your enemies.Snow BarrageHold and charge the skill button to prepare and throw a number of snowballs with increasing damage.FireballA flame that burns the area where it lands, turning snow to slush and slowing anyone who passes through.</description>
+Skills SnowballA small snowball to throw at your enemies.Snow BarrageHold and charge the skill button to prepare and throw a number of snowballs with increasing damage.FireballA flame that burns the area where it lands, turning snow to slush and slowing anyone who passes through.</description>
     </item>
     
     <item>
@@ -1360,7 +1378,7 @@ Images of new bosses will come soon.</description>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-09-13-p1.0.4/</guid>
-      <description>Crafting  Changed craft level requirements of Golden Darics &amp;amp; Silver Siglos to 1 point (Basic Crafting Level) Changed craft level requirements of Golden Plates &amp;amp; Silver Plates to 500 points (Artisan Crafting Level) Artisan level test of Smelting now requires Golden Daric crafting only to pass. Master level test of Smelting now requires Golden Plate crafting only to pass. Artisan level test of Processing now requires Silver Siglo crafting only to pass.</description>
+      <description>Crafting Changed craft level requirements of Golden Darics &amp;amp; Silver Siglos to 1 point (Basic Crafting Level) Changed craft level requirements of Golden Plates &amp;amp; Silver Plates to 500 points (Artisan Crafting Level) Artisan level test of Smelting now requires Golden Daric crafting only to pass. Master level test of Smelting now requires Golden Plate crafting only to pass. Artisan level test of Processing now requires Silver Siglo crafting only to pass.</description>
     </item>
     
     <item>
@@ -1369,7 +1387,7 @@ Images of new bosses will come soon.</description>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-09-08-p1.0.3/</guid>
-      <description>General  Kaia’s Anvil quest required for unlocking the Kaia upgrade NPC is now automatically starting at level 70 (minimum item level required 461). You no longer have to do the exodor quest line to get it. The item Bellicarium Credits (5m) no longer expires after 1 hour of acquiring. Increased amount of maximum Adventure Coins to 2000 for non-TERA Club members and to 6000 for TERA Club members. The UI now properly displays Adventure Coins recharge rate of 20 for TERA Club members.</description>
+      <description>General Kaia’s Anvil quest required for unlocking the Kaia upgrade NPC is now automatically starting at level 70 (minimum item level required 461). You no longer have to do the exodor quest line to get it. The item Bellicarium Credits (5m) no longer expires after 1 hour of acquiring. Increased amount of maximum Adventure Coins to 2000 for non-TERA Club members and to 6000 for TERA Club members. The UI now properly displays Adventure Coins recharge rate of 20 for TERA Club members.</description>
     </item>
     
     <item>
@@ -1378,7 +1396,7 @@ Images of new bosses will come soon.</description>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-08-30-p1.0.2/</guid>
-      <description>General  Healers weapons should now drop unidentified. Non-healer weapons with no stats will drop identified now and will be missing the top selectable stat (enrage/cdr/attack speed/crit factor). Masks from Transcendent Mask Coupon shop require 1 coupon now instead of previous 6(?). Adjusted Battered Oath Gear sell price to 1,000 gold. Deleting a character over level 50 will now require 24 hours waiting time before being deleted. Replaced some of the non tradeable costumes with their tradeable versions.</description>
+      <description>General Healers weapons should now drop unidentified. Non-healer weapons with no stats will drop identified now and will be missing the top selectable stat (enrage/cdr/attack speed/crit factor). Masks from Transcendent Mask Coupon shop require 1 coupon now instead of previous 6(?). Adjusted Battered Oath Gear sell price to 1,000 gold. Deleting a character over level 50 will now require 24 hours waiting time before being deleted. Replaced some of the non tradeable costumes with their tradeable versions.</description>
     </item>
     
     <item>
@@ -1387,7 +1405,7 @@ Images of new bosses will come soon.</description>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-08-29-p1.0.1/</guid>
-      <description>General  Skill Advancement gold cost has been reduced to 0. Tikat is now obtainable through vanguard initiative merchant on an exchange ratio of 1:1. Ancient Accessory Morpher merchant price has been changed to 1,000g compared to previous 10,000g. Skill Advancement scrolls have been added to the Bellicarium Credit Merchant shop at 10 credit per scroll. Adjusted price of Prime Battle Solution to 10 gold. Veteran title reward has been switched to the special glowing title called “Pride of Menma”.</description>
+      <description>General Skill Advancement gold cost has been reduced to 0. Tikat is now obtainable through vanguard initiative merchant on an exchange ratio of 1:1. Ancient Accessory Morpher merchant price has been changed to 1,000g compared to previous 10,000g. Skill Advancement scrolls have been added to the Bellicarium Credit Merchant shop at 10 credit per scroll. Adjusted price of Prime Battle Solution to 10 gold. Veteran title reward has been switched to the special glowing title called “Pride of Menma”.</description>
     </item>
     
     <item>
@@ -1397,8 +1415,7 @@ Images of new bosses will come soon.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-09-01-dev-note/</guid>
       <description>Instead of reposting Dev-Note here, you can find it at the official website:
- Menma’s TERA Server
-</description>
+Menma’s TERA Server</description>
     </item>
     
     <item>
@@ -1408,9 +1425,9 @@ Images of new bosses will come soon.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-08-28-p1.0/</guid>
       <description>Menma’s TERA release is finally upon us, aiming to bring the game to as close to its glory days as possible. And now a word from our patch notes. Let’s goooo. Good luck to me writing the notes now.
-Character Creation
- On character creation you will be receiving Heroic Oath Gear, PvP crystals, Relic/Halidom I, accessories and a level 70 scroll.  Adventure Coins
- Maximum Adventure Coins for TERA Club accounts increased to 5000.</description>
+Character Creation
+On character creation you will be receiving Heroic Oath Gear, PvP crystals, Relic/Halidom I, accessories and a level 70 scroll. Adventure Coins
+Maximum Adventure Coins for TERA Club accounts increased to 5000.</description>
     </item>
     
     <item>
@@ -1419,7 +1436,7 @@ Images of new bosses will come soon.</description>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0200</pubDate>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-06-29-p0.2/</guid>
-      <description>The First Class Balance Attempt General  Added War Cry Chest to Tikat Shop. Guild Join Cooldown is now set to 0. Increased maximum amount of Bellicarium credits from 2m to 32m. (Maximum limit won’t show in client yet) Apex Scroll has been added to the Eternal Gear Token Shop. The Colosseum is now only solo queue. Added The Colosseum 3v3 (Team) premade queue. (Currently accessible from Champion’s Skyring Mark V (Team) option in Instance Matching.</description>
+      <description>The First Class Balance Attempt General Added War Cry Chest to Tikat Shop. Guild Join Cooldown is now set to 0. Increased maximum amount of Bellicarium credits from 2m to 32m. (Maximum limit won’t show in client yet) Apex Scroll has been added to the Eternal Gear Token Shop. The Colosseum is now only solo queue. Added The Colosseum 3v3 (Team) premade queue. (Currently accessible from Champion’s Skyring Mark V (Team) option in Instance Matching.</description>
     </item>
     
     <item>
@@ -1429,9 +1446,9 @@ Images of new bosses will come soon.</description>
       
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2021-06-12-p0.1/</guid>
       <description>Menma’s TERA open beta testing is upon us, and comes with huge changes to the game we know as TERA. It’s time to make the switch!
-Character Selection Screen
- The Character Selection screen has been replaced with the old 2013 style character selection.  Island of Dawn
- The ruined Island of Dawn has been replaced with the old 2013 Island of Dawn. The Island of Dawn monsters of the areas in the bottom have been buffed.</description>
+Character Selection Screen
+The Character Selection screen has been replaced with the old 2013 style character selection. Island of Dawn
+The ruined Island of Dawn has been replaced with the old 2013 Island of Dawn. The Island of Dawn monsters of the areas in the bottom have been buffed.</description>
     </item>
     
     <item>
@@ -1453,7 +1470,7 @@ At the start of the round, each player starts off as a Baby Kumas. Once the roun
       <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/battlegrounds/kumasylum/</guid>
       <description>A 10 v 3 battleground where the team of 10 Federation players is attempting to steal the Kuma&amp;rsquo;s Candy. There are 3 candies in total, and whoever has the most candy at the end will win.
 The game will end if the Federation team manages to secure all 3. Older players may refer to Candy as Diamonds. Same thing.
-Kuma Team This is the easiest team to win as. Your objective is to prevent the Federation team from successfully stealing 2 or more candies.</description>
+Kuma Team This is the easiest team to win as. Your objective is to prevent the Federation team from successfully stealing 2 or more candies.</description>
     </item>
     
   </channel>
