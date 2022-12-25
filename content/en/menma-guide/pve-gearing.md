@@ -39,8 +39,8 @@ You can upgrade a +0 to a +15 piece of gold gear to Kaia / Mythic at any time on
 1. Go the the Kaiator Command center. You'll have quest prompts on how to get there if you've never been before.
 2. Smash 'F' on some NPCs then you'll need to clear 2 dungeons to get quest materials.
 3. Go back to Kaiator Command, smash 'f' on NPCs again then you'll do the same at Muhrak's Workshop in Habere.
-4. After talking with Kaia and Fovarth, you'll need to clear Gossamer's Vault (HARD) for quest material.
-5. Clear **Gossamer's Vault (HARD)** once.
+4. After talking with Kaia and Fovarth, you'll need to clear Ruinous Manor (Normal) for quest material.
+5. Clear **Ruinous Manor (Normal)** once.
 6. Go back to Muhrak's Workshop and finish the quest. You'll get a token Black Shard and Nodule for your effort.
 7. You can now use Kaia's Anvil to upgrade to Kaia / mythic whenever you have the required materials.
 
