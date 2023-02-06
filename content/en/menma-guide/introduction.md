@@ -6,10 +6,9 @@ description: Basic information about Menma's TERA
 ## Basic about the server
 
 ![]()
-* Server is running on **old lvl70** Patch - 92.4 from March 2020
+* Server is running on Patch - 100.2.
 * As of writing this post, server are located in Starsbourg, France, EU. 
 * Server is set to **PvP**
-* As of writing this post,the client is 32-bit, and possible compatibility with a 64-bit client might come later.
 <hr/>
 
 ![](https://i.imgur.com/gCGwqNw.png) 
