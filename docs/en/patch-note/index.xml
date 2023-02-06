@@ -6,7 +6,17 @@
     <description>Recent content in Patch Notes for Menma&#39;s TERA on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.6 – PvP returns, PvE systematic changes, and more</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-2-06-p1.6/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-2-06-p1.6/</guid>
+      <description>There is a lot going on with this patch, so we&amp;rsquo;ll split this design note into two sections with bullet points. Hopefully this&amp;rsquo;ll help highlight what we believe are the most important changes for our players to see. This is the first time since we have joined the team that we&amp;rsquo;ve been making such large notable changes for both PvE and PvP simultaneously.
+PvE We have received a lot of valuable feedback, with a common trend of feeling tired of our current lineup.</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.5 – Boss Partners, General Content, and more…</title>
       <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-1-17-p1.5/</link>
