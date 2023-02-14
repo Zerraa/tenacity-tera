@@ -6,23 +6,44 @@
     <description>Recent content in Patch Notes for Menma&#39;s TERA on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.6.2 - Second Part of Hotfixes</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-02-09-p1.6.2/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-02-09-p1.6.2/</guid>
+      <description>Dungeon Changes Forbidden Arena (Undying Warlord) Fixed issue where lines still had a delay when targeting the healer and appearing. Class Changes Brawler Fixed an issue where Flying Kick gets body-blocked by party members. Battleground Changes Velocity Advancement on Priest and Mystic has been turned off and cannot be used inside of battlefields.
+If you queue with this advancement turned on, you can turn it off inside or choose a different advancement before the fight starts.</description>
+    </item>
+    
+    <item>
+      <title>Menma’s TERA 1.6.1 – Hotfixes</title>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-02-08-p1.6.1/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-02-08-p1.6.1/</guid>
+      <description>Dungeon Changes Antaroth&amp;rsquo;s Abyss (Hard) Antaroth&amp;rsquo;s orb mechanic now breaks Divine Protection and shatters Guardian Barrier, which leaves no chance of survival. This is what we intended from the start.
+Antaroth&amp;rsquo;s debuffs now get cleared correctly.
+The Plexus (Hard) Manaya&amp;rsquo;s debuffs now get cleared correctly. Battleground Changes Shore Hold (10v10) Now limits you to 1~2 tanks per team. Corsair&amp;rsquo;s Stronghold (15v15) &amp;amp; Shore Hold (10v10) A new aura has been added that replenishes 459 MP every 5 seconds.</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.6 – PvP returns, PvE systematic changes, and more</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-2-06-p1.6/</link>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-02-06-p1.6/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-2-06-p1.6/</guid>
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-02-06-p1.6/</guid>
       <description>There is a lot going on with this patch, so we&amp;rsquo;ll split this design note into two sections with bullet points. Hopefully this&amp;rsquo;ll help highlight what we believe are the most important changes for our players to see. This is the first time since we have joined the team that we&amp;rsquo;ve been making such large notable changes for both PvE and PvP simultaneously.
 PvE We have received a lot of valuable feedback, with a common trend of feeling tired of our current lineup.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.5 – Boss Partners, General Content, and more…</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-1-17-p1.5/</link>
+      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-01-17-p1.5/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-1-17-p1.5/</guid>
+      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/patch-note/2023-01-17-p1.5/</guid>
       <description>The last year has been a blast, and we as a team have come a long way from when we first started working on this project. We&amp;rsquo;ve learnt a ton, largely in part to your constructive feedback and efforts from the community. We&amp;rsquo;re now looking into taking things to the next level in the coming year. This small patch wraps up a number of events, and it also wraps up a few projects started in the previous year including changes to the Island of Dawn and the boss pet system.</description>
     </item>
     
