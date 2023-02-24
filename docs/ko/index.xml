@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tenacity</title>
-    <link>https://zera-dev.github.io/tenacity-tera.eu/ko/</link>
+    <link>https://zerraa.github.io/tenacity-tera.eu/ko/</link>
     <description>Recent content on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.eu/ko/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zerraa.github.io/tenacity-tera.eu/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menma’s TERA 1.0.9</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-06-10-p1.0.9/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-06-10-p1.0.9/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-06-10-p1.0.9/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-06-10-p1.0.9/</guid>
       <description>길드 변경 길드 퀘스트에서 길드 XP 보상을 10배 증가시킵니다. 각 길드 레벨에 필요한 길드 XP의 양이 20% 감소합니다. 발데론 토큰의 최대 양이 900개에서 1500개로 증가했습니다. 기타 페트락스 리더보드의 비활성화된 피트입니다. 엘레온의 5개 마크에 강력 카네포라 물약 을 엘엘리온의 증표 에 추가했습니다. 엘리온의 증표 에 호박 파이 모든 개방된 세계 지역의 채널 증가. 마나야의 핵심(솔로)이 추가되었습니다. 아르곤 멜디티아/샨드라 마나이아 의 핵심 텔레포탈을 통해 액세스할 수 있습니다. 천체 경기장이 활성화되었습니다. 시민 소요에서 맞춤 의상 비활성화 및 자동 최적화 활성화: 새벽의 섬.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.0.8</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-06-02-p1.0.8/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-06-02-p1.0.8/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-06-02-p1.0.8/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-06-02-p1.0.8/</guid>
       <description>기타 최대 길드 크기가 35개로 증가했습니다. 2022년 1월 1일 이후 로그인하지 않은 비활성 계정은 모두 캐릭터 이름이 해제됐다. 약 800명의 이름이 공개되었다. 레벨 70의 모든 캐릭터는 소포 우편물에 1x 이터널 기어 토큰 박스를 받았습니다. 낚싯대는 냉각되지 않고 녹다운 상태를 탈출하는 데 사용되었기 때문에 일시적으로 비활성화되었습니다. 그것들은 나중에 고쳐져서 다시 가져올 것이다. 금빛 할리돔과 유물들이 마나야의 중심부에 떨어질 확률을 재조정합니다(하드). 전장의 변화 그리디론, 쿠마실, 윈터 스노우필드, 콜로세움 (3v3) 몽키드롬, 쿠마스로얄은 장애인이 되었다.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.0.7</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-05-22-p1.0.7/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-05-22-p1.0.7/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-05-22-p1.0.7/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-05-22-p1.0.7/</guid>
       <description>황금 핼리돔과 유물 마나야의 핵심(하드) 나이트메어 샨드라 마나야는 이미 떨어졌을 4등급 할리돔이나 유물들을 2등급 할리돔과 나란히 떨어뜨릴 확률이 20%이며, 후자는 50% 할리돔 할리돔 할리돔 할리돔 할리덤 할리덤 할리덤 할리덤 할리덤 할리웃이 된다. 벨릭의 성역(하드) 나이트메어 라칸이 1-3등급의 할리돔 또는 유물을 떨어뜨릴 확률이 50%입니다. 바하르 생텀 / 타임스케이프 (하드) / 포사켄 섬 (하드) 75% 확률로 1-4등급의 할리돔 또는 유물을 떨어뜨린다. 파트너 물리적이고 마법적인 증폭 슈페리어 컴패니언이 티캣 숍에 5,000명의 티캣을 위해 추가되었다.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.0.6</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-05-15-p1.0.6/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-05-15-p1.0.6/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-05-15-p1.0.6/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-05-15-p1.0.6/</guid>
       <description>패치 v1.0.6은 기어, PvP 및 기타 게임 플레이에 다양한 고유한 변화를 가져옵니다. 자세한 내용은 아래를 참조하십시오.
 테라 클럽 새로운 아이템 추가: &amp;lt;Menma&amp;rsquo;s Multi-Nostrum&amp;gt; 사용 시 에버풀 노스트룸, 강한 용기, 뛰어난 녹테니움 엘릭시르 및 매운맛 또는 짠맛 생선 뷔페 버프를 바릅니다. 새 시작 항목 이터널 기어 토큰 박스가 추가되었습니다. 이터널 기어 토큰박스는 게임 시작과 동시에 새로운 캐릭터들이 받던 기존 벨리카리움 크레딧 아이템을 대체한다. 상자를 열면 이터널 기어 토큰 1000개가 약탈됩니다. PvE Relidoms는 이제 Eternal Gear Token Shop에서 각 250개의 토큰에 구입할 수 있으며 캐릭터 생성 시 시작 아이템으로 즉시 제공되지 않습니다.</description>
     </item>
     
     <item>
       <title>1. 다운로드</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/download/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/download/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/download/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/download/</guid>
       <description>다운로드 링크:https://account.menmastera.com/register
 다운로드 링크:https://menmastera.com/download
 Torrent 파일은 Menma&amp;rsquo;s Discord: https://discord.gg/menmastera</description>
@@ -57,29 +57,29 @@ Torrent 파일은 Menma&amp;rsquo;s Discord: https://discord.gg/menmastera</desc
     
     <item>
       <title>2. 프록시</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/proxy-mods/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/proxy-mods/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/proxy-mods/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/proxy-mods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3. 기본 소개</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/introduction/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/introduction/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/introduction/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/introduction/</guid>
       <description>Basic about the server 서버는 2020년 3월부터 lvl70 패치 - 92.4에서 실행 중입니다. 이 게시물을 작성하는 시점에서 서버는 프랑스 스타스부르그, 유럽 연합에 위치해 있습니다. 서버가 PvP로 설정되었습니다. 이 게시물을 작성할 때 클라이언트는 32비트이며 64비트 클라이언트와의 호환성은 나중에 있을 수 있습니다. Menma의 TERA에 대한 지원이 HERE에서 확인할 수 있는 신라에 추가되었습니다. 스킬 발전은 일반 테라와 동일,하지만 당신은한 주당 순이익 페이지 및 카드 없음** *에프 리셋 보복도 제거되었습니다.
 당신은 나중에 카이아의 분노와 지혜로 변환할 수 있는 다크 라이트 &amp;amp; 섬멸 장비를 가지고 있습니다.</description>
     </item>
     
     <item>
       <title>4.1 기어 - PvP</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/pvp-gearing/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/pvp-gearing/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/pvp-gearing/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/pvp-gearing/</guid>
       <description>Gear FULL PVP GEAR 이 필요합니다.
 PvE 기어에 PvP:
 에 대한 디버프가 있기 때문에 (피해 40% 감소 및 피해 40% 증가) 필요한 모든 토큰을 구매할 수 있는 1,000개의 영원한 토큰을 즉시 받으실 수 있습니다. 그 후에는 구매하실 필요가 없습니다.
@@ -88,10 +88,10 @@ PvE 기어에 PvP:
     
     <item>
       <title>함락된 벨릭의 신전</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/dungeons/velik-sanctuary-hard/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/dungeons/velik-sanctuary-hard/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/dungeons/velik-sanctuary-hard/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/dungeons/velik-sanctuary-hard/</guid>
       <description>| 빠른 링크: | 첫째 보스 | 세컨드 보스 | 마지막 보스
 첫째 보스: 부활한 다르칸멘트없이 사용하는 일반적인 패턴입니다.
 오른손, 왼손, 뒤돌기, 검기
@@ -105,10 +105,10 @@ PvE 기어에 PvP:
     
     <item>
       <title>길드 vs 길드</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/guild-vs-guild/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/guild-vs-guild/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/guild-vs-guild/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/guild-vs-guild/</guid>
       <description>Guilds on Menma&amp;rsquo;s TERA are slightly different. Limit of players in one guild was set to 30 meters max; impossible to raise slots further.
 길드 대 길드 길드는 길드 대 길드(GvG) 전투에 참여할 수 있습니다.
 일단 전쟁이 선포되면, 최대 24시간 동안 경쟁 길드는 안전지대를 제외한 모든 곳에서 서로를 공격하고 죽일 수 있다. 한 길드는 한 번에 최대 세 번의 전투에 참여할 수 있습니다. </description>
@@ -116,10 +116,10 @@ PvE 기어에 PvP:
     
     <item>
       <title>길드 대전 Menma</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/civil-unrest-menma/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/civil-unrest-menma/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/civil-unrest-menma/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/civil-unrest-menma/</guid>
       <description>시민 소요에 대한 보다 광범위한 개요를 찾으려면 HERE를 참조하십시오.
 서버는 UTC 시간대로 작동합니다. 그것을 명심하고 그에 따라 행동해 주세요. 여러분이 알게 될 주요 차이점은 지도가 다르다는 것입니다. p1.0.7* 현재 파괴된 여명섬에서 시민 소요가 일어나고 있다.
 지역 내에서도 프라임 전투 솔루션을 자유롭게 사용할 수 있습니다.
@@ -129,10 +129,10 @@ PvE 기어에 PvP:
     
     <item>
       <title>랠리 퀘스트</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/rally-quest-menma/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/rally-quest-menma/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/rally-quest-menma/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/rally-quest-menma/</guid>
       <description>서버는 UTC 시간대로 작동합니다. 그것을 명심하고 그에 따라 행동해 주세요. 매주 발데론 토큰 제한에 도달하지 않은 한 모든 길드는 [랠리] 길드 퀘스트에 응할 수 있습니다. 랠리 퀘스트는 길드원이 기부한 금액에 관계없이 완료할 수 있습니다.
 리워드 RANK BOX REWARD 1위 Rank 1 리워드 박스 500만 벨리카륨 평판
 2.000 티캇 2위 Rank 2 리워드 박스 100만 벨리카륨 평판
@@ -142,19 +142,19 @@ PvE 기어에 PvP:
     
     <item>
       <title>무법자</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/outlaw-system/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/outlaw-system/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/outlaw-system/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/outlaw-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>4.2 기어 - PvE</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/pve-gearing/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/pve-gearing/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/menma-guide/pve-gearing/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/menma-guide/pve-gearing/</guid>
       <description>Gear 캐릭터를 만들 때 기본 파란색 Azart 기어를 사용할 수 있습니다.
 악세사리 크리스탈은 오리지널 버전과 같이 VG 크레딧에서 얻을 수 있습니다. 다크라이트 &amp;amp; 애니힐레이션 기어의 경우 레드레지온 &amp;amp; RK9과 같은 던전을 해야 기어박스가 나옵니다
 최고의 무기: 4배 랜덤 롤 (이중 CRD가 있을 뿐 아니라)
@@ -163,56 +163,56 @@ PvE 기어에 PvP:
     
     <item>
       <title>Menma’s TERA 1.0.5</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-05-01-p1.0.5/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-05-01-p1.0.5/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2022-05-01-p1.0.5/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2022-05-01-p1.0.5/</guid>
       <description>다음 패치에 대해 예정된 변경 사항이 시간 제한으로 인해 연기되었으며, 가능한 한 빨리 수정될 예정입니다.
 배틀그라운드 프레이윈드 캐니언은 더 이상 아이템 레벨 448 이상의 개인 장비를 제공하지 않습니다. 모든 배틀그라운드는 종료 시간 없이 24시간 가동해야 합니다. 결함이 있는 Civil War NPC Teleport 옵션 제거(사용할 경우 둠존 설정됨) 변경된 CU 보상: 1위: 5M 벨리카륨 크레디트 토큰 5k 티캣 토큰 2위: 5M 벨리카륨 크레디트 토큰 3.5k 티캣 토큰 3위: 5M 벨리카륨 크레디트 토큰 2k 티캣 토큰 4위와 5위: 10배 벨리카륨 크레디트 토큰 (100,000) 티캣 토큰 1k 6위 - 10위: 벨리카륨 크레디트 토큰 5배 (100,000) 티캣 토큰 500개 다음과 같은 기능을 제공하기 위해 전장 보상/방망이 변경 및 업데이트되었습니다.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.0.4</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-09-13-p1.0.4/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-09-13-p1.0.4/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-09-13-p1.0.4/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-09-13-p1.0.4/</guid>
       <description>공예 Golden Darics &amp;amp; Silver Siglo 의 크래프트 레벨 요구사항이 1점(기본 크래프트 레벨)으로 변경됨 금판 및 은판의 공예 수준 요구 사항이 500점으로 변경됨(장인 공예 수준) 이제 스멜팅의 장인 레벨 테스트는 골든 다릭 크래프트만 통과하면 됩니다. 이제 제련의 마스터 레벨 테스트는 골든 플레이트 크래프트만 통과하면 됩니다. 현재 가공의 장인 레벨 테스트는 실버 시글로 공예만 통과하면 됩니다. 이제 처리의 마스터 레벨 테스트를 통과하려면 Silver Plate 제작만 필요합니다. 뱅가드 크레딧 머천트에 1500 크레딧에 에이징 엘리누의 눈물을 추가했습니다.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.0.3</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-09-08-p1.0.3/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-09-08-p1.0.3/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-09-08-p1.0.3/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-09-08-p1.0.3/</guid>
       <description>일반 Kaia 업그레이드 NPC 잠금을 해제하는 데 필요한 Kaia의 Anvil 퀘스트는 현재 레벨 70(최소 아이템 레벨 461 필요)에서 자동으로 시작됩니다. 당신은 그것을 얻기 위해 더 이상 엑소더 퀘스트 라인을 하지 않아도 된다. Bellicarium Credits(5m) 항목은 획득 후 1시간이 지나면 더 이상 만료되지 않습니다. 최대 어드벤처 코인의 액수가 테라 클럽이 아닌 회원에게는 2000으로, 테라 클럽 회원에게는 6000으로 증가했습니다. 이제 UI는 TERA Club 회원들을 위해 어드벤처 코인 충전율 20을 적절하게 표시한다. 엘레온의 용기의 표시(150개 토큰)에 &amp;ldquo;Menma 재능 상자&amp;quot;라는 이름의 새로운 아이템을 추가했습니다.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.0.2</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-08-30-p1.0.2/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-08-30-p1.0.2/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-08-30-p1.0.2/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-08-30-p1.0.2/</guid>
       <description>일반 이제 치료용 무기는 미확인 상태로 버려야 합니다. 통계가 없는 비힐러 무기는 현재 식별된 상태로 드롭되며 선택 가능한 상위 통계(성난/cdr/공격 속도/크리먼트 팩터)가 누락됩니다. Transcendent Mask 쿠폰 숍의 마스크는 기존 6(?)이 아닌 1개의 쿠폰이 필요합니다. 조정된 파손된 선서 기어의 판매가격은 1,000골드입니다. 레벨 50 이상의 캐릭터를 삭제하려면 24시간 대기해야 합니다. 거래할 수 없는 의상 중 일부를 거래할 수 있는 버전으로 교체합니다. Tikat Shop의 Skycastle 의상을 로그아웃하거나 텔레포트를 해도 삭제되지 않는 것으로 바꾸십시오. PvP 기어 이제 +9까지 마법에 걸릴 수 있습니다.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.0.1</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-08-29-p1.0.1/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-08-29-p1.0.1/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-08-29-p1.0.1/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-08-29-p1.0.1/</guid>
       <description>일반 스킬 향상 골드 비용이 0으로 감소했습니다. 티캣은 현재 1:1의 교환비율로 선봉대 이니셔티브 머천트를 통해 획득할 수 있다. 고대 액세서리 모퍼 상가는 기존 1만g 대비 1,000g으로 변경됐다. Bellicarium Credit Merchant 숍에 스킬 향상 스크롤이 추가되어 스크롤당 10 크레딧이 제공됩니다. 프라임 배틀 솔루션 가격을 10골드로 조정했습니다. 베테랑 타이틀 보상은 &amp;ldquo;Menma 자랑&amp;quot;이라고 불리는 특별한 빛나는 타이틀로 바뀌었다. 빠른 시일 내에 입수하는 방법에 대한 자세한 정보 PvP 기어 PvP 기어가 규율, 고조파, 난공불락으로 전환되었습니다.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 1.0 | 릴리즈</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-08-28-p1.0/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-08-28-p1.0/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-08-28-p1.0/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-08-28-p1.0/</guid>
       <description>Menma의 TERA 출시가 드디어 다가왔습니다. 게임의 전성기를 최대한 가깝게 만드는 것을 목표로 하고 있습니다. 이제 패치 노트에서 한 마디 하겠습니다. 가자. 내가 지금 노트를 작성하는 것에 행운을 빌어요.
 문자 생성
 캐릭터 생성 시 영웅 서약 장비, PvP 크리스탈, 리릭트/할리돔 I, 액세서리 및 레벨 70 스크롤을 받게 됩니다. 어드벤처 코인
@@ -221,29 +221,29 @@ TERA 클럽 계정의 최대 어드벤처 코인은 5,000개로 증가했습니�
     
     <item>
       <title>개발자 노트 – 2021년 9월</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-09-01-dev-note/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-09-01-dev-note/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-09-01-dev-note/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-09-01-dev-note/</guid>
       <description>여기에 Dev-Note를 다시 게시하는 대신 공식 웹 사이트에서 찾을 수 있습니다.
 Menma’s TERA Server</description>
     </item>
     
     <item>
       <title>Menma’s TERA 0.2</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-06-29-p0.2/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-06-29-p0.2/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-06-29-p0.2/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-06-29-p0.2/</guid>
       <description>퍼스트 클래스 밸런스 시도 일반 티캣 상점에 워 크라이스트 상자를 추가했습니다. 길드 가입 재사용 대기시간이 0으로 설정되었습니다. Bellicarium credit 최대 금액을 2m에서 32m로 증가(고객에는 아직 최대 한도가 표시되지 않음) 에이펙스 스크롤이 이터널 기어 토큰 샵에 추가되었습니다. 콜로세움은 이제 혼자 줄을 설 뿐이다. 콜로세움 3v3(팀) 미리 만들어진 대기열이 추가되었습니다. (현재 인스턴스 매칭의 챔피언 스카이링 마크 V(팀) 옵션에서 액세스할 수 있습니다.) 길드는 이제 길드 이름에 공백을 사용할 수 있습니다. 타임스케이프 1번과 3번 보스가 피해를 약간 누그러뜨렸습니다.</description>
     </item>
     
     <item>
       <title>Menma’s TERA 0.1 | 오픈 베타</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-06-12-p0.1/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-06-12-p0.1/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/ko/patch-note/2021-06-12-p0.1/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/ko/patch-note/2021-06-12-p0.1/</guid>
       <description>캐릭터 선택 화면
 문자 선택 화면이 이전 2013 스타일 문자 선택으로 대체되었습니다. Island of Dawn
 폐허가 된 여명섬은 2013년 옛 여명섬으로 대체되었다. 맨 아래 지역의 여명도 몬스터들이 버프를 당했습니다. Dawnstorm Token shop은 2.0 마운트 박스와 계층 IV 에칭(이전에는 사용되지 않았던 전용 에칭 포함)을 포함하도록 업데이트되었습니다. 민란: 새벽의 섬(NEW)

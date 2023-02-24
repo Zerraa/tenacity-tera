@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Menma’s Tera Guides on Tenacity</title>
-    <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/</link>
+    <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/</link>
     <description>Recent content in Menma’s Tera Guides on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. Download</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/download/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/download/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/download/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/download/</guid>
       <description>Create an account:https://account.menmastera.com/register
 Download link:https://menmastera.com/download
 Torrent file can be found on Menma’s Discord https://discord.gg/menmastera</description>
@@ -20,29 +20,29 @@ Torrent file can be found on Menma’s Discord https://discord.gg/menmastera</de
     
     <item>
       <title>2. Proxy Mods</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/proxy-mods/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/proxy-mods/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/proxy-mods/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/proxy-mods/</guid>
       <description>You can find allowed proxy-mods on Menma&amp;rsquo;s TERA discord in the #proxy-mods section.</description>
     </item>
     
     <item>
       <title>3. Introduction to basics</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/introduction/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/introduction/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/introduction/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/introduction/</guid>
       <description>Basic about the server Server is running on Patch - 100.2. As of writing this post, server are located in Starsbourg, France, EU. Server is set to PvP Support for Menma&amp;rsquo;s TERA has been added to Shinra which you can find HERE Skill advancements are same as normal Tera, but you have one EP page &amp;amp; no cards
 EP to reset Retaliate was also removed. You have Dark Light &amp;amp; Annihilation gear, which you can convert to Kaia&amp;rsquo;s Fury &amp;amp; Wisdom later.</description>
     </item>
     
     <item>
       <title>4.1 Gearing - PvP</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/pvp-gearing/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/pvp-gearing/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/pvp-gearing/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/pvp-gearing/</guid>
       <description>General Guide Massive thanks to Prince.Pluto for creating this document! You can find it HERE - General Guide to Menma&amp;amp;rsquo;s TERA Server
 Gear You require FULL PVP GEAR
 Since pve gear have debuffs on it for pvp :
@@ -52,10 +52,10 @@ Through said tokens you can also buy special Radiant Jewelery which is not useab
     
     <item>
       <title>Civil Unrest on Menma</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</guid>
       <description>Look HERE if youre looking for a broader overview of Civil Unrest.
 Server operates in UTC timezone. Please keep it in mind and act accordingly. Main difference you will notice is that map is different. As of p1.0.7 Civil Unrest is being held on destroyed Island of Dawn.
 You can also freely use Prime battle solution inside the area.
@@ -64,10 +64,10 @@ Towers can only be placed 100 meters apart from each other.</description>
     
     <item>
       <title>Rally Quest</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/rally-quest-menma/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/rally-quest-menma/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/rally-quest-menma/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/rally-quest-menma/</guid>
       <description>Server operates in UTC timezone. Please keep it in mind and act accordingly. All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit has not been reached. Rally Quest can be completed regardless of the amount of contribution as long as a Guild Member has contributed.
 Reward RANK BOX REWARD Rank 1 Rank 1 Reward Box 5 milion Bellicarium Reputation
 2.000 Tikat Rank 2 Rank 2 Reward Box 1 milion Bellicarium Reputation</description>
@@ -75,10 +75,10 @@ Reward RANK BOX REWARD Rank 1 Rank 1 Reward Box 5 milion Bellicarium Reputation
     
     <item>
       <title>4.2 Gearing - PvE</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/pve-gearing/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/pve-gearing/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/pve-gearing/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/pve-gearing/</guid>
       <description>General Guide Massive thanks to Prince.Pluto for creating this document! You can find it HERE - General Guide to Menma&amp;amp;rsquo;s TERA Server
 Gear You get the basic blue Azart gear to start with when you make your character.
 You can get accessory crystals from vanguards credits, like in the original version. For Dark Light &amp;amp; Annihilation gear you should do dungeons such as Red Refuge &amp;amp; RK9, there you will get gear boxes (The gear options always random)</description>
@@ -86,10 +86,10 @@ You can get accessory crystals from vanguards credits, like in the original vers
     
     <item>
       <title>Bamarama</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/bamarama-menma/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/bamarama-menma/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/bamarama-menma/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/bamarama-menma/</guid>
       <description>The New Bamarama is available now on Menma&amp;rsquo;s TERA.
 Head over to the Freeholds North of Chebika to participate. To begin, speak with one of the Bookies: Tayana, Teena, or Linu. First, open the “Bamarama Tickets” Menu and purchase a minimum of 5 Menma’s Coins.
 After purchasing your Menma’s Coins, interact with a Bookie again and open the “Monster Wager” menu.
@@ -98,10 +98,10 @@ Select the monster you want, and bet as many Menma’s Coins as you’d like!</d
     
     <item>
       <title>Class Crit Factors</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/class-crit-cap/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/class-crit-cap/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/class-crit-cap/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/class-crit-cap/</guid>
       <description>A crit cap or crit-factor cap is the point at which having any more crit factor is a detriment to your DPS potential.
 What Factors Influence the Crit Cap? Boss Level versus Your Level The difference between the target and your level will adjust how much crit factor is needed for your skills to crit.
 It might be an impact on how much crit resist the boss has but the important part is the higher you are relative to the target, the lower amount of crit factor you need.</description>
@@ -109,10 +109,10 @@ It might be an impact on how much crit resist the boss has but the important par
     
     <item>
       <title>Dreamstorm on Menma</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/dreamstorm-menma/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/dreamstorm-menma/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/dreamstorm-menma/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/dreamstorm-menma/</guid>
       <description>Look HERE if youre looking for a broader overview of Dreamstorm.
 Menma&amp;rsquo;s TERA Solo content which you can do once daily on each of your characters. Only requirement is to kill AT LEAST one mob to receive the reward for the character.
 By completing the vanguard you will get 500 Tikat.
@@ -121,10 +121,10 @@ Depending on your ranking during the event, you will receive extra 500/400/300/2
     
     <item>
       <title>Field Bosses</title>
-      <link>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/field-bosses-menma/</link>
+      <link>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/field-bosses-menma/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/menma-guide/field-bosses-menma/</guid>
+      <guid>https://zerraa.github.io/tenacity-tera.eu/en/menma-guide/field-bosses-menma/</guid>
       <description>Field Boss Monsters are large monsters in open world. They usually respawn every 5 to 6 hours after they die and drop great loot!
 On Menma&amp;rsquo;s TERA you can find many more World Bosses spawning around different areas! Get your party and claim the loot for yourself.
 Spawn Rates Field Boss Monsters Ortan, Hazard, and Cerrus can spawn between 4hr 30min to 5hr 30min from their death.
