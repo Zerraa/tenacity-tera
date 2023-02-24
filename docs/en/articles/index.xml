@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Tenacity</title>
-    <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/</link>
+    <link>https://zera-dev.github.io/tenacity-tera.eu/en/articles/</link>
     <description>Recent content in Articles on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/en/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://zera-dev.github.io/tenacity-tera.eu/en/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>30/6/2022 - Official TERA Shutdown</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-30-official-tera-shutdown/</link>
+      <link>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-06-30-official-tera-shutdown/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-30-official-tera-shutdown/</guid>
+      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-06-30-official-tera-shutdown/</guid>
       <description>Unfortunately, TERA’s developers, Bluehole, have decided to cease work on TERA.
 The TERA servers will be switched off at 10 AM CEST (4 AM EDT) on 30th June 2022.
 After nearly 10 long years, the TERA legend must sadly come to an end. Please note that the game cannot be added in the Gameforge client anymore, and in case you have it installed, its recommended for you to uninstall it after the server closing.</description>
@@ -20,10 +20,10 @@ After nearly 10 long years, the TERA legend must sadly come to an end. Please no
     
     <item>
       <title>20/6/2022 - Menma’s TERA goes 64-bit</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-20-menma-64-bit-update/</link>
+      <link>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-06-20-menma-64-bit-update/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-20-menma-64-bit-update/</guid>
+      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-06-20-menma-64-bit-update/</guid>
       <description>The transition to 64-bit is almost complete. The 64-bit testing environment will be going public for a few days to check for potential issues and bugs with it.
 Everyone will be able to access the 64-bit test server by downloading the 64-bit launcher and game client from the link in downloads section on Menma’s Discord
 You can use your existing account to connect to the server and you will be having your current progress from the main server.</description>
@@ -31,10 +31,10 @@ You can use your existing account to connect to the server and you will be havin
     
     <item>
       <title>15/6/2022 Last Quest</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-15-last-quest-ktera/</link>
+      <link>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-06-15-last-quest-ktera/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-06-15-last-quest-ktera/</guid>
+      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-06-15-last-quest-ktera/</guid>
       <description>If you access the Korean servers by 30th June, you can play Last Quest, created by the BHS as a final Goodbye before the live servers officially shut down.
 It was confirmed that Gameforge (EU,NA,SEA publisher) will NOT be releasing this questline themself. As of writing, they only released translated cutscene from last part of the series of quests.
 But honestly, their translated version is as cheap as it can get&amp;hellip;</description>
@@ -42,10 +42,10 @@ But honestly, their translated version is as cheap as it can get&amp;hellip;</de
     
     <item>
       <title>30/5/2022 - Multilingual mode</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-05-30-multilingual-update/</link>
+      <link>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-05-30-multilingual-update/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-05-30-multilingual-update/</guid>
+      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-05-30-multilingual-update/</guid>
       <description>Been working on translating website into few more languages out of convenience for everyone. Main languages which made were picked are russian and korean - which you can see on the main Homepage under the [Language Selection].
 If there would be volunteers to translate into other languages;for example German or Spanish I wont be against adding those as well.
 That being said Im also looking for translators who would help our translating the content of the website, contact me on Discord if youre interested 👋</description>
@@ -53,10 +53,10 @@ That being said Im also looking for translators who would help our translating t
     
     <item>
       <title>23/5/2022 - Release</title>
-      <link>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-05-23-release/</link>
+      <link>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-05-23-release/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://zera-dev.github.io/tenacity-tera.github.io/en/articles/2022-05-23-release/</guid>
+      <guid>https://zera-dev.github.io/tenacity-tera.eu/en/articles/2022-05-23-release/</guid>
       <description>First article! Yay! Website was released while still work in progress.
 I believe that many of the dungeon guides will be useful already while the website is in development. This website is still under development. Some articles will not be available to view.</description>
     </item>

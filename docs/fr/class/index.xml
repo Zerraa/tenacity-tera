@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classes on Ténacité</title>
-    <link>https://zera-dev.github.io/tenacity-tera.github.io/fr/class/</link>
+    <link>https://zera-dev.github.io/tenacity-tera.eu/fr/class/</link>
     <description>Recent content in Classes on Ténacité</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zera-dev.github.io/tenacity-tera.github.io/fr/class/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zera-dev.github.io/tenacity-tera.eu/fr/class/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
