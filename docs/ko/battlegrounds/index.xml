@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>전장 on Tenacity</title>
-    <link>https://zerraa.github.io/tenacity-tera.eu/ko/battlegrounds/</link>
+    <link>https://zerraa.github.io/ko/battlegrounds/</link>
     <description>Recent content in 전장 on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zerraa.github.io/tenacity-tera.eu/ko/battlegrounds/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zerraa.github.io/ko/battlegrounds/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
