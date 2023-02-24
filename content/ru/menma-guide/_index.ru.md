@@ -1,6 +1,6 @@
 ---
 title: Menma’s Tera Гайд
-description: TERA blog by Zeratu | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
+description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
 ---
 
 ```toml
