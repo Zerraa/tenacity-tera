@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events for Menma&#39;s TERA on Tenacity</title>
-    <link>https://zerraa.github.io/ru/events/</link>
+    <link>https://tenacity-tera.eu/ru/events/</link>
     <description>Recent content in Events for Menma&#39;s TERA on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zerraa.github.io/ru/events/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tenacity-tera.eu/ru/events/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

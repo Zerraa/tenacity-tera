@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Tenacidad</title>
-    <link>https://zerraa.github.io/es/articles/</link>
+    <link>https://tenacity-tera.eu/es/articles/</link>
     <description>Recent content in General on Tenacidad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zerraa.github.io/es/articles/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tenacity-tera.eu/es/articles/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
