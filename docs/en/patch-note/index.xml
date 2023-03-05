@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://tenacity-tera.eu/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Menma’s TERA 1.7.2 – Hotfixes</title>
-      <link>https://tenacity-tera.eu/en/patch-note/2023-03-05-p1.7.2/</link>
+      <title>Menma’s TERA 1.7.1-R2 – Hotfixes</title>
+      <link>https://tenacity-tera.eu/en/patch-note/2023-03-05-p1.7.1-r2/</link>
       <pubDate>Sun, 05 Mar 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://tenacity-tera.eu/en/patch-note/2023-03-05-p1.7.2/</guid>
+      <guid>https://tenacity-tera.eu/en/patch-note/2023-03-05-p1.7.1-r2/</guid>
       <description>Class Changes All Classes Slightly adjusted mount crit power passive system to better sync with the activation conditions added last patch. To see more information about the aforementioned activation system, click here. Brawler Growing Fury (Irregular) No longer reduces Endurance by 90. Increases damage taken by 50%. Mystic *Design Note: *Although we aren&amp;rsquo;t making Mystic changes with this patch, we&amp;rsquo;re keeping a very close eye on how it&amp;rsquo;s performing after our rework in 1.</description>
     </item>
     
