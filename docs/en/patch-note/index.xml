@@ -6,7 +6,18 @@
     <description>Recent content in Patch Notes for Menma&#39;s TERA on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://tenacity-tera.eu/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://tenacity-tera.eu/en/patch-note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menma’s TERA 1.8.2 – Kaia&#39;s Conquest</title>
+      <link>https://tenacity-tera.eu/en/patch-note/2023-03-29-p1.8.2/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/patch-note/2023-03-29-p1.8.2/</guid>
+      <description>Adventurers, a new patch is coming!
+Class Changes Brawler Growing Fury&amp;rsquo;s Irregular Optimization NEW: Increases damage from behind by 10% and overall damage by 69.7%. OLD: Increases damage from behind by 10% and overall damage by 73%. Design Note: This change will result in a 1.5% damage nerf when using Irregular Growing Fury.
+Gunner [PvE] Fixed a bug which caused the class to deal much more damage than intended. Reaper Fixed a bug where Shadow Reaping could not be dispelled with Regression or Plague of Exhaustion.</description>
+    </item>
+    
     <item>
       <title>Menma’s TERA 1.8.1 – Hotfixes</title>
       <link>https://tenacity-tera.eu/en/patch-note/2023-03-25-p1.8.1/</link>
