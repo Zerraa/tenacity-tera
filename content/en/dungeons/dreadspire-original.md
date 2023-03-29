@@ -87,7 +87,7 @@ And the current challenge will get **much more difficult**, with the boss becomi
 <div id="f16">
 <h3>Floor 16: Hrathgol ★★</h3>
 
-
+Aside from his usual powerful and swift attacks, Hrathgol will summon flying Argons. These will hone in on the players, then remain stationary whilst firing an energy beam at the ground. Best not be caught daydreaming when this happens!
 
 
 </div>
@@ -96,7 +96,9 @@ And the current challenge will get **much more difficult**, with the boss becomi
 <div id="f17">
 <h3>Floor 17: Melkatran ★★</h3>
 
+Melkatran has similar attacks to the version you've already seen: parasites you need to shake off by jumping, stunning attacks, or monsters which, once summoned, you either need to kill or leave to reach the boss according to their color.
 
+The difficulty is a notch higher than in Manaya's Core, since the monsters become invisible on their way to Melkatran, meaning that you can't see their color, or the parasites aren't visible on your screen.
 
 
 
@@ -108,7 +110,9 @@ And the current challenge will get **much more difficult**, with the boss becomi
 <div id="f18">
 <h3>Floor 18: Lokmar Sorgalur ★★★</h3>
 
+Overseers patrol the outskirts of the room in the fight against Lokmar Sorgular. If you get too close to them, they summon deadly spheres which follow a player and try to inflict extremely high damage.
 
+In the meantime Volsurus arrives as an overseer, and if he discovers a player, he summons an Argon Priest, who causes high damage in a large radius.
 
 
 
