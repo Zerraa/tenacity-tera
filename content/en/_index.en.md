@@ -10,12 +10,8 @@ description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities 
 `Im Zeratu, but you will mostly see me on character named Hostility on Menma’s Tera.` <br>
 You can find many of the previous website posts here, together with many new ones with hopefully smoother performence than before. <br>
 <hr/>
-<center> <h2>Language Selection</h2> </center>
 
-| [English](../en/) | [Français](../fr/) | [Español](../es/) | [Русский](../ru/) | [한국인](../ko/) |
-
-Language selection is **temporarily disabled** as pages are not currently translated. So if you pick your language its **VERY LIKELY** that there will be no posts yet. Thank you for undestanding 💖
-- Articles are still **work in progress** , several pages are still empty. Most of the focus was aimed towards → [DUNGEONS](dungeons/) ⭠ 
+- Most of the focus was aimed towards → [DUNGEONS](dungeons/) ⭠ 
 <hr/>
 
 ### 💬 Something is broken?
