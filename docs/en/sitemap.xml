@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tenacity-tera.eu/en/</loc>
-    <lastmod>2023-03-29T00:00:00+02:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -30,11 +30,11 @@
                 href="https://tenacity-tera.eu/en/"
                 />
   </url><url>
-    <loc>https://tenacity-tera.eu/en/patch-note/2023-03-29-p1.8.2/</loc>
-    <lastmod>2023-03-29T00:00:00+02:00</lastmod>
+    <loc>https://tenacity-tera.eu/en/patch-note/2023-04-01-p2.0-69/</loc>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/</loc>
-    <lastmod>2023-03-29T00:00:00+02:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -60,6 +60,9 @@
                 hreflang="en"
                 href="https://tenacity-tera.eu/en/patch-note/"
                 />
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/patch-note/2023-03-29-p1.8.2/</loc>
+    <lastmod>2023-03-29T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/2023-03-25-p1.8.1/</loc>
     <lastmod>2023-03-25T00:00:00+01:00</lastmod>
