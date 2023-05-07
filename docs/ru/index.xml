@@ -30,11 +30,80 @@ Torrent file can be found on Menma’s Discord https://discord.gg/menmastera</de
     </item>
     
     <item>
+      <title>1. Прогрессия</title>
+      <link>https://tenacity-tera.eu/ru/achievements/progression/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/progression/</guid>
+      <description>| Уровень | Различный |
+Достижения прогресса получить очень легко, так как вы будете собирать их, повышая уровень до 70 уровня, а затем развивая свои навыки.
+Уровень Название ** Класс** ** Описание** Уровень 10 Все Достигли уровня 10. 20-й уровень Все Достигли 20-го уровня. Уровень 30 Все Достигли 30-го уровня. 40-й уровень Все Достигли 40-го уровня. 50-й уровень Все Достигли 50-го уровня. Вы заработали дополнительное место в инвентаре. Мастер-лучник Archer Достигните 60-го уровня в качестве лучника.</description>
+    </item>
+    
+    <item>
       <title>2. Proxy Mods</title>
       <link>https://tenacity-tera.eu/ru/menma-guide/proxy-mods/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://tenacity-tera.eu/ru/menma-guide/proxy-mods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2. Встречи и исследования</title>
+      <link>https://tenacity-tera.eu/ru/achievements/encounters-and-exploration/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/encounters-and-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2.1 Мировые боссы (Арун)</title>
+      <link>https://tenacity-tera.eu/ru/achievements/world-bosses-arun/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/world-bosses-arun/</guid>
+      <description>Локации и время появления совершенно случайны. В то время как у некоторых боссов есть только 1 возможная локация, у других есть более одного места, где они могут появляться. Отмеченное время появления - это общее время того, что было замечено в прошлом. Например, 6-24, это означает случайное время возрождения от 6 до 24 часов.
+| South Arun
+South Arun Arakia Время возрождения: 6-24 часа
+Lanok Время возрождения: 6-24 часа
+Barraq Время возрождения: 6-24 часа</description>
+    </item>
+    
+    <item>
+      <title>2.2 Мировые боссы (Шара)</title>
+      <link>https://tenacity-tera.eu/ru/achievements/world-bosses-shara/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/world-bosses-shara/</guid>
+      <description>Отмеченное время появления - это общее время того, что было замечено в прошлом. Например, 6-24, это означает случайное время возрождения от 6 до 24 часов.
+| South Shara | North Shara
+South Shara Andras Время возрождения: 6-24 часа
+Terkasia Время возрождения: 6-24 часа
+Kestol Время возрождения: 6-24 часа
+Teriak Время возрождения: 6-24 часа
+Dulagoras Время возрождения: 6-24 часа
+Nyxarras Время возрождения: 12-24+ часа
+Huzrat Время возрождения: 12-24+ часа
+Kelthuzad Время возрождения: 12-24+ часа</description>
+    </item>
+    
+    <item>
+      <title>2.3 5000 убийств мирового босса</title>
+      <link>https://tenacity-tera.eu/ru/achievements/5k-world-boss-achievement/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/5k-world-boss-achievement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2.4 Памятники и виды</title>
+      <link>https://tenacity-tera.eu/ru/achievements/monument-vista-achievements/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/monument-vista-achievements/</guid>
       <description></description>
     </item>
     
@@ -48,6 +117,24 @@ Torrent file can be found on Menma’s Discord https://discord.gg/menmastera</de
     </item>
     
     <item>
+      <title>3. Командировки</title>
+      <link>https://tenacity-tera.eu/ru/achievements/tours-of-duty/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/tours-of-duty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4. Подземелья и места сражений</title>
+      <link>https://tenacity-tera.eu/ru/achievements/dungeons-and-battlegrounds/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/dungeons-and-battlegrounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>4.1 Gearing - PvP</title>
       <link>https://tenacity-tera.eu/ru/menma-guide/pvp-gearing/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -57,6 +144,27 @@ Torrent file can be found on Menma’s Discord https://discord.gg/menmastera</de
 Since pve gear have debuffs on it for pvp :
 (Reduced damage by 40% &amp;amp; Increased damage taken by 40%) You will instantly receive 1.000 eternal tokens to buy all you need, you don&amp;rsquo;t need to buy them after.
 Through said tokens you can also buy special Radiant Jewelery which is not useable in dungeons and maxed Relic/Halidom Enchanting gear Through Eternal tokens which you get at the start when you create your character or through Bellicardum reputation merchant you can buy +9 Enchantment Scrolls for PvP Gear NOTE: Through those tokens you can also buy Lvl 5 Brooch and other max.</description>
+    </item>
+    
+    <item>
+      <title>5. внеклассные занятия</title>
+      <link>https://tenacity-tera.eu/ru/achievements/extracurricular-activities/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/extracurricular-activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PvP и дуэли</title>
+      <link>https://tenacity-tera.eu/ru/achievements/pvp/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ru/achievements/pvp/</guid>
+      <description>| Дуэли | Смертельные поединки | Поля сражений | Skills | Civil Unrest |
+Достижения PvP отмечены на вкладке &amp;ldquo;Специальные&amp;rdquo; в меню достижений. Они не засчитываются в ваш выигрыш в целом, но завершение определенных действий может дать вам небольшой бафф.
+Дуэли Дуэли можно просто начать, нажав на игрока и выбрав опцию &amp;ldquo;** Дуэль **&amp;rdquo;, которая спрашивает другого игрока, хочет ли он сразиться с вами.
+Название Класс Описание Награда Соревновательный Всего Участвовал в 10 поединках.</description>
     </item>
     
     <item>
