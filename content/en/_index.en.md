@@ -16,7 +16,7 @@ You can find many of the previous website posts here, together with many new one
 
 ### 💬 Something is broken?
 If you happen to find issues, feel free to report them to **Mellichar#0001** on Discord. <br>
-Or on my github page which you can find [HERE](https://github.com/Zera-dev/tenacity-tera.github.io).
+Or on my github page which you can find [HERE](https://github.com/Zerraa/tenacity-tera).
 
 <hr/>
 
