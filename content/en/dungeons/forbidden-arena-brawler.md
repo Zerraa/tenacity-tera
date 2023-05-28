@@ -16,6 +16,11 @@ images:
 ![](https://i.imgur.com/ts8llHN.png)
 <h3>Boss: Undying Warlord</h3>
 
+     Menma's TERA changes:
+
+     - In Hard mode boss cannot do Backflip til 70%.
+     - Lines don't "delay".
+
 <center><h3>Key Mechanics</h3></center>
 
 <center><h4>Red Debuff</h4></center>
