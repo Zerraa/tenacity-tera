@@ -22,7 +22,7 @@ images:
      Menma's TERA changes:
 
      - Nothing changed.
-     - Pulses his for 45% of total HP.
+     - Pulses his for 35% of total HP.
 
 <center><h3>Key Mechanics</h3></center>
 
@@ -150,10 +150,9 @@ As a Tank, avoid taking the curse debuff or you will suffer while tanking her.
      
      - Her attack speed is increased by a lot.
      - Her tail attack oneshots.
-     - Debuff makes you take 2x damage and is 5 seconds longer.
-       - Red skulls hit for 80% HP, increase bar by 15.
-       - White skulls hit for 40% HP, increase bar by 10.
-     - Way more punishing if you plan to greed.
+     - Debuff makes you take 50% more damage.
+       - Red skulls hit for 80% HP.
+       - White skulls hit for 30% HP.
 
 <center><h3>Key Mechanics</h3></center>
 
