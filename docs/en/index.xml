@@ -852,8 +852,7 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
       
       <guid>https://tenacity-tera.eu/en/dungeons/forbidden-arena-brawler/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
-Boss: Undying WarlordKey MechanicsRed DebuffGetting hit by any fist attack(glows red) will apply a stack. This deals 1% max hp every couple seconds and stacks to 5. Lasts 60 seconds. If you do reach 5, itll turn into a separate debuff.This lasts forever and ticks for 5% max hp every few seconds.
-If you reach 5x red debuff you will get 1 permanent red debuff and can begin stacking red debuff again.</description>
+Boss: Undying WarlordMenma&#39;s TERA changes:- In Hard mode boss cannot do Backflip til 70%.- Lines don&#39;t &amp;quot;delay&amp;quot;.Key MechanicsRed DebuffGetting hit by any fist attack(glows red) will apply a stack. This deals 1% max hp every couple seconds and stacks to 5. Lasts 60 seconds. If you do reach 5, itll turn into a separate debuff.</description>
     </item>
     
     <item>
@@ -1186,7 +1185,7 @@ First Boss: VentaronKey MechanicsThreat level rising! Initiating destruction! 
       
       <guid>https://tenacity-tera.eu/en/dungeons/ruinous-manor-hard/</guid>
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
-First Boss: AtrocitasMenma&#39;s TERA changes:- Nothing changed.- Pulses his for 45% of total HP.Key MechanicsRed/Blue Explosion - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
+First Boss: AtrocitasMenma&#39;s TERA changes:- Nothing changed.- Pulses his for 35% of total HP.Key MechanicsRed/Blue Explosion - The boss will occasionally do an area explosion around him that MAY OR MAY NOT change his color.
 In hard mode only this will deal direct damage to all players.</description>
     </item>
     
