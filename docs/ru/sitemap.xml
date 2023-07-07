@@ -82,29 +82,6 @@
   </url><url>
     <loc>https://tenacity-tera.eu/ru/menma-guide/proxy-mods/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/proxy-mods/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/proxy-mods/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/ru/achievements/encounters-and-exploration/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/encounters-and-exploration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/encounters-and-exploration/"
-                />
   </url><url>
     <loc>https://tenacity-tera.eu/ru/achievements/world-bosses-arun/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
@@ -132,32 +109,6 @@
                 href="https://tenacity-tera.eu/ru/achievements/world-bosses-shara/"
                 />
   </url><url>
-    <loc>https://tenacity-tera.eu/ru/achievements/5k-world-boss-achievement/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/5k-world-boss-achievement/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/5k-world-boss-achievement/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/ru/achievements/monument-vista-achievements/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/monument-vista-achievements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/monument-vista-achievements/"
-                />
-  </url><url>
     <loc>https://tenacity-tera.eu/ru/menma-guide/introduction/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -171,32 +122,6 @@
                 href="https://tenacity-tera.eu/ru/menma-guide/introduction/"
                 />
   </url><url>
-    <loc>https://tenacity-tera.eu/ru/achievements/tours-of-duty/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/tours-of-duty/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/tours-of-duty/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/ru/achievements/dungeons-and-battlegrounds/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/dungeons-and-battlegrounds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/dungeons-and-battlegrounds/"
-                />
-  </url><url>
     <loc>https://tenacity-tera.eu/ru/menma-guide/pvp-gearing/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -208,19 +133,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://tenacity-tera.eu/ru/menma-guide/pvp-gearing/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/ru/achievements/extracurricular-activities/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/extracurricular-activities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/extracurricular-activities/"
                 />
   </url><url>
     <loc>https://tenacity-tera.eu/ru/achievements/pvp/</loc>
@@ -319,18 +231,6 @@
                 href="https://tenacity-tera.eu/ru/categories/"
                 />
   </url><url>
-    <loc>https://tenacity-tera.eu/ru/events/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/events/"
-                />
-  </url><url>
     <loc>https://tenacity-tera.eu/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -377,18 +277,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://tenacity-tera.eu/ru/class/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/ru/articles/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/articles/"
                 />
   </url><url>
     <loc>https://tenacity-tera.eu/ru/dungeons/</loc>

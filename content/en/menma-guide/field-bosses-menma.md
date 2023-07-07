@@ -1,5 +1,5 @@
 ---
-title: Field Bosses
+title: General - Field Bosses
 date: 2022-04-28   
 description: Field Boss Monsters are large monsters in open world. 
 images:
@@ -43,6 +43,10 @@ Field Boss Monsters Ortan, Hazard, and Cerrus can spawn between **4hr 30min** to
 
 ![](https://i.imgur.com/UJwHHiZ.png)
 
+### Razan
+-
+### Legia
+-
 <hr/>
 
 ###  Rewards

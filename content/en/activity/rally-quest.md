@@ -15,6 +15,12 @@ A **global message** is announced for the Rally monster that is about to spawn, 
 All Guilds can accept **[Rally] Guild Quest** as long as weekly Valderon Token limit has not been reached. <br>
 Rally Quest can be completed regardless of the amount of contribution as long as a Guild Member has contributed.
 
+<center>
+
+| [Menma’s TERA Rally](../menma-guide/rally-quest-menma.md) | 
+
+</center>
+
 <hr/>
 
 <center>
@@ -25,7 +31,7 @@ Rally Quest can be completed regardless of the amount of contribution as long as
 
 | **RANK** |         **BOX**         |                   **REWARD**                   |
 |:--------:|:-----------------------:|:----------------------------------------------:|
-| Rank 1   | Rank 1 Reward Box       | 2.000 Tikat and 5.000.000 Bellicarium Credit   |
+| Rank 1   | Rank 1 Reward Box       | --- |
 | Rank 2   | Rank 2 Reward Box       | --- |
 | Rank 3   | Rank 3 Reward Box       | --- |
 | Rank 4   | Rank 4 Reward Box       | --- |
@@ -36,24 +42,6 @@ Rally Quest can be completed regardless of the amount of contribution as long as
 
 <hr/>
 
-<center>
-
-## Time Schedule for Menma
-
-</center>
-
-
-|  **DAY**  |              **TIME**              | **BOSS** |           **LOCATION**          |
-|:---------:|:----------------------------------:|:--------:|:-------------------------------:|
-|   Monday  | 14:00-0:00 CET<br>15:00-1:00 CEST  | Sabranak | Bleakrock - Screaming Snowfield |
-|  Tuesday  | 20:00-0:00 CET<br>21:00-1:00 CEST  | Anansha  | Tria - Timeless Woods           |
-| Wednesday | 20:00-0:00 CET<br>21:00-1:00 CEST  | Frygaras | Bleakrock - Howling Glacier     |
-|  Thursday |                  -                 |     -    |                -                |
-|   Friday  | 20:00-0:00 CET<br>21:00-1:00 CEST  | Anansha  | Tria - Timeless Woods           |
-|  Saturday | 20:00-0:00 CET<br>21:00-1:00 CEST  | Frygaras | Bleakrock - Howling Glacier     |
-|   Sunday  | 14:00-00:00 CET<br>15:00-1:00 CEST | Sabranak | Bleakrock - Screaming Snowfield |
-
-<hr/>
 <center>
 
 ## Location

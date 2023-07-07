@@ -1,6 +1,6 @@
 ---
 title: Class Crit Factors
-date: 2022-04-28    
+date: 2022-05-02
 description: Crit Factor CAPs for classes in Menma's TERA 
 ---
 

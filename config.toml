@@ -10,7 +10,7 @@ publishDir = "docs"
 googleAnalytics = "G-JCGLY16DT0"
 
 [Params]
-  description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
+  description = "TERA Blog by Hostility | Looking for something? Maybe you will find it here."
   images = ['https://i.imgur.com/y1Ii9IP.png']
 
 
@@ -26,7 +26,7 @@ googleAnalytics = "G-JCGLY16DT0"
 [Languages.en]
 	title = "Tenacity"
 	name = "Tenacity"
-	description = "TERA Blog by Zeratu | Looking for something? Maybe you will find it here."
+	description = "TERA Blog by Hostility | Looking for something? Maybe you will find it here."
   contentDir = "/content/en/"
 	weight = 0
 [[Languages.en.menu.main]]
@@ -34,46 +34,35 @@ googleAnalytics = "G-JCGLY16DT0"
 	name   = "Home"
 	weight = 1
 [[Languages.en.menu.main]]
-  name = 'General'
-  url = '/en/articles/'
-  weight = 2  
-[[Languages.en.menu.main]]
-  name = 'Classes'
-  url = '/en/class/'
-  weight = 3  
-[[Languages.en.menu.main]]
-  name = 'Activities'
+  name = 'General Content'
   url = '/en/activity/'
-  weight = 4    
+  weight = 2    
 [[Languages.en.menu.main]]
   name = 'Dungeons'
   url = '/en/dungeons/'
-  weight = 5
-[[Languages.en.menu.main]]
-  name = 'Battlegrounds'
-  url = '/en/battlegrounds/'
-  weight = 6
+  weight = 3
 [[Languages.en.menu.main]]
   name = 'Achievements'
   url = '/en/achievements/'
-  weight = 7
+  weight = 4
 
 [[Languages.en.menu.main]]
   name = ''
-  weight = 9
+  weight = 5
 
 [[Languages.en.menu.main]]
-  name = 'Patch Notes'
+  name = 'Menma’s Tera - Patch Notes'
   url = '/en/patch-note'
-  weight = 10   
+  weight = 6   
 [[Languages.en.menu.main]]
-  name = 'Menma’s Tera - Guide'
+  name = 'Menma’s Tera'
   url = '/en/menma-guide'
-  weight = 12
+  weight = 7
 [[Languages.en.menu.main]]
   name = 'Menma’s Discord'
   url = 'https://discord.gg/menmastera'
-  weight = 13
+  weight = 8
+
 
 [[Languages.en.menu.social]]
   name = 'GitHub'
@@ -95,48 +84,36 @@ googleAnalytics = "G-JCGLY16DT0"
 [[Languages.ru.menu.main]]
 	url    = "/ru/"
 	name   = "Домашняя страница"
-	weight = 1
-[[Languages.ru.menu.main]]
-  name = 'Общая информация'
-  url = '/ru/articles/'
-  weight = 2  
-[[Languages.ru.menu.main]]
-  name = 'Классы'
-  url = '/ru/class/'
-  weight = 3  
+	weight = 1 
 [[Languages.ru.menu.main]]
   name = 'Виды занятий'
   url = '/ru/activity/'
-  weight = 4    
+  weight = 2    
 [[Languages.ru.menu.main]]
   name = 'Подземелья'
   url = '/ru/dungeons/'
-  weight = 5
-[[Languages.ru.menu.main]]
-  name = 'Арены'
-  url = '/ru/battlegrounds/'
-  weight = 6
+  weight = 3
 [[Languages.ru.menu.main]]
   name = 'Достижения'
   url = '/ru/achievements/'
-  weight = 7
+  weight = 4
 
 [[Languages.ru.menu.main]]
   name = ''
-  weight = 9
+  weight = 5
 
 [[Languages.ru.menu.main]]
   name = 'Список изменений обновления'
   url = '/ru/patch-note/'
-  weight = 10   
+  weight = 6   
 [[Languages.ru.menu.main]]
   name = 'Menma’s Tera Гайд'
   url = '/ru/menma-guide/'
-  weight = 12
+  weight = 7
 [[Languages.ru.menu.main]]
   name = 'Menma’s Дискорд'
   url = 'https://discord.gg/menmastera'
-  weight = 13  
+  weight = 8  
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Dreamstorm on Menma
+title: General - Dreamstorm
 date: 2022-04-28  
 description: Open world activity that replaced old Nexus which happens every day in the afternoon.   
 ---

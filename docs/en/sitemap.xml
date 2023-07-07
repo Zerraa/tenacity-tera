@@ -31,10 +31,10 @@
                 href="https://tenacity-tera.eu/en/patch-note/"
                 />
   </url><url>
-    <loc>https://tenacity-tera.eu/en/patch-note/2023-04-07-p1.8.3/</loc>
-    <lastmod>2023-04-07T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/2023-04-20-p1.8.4/</loc>
+    <lastmod>2023-04-20T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/patch-note/2023-04-07-p1.8.3/</loc>
     <lastmod>2023-04-07T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/2023-04-01-p2.0-69/</loc>
@@ -119,63 +119,17 @@
                 href="https://tenacity-tera.eu/en/patch-note/2022-07-08-p1.1/"
                 />
   </url><url>
-    <loc>https://tenacity-tera.eu/en/articles/2022-06-30-official-tera-shutdown/</loc>
-    <lastmod>2022-06-29T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/articles/</loc>
-    <lastmod>2022-06-29T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/articles/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/articles/2022-06-20-menma-64-bit-update/</loc>
-    <lastmod>2022-06-20T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/articles/2022-06-15-last-quest-ktera/</loc>
-    <lastmod>2022-06-15T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/2022-06-10-p1.0.9/</loc>
     <lastmod>2022-06-10T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/2022-06-02-p1.0.8/</loc>
     <lastmod>2022-06-02T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://tenacity-tera.eu/en/articles/2022-05-30-multilingual-update/</loc>
-    <lastmod>2022-05-30T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/articles/2022-05-23-release/</loc>
-    <lastmod>2022-05-23T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/2022-05-22-p1.0.7/</loc>
     <lastmod>2022-05-22T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/2022-05-15-p1.0.6/</loc>
     <lastmod>2022-05-14T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/wardrobe/back-costume/</loc>
-    <lastmod>2022-05-13T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/wardrobe/body-costume/</loc>
-    <lastmod>2022-05-13T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/wardrobe/face-costume/</loc>
-    <lastmod>2022-05-13T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/wardrobe/head-costume/</loc>
-    <lastmod>2022-05-13T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/wardrobe/</loc>
-    <lastmod>2022-05-13T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/wardrobe/weapon-skin/</loc>
-    <lastmod>2022-05-13T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/menma-guide/download/</loc>
     <lastmod>2022-05-05T00:00:00+02:00</lastmod>
@@ -216,30 +170,17 @@
                 href="https://tenacity-tera.eu/en/achievements/progression/"
                 />
   </url><url>
-    <loc>https://tenacity-tera.eu/en/achievements/encounters-and-exploration/</loc>
+    <loc>https://tenacity-tera.eu/en/menma-guide/introduction/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/encounters-and-exploration/"
+                href="https://tenacity-tera.eu/ru/menma-guide/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/encounters-and-exploration/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/proxy-mods/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/proxy-mods/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/proxy-mods/"
+                href="https://tenacity-tera.eu/en/menma-guide/introduction/"
                 />
   </url><url>
     <loc>https://tenacity-tera.eu/en/achievements/world-bosses-arun/</loc>
@@ -268,95 +209,20 @@
                 href="https://tenacity-tera.eu/en/achievements/world-bosses-shara/"
                 />
   </url><url>
-    <loc>https://tenacity-tera.eu/en/achievements/5k-world-boss-achievement/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/5k-world-boss-achievement/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/5k-world-boss-achievement/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/achievements/monument-vista-achievements/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/monument-vista-achievements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/monument-vista-achievements/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/introduction/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/introduction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/introduction/"
-                />
-  </url><url>
     <loc>https://tenacity-tera.eu/en/achievements/tours-of-duty/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/tours-of-duty/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/tours-of-duty/"
-                />
   </url><url>
-    <loc>https://tenacity-tera.eu/en/achievements/dungeons-and-battlegrounds/</loc>
+    <loc>https://tenacity-tera.eu/en/menma-guide/pve-gearing/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/dungeons-and-battlegrounds/"
+                href="https://tenacity-tera.eu/ru/menma-guide/pve-gearing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/dungeons-and-battlegrounds/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/pvp-gearing/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/pvp-gearing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/pvp-gearing/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/achievements/extracurricular-activities/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/achievements/extracurricular-activities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/achievements/extracurricular-activities/"
+                href="https://tenacity-tera.eu/en/menma-guide/pve-gearing/"
                 />
   </url><url>
     <loc>https://tenacity-tera.eu/en/dungeons/abscess/</loc>
@@ -535,9 +401,6 @@
     <loc>https://tenacity-tera.eu/en/battlegrounds/iron-battleground/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://tenacity-tera.eu/en/activity/island-of-dawn/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://tenacity-tera.eu/en/dungeons/kalivan-dreadnaught/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
   </url><url>
@@ -545,9 +408,6 @@
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/class/lancer/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/activity/leaderboard/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/dungeons/lilith-keep-hard/</loc>
@@ -662,68 +522,14 @@
     <loc>https://tenacity-tera.eu/en/dungeons/wonderholme/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</loc>
-    <lastmod>2022-05-03T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/civil-unrest-menma/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/civil-unrest-menma/"
-                />
-  </url><url>
     <loc>https://tenacity-tera.eu/en/dungeons/dreadspire-original/</loc>
     <lastmod>2022-05-03T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/dungeons/dreadspire-upper/</loc>
     <lastmod>2022-05-03T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/rally-quest-menma/</loc>
-    <lastmod>2022-05-03T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/rally-quest-menma/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/rally-quest-menma/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/dungeons/crucible-of-flame/</loc>
-    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/dungeons/sirjuka-gallery/</loc>
-    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/dungeons/temple-of-temerity/</loc>
-    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/pve-gearing/</loc>
-    <lastmod>2022-05-01T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/pve-gearing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/pve-gearing/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/patch-note/2022-05-01-p1.0.5/</loc>
-    <lastmod>2022-05-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/bamarama-menma/</loc>
-    <lastmod>2022-04-28T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://tenacity-tera.eu/en/menma-guide/class-crit-cap/</loc>
-    <lastmod>2022-04-28T00:00:00+02:00</lastmod>
+    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -735,10 +541,67 @@
                 href="https://tenacity-tera.eu/en/menma-guide/class-crit-cap/"
                 />
   </url><url>
+    <loc>https://tenacity-tera.eu/en/dungeons/crucible-of-flame/</loc>
+    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/dungeons/sirjuka-gallery/</loc>
+    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/dungeons/temple-of-temerity/</loc>
+    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/menma-guide/pvp-gearing/</loc>
+    <lastmod>2022-05-01T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tenacity-tera.eu/ru/menma-guide/pvp-gearing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tenacity-tera.eu/en/menma-guide/pvp-gearing/"
+                />
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/patch-note/2022-05-01-p1.0.5/</loc>
+    <lastmod>2022-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</loc>
+    <lastmod>2022-04-29T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tenacity-tera.eu/ru/menma-guide/civil-unrest-menma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tenacity-tera.eu/en/menma-guide/civil-unrest-menma/"
+                />
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/menma-guide/rally-quest-menma/</loc>
+    <lastmod>2022-04-29T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tenacity-tera.eu/ru/menma-guide/rally-quest-menma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tenacity-tera.eu/en/menma-guide/rally-quest-menma/"
+                />
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/menma-guide/bamarama-menma/</loc>
+    <lastmod>2022-04-28T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://tenacity-tera.eu/en/menma-guide/dreamstorm-menma/</loc>
     <lastmod>2022-04-28T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/menma-guide/field-bosses-menma/</loc>
+    <lastmod>2022-04-28T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/menma-guide/mystery-merchant-menma/</loc>
     <lastmod>2022-04-28T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/battlegrounds/wintera-snowfield/</loc>
@@ -784,18 +647,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tenacity-tera.eu/en/categories/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/events/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/events/"
                 />
   </url><url>
     <loc>https://tenacity-tera.eu/en/tags/</loc>

@@ -1,6 +1,6 @@
 ---
-title: Civil Unrest on Menma
-date: 2022-05-03  
+title: Civil Unrest
+date: 2022-04-29  
 description: Civil Unrest occasionally called Guild Wars is weekly PvP event which happens every Sunday.  
 ---
 
@@ -16,7 +16,7 @@ Look [HERE](../activity/civil-unrest.md) if youre looking for a broader overview
 
 <hr/>
 
-Main difference you will notice is that map is different. As of **p1.0.7** Civil Unrest is being held on destroyed Island of Dawn.
+Main difference you will notice is that map is different. As of **p2.0** Civil Unrest is being held on Colossal Ruins map.
 - You can also freely use Prime battle solution inside the area.
 
 - Towers can only be placed **100 meters** apart from each other. 
@@ -26,18 +26,18 @@ Main difference you will notice is that map is different. As of **p1.0.7** Civil
 
 <hr/>
 
-      Civil Unrest OPENS at 18:00 (6pm) CET
-      Civil Unrest STARTS at 19:00 (6pm) CET
+      Civil Unrest OPENS at 18:00 (6pm) CET / (7pm) CEST
+      Civil Unrest STARTS at 19:00 (7pm) CET / (8pm) CEST
       
       - 'Tower' part can last up to 2hours
 
-| **RANK** |         **BOX**         |                   **REWARD**                   |
-|:--------:|:-----------------------:|:----------------------------------------------:|
-| Rank 1   | Rank 1 Reward Box       | 5.000 Tikat and 5.000.000 Bellicarium Credit   |
-| Rank 2   | Rank 2 Reward Box       | --- |
-| Rank 3   | Rank 3 Reward Box       | 2.000 Tikat and 5.000.000 Bellicarium Credit   |
-| Rank 4   | Rank 4 Reward Box       | --- |
-| Rank 4   | Rank 5 Reward Box       | --- |
+| **RANK** |         **BOX**         |                                                       **REWARD**                                                      |
+|:--------:|:-----------------------:|:---------------------------------------------------------------------------------------------------------------------:|
+|  Rank 1  |   Regal Guild Supplies  | 5 Million Bellicarium<br>Riding Skill: Tanner<br>15,000 Tikat<br>Dusk Box (3x)<br>Dawn Box (3x)<br>Regal Material Box |
+|  Rank 2  | Princely Guild Supplies |            5 Million Bellicarium<br>6,500 Tikat<br>Dusk Box (2x)<br>Dawn Box (2x)<br>Princely Material Box            |
+|  Rank 3  | Baronial Guild Supplies |            5 Million Bellicarium<br>4,500 Tikat<br>Dusk Box (1x)<br>Dawn Box (1x)<br>Baronial Material Box            |
+|  Rank 4  |   Ducal Guild Supplies  |                               5 Million Bellicarium<br>3,000 Tikat<br>Ducal Material Box                              |
+|  Rank 5  |   Earl Guild Supplies   |                                 5 Million Bellicarium<br>3,000 Tikat Earl Material Box                                |
 
 <hr/>
  

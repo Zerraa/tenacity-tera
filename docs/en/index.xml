@@ -17,6 +17,16 @@
     </item>
     
     <item>
+      <title>Menma’s TERA 1.8.4 - PvP’s Fine-Tuned Fight</title>
+      <link>https://tenacity-tera.eu/en/patch-note/2023-04-20-p1.8.4/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/patch-note/2023-04-20-p1.8.4/</guid>
+      <description>Adventurers, a new patch is coming!
+PvE As for our upcoming content, we&amp;rsquo;ve been hard at work and hope to have more solid previews soon. As previously mentioned, this is our largest patch to date and we want to make it as good as we can; only showing previews when we can guarantee its quality. We understand that some of you may feel burnt out with our current content, but our stance on this for now is that we&amp;rsquo;d rather take our time to assure quality than to rush a poor product.</description>
+    </item>
+    
+    <item>
       <title>Menma’s TERA 1.8.3 - The Battle Rages!</title>
       <link>https://tenacity-tera.eu/en/patch-note/2023-04-07-p1.8.3/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0200</pubDate>
@@ -24,16 +34,6 @@
       <guid>https://tenacity-tera.eu/en/patch-note/2023-04-07-p1.8.3/</guid>
       <description>Adventurers, a new patch is coming!
 We know many of you are interested in our upcoming big patch, which we teased briefly in Patch 1.8. The entire team is working hard to make it the best it can be, but we&amp;rsquo;re not ready to share more details yet. If you want to refresh your memory on what we&amp;rsquo;ve revealed this far, you can follow the previous link. We know you are eager to see what we have in store and to learn more about our plans, but we kindly ask for your patience until we&amp;rsquo;re happier with the state of the patch.</description>
-    </item>
-    
-    <item>
-      <title>Menma’s TERA 1.8.4 - PvP’s Fine-Tuned Fight</title>
-      <link>https://tenacity-tera.eu/en/patch-note/2023-04-20-p1.8.4/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/patch-note/2023-04-20-p1.8.4/</guid>
-      <description>Adventurers, a new patch is coming!
-PvE As for our upcoming content, we&amp;rsquo;ve been hard at work and hope to have more solid previews soon. As previously mentioned, this is our largest patch to date and we want to make it as good as we can; only showing previews when we can guarantee its quality. We understand that some of you may feel burnt out with our current content, but our stance on this for now is that we&amp;rsquo;d rather take our time to assure quality than to rush a poor product.</description>
     </item>
     
     <item>
@@ -278,39 +278,6 @@ Dreadspire Velik’s Sanctuary (Hard) Forsaken Island (Hard) Timescape (Hard) Gr
     </item>
     
     <item>
-      <title>30/6/2022 - Official TERA Shutdown</title>
-      <link>https://tenacity-tera.eu/en/articles/2022-06-30-official-tera-shutdown/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/articles/2022-06-30-official-tera-shutdown/</guid>
-      <description>Unfortunately, TERA’s developers, Bluehole, have decided to cease work on TERA.
-The TERA servers will be switched off at 10 AM CEST (4 AM EDT) on 30th June 2022.
-After nearly 10 long years, the TERA legend must sadly come to an end. Please note that the game cannot be added in the Gameforge client anymore, and in case you have it installed, its recommended for you to uninstall it after the server closing.</description>
-    </item>
-    
-    <item>
-      <title>20/6/2022 - Menma’s TERA goes 64-bit</title>
-      <link>https://tenacity-tera.eu/en/articles/2022-06-20-menma-64-bit-update/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/articles/2022-06-20-menma-64-bit-update/</guid>
-      <description>The transition to 64-bit is almost complete. The 64-bit testing environment will be going public for a few days to check for potential issues and bugs with it.
-Everyone will be able to access the 64-bit test server by downloading the 64-bit launcher and game client from the link in downloads section on Menma’s Discord
-You can use your existing account to connect to the server and you will be having your current progress from the main server.</description>
-    </item>
-    
-    <item>
-      <title>15/6/2022 Last Quest</title>
-      <link>https://tenacity-tera.eu/en/articles/2022-06-15-last-quest-ktera/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/articles/2022-06-15-last-quest-ktera/</guid>
-      <description>If you access the Korean servers by 30th June, you can play Last Quest, created by the BHS as a final Goodbye before the live servers officially shut down.
-It was confirmed that Gameforge (EU,NA,SEA publisher) will NOT be releasing this questline themself. As of writing, they only released translated cutscene from last part of the series of quests.
-But honestly, their translated version is as cheap as it can get&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Menma’s TERA 1.0.9</title>
       <link>https://tenacity-tera.eu/en/patch-note/2022-06-10-p1.0.9/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0200</pubDate>
@@ -326,27 +293,6 @@ But honestly, their translated version is as cheap as it can get&amp;hellip;</de
       
       <guid>https://tenacity-tera.eu/en/patch-note/2022-06-02-p1.0.8/</guid>
       <description>Miscellaneous Maximum guild size has been increased to 35. All inactive accounts that did not log in since January 1st, 2022, have had their character names freed. Approximately 800 names have been freed. All Characters of level 70 have received 1x Eternal Gear Token Box on their Parcel Post. Fishing Rods have been temporarily disabled due to them being used to escape knockdown state with no cooldown. They will be fixed and brought back at a later patch.</description>
-    </item>
-    
-    <item>
-      <title>30/5/2022 - Multilingual mode</title>
-      <link>https://tenacity-tera.eu/en/articles/2022-05-30-multilingual-update/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/articles/2022-05-30-multilingual-update/</guid>
-      <description>Been working on translating website into few more languages out of convenience for everyone. Main languages which made were picked are russian and korean - which you can see on the main Homepage under the [Language Selection].
-If there would be volunteers to translate into other languages;for example German or Spanish I wont be against adding those as well.
-That being said Im also looking for translators who would help our translating the content of the website, contact me on Discord if youre interested 👋</description>
-    </item>
-    
-    <item>
-      <title>23/5/2022 - Release</title>
-      <link>https://tenacity-tera.eu/en/articles/2022-05-23-release/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/articles/2022-05-23-release/</guid>
-      <description>First article! Yay! Website was released while still work in progress.
-I believe that many of the dungeon guides will be useful already while the website is in development. This website is still under development. Some articles will not be available to view.</description>
     </item>
     
     <item>
@@ -369,69 +315,13 @@ TERA Club New item added: &amp;lt;Menma’s Multi-Nostrum&amp;gt; Upon use, appl
     </item>
     
     <item>
-      <title>Back</title>
-      <link>https://tenacity-tera.eu/en/wardrobe/back-costume/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/wardrobe/back-costume/</guid>
-      <description>Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
-      <title>Body Costumes</title>
-      <link>https://tenacity-tera.eu/en/wardrobe/body-costume/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/wardrobe/body-costume/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
-      <title>Face</title>
-      <link>https://tenacity-tera.eu/en/wardrobe/face-costume/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/wardrobe/face-costume/</guid>
-      <description>Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
-      <title>Head</title>
-      <link>https://tenacity-tera.eu/en/wardrobe/head-costume/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/wardrobe/head-costume/</guid>
-      <description>Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
-      <title>Weapon</title>
-      <link>https://tenacity-tera.eu/en/wardrobe/weapon-skin/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/wardrobe/weapon-skin/</guid>
-      <description>Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
       <title>1. Download</title>
       <link>https://tenacity-tera.eu/en/menma-guide/download/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://tenacity-tera.eu/en/menma-guide/download/</guid>
       <description>Create an account:https://account.menmastera.com/register
-Download link:https://menmastera.com/download
-Torrent file can be found on Menma’s Discord https://discord.gg/menmastera</description>
+Download link:https://menmastera.com/download</description>
     </item>
     
     <item>
@@ -446,21 +336,12 @@ Level Name Class Description Level 10 All Reached level 10. Level 20 All Reached
     </item>
     
     <item>
-      <title>2. Encounters and Exploration</title>
-      <link>https://tenacity-tera.eu/en/achievements/encounters-and-exploration/</link>
+      <title>2. Introduction to basics</title>
+      <link>https://tenacity-tera.eu/en/menma-guide/introduction/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://tenacity-tera.eu/en/achievements/encounters-and-exploration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2. Proxy Mods</title>
-      <link>https://tenacity-tera.eu/en/menma-guide/proxy-mods/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/menma-guide/proxy-mods/</guid>
-      <description>You can find allowed proxy-mods on Menma&amp;rsquo;s TERA discord in the #proxy-mods section.</description>
+      <guid>https://tenacity-tera.eu/en/menma-guide/introduction/</guid>
+      <description>Basic about the server Server is running on Patch - 100.2. As of writing this post, server are located in Starsbourg, France, EU. Server is set to PvP outside of safezone areas. But majority of PvP only happens in Velika Outskirts. Support for Menma&amp;rsquo;s TERA has been added to Shinra which you can find HERE Skill advancements are same as normal Tera, but you have one EP page &amp;amp; no cards</description>
     </item>
     
     <item>
@@ -494,34 +375,6 @@ Huzrat Respawn time: 12-24+ hours</description>
     </item>
     
     <item>
-      <title>2.3 5000 World Boss Kills</title>
-      <link>https://tenacity-tera.eu/en/achievements/5k-world-boss-achievement/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/achievements/5k-world-boss-achievement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2.4 Monuments and Vistas</title>
-      <link>https://tenacity-tera.eu/en/achievements/monument-vista-achievements/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/achievements/monument-vista-achievements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3. Introduction to basics</title>
-      <link>https://tenacity-tera.eu/en/menma-guide/introduction/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/menma-guide/introduction/</guid>
-      <description>Basic about the server Server is running on Patch - 100.2. As of writing this post, server are located in Starsbourg, France, EU. Server is set to PvP Support for Menma&amp;rsquo;s TERA has been added to Shinra which you can find HERE Skill advancements are same as normal Tera, but you have one EP page &amp;amp; no cards
-EP to reset Retaliate was also removed. You have Dark Light &amp;amp; Annihilation gear, which you can convert to Kaia&amp;rsquo;s Fury &amp;amp; Wisdom later.</description>
-    </item>
-    
-    <item>
       <title>3. Tours of Duty</title>
       <link>https://tenacity-tera.eu/en/achievements/tours-of-duty/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -531,34 +384,14 @@ EP to reset Retaliate was also removed. You have Dark Light &amp;amp; Annihilati
     </item>
     
     <item>
-      <title>4. Dungeons and Battlegrounds</title>
-      <link>https://tenacity-tera.eu/en/achievements/dungeons-and-battlegrounds/</link>
+      <title>3.1 Gearing - PvE</title>
+      <link>https://tenacity-tera.eu/en/menma-guide/pve-gearing/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://tenacity-tera.eu/en/achievements/dungeons-and-battlegrounds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>4.1 Gearing - PvP</title>
-      <link>https://tenacity-tera.eu/en/menma-guide/pvp-gearing/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/menma-guide/pvp-gearing/</guid>
+      <guid>https://tenacity-tera.eu/en/menma-guide/pve-gearing/</guid>
       <description>General Guide Massive thanks to Prince.Pluto for creating this document! You can find it HERE - General Guide to Menma&amp;amp;rsquo;s TERA Server
-Gear You require FULL PVP GEAR
-Since pve gear have debuffs on it for pvp :
-(Reduced damage by 40% &amp;amp; Increased damage taken by 40%) You will instantly receive 1.000 eternal tokens to buy all you need, you don&amp;rsquo;t need to buy them after.
-Through said tokens you can also buy special Radiant Jewelery which is not useable in dungeons and maxed Relic/Halidom Enchanting gear Through Eternal tokens which you get at the start when you create your character or through Bellicardum reputation merchant you can buy +9 Enchantment Scrolls for PvP Gear NOTE: Through those tokens you can also buy Lvl 5 Brooch and other max.</description>
-    </item>
-    
-    <item>
-      <title>5. Extracurricular Activities</title>
-      <link>https://tenacity-tera.eu/en/achievements/extracurricular-activities/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/achievements/extracurricular-activities/</guid>
-      <description></description>
+Gear You get the basic blue Azart gear to start with when you make your character.
+You can get accessory crystals from vanguards credits, like in the original version. For Dark Light &amp;amp; Annihilation gear you should do dungeons such as Red Refuge &amp;amp; RK9, there you will get gear boxes (The gear options always random)</description>
     </item>
     
     <item>
@@ -959,15 +792,6 @@ RUN OF PLAY &amp;amp; AIM The aim of the game on this 8v8 battleground is to sur
     </item>
     
     <item>
-      <title>Island of Dawn</title>
-      <link>https://tenacity-tera.eu/en/activity/island-of-dawn/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/activity/island-of-dawn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kalivan&#39;s Dreadnaught</title>
       <link>https://tenacity-tera.eu/en/dungeons/kalivan-dreadnaught/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -997,15 +821,6 @@ The fight starts off with one of two random moves, these are usually a double re
       
       <guid>https://tenacity-tera.eu/en/class/lancer/</guid>
       <description>Class Discord You can find Discord invite for this class HERE - Lancer Discord</description>
-    </item>
-    
-    <item>
-      <title>Leaderboard</title>
-      <link>https://tenacity-tera.eu/en/activity/leaderboard/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/activity/leaderboard/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1049,6 +864,7 @@ Boss: ManglemoreKey MechanicsManglemore&amp;rsquo;s Mechanics Tricks - The tri
       <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin.
 There are two different types of merchants: City Merchant and Wandering Merchant.
 City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.
+| Menma’s TERA Mystery Merchant |
 | Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
     </item>
     
@@ -1366,18 +1182,6 @@ A few other attacks to watch out for: When Mock Lobster says “Obey me!</descri
     </item>
     
     <item>
-      <title>Civil Unrest on Menma</title>
-      <link>https://tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</guid>
-      <description>Look HERE if youre looking for a broader overview of Civil Unrest.
-Server operates in UTC timezone. Please keep it in mind and act accordingly. Main difference you will notice is that map is different. As of p1.0.7 Civil Unrest is being held on destroyed Island of Dawn.
-You can also freely use Prime battle solution inside the area.
-Towers can only be placed 100 meters apart from each other.</description>
-    </item>
-    
-    <item>
       <title>Dreadspire (Original)</title>
       <link>https://tenacity-tera.eu/en/dungeons/dreadspire-original/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
@@ -1396,19 +1200,18 @@ The first 15 floors feature various challenges, from BAMs to old Bosses, each fe
       <guid>https://tenacity-tera.eu/en/dungeons/dreadspire-upper/</guid>
       <description>Quick links: | F1: Akasha | F2: Baphomet | F3: Dakuryon | F4: Meldita | F5: Kelsaik
 | F6: Krakatox | F7: Lakan | F8: Desolarus | F9: Darkan | F10: Shandra Manaya
-This version is currently on Menma&amp;rsquo;s Tera New version of Dreadspire has 10 Floors, on each floor you wil fight a single boss.
-Each of these bosses are buffed up versions of the same boss we’ve seen before from hard modes/raids/previous DS.</description>
+Menma&#39;s Tera significantly raised the difficulty on top of new mechanics.New version of Dreadspire has 10 Floors, on each floor you wil fight a single boss.* Each of these bosses are buffed up versions of the same boss we’ve seen before from hard modes/raids/previous DS.</description>
     </item>
     
     <item>
-      <title>Rally Quest</title>
-      <link>https://tenacity-tera.eu/en/menma-guide/rally-quest-menma/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0200</pubDate>
+      <title>Class Crit Factors</title>
+      <link>https://tenacity-tera.eu/en/menma-guide/class-crit-cap/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://tenacity-tera.eu/en/menma-guide/rally-quest-menma/</guid>
-      <description>Server operates in UTC timezone. Please keep it in mind and act accordingly. All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit has not been reached. Rally Quest can be completed regardless of the amount of contribution as long as a Guild Member has contributed.
-Reward RANK BOX REWARD Rank 1 Rank 1 Reward Box 5 milion Bellicarium Reputation
-2.000 Tikat Rank 2 Rank 2 Reward Box 1 milion Bellicarium Reputation</description>
+      <guid>https://tenacity-tera.eu/en/menma-guide/class-crit-cap/</guid>
+      <description>A crit cap or crit-factor cap is the point at which having any more crit factor is a detriment to your DPS potential.
+What Factors Influence the Crit Cap? Boss Level versus Your Level The difference between the target and your level will adjust how much crit factor is needed for your skills to crit.
+It might be an impact on how much crit resist the boss has but the important part is the higher you are relative to the target, the lower amount of crit factor you need.</description>
     </item>
     
     <item>
@@ -1446,14 +1249,16 @@ This is used to negate the silencing effect in the boss room.</description>
     </item>
     
     <item>
-      <title>4.2 Gearing - PvE</title>
-      <link>https://tenacity-tera.eu/en/menma-guide/pve-gearing/</link>
+      <title>3.2 Gearing - PvP</title>
+      <link>https://tenacity-tera.eu/en/menma-guide/pvp-gearing/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://tenacity-tera.eu/en/menma-guide/pve-gearing/</guid>
+      <guid>https://tenacity-tera.eu/en/menma-guide/pvp-gearing/</guid>
       <description>General Guide Massive thanks to Prince.Pluto for creating this document! You can find it HERE - General Guide to Menma&amp;amp;rsquo;s TERA Server
-Gear You get the basic blue Azart gear to start with when you make your character.
-You can get accessory crystals from vanguards credits, like in the original version. For Dark Light &amp;amp; Annihilation gear you should do dungeons such as Red Refuge &amp;amp; RK9, there you will get gear boxes (The gear options always random)</description>
+Gear You require FULL PVP GEAR
+Since pve gear have debuffs on it for pvp :
+(Reduced damage by 40% &amp;amp; Increased damage taken by 40%) You will instantly receive 1.000 eternal tokens to buy all you need, you don&amp;rsquo;t need to buy them after.
+Through said tokens you can also buy special Radiant Jewelery which is not useable in dungeons and maxed Relic/Halidom Enchanting gear Through Eternal tokens which you get at the start when you create your character or through Bellicardum reputation merchant you can buy +9 Enchantment Scrolls for PvP Gear NOTE: Through those tokens you can also buy Lvl 5 Brooch and other max.</description>
     </item>
     
     <item>
@@ -1467,7 +1272,29 @@ Battleground Fraywind Canyon no longer gives personal gear over item level 448. 
     </item>
     
     <item>
-      <title>Bamarama</title>
+      <title>Civil Unrest</title>
+      <link>https://tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/menma-guide/civil-unrest-menma/</guid>
+      <description>Look HERE if youre looking for a broader overview of Civil Unrest.
+Server operates in UTC timezone. Please keep it in mind and act accordingly. Main difference you will notice is that map is different. As of p2.0 Civil Unrest is being held on Colossal Ruins map.
+You can also freely use Prime battle solution inside the area.
+Towers can only be placed 100 meters apart from each other.</description>
+    </item>
+    
+    <item>
+      <title>Rally Quest</title>
+      <link>https://tenacity-tera.eu/en/menma-guide/rally-quest-menma/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/menma-guide/rally-quest-menma/</guid>
+      <description>Server operates in UTC timezone. Please keep it in mind and act accordingly. All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit has not been reached. Rally Quest can be completed regardless of the amount of contribution as long as a Guild Member has contributed.
+Menma&amp;rsquo;s Tera changed Rally BAMs significantly with Patch 2.0. There are now PvP, PvE and General Rally BAMs - all giving their unique rewards.</description>
+    </item>
+    
+    <item>
+      <title>General - Bamarama</title>
       <link>https://tenacity-tera.eu/en/menma-guide/bamarama-menma/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
       
@@ -1479,18 +1306,7 @@ Select the monster you want, and bet as many Menma’s Coins as you’d like!</d
     </item>
     
     <item>
-      <title>Class Crit Factors</title>
-      <link>https://tenacity-tera.eu/en/menma-guide/class-crit-cap/</link>
-      <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/menma-guide/class-crit-cap/</guid>
-      <description>A crit cap or crit-factor cap is the point at which having any more crit factor is a detriment to your DPS potential.
-What Factors Influence the Crit Cap? Boss Level versus Your Level The difference between the target and your level will adjust how much crit factor is needed for your skills to crit.
-It might be an impact on how much crit resist the boss has but the important part is the higher you are relative to the target, the lower amount of crit factor you need.</description>
-    </item>
-    
-    <item>
-      <title>Dreamstorm on Menma</title>
+      <title>General - Dreamstorm</title>
       <link>https://tenacity-tera.eu/en/menma-guide/dreamstorm-menma/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
       
@@ -1502,7 +1318,7 @@ Depending on your ranking during the event, you will receive extra 500/400/300/2
     </item>
     
     <item>
-      <title>Field Bosses</title>
+      <title>General - Field Bosses</title>
       <link>https://tenacity-tera.eu/en/menma-guide/field-bosses-menma/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
       
@@ -1511,6 +1327,18 @@ Depending on your ranking during the event, you will receive extra 500/400/300/2
 On Menma&amp;rsquo;s TERA you can find many more World Bosses spawning around different areas! Get your party and claim the loot for yourself.
 Spawn Rates Field Boss Monsters Ortan, Hazard, and Cerrus can spawn between 4hr 30min to 5hr 30min from their death.
 Images of new bosses will come soon.</description>
+    </item>
+    
+    <item>
+      <title>General - Mystery Merchants</title>
+      <link>https://tenacity-tera.eu/en/menma-guide/mystery-merchant-menma/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/menma-guide/mystery-merchant-menma/</guid>
+      <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Nexus Mystery Merchant Coin.
+You can obtain Nexus Mystery Market Coins through Vanguard Boxes [PvE] or by Vanguard Rewards [Battlegrounds].
+Mystery Merchants are changed significantly on Menma&amp;rsquo;s Tera.
+They spawn only in main city regions - Velika, Allemantheia, Kaiator, Baldera and their outskirts. You can find a lot of useful items when you go hunt for them.</description>
     </item>
     
     <item>

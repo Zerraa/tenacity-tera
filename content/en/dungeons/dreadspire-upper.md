@@ -14,9 +14,11 @@ description: TERA Guide for Dreadspire (Uppers)
 | [F8: Desolarus](#f8)
 | [F9: Darkan](#f9) <br>
 | [F10: Shandra Manaya](#f10) 
-- This version is currently on Menma's Tera
 <hr/>
 
+     Menma's Tera significantly raised the difficulty on top of new mechanics.
+
+<hr/>
 New version of Dreadspire has 10 Floors, on each floor you wil fight a single boss.
 * Each of these bosses are buffed up versions of the same boss we’ve seen before from hard modes/raids/previous DS.
 

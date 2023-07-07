@@ -1,5 +1,5 @@
 ---
-title: 3. Introduction to basics
+title: 2. Introduction to basics
 date: 2022-05-04
 description: Basic information about Menma's TERA
 ---
@@ -8,7 +8,7 @@ description: Basic information about Menma's TERA
 ![]()
 * Server is running on Patch - 100.2.
 * As of writing this post, server are located in Starsbourg, France, EU. 
-* Server is set to **PvP**
+* Server is set to **PvP** outside of safezone areas. But majority of PvP only happens in Velika Outskirts.
 <hr/>
 
 ![](https://i.imgur.com/gCGwqNw.png) 

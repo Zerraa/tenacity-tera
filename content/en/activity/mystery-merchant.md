@@ -13,6 +13,12 @@ There are two different types of merchants: City Merchant and Wandering Merchant
 
 **City Merchant** and **Wandering Merchants** spawn mechanism varies by region and region sets.
 
+<center>
+
+| [Menma’s TERA Mystery Merchant](../menma-guide/mystery-merchant-menma.md) | 
+
+</center>
+
 <hr/>
 
 | [Arcadia](#arcadia) | [Val Aureum](#val-aureum) | [Popolion](#popolion) | [Ostgarath](#ostgarath) | [Essenia](#essenia) | [Westonia](#westonia) | <br>

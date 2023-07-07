@@ -15,8 +15,6 @@ images:
 
 [https://menmastera.com/download](https://menmastera.com/download)
 
-Torrent file can be found on Menma’s Discord [https://discord.gg/menmastera](https://discord.gg/menmastera)
-
 </div>
 
 

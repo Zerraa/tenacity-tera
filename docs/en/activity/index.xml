@@ -109,24 +109,6 @@ After opening the world map (M), you can check the Guardian Missions by clicking
     </item>
     
     <item>
-      <title>Island of Dawn</title>
-      <link>https://tenacity-tera.eu/en/activity/island-of-dawn/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/activity/island-of-dawn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leaderboard</title>
-      <link>https://tenacity-tera.eu/en/activity/leaderboard/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/activity/leaderboard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mystery Merchants</title>
       <link>https://tenacity-tera.eu/en/activity/mystery-merchant/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
@@ -135,6 +117,7 @@ After opening the world map (M), you can check the Guardian Missions by clicking
       <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin.
 There are two different types of merchants: City Merchant and Wandering Merchant.
 City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.
+| Menma’s TERA Mystery Merchant |
 | Arcadia | Val Aureum | Popolion | Ostgarath | Essenia | Westonia | | Val Palrada | Val Elenium | Veritas District | Sylvanoth | Lorcada | | Val Tirkai | Helkan District | Val Kaeli |</description>
     </item>
     
