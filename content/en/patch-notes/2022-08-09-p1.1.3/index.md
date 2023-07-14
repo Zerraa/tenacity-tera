@@ -1,0 +1,66 @@
+---
+title: "Menma’s TERA 1.1.3"
+description: "Patch Notes – Menma’s TERA 1.1.3"
+date: 2022-08-09T09:19:42+01:00
+lastmod: 2022-08-09T09:19:42+01:00
+draft: false
+weight: 50
+categories: ["Patch Notes"]
+tags: [""]
+contributors: ["Menma"]
+pinned: false
+homepage: false
+toc: true
+---
+
+
+## New Elin Event
+An account based Elin Event has been added. It will last from **9/8/2022 till 15/8/2022**. Participate in the following activities in order to receive additional rewards during the event period:
+### PvE Events
+- Clear Bahaar’s Sanctum
+  - 5 Times = 25 Diamonds
+  - 15 Times = 50 Diamonds
+  - 25 Times = 10.000 Tikat
+- Clear Forbidden Arena [Hagufna]
+  - 5 times = 500 Tikat
+  - 15 times = 1.000 Tikat
+  - 25 times = 5.000 Tikat
+- Clear Akeron’s Inferno (Hard)
+  - 5 times = 500 Tikat
+  - 15 times = 3.000 Tikat
+### PvP Events
+- Play Shore Hold
+  - 5 games = 500 Tikat
+  - 15 wins = 1.500 Tikat
+  - 25 times = 5.000 Tikat
+
+<hr/>
+
+## Class Fixes
+### Ninja
+  - Harmonious Burning Heart should now be casting normally on 2nd and 3rd hits during Inner Harmony (no ghosting or slow downs)
+  - Re-added Golden Tenacity on Attunement, however the skill will get instant cooldown now when used.
+### Reaper
+  - Sundering Strike’s Bloodlust effect should now properly apply outside of Shadow Reaping effect too.
+### Slayer
+  - In Cold Blood’s base cooldown has been reduced from previous 90 seconds to 80 now. *(Actually working this time)*
+
+<hr/>
+
+## Battlegrounds
+### Corsair’s Stronghold
+  - Reduced all gates HP values by 30%.
+  - Increased the Anchorstone’s HP by 100%.
+### Shore Hold
+  - HP values of the BAMs have been doubled.
+
+<hr/>
+
+## Miscellaneous
+- Civil Unrest Lion Mount has also been adjusted to 330 speed.
+
+<hr/>
+
+## Upcoming Events
+We are working on releasing an improved version of Summer Festival of the Sun with exclusive rewards that are not currently available in the game, expected to be available by next week. <br>
+Stay tuned!

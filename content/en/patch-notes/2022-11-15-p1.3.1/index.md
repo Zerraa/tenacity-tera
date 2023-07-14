@@ -1,0 +1,87 @@
+---
+title: "Menma’s TERA 1.3.1 – Battle Pass"
+description: "Patch Notes – Menma’s TERA 1.3.1 – Battle Pass"
+date: 2022-11-15T09:19:42+01:00
+lastmod: 2022-11-15T09:19:42+01:00
+draft: false
+weight: 50
+categories: ["Patch Notes"]
+tags: [""]
+contributors: ["Menma"]
+pinned: false
+homepage: false
+toc: true
+---
+
+## Menma’s Hunter Event (Battle Pass)
+After reviewing feedback from the community, we’ve decided to make some significant changes to the Battle Pass system. Alongside a wealth of quality of life improvements, the new Dungeon Mission Box now contains 2 new “Mission Tickets,” allowing players to select specific dungeons they’d like to run. <br>
+Dungeons within the “Dungeon Group Mission” boxes have also been amended. We hope these changes make it slightly more enjoyable to complete your Battle Pass!
+
+### [Battle Pass] Dungeon Mission Box now contains:
+- Dungeon Group Expert Mission x3
+- Dungeon Group Novice Mission x3
+- Expert Dungeon Mission Ticket x2
+- Novice Dungeon Mission Ticket x2
+
+### Other Battle Pass Updates
+We know some of you still love Manaya, Darkan and Kelsaik in their respective hard modes, but we also understand they can be quite time consuming and challenging for the average party. While we rework these dungeons and their loot tables in the background, we don’t want to force you to do them. <br>
+But don’t worry, you can still select them from your Dungeon Mission Tickets should you wish to run with your friends.
+
+- Removed Manaya’s Core (Hard), Sky Cruiser Endeavor (Hard), Corrupted Skynest (Hard) from Dungeon Group Expert Mission.
+- Readded “[Battle Pass] Token: Corrupted Skynest (Hard)” to it’s respective vanguard reward.
+- The aforementioned dungeons are now available to be selected within their corresponding Dungeon Mission Tickets (Expert) only.
+- Novice Missions now have a different icon from Expert Missions making them easily identifiable in your inventory.
+- Tooltips now correctly display if an item is unbankable, following the prior hotfix to make a number of relevant items bankable.
+- Pumped Etchings in Kaia’s “Useful Items” tab changed to correctly increase HP by 1,500.
+- Menma’s Hunter Fragments and Menma’s Hunter Tokens are now unable to be discarded.
+ 
+<hr/>
+
+## Banyaka’s Chest Update
+**Guaranteed Drop:**
+- Refined Duranium Ore
+- Goldfinger Token
+- Elleon’s Mark of Valor
+- Dark Shard Weapon Feedstock
+- Dark Shard Armor Feedstock
+
+**Percentage Chance:**
+- Eren’s Key
+- Superior Recovery Potable
+- Superior Replenishment Potabl
+- Remnants of Superior Belt
+- Remains of Superior Mask
+- Vestiges of Superior Brooch
+- Expert’s Additive
+- Riding Skill: Hello Kitty Squealer
+ 
+<hr/>
+
+## Dungeon Updates
+- Forbidden Arena (Undying Warlord) now grants 3 resurrections per run for players with rookie status.
+- Reduced damage received from lasers Demokron Factory (Hard), Nightmare Verno. 
+  - This should reduce the number of deaths caused by safezone expiring early.
+- Changed Dragon’s Lair (20-man) to Dragon’s Nest (20-man). 
+  - Remember you can queue for DN on Saturday/Sunday, with one vanguard reward a day per character, limited to 2 runs per character.
+- Adjusted HP of Maknakh from 200bn to 130bn in Dragon’s Nest (20-man).
+- Added 50 x Refined Mana Essence to Dragon’s Nest (20-man) vanguard reward.
+ 
+<hr/>
+
+## Class Updates
+- Mystics are now able to prestack motes in Forbidden Arena (Nightmare Undying Warlord) and Corrupted Skynest (Hard).
+- Ninja’s Harmonious Burning Heart should now work as intended, without the skill appearing to cast client-side only in some scenarios.
+
+<hr/>
+
+## World Boss Updates
+- There’s a new world boss! Among Ortan, Hazard and Cerrus, you can now **hunt for Razan** in the Granarkus area.
+- Rewards for all world bosses have been reworked to now include bankable Item Experience Boosts and Battered Oath Tokens.
+- HP for all world bosses are now shown.
+ 
+<hr/>
+
+## Miscellaneous Updates
+- Dakuryon’s Notes achievement moved to correct category.
+- Fixed counter for Demokron Factory (Hard) achievement.
+- Tooltip for Warrior’s Tempest Aura Passive ability has been updated to accurately reflect the extended duration of “Shadow of the Tempest II” to 15 seconds from a previous patch.

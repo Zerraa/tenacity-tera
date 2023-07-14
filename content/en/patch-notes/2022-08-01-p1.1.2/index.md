@@ -1,0 +1,69 @@
+---
+title: "Menma’s TERA 1.1.2"
+description: "Patch Notes – Menma’s TERA 1.1.2"
+date: 2022-08-01T09:19:42+01:00
+lastmod: 2022-08-01T09:19:42+01:00
+draft: false
+weight: 50
+categories: ["Patch Notes"]
+tags: [""]
+contributors: ["Menma"]
+pinned: false
+homepage: false
+toc: true
+---
+This week’s maintenance will come in 2 parts. First, this small part with some adjustments/fixes. <br>
+Second will be coming towards the end of this week or next week’s Monday.
+<hr/>
+
+## General
+- **Dressing Room** has finally been fixed and is now the recommended way of picking up and buying costumes.
+- Increased all Keen IV Etchings Crit Factor from 22 to 24.
+- Added the following items to the Elleon’s Mark of Valor Shop:
+  - Federation Supply: *Rejuvenation Potion* for 10 Elleon’s Marks.
+  - Federation Supply: *Divine Infusion* for 10 Elleon’s Marks.
+- Added **Eren’s Key** to the Specialty Merchants for 15,000 gold.
+  - *Note: Eren’s Key is basically Goddess’ Blessing.*
+
+<hr/>
+
+## Dungeons & PvE 
+- Increased the amount of Kaia’s Gear Upgrade Materials dropping in the following dungeons:
+  - Corrupted Skynest (Hard)
+  - Manaya’s Core (Hard)
+  - Sky Cruiser Endeavor (Hard)
+  - Bahaar’s Sanctum
+  - Ruinous Manor (Hard)
+  - Bathysmal Rise (Hard)
+  - Forbidden Arena [Hagufna]
+### Loot Table
+- Readjusted the loot table in the following Dungeons:
+### **Sky Cruiser Endeavor (Hard)**
+  - Removed Body Armor Etchings Pumped/Keen IV.
+  - Footwear Etchings Pumped/Keen IV drop chance adjusted to 100%.
+### **Manaya’s Core (Hard)**
+  - Removed Zenobia’s Breeze *(It was not useful, will be reworked in the future)*.
+  - Added Body Armor Etchings Pumped/Keen IV at a drop rate of 100%.
+### **Ruinous Manor (Hard)**
+  - Increased Lachelith’s Attack Speed by 15%.
+  - Decrease duration of Lachelith’s debuff on players by 10 seconds.
+### **Sky Cruiser Endeavor (Hard)**
+  - Reduced Darkan’s Power by 10%.
+### **Corrupted Skynest (Hard)**
+  - Fixed a small issue with Curse of Kelsaik debuff not being applied on time.
+### **Corrupted Skynest**
+  - Increased Boss HP by 3-4~ Billion.
+  - Increased the Blazing/Frostblade Avatar’s HP values by 85~%.
+
+<hr/>
+
+## Class Changes
+### Slayer
+  - Decreased In Cold Blood Cooldown by 5 seconds.
+### Ninja
+  - Removed Attunement’s Golden Tenacity. *(It was not supposed to be there)*
+
+<hr/>
+
+## Bug Fixes
+- Fixed the 3-stat Superior Boots boxes for gunner dropping the wrong type of gear.

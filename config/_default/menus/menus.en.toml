@@ -1,0 +1,140 @@
+
+[[main]]
+  name = "Dungeon Guides"
+  url = "/dungeons/mt/"
+  weight = 1
+
+
+
+
+
+[[main]]
+  name = "General Content"
+  identifier = "General Content"
+  url = "/general/"
+  weight = 2
+
+[[main]]
+  name = "Companions"
+  weight = 1
+  url = "general/general/companions/"
+  parent = "General Content"
+
+[[main]]
+  name = "Fishing"
+  weight = 2
+  url = "/general/general/fishing/"
+  parent = "General Content"
+
+[[main]]
+  name = "Gathering"
+  weight = 3
+  url = "/general/general/gathering/"
+  parent = "General Content"
+
+[[main]]
+  name = "Mystery Merchants"
+  weight = 4
+  url = "/general/general/mystery-merchant/"
+  parent = "General Content"
+
+[[main]]
+  name = "Rally Quest"
+  weight = 6
+  url = "/general/general/rally-quest/"
+  parent = "General Content"
+
+[[main]]
+  name = "Reputation"
+  weight = 7
+  url = "/general/general/reputation/"
+  parent = "General Content"
+
+[[main]]
+  name = "Achievements"
+  weight = 8
+  url = "/general/achievements/progression/"
+  parent = "General Content"
+
+
+
+[[main]]
+  name = "Patch Notes"
+  url = "/patch-notes/"
+  weight = 20
+
+
+
+
+
+[[main]]
+  name = "MT: The Dream"
+  weight = 50
+  identifier = "MT"
+  url = "/mt/"
+
+[[main]]
+  name = "─[ Download ]─"
+  weight = 1
+  url = "/mt/download/"
+  parent = "MT"
+
+[[main]]
+  name = "─[ Discord ]─"
+  weight = 2
+  url = "https://discord.gg/menmastera"
+  parent = "MT"
+
+[[main]]
+  name = "Mystery Merchant"
+  weight = 3
+  url = "/mt/guide/mystery-merchant/"
+  parent = "MT"
+
+[[main]]
+  name = "Dreamstorm"
+  weight = 4
+  url = "/mt/guide/dreamstorm/"
+  parent = "MT"
+
+[[main]]
+  name = "Field Bosses"
+  weight = 5
+  url = "/mt/guide/field-bosses/"
+  parent = "MT"
+
+[[main]]
+  name = "─[ PvE Gearing ]─"
+  weight = 20
+  url = "/mt/pve/pve-gearing/"
+  parent = "MT"
+
+[[main]]
+  name = "─[ PvP Gearing ]─"
+  weight = 40
+  url = "/mt/pvp/pvp-gearing/"
+  parent = "MT"
+
+[[main]]
+  name = "Civil Unrest"
+  weight = 41
+  url = "/mt/pvp/civil-unrest/"
+  parent = "MT"
+
+[[main]]
+  name = "Rally Quest"
+  weight = 42
+  url = "/mt/pvp/rally-quest/"
+  parent = "MT"
+
+
+
+
+
+
+[[social]]
+  name = "GitHub"
+  pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
+  url = "https://github.com/Zerraa/tenacity-tera"
+  post = "v1"
+  weight = 10

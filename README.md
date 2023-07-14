@@ -12,26 +12,7 @@
 ----
 #  Tenacity
 <p>Repository for personal TERA website<br>
-Focusing on Dungeon guides and Patch notes for Menma's TERA, together with other informations like gear and overworld activities.</p>
-
-
-## Contents
-
-  <div align="left">
-    
-  - [Articles](https://zerraa.github.io/tenacity-tera/en/articles/)
-  - [Classes](https://zerraa.github.io/tenacity-tera/en/class/)
-  - [Activities](https://zerraa.github.io/tenacity-tera/en/activity/)
-  - [Dungeons](https://zerraa.github.io/tenacity-tera/en/dungeons/)
-  - [Battlegrounds](https://zerraa.github.io/tenacity-tera/en/battlegrounds/)
-  - [Achievements](https://zerraa.github.io/tenacity-tera/en/achievements/)
- 
- #### Menma's TERA   
-    
-  - [Patch Notes](https://zerraa.github.io/tenacity-tera/en/patch-note/)
-  - [Guide](https://zerraa.github.io/tenacity-tera/en/menma-guide/)
-    
-  </div> 
+Focusing on Dungeon guides and Patch notes for MT: The Dream, together with other informations like gear and overworld activities.</p>
 
 ## Feedback  
 Feature requests on things to add are always welcome.If you want to send your feedback, feel free to [file an issue](https://github.com/Zera-dev/tenacity-tera/issues/new).
