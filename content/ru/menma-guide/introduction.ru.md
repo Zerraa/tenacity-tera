@@ -1,7 +1,7 @@
 ---
 title: 3. Introduction to basics
 date: 2022-05-04
-description: Basic information about Menma's TERA
+description: Basic information about MT The Dream
 ---
 ## Basic about the server
 
@@ -13,7 +13,7 @@ description: Basic information about Menma's TERA
 <hr/>
 
 ![](https://i.imgur.com/gCGwqNw.png) 
-* Support for Menma's TERA has been added to Shinra which you can find [HERE](https://kabedon.moongourd.com/)
+* Support for MT The Dream has been added to Shinra which you can find [HERE](https://kabedon.moongourd.com/)
 <hr/>
 
 * Skill advancements are same as normal Tera, but you have **one EP page & no cards**

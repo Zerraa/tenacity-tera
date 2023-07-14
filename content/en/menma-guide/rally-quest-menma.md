@@ -11,7 +11,7 @@ Rally Quest can be completed regardless of the amount of contribution as long as
 
 <hr/>
 
-Menma's Tera changed Rally BAMs significantly with Patch 2.0. There are now PvP, PvE and General Rally BAMs - all giving their unique rewards.
+MT The Dream changed Rally BAMs significantly with Patch 2.0. There are now PvP, PvE and General Rally BAMs - all giving their unique rewards.
 - **PvE BAMs** provide materials to help you **upgrade your gear** further.
 - **PvP BAMs** provide materials to **craft your new PvP Jewelry** set.
 

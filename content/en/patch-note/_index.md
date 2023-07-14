@@ -1,6 +1,6 @@
 ---
-title: Patch Notes for Menma's TERA
-description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
+title: Patch Notes for MT The Dream
+description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | MT The Dream ...
 ---
 
 ```toml

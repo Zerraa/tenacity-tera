@@ -16,7 +16,7 @@ images:
 ![](https://i.imgur.com/axjltqe.png)
 <h3>Boss: Hagufna</h3>
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - His phase triggers were moved to 90%, 80%, 70%.
        - Old were 90%, 55%, 30%.

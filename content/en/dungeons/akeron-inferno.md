@@ -14,7 +14,7 @@ images:
 | [Third boss](#third-boss) 
 | [Last boss](#last-boss) 
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - Entries: 1 without TERA Club (2 with TERA Club)
 

@@ -16,7 +16,7 @@ description: TERA Guide for Dreadspire (Uppers)
 | [F10: Shandra Manaya](#f10) 
 <hr/>
 
-     Menma's Tera significantly raised the difficulty on top of new mechanics.
+     MT The Dream significantly raised the difficulty on top of new mechanics.
 
 <hr/>
 New version of Dreadspire has 10 Floors, on each floor you wil fight a single boss.

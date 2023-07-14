@@ -7,7 +7,7 @@ images:
 
 Field Boss Monsters are large monsters in open world. They usually respawn every 5 to 6 hours after they die and drop great loot!<br>
 
-On Menma's TERA **you can find many more World Bosses spawning around different areas**! Get your party and claim the loot for yourself.
+On MT The Dream **you can find many more World Bosses spawning around different areas**! Get your party and claim the loot for yourself.
 
 <hr/>
 

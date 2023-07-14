@@ -1,7 +1,7 @@
 ---
 title: 1. Download
 date: 2022-05-05
-description: Where to download Menma's TERA?
+description: Where to download MT The Dream?
 images:
 - https://i.imgur.com/nYr4vz2.png
 ---

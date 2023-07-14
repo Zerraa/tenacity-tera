@@ -11,7 +11,7 @@ Mystery Merchant is an NPC that sells goods in exchange for special currency cal
 You can obtain Nexus Mystery Market Coins through Vanguard Boxes [PvE] or by Vanguard Rewards [Battlegrounds].
 <hr/>
 
-Mystery Merchants are changed significantly on Menma's Tera.<br>They spawn only in main city regions - **Velika**, **Allemantheia**, **Kaiator**, **Baldera** and their outskirts.
+Mystery Merchants are changed significantly on MT The Dream.<br>They spawn only in main city regions - **Velika**, **Allemantheia**, **Kaiator**, **Baldera** and their outskirts.
 You can find a lot of useful items when you go hunt for them.
 
 <hr/>

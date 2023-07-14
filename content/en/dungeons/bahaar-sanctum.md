@@ -29,7 +29,7 @@ You get loot after the first phase and you may even see LFGs for "Bahaar Farm P1
 ![](https://i.imgur.com/r8D7c7O.png)
 <h3>Phase 1</h3>
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - Phase 1 is unchanged.
 
@@ -111,7 +111,7 @@ You get loot after the first phase and you may even see LFGs for "Bahaar Farm P1
 
 <h3>Phase 2</h3>
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - Once you hit him, he will enrage and have wrath buff.
      - He can’t do Wrath mechanic in the first 5 seconds of fight.

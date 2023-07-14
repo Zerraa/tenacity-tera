@@ -6,7 +6,7 @@ images:
 - https://i.imgur.com/3l8B7Rn.png
 ---
 
-- The New Bamarama is available now on Menma's TERA.
+- The New Bamarama is available now on MT The Dream.
   -  Head over to the Freeholds North of Chebika to participate.
 
 - To begin, speak with one of the Bookies: Tayana, Teena, or Linu.

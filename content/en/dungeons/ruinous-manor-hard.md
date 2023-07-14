@@ -19,7 +19,7 @@ images:
 ![](https://i.imgur.com/oAMIr5O.png)
 <h3>First Boss: Atrocitas</h3>
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - Nothing changed.
      - Pulses his for 35% of total HP.
@@ -81,7 +81,7 @@ Afterwards, the boss will jump towards the tank with the highest aggro.
 ![](https://i.imgur.com/ICM9brq.png)
 <h3>Second Boss: Malgarios </h3>
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - Spit attack will oneshot most classes.
      - There is now 7 eggs in the room.
@@ -146,7 +146,7 @@ You can jump when he chains you and get knocked down. Priests can use Guardian S
 
 As a Tank, avoid taking the curse debuff or you will suffer while tanking her.
 
-     Menma's TERA changes:
+     MT The Dream changes:
      
      - Her attack speed is increased by a lot.
      - Her tail attack oneshots.

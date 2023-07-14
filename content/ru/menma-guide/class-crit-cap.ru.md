@@ -1,7 +1,7 @@
 ---
 title: Class Crit Factors
 date: 2022-04-28    
-description: Crit Factor CAPs for classes in Menma's TERA 
+description: Crit Factor CAPs for classes in MT The Dream 
 ---
 
 A crit cap or crit-factor cap is the point at which having any more crit factor is a detriment to your DPS potential.

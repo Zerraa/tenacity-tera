@@ -92,7 +92,7 @@ During the battle, the mini-map converts into a kind of overview, replacing the 
 <hr/>
 <center>
 
-## Menma's TERA
+## MT The Dream
 
 </center>
 
