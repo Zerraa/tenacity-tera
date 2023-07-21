@@ -1,0 +1,230 @@
+---
+title: "Menma’s TERA 1.4.2 – Holiday Adjustments"
+description: "Patch Notes – Menma’s TERA 1.4.2 – Holiday Adjustments"
+date: 2022-12-28T09:19:42+01:00
+lastmod: 2022-12-28T09:19:42+01:00
+draft: false
+weight: 50
+categories: ["Patch Notes"]
+tags: [""]
+contributors: ["Menma"]
+pinned: false
+homepage: false
+toc: true
+---
+
+Dungeon Adjustments
+-------------------
+
+### The Plexus (Hard)
+
+-   Shandra Manaya has been reverted back to her normal size.
+
+### RK-9 Kennel (Normal Mode)
+
+-   RK-9 will no longer aggro until attacked.
+
+### All Dungeons
+
+-   Added Intelligence Report Left and Right parts in possible loot table
+
+-   Replaced Essence of the Nexus II with Agaia Tokens
+
+-   Added Sea of Honor maps in possible loot table
+
+-   Added Naslow's Treasure Map Left and Right parts in possible loot table
+
+-   Adjusted loot of Hidden Wooden/Silver/Gold Crate from Naslow Treasure
+
+-   Among updated rewards, you can obtain Agaia Tokens
+
+Class Balance Changes
+---------------------
+
+### Gunner
+
+-   The base weapon attack modifier increased from 49559 to 51196.
+
+### Sorcerer
+
+-   Reduced Ice Lance base damage from 11032 to 8650.
+
+-   Element Zero buff now properly applies immediately on hit of Elemental Fusion.
+
+### Warrior
+
+-   Reduced Assault Stance damage from 12% to 9.5%.
+
+-   Increased aggro generation in Defensive Stance by 50%.
+
+### Brawler
+
+-   Increased aggro generation in Growing Fury by 25%.
+
+### Berserker
+
+-   The base weapon attack modifier increased from 58226 to 59298.
+
+### Ninja
+
+-   The base weapon attack modifier increased from 52090 to 52436.
+
+### Slayer
+
+-   Adjusted Overhand Strike skill advancement: 
+
+-   5% chance to increase damage by 100%. -> 50% chance to increase damage by 10%.
+
+### Miscellaneous
+
+-   Every mount passive (1.5 and 2.0) can now only activate on boss type monsters.
+
+-   Reduced damage variance provided by Noctenium Elixirs.
+
+General Content Changes
+-----------------------
+
+-   Adjusted Kaia's Gear Box to give a proper version of gear for each class. 
+
+-   Physical classes will only receive Kaia Fury
+
+-   Magical classes will only receive Kaia Wisdom
+
+### Open World
+
+-   Added 3 training dummies to Velika Outskirts.
+
+-   Added new NPC Liliam [Dueling Merchant] to Velika Outskirts.
+
+-   Dueling Merchant offers Scroll of Full Resurrection, Scroll of Rapid Resurrection, and All-Purpose Potion.
+
+-   All-Purpose potion removes buffs upon use.
+
+### Guardian Mission
+
+-   Shadow of the Gutrends
+
+-   Increased Dreadreaper HP by  20%.
+
+-   Avenging Talons
+
+-   Increased HP of Est and Ost by 30%.
+
+-   Increased Magnuut HP by 20%.
+
+-   Escape from Balder's Refuge
+
+-   Increased HP of Orcans by 25%.
+
+-   Increased Vehemos HP by 25%.
+
+Merchant Adjustments
+--------------------
+
+### Specialty Merchant
+
+-   Added a new tab "Consumable Supplies" which now has all currently available consumables.
+
+-   Added Manglemire Teleport Scroll in the Teleport Scroll tab.
+
+-   Added All-Purpose Potion to the Combat Supplies tab.
+
+-   Adjusted prices of Radiant Accessory materials in Bellicarium Shop:
+
+-   Refined Lepidoptera Crystal Dust: 200.000 -> 50.000
+
+-   Refined Lepidoptera Crystal Powder: 200.000 -> 50.000
+
+-   Purified Ring Fragments: 200.000 -> 50.000
+
+-   Purified Ornament Fragment: 200.000 -> 50.000
+
+-   Adjusted prices of Cohesion Arcanes in Bellicarium Shop:
+
+-   Honed Dark Shard Cohesion Arcane: 1.500.000 -> 150.000
+
+-   Annealed Dark Shard Cohesion Arcane: 1.000.000 -> 100.000
+
+-   Removed items from specialty merchant: 
+
+-   Affinity Catalyst
+
+-   Exodor Scout Box
+
+-   Blightoath Medallion
+
+-   Noctenium Infusion
+
+-   Removed items from Vanguard reputation merchant: 
+
+-   Caiman Stash Key
+
+-   Superior Noctenium Refiner
+
+-   Removed items from Merchant: 
+
+-   Metamorphic Emblem
+
+-   Removed items from Ace Dungeon Shop: 
+
+-   Exodor Scout Weapon Feedstock
+
+-   Exodor Scout Armor Feedstock
+
+Deprecated Content Clean Up
+---------------------------
+
+-   Removed the following quests:
+
+-   Collecting Cards
+
+-   Acarum Crisis I / II
+
+-   Saving Seeliewood I / II
+
+-   Too Many Argons I / II
+
+-   Neverending War Story I / II
+
+-   Removed Card Fragments and Skill Advancement XP Tomes from all Fishing Areas.
+
+-   Removed all open world Card Fragment drops.
+
+-   Removed Entropy enchanting materials from dropping in the open world:
+
+-   Scavenged Supplies,Devil's Claws,Dragon Skull,Supreme Metal,Springy Draco Limb,Weight Pendulum,Sacred Mallet
+
+-   Replaced with same amount of Ruby/Pearl/Rejuvenation potion/Divine Infusion
+
+-   Removed Card Fragments from rewards for completing Exodor Quests.
+
+-   Replaced Card Fragment rewards with 5 Emeralds.
+
+-   Hidden Kumas Royale and Training Ground from Achievements sections for the time being.
+
+Bug Fixes
+---------
+
+-   Shandra Manaya costume set now displays a shadowy effect when worn.
+
+-   Nightmare Undying Warlord costume set now displays a red effect when worn.
+
+-   Fixed issue where the glow of Fairywing IX and X rods didn't properly show.
+
+-   Fixed issue where the name of the Hagufna set effect wouldnt properly display on items.
+
+-   Fixed issue where the name and requirements for Nightmare Undying Warlord costume set would show up blank.
+
+-   Corrected names displayed when Fairywing IX and X fishing rods were used.
+
+-   Removed closed training ground dungeons from Whurloc in Highwatch.
+
+-   Removed HP and MP stats from the Anniversary Scarf sold in Tikat Shop.
+
+-   Removed RNG-related loot when opening Naslow Treasure Crates
+
+-   Arx Umbra minimap now correctly displays the entrance of Demokron Factory
+
+-   Lake of Tears minimap now correctly displays the entrance of Manglemire
+
+-   Adjusted several tooltips which displayed wrong values.

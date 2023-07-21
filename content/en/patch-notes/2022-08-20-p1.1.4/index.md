@@ -1,0 +1,65 @@
+---
+title: "Menma’s TERA 1.1.4"
+description: "Patch Notes – Menma’s TERA 1.1.4"
+date: 2022-08-20T09:19:42+01:00
+lastmod: 2022-08-20T09:19:42+01:00
+draft: false
+weight: 50
+categories: ["Patch Notes"]
+tags: [""]
+contributors: ["Menma"]
+pinned: false
+homepage: false
+toc: true
+---
+
+
+## General/Miscellaneous changes
+- Disabled GvGs inside the city of Highwatch
+- Enabled GvGs in the Velika region + inner city.
+- Decreased cooldown of Strong Canephora Potion to 5 seconds.
+- Decreased cooldown of Tempestuous Savage Draught to 5 minutes.
+- Decreased cooldown of Inexorable Savage Draught to 5 minutes.
+- Strong Canephora Potion is now overwritable by itself.
+- Menma’s Multi-Nostrum will now give the Crit Factor Fish Buffet (Spicy) Instead of the Endurance Fish Buffet (Salty).
+- Quest <[Important] Hatching a Partner> should now be giving the correct reward instead of Legacy Essence.
+
+<hr/>
+
+## Class changes
+### Lancer
+  - Reduced base cooldown of Adrenaline Rush and Guardian Shout to 110 seconds (from 120 seconds).
+  - Increased duration of Adrenaline Rush by 5 seconds for party members.
+### Reaper
+  - Shadow Lash now applies 250% magical damage rather than physical.
+  - Increased iframe duration of Shadow Step by 0.1 seconds.
+  - Dark Harvest now chains into Pendulum Strike.
+### Slayer
+  - Increased damage against monsters of Overhand Strike by 10%, and crit rate by 10%.
+  - Increased damage against monsters of Measured Slice by 5%.
+  - Increased damage against monsters of Punishing Blow by 5%.
+  - Increased damage against monsters of Whirlwind by 5%.
+  - Increased damage against monsters of Eviscerate by 5%.
+  - Overhand Strike talyph tooltip updated to reflect the true value (5%).
+
+<hr/>
+
+## Dungeon changes
+### Bahaar’s Sanctum:
+  - Phase 1 timer no longer counts towards leaderboard.
+### Manaya’s Core (Hard):
+  - Reduced HP of Nightmare Hrathgol by 10%.
+  - Reduced damage of stand AOE to 220k (from 250k).
+### Sky Cruiser (Hard):
+  - Reduced HP of Darkan’s Shade by 13.3%.
+### Bathysmal Rise (Hard):
+  - Reduced Nightmare Fulminar’s shield to 450m.
+### Akeron’s Inferno (Hard):
+  - Reduced Pyrovore HP by 75%.
+- Increased Neophyte Resuscitation count to 999 for all dungeons between 455 and 470 item level.
+
+<hr/>
+
+## Upcoming Events
+
+Like mentioned in the last week’s patch notes, there will be more events to coming up including a late **Festival of the Sun** event with exclusive rewards that are not obtainable from anywhere else currently in the game. This will be coming up as soon as we have prepared everything. Stay tuned for more information!

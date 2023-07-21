@@ -1,0 +1,48 @@
+---
+title: "Menma’s TERA 1.0.3"
+description: "Patch Notes – Menma’s TERA 1.0.3"
+date: 2021-09-08T09:19:42+01:00
+lastmod: 2021-09-08T09:19:42+01:00
+draft: false
+weight: 50
+categories: ["Patch Notes"]
+tags: [""]
+contributors: ["Menma"]
+pinned: false
+homepage: false
+toc: true
+---
+
+## General
+- Kaia’s Anvil quest required for unlocking the Kaia upgrade NPC is now automatically starting at level 70 (minimum item level required 461). You no longer have to do the exodor quest line to get it.
+- The item Bellicarium Credits (5m) no longer expires after 1 hour of acquiring.
+- Increased amount of maximum Adventure Coins to 2000 for non-TERA Club members and to 6000 for TERA Club members.
+- The UI now properly displays Adventure Coins recharge rate of 20 for TERA Club members.
+- Added a new item named “Menma’s Talent Box” in the Elleon’s Mark of Valor (150 tokens). Opening the box gives you:
+  - 100 Golden Talents
+  - 50 Silver Talents
+
+<hr/>
+
+### Guardian Legion
+- Increased channels of Guardian Legion areas from 1 to 5.
+- Guardian Legion Credit Merchant has been updated to include the following items:
+  - Golden Talent – (100 credits)
+  - Golden Daric – (600 credits)
+  - Silver Talent – (50 credits)
+  - Silver Daric – (300 credits)
+  - Improved Dark Shard Weapon Feedstock – (10,000 credits)
+  - Improved Dark Shard Armor Feedstock – (5,000 credits)
+  - Federation Bill (Tikat) – (120 credits)
+
+<hr/>
+
+## Battlegrounds and PvP
+- Champion’s Skyring and Colosseum have non equalized gear now.
+- Champion’s Skyring Vanguard reward now gives Veteran’s Fragment Box instead of Veteran’s Talent Box.
+- The PvP innerwear RNG stats have been significantly reduced by about 90% to the few best only. It is much easier to achieve best stats now.
+
+## Relics & Halidoms
+- The upgrade cost of Relics and Halidoms has been reduced by 50%.
+- The Halidoms’ upgrade success chances have been increased to match the Relics’ success chances.
+- Success Chances are now visible in the upgrade UI window.
