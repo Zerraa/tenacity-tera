@@ -59,8 +59,8 @@ googleAnalytics = "G-JCGLY16DT0"
   url = '/en/menma-guide'
   weight = 7
 [[Languages.en.menu.main]]
-  name = 'Menma’s Discord'
-  url = 'https://discord.gg/menmastera'
+  name = 'MT Discord'
+  url = 'https://discord.gg/mtdream'
   weight = 8
 
 
@@ -111,8 +111,8 @@ googleAnalytics = "G-JCGLY16DT0"
   url = '/ru/menma-guide/'
   weight = 7
 [[Languages.ru.menu.main]]
-  name = 'Menma’s Дискорд'
-  url = 'https://discord.gg/menmastera'
+  name = 'MT Дискорд'
+  url = 'https://discord.gg/mtdream'
   weight = 8  
 
 
