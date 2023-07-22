@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>던전 on Tenacity</title>
+    <link>https://tenacity-tera.eu/ko/dungeons/</link>
+    <description>Recent content in 던전 on Tenacity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://tenacity-tera.eu/ko/dungeons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>함락된 벨릭의 신전</title>
+      <link>https://tenacity-tera.eu/ko/dungeons/velik-sanctuary-hard/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/ko/dungeons/velik-sanctuary-hard/</guid>
+      <description>| 빠른 링크: | 첫째 보스 | 세컨드 보스 | 마지막 보스
+첫째 보스: 부활한 다르칸멘트없이 사용하는 일반적인 패턴입니다.
+오른손, 왼손, 뒤돌기, 검기
+팁: 지정된 대상자는 보라색 타겟으로 확인 가능 랜덤한 플레이어를 향해 공격
+부활을 시전하는 플레이어를 향해 공격
+왼손, 오른손, 왼손, 랜덤(왼&amp;amp;오), 밀치기
+팁: 다르칸의 체력 100~50%까지 사용 왼손, 오른손, 왼손, 랜덤(왼&amp;amp;오), 밀치기, 밀치기
+팁: 다르칸의 체력 50%이하부터 사용 왼손검기, 오른손검기, 뒤돌기, 뒤돌기, 돌진
+팁: 돌진 공격전에 자리잡는 모습 멘트 사용후 나오는 중요 패턴입니다.</description>
+    </item>
+    
+  </channel>
+</rss>

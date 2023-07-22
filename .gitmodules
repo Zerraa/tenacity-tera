@@ -1,3 +1,3 @@
-[submodule "themes/doks"]
-	path = themes/doks
-	url = https://github.com/Zerraa/doks
+[submodule "themes/digital-garden"]
+	path = themes/digital-garden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git

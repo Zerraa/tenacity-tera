@@ -1,6 +1,4 @@
-node_modules
-public
-resources
-.netlify
+
 .hugo_build.lock
-node_modules
+docs/favicon.ico
+.idea

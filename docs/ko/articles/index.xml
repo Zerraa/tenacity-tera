@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>기사 on Tenacity</title>
+    <link>https://tenacity-tera.eu/ko/articles/</link>
+    <description>Recent content in 기사 on Tenacity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tenacity-tera.eu/ko/articles/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
