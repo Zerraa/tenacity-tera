@@ -4,7 +4,7 @@ timeZone = "Europe/Prague"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 title = "Tenacity"
-theme = "digital-garden"
+theme = "digitalgarden"
 publishDir = "docs"
 
 googleAnalytics = "G-JCGLY16DT0"
