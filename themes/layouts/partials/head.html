@@ -22,7 +22,7 @@
   
   {{ hugo.Generator }}
 
-  <link rel="stylesheet" href="https://tenacity-tera.eu/css/main.css" />
+  <link rel="stylesheet" href="{{ "/css/main.css" | absURL}}" />
 
   <!-- Katex support -->
   {{ if .Params.math }}
