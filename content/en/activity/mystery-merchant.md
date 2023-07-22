@@ -15,7 +15,7 @@ There are two different types of merchants: City Merchant and Wandering Merchant
 
 <center>
 
-| [Menma’s TERA Mystery Merchant](../menma-guide/mystery-merchant-menma.md) | 
+| [MT The Dream Mystery Merchant](../menma-guide/mystery-merchant-menma.md) | 
 
 </center>
 

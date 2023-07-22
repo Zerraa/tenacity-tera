@@ -43,7 +43,7 @@ Guardian missions are divided into Basic/Rare/Superior types.
 
 If you accumulate 100,000 points, you will receive one reward box.
 * Rewards can be received 40 times per account, reset at 7 a.m
-  * **NOTE:** This might differ depending on server. **Menma's TERA** is allowing you to complete it up to 100 times as of writing.
+  * **NOTE:** This might differ depending on server. **MT The Dream** is allowing you to complete it up to 100 times as of writing.
 
 ![](https://i.imgur.com/G5d4pQQ.png)
 

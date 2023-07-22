@@ -19,7 +19,7 @@ images:
 ![](https://i.imgur.com/oHUeDfw.png)
 <h3>First Boss: Hrathgol</h3>
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - He gained 20% attack speed buff. 
      - Timer reduced to 3:30 minutes.
@@ -79,7 +79,7 @@ Melkatran is probably the easiest boss in the dungeon. <br>
 Before you go in to attack this boss, **make sure your jump and chained skill keys are different**. If not, rebind one of them. <br>
 You need to make sure that you can press your jump key at any time during this boss fight.
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - He has more HP now.
      - He is getting 13 stacks instead of 10 during the color mechanic
@@ -207,7 +207,7 @@ For **RANGED**, if the poison circle is targeted on you, reposition yourself so 
 
 Depending on how/what you do during cocoon phase, you generally won't have much time to prepare for anything.
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - Timer has been moved to 10 minutes.
      - She has 46 bilion HP now.

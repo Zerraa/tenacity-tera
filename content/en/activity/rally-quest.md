@@ -17,7 +17,7 @@ Rally Quest can be completed regardless of the amount of contribution as long as
 
 <center>
 
-| [Menma’s TERA Rally](../menma-guide/rally-quest-menma.md) | 
+| [MT The Dream Rally](../menma-guide/rally-quest-menma.md) | 
 
 </center>
 

@@ -1,6 +1,6 @@
 ---
-title: Menma’s Tera Guides
-description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
+title: MT The Dream Guides
+description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | MT The Dream ...
 ---
 
 ```toml
@@ -10,7 +10,7 @@ description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities 
   url = '/'
   weight = 1
 [[menu.main]]
-  name = 'Menma’s Tera Guide'
+  name = 'MT The Dream Guide'
   url = '/'
   weight = 2
 ```     

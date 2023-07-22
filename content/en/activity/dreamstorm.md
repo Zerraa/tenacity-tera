@@ -15,7 +15,7 @@ As with the previous version of the Nexus, these events take place at specific t
 
 <center>
 
-| [Menma’s TERA Dreamstorm](#menmas-tera) | 
+| [MT The Dream Dreamstorm](#menmas-tera) | 
 
 </center>
 
@@ -92,7 +92,7 @@ During the battle, the mini-map converts into a kind of overview, replacing the 
 <hr/>
 <center>
 
-## Menma's TERA
+## MT The Dream
 
 </center>
 

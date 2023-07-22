@@ -1,7 +1,7 @@
 ---
 title: 3.2 Gearing - PvP
 date: 2022-05-01
-description: How to gear up for PvP in Menma's TERA?
+description: How to gear up for PvP in MT The Dream?
 ---
 
 
@@ -10,7 +10,7 @@ description: How to gear up for PvP in Menma's TERA?
 ## General Guide
 
 Massive thanks to Prince.Pluto for creating this document! <br>
-You can find it [HERE - General Guide to Menma's TERA Server](https://docs.google.com/document/d/1ZP0x52mzhdUGG9j1yvCJUlvF40dZgXePdSdCYamuNWA/edit?usp=drivesdk)
+You can find it [HERE - General Guide to MT The Dream Server](https://docs.google.com/document/d/1ZP0x52mzhdUGG9j1yvCJUlvF40dZgXePdSdCYamuNWA/edit?usp=drivesdk)
 
 </center>
 

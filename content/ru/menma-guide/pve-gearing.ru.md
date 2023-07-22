@@ -1,7 +1,7 @@
 ---
 title: 4.2 Gearing - PvE
 date: 2022-05-01
-description: How to gear up for PvE in Menma's TERA?
+description: How to gear up for PvE in MT The Dream?
 ---
 ## Gear
 

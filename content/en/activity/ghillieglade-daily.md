@@ -13,7 +13,7 @@ Tera club/Premium account gives free unlimited teleport scroll in the perks bar.
 
 <center>
 
-| [Menma’s TERA Ghilieglade](#menmas-tera) | 
+| [MT The Dream Ghilieglade](#menmas-tera) | 
 
 </center>
 <hr/>
@@ -93,7 +93,7 @@ Fastest way to do two runs is to use scroll again inside dungeon, which teleport
 <hr/>
 <center>
 
-## Menma's TERA
+## MT The Dream
 
 </center>
 

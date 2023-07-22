@@ -51,11 +51,11 @@ googleAnalytics = "G-JCGLY16DT0"
   weight = 5
 
 [[Languages.en.menu.main]]
-  name = 'Menma’s Tera - Patch Notes'
+  name = 'MT The Dream - Patch Notes'
   url = '/en/patch-note'
   weight = 6   
 [[Languages.en.menu.main]]
-  name = 'Menma’s Tera'
+  name = 'MT The Dream'
   url = '/en/menma-guide'
   weight = 7
 [[Languages.en.menu.main]]
@@ -107,7 +107,7 @@ googleAnalytics = "G-JCGLY16DT0"
   url = '/ru/patch-note/'
   weight = 6   
 [[Languages.ru.menu.main]]
-  name = 'Menma’s Tera Гайд'
+  name = 'MT The Dream Гайд'
   url = '/ru/menma-guide/'
   weight = 7
 [[Languages.ru.menu.main]]

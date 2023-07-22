@@ -27,7 +27,7 @@ This does not follow players and is indicated by the purple secondary aggro circ
 
 The tank should attempt to position the boss far from the gate, as certain attacks may cause Putrion to charge through the gate and reset.
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - He is quicker.
      - Can still be knocked up / bullrushed.
@@ -59,7 +59,7 @@ The tank should attempt to position the boss far from the gate, as certain attac
 
 All players should attempt to stay in the middle of the room, to avoid the boss moving around too far for certain mechanics.
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
      - Crystals have 200k HP
      - Lasers have been buffed.
@@ -117,7 +117,7 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
 
 The tank should aim to fight the boss in the middle, so mechanics such as DoT circles can be placed on the sides.
 
-     Menma's TERA changes:
+     MT The Dream changes:
 
     - He is extremely fast.
     - 1 Swipe is still iframable.

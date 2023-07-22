@@ -1,6 +1,6 @@
 ---
-title: Список изменений обновления Menma's TERA
-description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
+title: Список изменений обновления MT The Dream
+description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | MT The Dream ...
 ---
 
 ```toml

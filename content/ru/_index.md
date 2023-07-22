@@ -1,6 +1,6 @@
 ---
 title: Домашняя страница
-description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | Menma's TERA ...
+description: TERA blog by Hostility | Dungeon Guides | Suggestions | Activities | Battlegrounds | Theorycrafting | MT The Dream ...
 ---
 ![](https://i.imgur.com/y1Ii9IP.png)
 <center> <h2> Hello! 👋 </h2> </center>
