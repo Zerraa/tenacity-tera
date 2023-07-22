@@ -2,3 +2,4 @@
 .hugo_build.lock
 docs/favicon.ico
 .idea
+node_modules
