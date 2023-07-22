@@ -149,4 +149,4 @@ He will spread 6 to 8 AoE pizza slices around him, which will apply **“Doomed 
 
 <center><h3>Sources</h3></center>
 
-* [Essential Mana](http://www.essentialmana.com/vernos-laboratory)
+* [Essential Mana](https://www.essentialmana.com/vernos-laboratory)

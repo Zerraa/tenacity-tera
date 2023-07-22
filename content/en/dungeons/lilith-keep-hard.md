@@ -292,4 +292,4 @@ The center of the room is also a none fighting area in HARD mode during wave
 <center><h3>Sources</h3></center>
 
 * [Gameforge GUIDE from 2016](https://en.tera.gameforge.com/news/page/lilith)
-* [Noctenium](http://wiki.noctenium.com/index.php/Lilith%27s_Keep)
+* [Noctenium](https://wiki.noctenium.com/index.php/Lilith%27s_Keep)

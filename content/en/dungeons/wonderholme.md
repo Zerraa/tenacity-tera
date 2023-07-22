@@ -435,4 +435,4 @@ Attempting a full run and forbidding the usage of shortcut teleportals needs to 
 
 <center><h3>Sources</h3></center>
 
-* [Essential Mana](http://www.essentialmana.com/wonderholme)
+* [Essential Mana](https://www.essentialmana.com/wonderholme)

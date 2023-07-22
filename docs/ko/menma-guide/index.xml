@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Menma’s Tera 안내 on Tenacity</title>
     <link>https://tenacity-tera.eu/ko/menma-guide/</link>
@@ -13,8 +13,10 @@
       <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://tenacity-tera.eu/ko/menma-guide/download/</guid>
-      <description>다운로드 링크:https://account.menmastera.com/register
-다운로드 링크:https://menmastera.com/download
+      <description>다운로드 링크:
+https://account.menmastera.com/register
+다운로드 링크:
+https://menmastera.com/download
 Torrent 파일은 Menma&amp;rsquo;s Discord: https://discord.gg/menmastera</description>
     </item>
     
@@ -104,7 +106,8 @@ PvE 기어에 PvP:
       <description>Gear 캐릭터를 만들 때 기본 파란색 Azart 기어를 사용할 수 있습니다.
 악세사리 크리스탈은 오리지널 버전과 같이 VG 크레딧에서 얻을 수 있습니다. 다크라이트 &amp;amp; 애니힐레이션 기어의 경우 레드레지온 &amp;amp; RK9과 같은 던전을 해야 기어박스가 나옵니다
 최고의 무기: 4배 랜덤 롤 (이중 CRD가 있을 뿐 아니라)
-힐러들을 제외하고, 그들의 최대 롤은 3배이다.Kaia / Mythic Gear를 얻는 방법 Kaia 기어라고도 하는 Mythic 기어는 골드 Exodor 기어를 업그레이드할 수 있습니다. 소스 기어의 랜덤 라인을 그대로 유지하고 변환 후에도 마법 비용과 비율은 동일합니다.</description>
+힐러들을 제외하고, 그들의 최대 롤은 3배이다.
+Kaia / Mythic Gear를 얻는 방법 Kaia 기어라고도 하는 Mythic 기어는 골드 Exodor 기어를 업그레이드할 수 있습니다. 소스 기어의 랜덤 라인을 그대로 유지하고 변환 후에도 마법 비용과 비율은 동일합니다.</description>
     </item>
     
   </channel>

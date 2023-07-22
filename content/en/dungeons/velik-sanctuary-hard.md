@@ -306,7 +306,7 @@ His shield glows pink and attacks by thrusting his shield forward. He will pause
  
 With a large sword swing motion, he will spin around with either Red or Purple swipe surrounding him. 
 * **Purple swipe** - He will place a Circle AoE (~8m); **stay away** from him.
-![](http://i.imgur.com/48DsRtA.gif)  
+![](https://i.imgur.com/48DsRtA.gif)  
 * **Orange swipe** - He will place Donut AoE (8m~20m?); **hug** him.
 ![](https://i.imgur.com/U9GNFgL.gif) 
  

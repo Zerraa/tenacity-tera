@@ -53,7 +53,7 @@ There are three types of crystals: **Barrier Crystal**, **Toxic Crystal**, and *
 
 <center><h3>Sources</h3></center>
 
-* [EssentialMana](http://www.essentialmana.com/gridiron)
+* [EssentialMana](https://www.essentialmana.com/gridiron)
 
 
 

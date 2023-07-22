@@ -212,4 +212,4 @@ And the boss will disappear to summon its clones from the corners of the room.
 
 <center><h3>Sources</h3></center>
 
-* [Essential Mana](http://www.essentialmana.com/bathysmal-rise)
+* [Essential Mana](https://www.essentialmana.com/bathysmal-rise)
