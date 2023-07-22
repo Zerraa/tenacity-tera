@@ -1,0 +1,65 @@
+---
+title: "Menma’s TERA 1.0.5"
+description: "Patch Notes – Menma’s TERA 1.0.5"
+date: 2022-05-01T09:19:42+01:00
+lastmod: 2022-05-01T09:19:42+01:00
+draft: false
+weight: 50
+categories: ["Patch Notes"]
+tags: [""]
+contributors: ["Menma"]
+pinned: false
+homepage: false
+toc: true
+---
+Some scheduled changes have been postponed for the next patch due to time limitations, and will be coming as soon as possible.
+<hr/>
+
+## Battleground
+- Fraywind Canyon no longer gives personal gear over item level 448.
+- All Battlegrounds should stay up 24/7 now with no shutdown time.
+- Removed faulty Civil Unrest NPC Teleport option (You would get doomzoned if you used it)
+- Changed CU Rewards to:
+  - 1st Place:
+    - 5M Bellicarium Credit token
+    - 5k Tikat Tokens
+  - 2nd Place:
+    - 5M Bellicarium Credit Token
+    - 3.5k Tikat Tokens
+  - 3rd Place:
+    - 5M Bellicarium Credit Token
+    - 2k Tikat Tokens
+  - 4th & 5th Place:
+    - 10x Bellicarium Credit Token (100,000)
+    - 1k Tikat Tokens   
+  - 6th - 10th Place:
+    - 5x Bellicarium Credit Token (100,000)
+    - 500 Tikat Tokens   
+- Battleground rewards/vanguards changed and updated to provide the following:
+  - 3v3's WIN Rewards
+    - 100 Vanguard Credits
+    - 150k Bellicarium Credits 
+  - Corsair's WIN Rewards;
+    - 250 Vanguard Credits
+    - 330k Bellicarium Credits    
+  - Fraywind WIN Rewards
+    - 450 Vanguard Credits
+    - 600k Bellicarium Credits   
+- Heroic Oath gear is no longer usable and currently equipped gear will be ineffective.         
+        
+<hr/>
+
+## Miscellaneous
+- Added pocket tab expansion to tikat shop.
+- Removed [Premium] Banyaka's Secret Key stuff from Tikat shop.
+- Elleon's Mark of Valor 2k max stack now (although may not show on client)
+- Fix Flying Skill: Dapper Llewellyn
+- Riveran innerwears now have the red PvP damage dealt decrease and damage taken increase stats.
+- Added font support for these characters:
+  - Japanese
+  - Chinese
+  - Hangul
+  - Thailand
+  - Greek
+  - Cyrilic
+  - Arabic
