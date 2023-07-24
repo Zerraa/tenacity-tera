@@ -131,32 +131,6 @@
     <loc>https://tenacity-tera.eu/en/patch-note/2022-05-15-p1.0.6/</loc>
     <lastmod>2022-05-14T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/download/</loc>
-    <lastmod>2022-05-05T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/download/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/download/"
-                />
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/menma-guide/</loc>
-    <lastmod>2022-05-05T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/menma-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/menma-guide/"
-                />
-  </url><url>
     <loc>https://tenacity-tera.eu/en/achievements/progression/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -418,6 +392,19 @@
   </url><url>
     <loc>https://tenacity-tera.eu/en/dungeons/manglemire/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/menma-guide/</loc>
+    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tenacity-tera.eu/ru/menma-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tenacity-tera.eu/en/menma-guide/"
+                />
   </url><url>
     <loc>https://tenacity-tera.eu/en/activity/mystery-merchant/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
