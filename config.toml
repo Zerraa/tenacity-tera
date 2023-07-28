@@ -55,11 +55,11 @@ googleAnalytics = "G-JCGLY16DT0"
   url = '/en/patch-note'
   weight = 6   
 [[Languages.en.menu.main]]
-  name = 'MT The Dream'
-  url = '/en/menma-guide'
+  name = 'MT: Guide'
+  url = 'https://docs.google.com/document/d/1Tn2Pml5r-BNqzlBC5ceq6igR-j0gdilNwEk_CVgc9vw/edit'
   weight = 7
 [[Languages.en.menu.main]]
-  name = 'MT Discord'
+  name = 'MT: Discord'
   url = 'https://discord.gg/mtdream'
   weight = 8
 
