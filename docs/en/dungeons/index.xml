@@ -6,18 +6,7 @@
     <description>Recent content in Dungeon List on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://tenacity-tera.eu/en/dungeons/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lumikan&#39;s Dream</title>
-      <link>https://tenacity-tera.eu/en/dungeons/lumikan-dream/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://tenacity-tera.eu/en/dungeons/lumikan-dream/</guid>
-      <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
-Boss: LumikanKey MechanicsSkulls - At 50% and then at 35% the boss will spit out 2 giant red skulls and begin charging up an attack.
-This mechanic has 80 second cd. You need to have 2 people, preferably the tank and healer , to walk over these skulls to receive a debuff: If the 2 people with this debuff gather, it will make everyone near them immune to all damage for 4 seconds (buff below)You need to time this with the boss attack actually going close together.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://tenacity-tera.eu/en/dungeons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abscess</title>
       <link>https://tenacity-tera.eu/en/dungeons/abscess/</link>
@@ -263,6 +252,17 @@ The fight starts off with one of two random moves, these are usually a double re
       <description>| Level Requirement: 70 | Party: 5-man | Quick links: | First boss | Second boss | Last boss
 First Boss: PyrepeltKey MechanicsHow annoying&amp;hellip; I will kill you all!! - Shortly after you see this message, Pyrepelt will leap into the air. Upon impact, the entire area except for a narrow strip will be covered in a raging fire.
 The flame will swallow you whole!!! - This message appears at certain intervals once Pyrepelt has lost sufficient health, and is followed by a series of multiple attacks.</description>
+    </item>
+    
+    <item>
+      <title>Lumikan&#39;s Dream</title>
+      <link>https://tenacity-tera.eu/en/dungeons/lumikan-dream/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/dungeons/lumikan-dream/</guid>
+      <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
+Boss: LumikanKey MechanicsSkulls - At 50% and then at 35% the boss will spit out 2 giant red skulls and begin charging up an attack.
+This mechanic has 80 second cd. You need to have 2 people, preferably the tank and healer , to walk over these skulls to receive a debuff: If the 2 people with this debuff gather, it will make everyone near them immune to all damage for 4 seconds (buff below)ImmunityYou need to time this with the boss attack actually going close together.</description>
     </item>
     
     <item>
