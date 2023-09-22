@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tenacity-tera.eu/en/dungeons/</loc>
+    <lastmod>2023-09-19T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tenacity-tera.eu/ru/dungeons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tenacity-tera.eu/en/dungeons/"
+                />
+  </url><url>
     <loc>https://tenacity-tera.eu/en/</loc>
-    <lastmod>2023-05-08T00:00:00+02:00</lastmod>
+    <lastmod>2023-09-19T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -14,6 +27,9 @@
                 hreflang="en"
                 href="https://tenacity-tera.eu/en/"
                 />
+  </url><url>
+    <loc>https://tenacity-tera.eu/en/dungeons/lumikan-dream/</loc>
+    <lastmod>2023-09-19T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://tenacity-tera.eu/en/patch-note/2023-05-08-p1.8.5/</loc>
     <lastmod>2023-05-08T00:00:00+02:00</lastmod>
@@ -322,19 +338,6 @@
   </url><url>
     <loc>https://tenacity-tera.eu/en/activity/dreamstorm/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://tenacity-tera.eu/en/dungeons/</loc>
-    <lastmod>2022-05-04T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://tenacity-tera.eu/ru/dungeons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tenacity-tera.eu/en/dungeons/"
-                />
   </url><url>
     <loc>https://tenacity-tera.eu/en/activity/field-bosses/</loc>
     <lastmod>2022-05-04T00:00:00+02:00</lastmod>

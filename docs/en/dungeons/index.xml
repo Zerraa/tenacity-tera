@@ -6,7 +6,18 @@
     <description>Recent content in Dungeon List on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://tenacity-tera.eu/en/dungeons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://tenacity-tera.eu/en/dungeons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lumikan&#39;s Dream</title>
+      <link>https://tenacity-tera.eu/en/dungeons/lumikan-dream/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/dungeons/lumikan-dream/</guid>
+      <description>| Level Requirement: 70 | Party: 5-man | Quick links: | Boss
+Boss: LumikanKey MechanicsSkulls - At 50% and then at 35% the boss will spit out 2 giant red skulls and begin charging up an attack.
+This mechanic has 80 second cd. You need to have 2 people, preferably the tank and healer , to walk over these skulls to receive a debuff: If the 2 people with this debuff gather, it will make everyone near them immune to all damage for 4 seconds (buff below)You need to time this with the boss attack actually going close together.</description>
+    </item>
+    
     <item>
       <title>Abscess</title>
       <link>https://tenacity-tera.eu/en/dungeons/abscess/</link>
