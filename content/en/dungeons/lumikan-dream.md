@@ -59,7 +59,7 @@ Standing on the red skulls as they spawn will nearly kill you, if not outright o
 **Bleed Debuff** - On Hard mode, this lasts for **30 seconds and ticks for 10%** of max hp every 2 seconds ish per stack. 
 * Getting 3 stacks will stun you for 5 seconds and more importantly, cause an explosion in a radius around your character, killing anyone near you.
 
-**Skeletons** - Starts at 90% of HP.
+**Skeletons** - **ONLY IN HARD MODE** Starts at 90% of HP.
 * These will slowly walk towards the boss and if they touch her, will cast an aoe dealing damage and knocking everyone down and more importantly, buffing the boss with a 25% damage increase for the rest of the fight that stacks.
 
 <center>
@@ -85,7 +85,7 @@ Either keep her in the middle until 70% or move her to a corner at the start, up
 
 </center>
 
-**Cage 70% Cage** - 2 minute 20 second cooldown from start of cast.<br>
+**Cage 70% Cage** - **ONLY IN HARD MODE** - 2 minute 20 second cooldown from start of cast.<br>
 At 70% the boss will cast a very crazy particle effect resulting in a cage, there are multiple small steps to this.
 * If you are far away from boss when this is cast, you will instantly die.
 
@@ -212,6 +212,8 @@ The variance on this can be:
 * AoE stun can be step 4 or 5.
 
 Because the spear combo is so long, ALL of the bosses other abilities will come off cooldown during it. She will use **EVERY** other ability in a row coming out of a spear combo.
+
+**ONLY IN HARD MODE**:
 
 **At the end of her combo like normal mode, she will spawn bloodlines but with a little extra this time.**
 * After step 6, every player should be hitting her in the back as she will turn around. 
