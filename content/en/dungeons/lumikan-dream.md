@@ -213,6 +213,18 @@ The variance on this can be:
 
 Because the spear combo is so long, ALL of the bosses other abilities will come off cooldown during it. She will use **EVERY** other ability in a row coming out of a spear combo.
 
+**At the end of her combo like normal mode, she will spawn bloodlines but with a little extra this time.**
+* After step 6, every player should be hitting her in the back as she will turn around. 
+
+![](https://i.imgur.com/8IPM62Z.png)
+
+**She will spawn arrows that result in a cross shaped bloodline** on every player:
+
+![](https://i.imgur.com/4K5yyvk.png)
+
+The tigher everyone stacks, the thinner the bloodline will be.<br>
+2 yellow arrows will **ALWAYS** orient the same direction every single time because the boss will **ALWAYS** turn her back to you for this part.
+
 </div>
 <hr/>
 
