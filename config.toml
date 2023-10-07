@@ -56,7 +56,7 @@ googleAnalytics = "G-JCGLY16DT0"
   weight = 6   
 [[Languages.en.menu.main]]
   name = 'MT: Guide'
-  url = 'https://docs.google.com/document/d/1Tn2Pml5r-BNqzlBC5ceq6igR-j0gdilNwEk_CVgc9vw/edit'
+  url = 'https://docs.google.com/document/d/192noLmzna1cJ6CXB9EfxXJwKUjjMllkHiCFswTENvAM/edit'
   weight = 7
 [[Languages.en.menu.main]]
   name = 'MT: Discord'
