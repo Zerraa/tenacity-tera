@@ -1,0 +1,2727 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="index, follow" />
+  <link rel="icon shortcut" href="/favicon.ico" sizes="32x32" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="/favicon-dark.svg" type="image/svg+xml" media="(prefers-color-scheme: dark)" />
+<link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16" />
+<link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
+<link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
+
+  <title>Menma’s TERA 1.6 – PvP returns – Tenacity</title>
+  <meta name="description" content="There is a lot going on with this patch, so we’ll split this design note into two sections with bullet points. Hopefully this’ll help highlight what we believe are the most important changes for our players to see. This is the first time since we have joined the team that we’ve been making such large notable changes for both PvE and PvP simultaneously.
+PvE We have received a lot of valuable feedback, with a common trend of feeling tired of our current lineup." />
+
+  
+
+<meta property="og:title" content="Menma’s TERA 1.6 – PvP returns" />
+<meta property="og:description" content="There is a lot going on with this patch, so we&rsquo;ll split this design note into two sections with bullet points. Hopefully this&rsquo;ll help highlight what we believe are the most important changes for our players to see. This is the first time since we have joined the team that we&rsquo;ve been making such large notable changes for both PvE and PvP simultaneously.
+PvE We have received a lot of valuable feedback, with a common trend of feeling tired of our current lineup." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://tenacity-tera.eu/blog/2023-02-06-p1.6/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2023-02-06T00:00:00+01:00" />
+<meta property="article:modified_time" content="2023-02-06T00:00:00+01:00" />
+
+  <meta itemprop="name" content="Menma’s TERA 1.6 – PvP returns">
+<meta itemprop="description" content="There is a lot going on with this patch, so we&rsquo;ll split this design note into two sections with bullet points. Hopefully this&rsquo;ll help highlight what we believe are the most important changes for our players to see. This is the first time since we have joined the team that we&rsquo;ve been making such large notable changes for both PvE and PvP simultaneously.
+PvE We have received a lot of valuable feedback, with a common trend of feeling tired of our current lineup."><meta itemprop="datePublished" content="2023-02-06T00:00:00+01:00" />
+<meta itemprop="dateModified" content="2023-02-06T00:00:00+01:00" />
+<meta itemprop="wordCount" content="4906">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Menma’s TERA 1.6 – PvP returns"/>
+<meta name="twitter:description" content="There is a lot going on with this patch, so we&rsquo;ll split this design note into two sections with bullet points. Hopefully this&rsquo;ll help highlight what we believe are the most important changes for our players to see. This is the first time since we have joined the team that we&rsquo;ve been making such large notable changes for both PvE and PvP simultaneously.
+PvE We have received a lot of valuable feedback, with a common trend of feeling tired of our current lineup."/>
+
+    <link rel="preload" href="/css/compiled/main.min.16b68a354e65cf45bc12a9b9a023854fe5d743c179103958df82062ebdb2af3a.css" as="style" integrity="sha256-FraKNU5lz0W8Eqm5oCOFT&#43;XXQ8F5EDlY34IGLr2yrzo=" />
+    <link href="/css/compiled/main.min.16b68a354e65cf45bc12a9b9a023854fe5d743c179103958df82062ebdb2af3a.css" rel="stylesheet" integrity="sha256-FraKNU5lz0W8Eqm5oCOFT&#43;XXQ8F5EDlY34IGLr2yrzo=" />
+
+
+
+  <link href="/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" rel="stylesheet" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU=" />
+
+
+
+  
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+    
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JCGLY16DT0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "G-JCGLY16DT0");
+  </script>
+
+
+
+
+  <script>
+     
+    if (localStorage.getItem("color-theme") === "dark" || (!("color-theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+      document.documentElement.classList.add("dark");
+      document.documentElement.style.colorScheme = "dark";
+    } else {
+      document.documentElement.classList.remove("dark");
+      document.documentElement.style.colorScheme = "light";
+    }
+  </script>
+
+  
+</head>
+<body dir="ltr"><div class="nav-container sticky top-0 z-20 w-full bg-transparent print:hidden">
+  <div class="nav-container-blur pointer-events-none absolute z-[-1] h-full w-full bg-white dark:bg-dark shadow-[0_2px_4px_rgba(0,0,0,.02),0_1px_0_rgba(0,0,0,.06)] contrast-more:shadow-[0_0_0_1px_#000] dark:shadow-[0_-1px_0_rgba(255,255,255,.1)_inset] contrast-more:dark:shadow-[0_0_0_1px_#fff]"></div>
+
+  <nav class="mx-auto flex items-center justify-end gap-2 h-16 px-6 max-w-[90rem]">
+    <a class="flex items-center hover:opacity-75 ltr:mr-auto rtl:ml-auto" href="/">
+        <img class="block dark:hidden" src="/images/logo.svg" alt="Tenacity" height="20" width="20" />
+        <img class="hidden dark:block" src="/images/logo-dark.svg" alt="Tenacity" height="20" width="20" />
+        <span class="mx-2 font-extrabold inline select-none" title="Tenacity">Tenacity</span>
+    </a><a
+            title="Homepage"
+            href="/"
+            
+            class="text-sm contrast-more:text-gray-700 contrast-more:dark:text-gray-100 relative -ml-2 hidden whitespace-nowrap p-2 md:inline-block text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
+          >
+            <span class="text-center">Homepage</span>
+          </a><a
+            title="Dungeon Guides"
+            href="/dungeon-guide/"
+            
+            class="text-sm contrast-more:text-gray-700 contrast-more:dark:text-gray-100 relative -ml-2 hidden whitespace-nowrap p-2 md:inline-block text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
+          >
+            <span class="text-center">Dungeon Guides</span>
+          </a><a
+            title="General Content"
+            href="/general/"
+            
+            class="text-sm contrast-more:text-gray-700 contrast-more:dark:text-gray-100 relative -ml-2 hidden whitespace-nowrap p-2 md:inline-block text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
+          >
+            <span class="text-center">General Content</span>
+          </a><a
+            title="Patch Notes"
+            href="/blog/"
+            
+            class="text-sm contrast-more:text-gray-700 contrast-more:dark:text-gray-100 relative -ml-2 hidden whitespace-nowrap p-2 md:inline-block font-medium"
+          >
+            <span class="text-center">Patch Notes</span>
+          </a><a
+            title="MT:The Dream Guide"
+            href="https://docs.google.com/document/d/192noLmzna1cJ6CXB9EfxXJwKUjjMllkHiCFswTENvAM/edit"
+            target="_blank" rel="noreferer"
+            class="text-sm contrast-more:text-gray-700 contrast-more:dark:text-gray-100 relative -ml-2 hidden whitespace-nowrap p-2 md:inline-block text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
+          >
+            <span class="text-center">MT:The Dream Guide</span>
+          </a><a
+            title="MT:The Dream Discord"
+            href="https://discord.gg/mtdream"
+            target="_blank" rel="noreferer"
+            class="text-sm contrast-more:text-gray-700 contrast-more:dark:text-gray-100 relative -ml-2 hidden whitespace-nowrap p-2 md:inline-block text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
+          >
+            <span class="text-center">MT:The Dream Discord</span>
+          </a><div class="search-wrapper relative md:w-64">
+  <div class="relative flex items-center text-gray-900 contrast-more:text-gray-800 dark:text-gray-300 contrast-more:dark:text-gray-300">
+    <input
+      placeholder="Search..."
+      class="search-input block w-full appearance-none rounded-lg px-3 py-2 transition-colors text-base leading-tight md:text-sm bg-black/[.05] dark:bg-gray-50/10 focus:bg-white dark:focus:bg-dark placeholder:text-gray-500 dark:placeholder:text-gray-400 contrast-more:border contrast-more:border-current"
+      type="search"
+      value=""
+      spellcheck="false"
+    />
+    <kbd
+      class="absolute my-1.5 select-none ltr:right-1.5 rtl:left-1.5 h-5 rounded bg-white px-1.5 font-mono text-[10px] font-medium text-gray-500 border dark:border-gray-100/20 dark:bg-dark/50 contrast-more:border-current contrast-more:text-current contrast-more:dark:border-current items-center gap-1 transition-opacity pointer-events-none hidden sm:flex"
+    >
+      CTRL K
+    </kbd>
+  </div>
+
+  <div>
+    <ul
+      class="search-results hextra-scrollbar hidden border border-gray-200 bg-white text-gray-100 dark:border-neutral-800 dark:bg-neutral-900 absolute top-full z-20 mt-2 overflow-auto overscroll-contain rounded-xl py-2.5 shadow-xl max-h-[min(calc(50vh-11rem-env(safe-area-inset-bottom)),400px)] md:max-h-[min(calc(100vh-5rem-env(safe-area-inset-bottom)),400px)] inset-x-0 ltr:md:left-auto rtl:md:right-auto contrast-more:border contrast-more:border-gray-900 contrast-more:dark:border-gray-50 w-screen min-h-[100px] max-w-[min(calc(100vw-2rem),calc(100%+20rem))]"
+      style="transition: max-height 0.2s ease 0s;"
+    ></ul>
+  </div>
+</div>
+<a class="p-2 text-current" target="_blank" rel="noreferer" href="https://github.com/Zerraa/tenacity-tera" title="GitHub"><svg height=24 fill="currentColor" viewBox="3 3 18 18">
+  <path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z"></path>
+</svg>
+<span class="sr-only">GitHub</span>
+          </a><button type="button" aria-label="Menu" class="hamburger-menu -mr-2 rounded p-2 active:bg-gray-400/20 md:hidden"><svg height=24 fill="none" viewBox="0 0 24 24" stroke="currentColor"><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8H20"></path></g><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16H20"></path></g></svg></button>
+  </nav>
+</div>
+
+  <div class='mx-auto flex max-w-screen-xl'>
+    <aside class="sidebar-container flex flex-col print:hidden md:top-16 md:shrink-0 md:w-64 md:self-start max-md:[transform:translate3d(0,-100%,0)] md:hidden xl:block">
+  
+  <div class="px-4 pt-4 md:hidden">
+    <div class="search-wrapper relative md:w-64">
+  <div class="relative flex items-center text-gray-900 contrast-more:text-gray-800 dark:text-gray-300 contrast-more:dark:text-gray-300">
+    <input
+      placeholder="Search..."
+      class="search-input block w-full appearance-none rounded-lg px-3 py-2 transition-colors text-base leading-tight md:text-sm bg-black/[.05] dark:bg-gray-50/10 focus:bg-white dark:focus:bg-dark placeholder:text-gray-500 dark:placeholder:text-gray-400 contrast-more:border contrast-more:border-current"
+      type="search"
+      value=""
+      spellcheck="false"
+    />
+    <kbd
+      class="absolute my-1.5 select-none ltr:right-1.5 rtl:left-1.5 h-5 rounded bg-white px-1.5 font-mono text-[10px] font-medium text-gray-500 border dark:border-gray-100/20 dark:bg-dark/50 contrast-more:border-current contrast-more:text-current contrast-more:dark:border-current items-center gap-1 transition-opacity pointer-events-none hidden sm:flex"
+    >
+      CTRL K
+    </kbd>
+  </div>
+
+  <div>
+    <ul
+      class="search-results hextra-scrollbar hidden border border-gray-200 bg-white text-gray-100 dark:border-neutral-800 dark:bg-neutral-900 absolute top-full z-20 mt-2 overflow-auto overscroll-contain rounded-xl py-2.5 shadow-xl max-h-[min(calc(50vh-11rem-env(safe-area-inset-bottom)),400px)] md:max-h-[min(calc(100vh-5rem-env(safe-area-inset-bottom)),400px)] inset-x-0 ltr:md:left-auto rtl:md:right-auto contrast-more:border contrast-more:border-gray-900 contrast-more:dark:border-gray-50 w-screen min-h-[100px] max-w-[min(calc(100vw-2rem),calc(100%+20rem))]"
+      style="transition: max-height 0.2s ease 0s;"
+    ></ul>
+  </div>
+</div>
+
+  </div>
+  <div class="hextra-scrollbar overflow-y-auto overflow-x-hidden p-4 grow md:h-[calc(100vh-var(--navbar-height)-var(--menu-height))]">
+    <ul class="flex flex-col gap-1 md:hidden">
+      
+      
+        <li class=""><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/"
+    
+  >Dungeon Guides
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a><div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 open"><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/"
+    
+  >MT:The Dream Dungeons
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/antaroth-abyss-hard/"
+    
+  >Antaroth Abyss (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/dark-reach-citadel-hard/"
+    
+  >Dark Reach Citadel (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/demon-wheel/"
+    
+  >Demon&#39;s Wheel
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/grotto-of-lost-souls-hard/"
+    
+  >Grotto of Lost Souls (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/kalivan-dreadnaught/"
+    
+  >Kalivan&#39;s Dreadnaught
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/lilith-keep-hard/"
+    
+  >Lilith&#39;s Keep (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/red-refuge-hard/"
+    
+  >Red Refuge (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/shadow-sanguinary-hard/"
+    
+  >Shadow Sanguinary (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/timescape-hard/"
+    
+  >Timescape (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/velik-hold-hard/"
+    
+  >Velik&#39;s Hold (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/mt/velik-sanctuary-hard/"
+    
+  >Velik&#39;s Sanctuary (Hard)
+    </a>
+              
+            </li></ul>
+      </div>
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/"
+    
+  >Dungeon List
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/abscess/"
+    
+  >Abscess
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/akalath-quarantine/"
+    
+  >Akalath Quarantine
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/akeron-inferno/"
+    
+  >Akeron&#39;s Inferno (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/argon-corpus-hard/"
+    
+  >Argon Corpus (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/bahaar-sanctum/"
+    
+  >Bahaar&#39;s Sanctum
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/bathysmal-rise-hard/"
+    
+  >Bathysmal Rise(Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/broken-prison/"
+    
+  >Broken Prison
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/channelworks/"
+    
+  >Channelworks
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/corrupted-skynest-hard/"
+    
+  >Corrupted Skynest (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/demokron-factory-hard/"
+    
+  >Demokron Factory (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/draakon-arena/"
+    
+  >Draakon Arena
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/forbidden-arena-brawler/"
+    
+  >Forbidden Arena (Brawler)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/forbidden-arena-hagufna/"
+    
+  >Forbidden Arena (Hagufna)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/forsaken-island-hard/"
+    
+  >Forsaken Island (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/gossamer-vault-hard/"
+    
+  >Gossamer&#39;s Vault (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/kelsaik-nest-hard/"
+    
+  >Kelsaik&#39;s Nest (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/manaya-core-hard/"
+    
+  >Manaya Core (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/manglemire/"
+    
+  >Manglemire
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/ravenous-gorge/"
+    
+  >Ravenous Gorge
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/rifts-edge-hard/"
+    
+  >Rift&#39;s Edge (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/r9-kennel-extreme/"
+    
+  >RK-9 Kennel (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/ruinous-manor-hard/"
+    
+  >Ruinous Manor (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/sea-of-honor/"
+    
+  >Sea of Honor
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/shattered-fleet/"
+    
+  >Shattered Fleet
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/sirjuka-gallery/"
+    
+  >Sirjuka Gallery
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/sky-cruiser-endeavor-hard/"
+    
+  >Sky Cruiser Endeavor (Hard)
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/temple-of-temerity/"
+    
+  >Temple of Temerity
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/thaumetal-refinery/"
+    
+  >Thaumetal Refinery
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/vault-of-kaprima/"
+    
+  >Vault of Kaprima
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/dungeon/wonderholme/"
+    
+  >Wonderholme
+    </a>
+              
+            </li></ul>
+      </div>
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/extreme/"
+    
+  >Extreme Modes
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/dungeon-guide/extreme/dreadspire-upper/"
+    
+  >Dreadspire (Uppers)
+    </a>
+              
+            </li></ul>
+      </div>
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/"
+    
+  >General Content
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a><div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 open"><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/"
+    
+  >General Content
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/companions/"
+    
+  >Companions
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/dreamstorm/"
+    
+  >Dreamstorm
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/field-bosses/"
+    
+  >Field Bosses
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/fishing/"
+    
+  >Fishing
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/gathering/"
+    
+  >Gathering Resources
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/ghillieglade/"
+    
+  >Ghillieglade
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/guardian-missions/"
+    
+  >Guardian Missions
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/mystery-merchant/"
+    
+  >Mystery Merchants
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/naslow-maps/"
+    
+  >Naslow Maps
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/general/reputation/"
+    
+  >Reputation
+    </a>
+              
+            </li></ul>
+      </div>
+            </li><li class="flex flex-col gap-1 open"><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/pvp/"
+    
+  >PvP Content
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/pvp/civil-unrest/"
+    
+  >Civil Unrest
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/pvp/rally-quest/"
+    
+  >Rally Quest
+    </a>
+              
+            </li></ul>
+      </div>
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/achievement/"
+    
+  >Achievements
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/achievement/progression/"
+    
+  >Progression
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/achievement/world-bosses-arun/"
+    
+  >World Bosses | Arun
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/achievement/world-bosses-shara/"
+    
+  >World Bosses | Shara
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/general/achievement/pvp/"
+    
+  >PvP &amp; BattleGrounds
+    </a>
+              
+            </li></ul>
+      </div>
+            </li></ul>
+      </div></li>
+        <li class="open"><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/"
+    
+  >MT: The Dream Patch Notes
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a><div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-09-25-p2.1.1/"
+    
+  >Menma’s TERA 2.1.1 - Hotfixes
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-09-18-p2.1/"
+    
+  >Menma’s TERA 2.1 - Shatter the Dream
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-08-21-p2.0.5/"
+    
+  >Menma’s TERA 2.0.5 - Bloody Dawn
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-08-15-p2.0.4/"
+    
+  >Menma’s TERA 2.0.4 - Hotfixes
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-08-10-p2.0.3/"
+    
+  >Menma’s TERA 2.0.3 - Hotfixes
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-08-01-p2.0.2/"
+    
+  >Menma’s TERA 2.0.1 - Hotfixes
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-07-25-p2.0.1/"
+    
+  >Menma’s TERA 2.0.1 - Hotfixes
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-07-14-p2.0/"
+    
+  >Menma’s TERA 2.0 - Blood Pact
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-05-08-p1.8.5/"
+    
+  >Menma’s TERA 1.8.5 - Final Preparations
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-04-20-p1.8.4/"
+    
+  >Menma’s TERA 1.8.4 - A Fine-Tuned Fight
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-04-07-p1.8.3/"
+    
+  >Menma’s TERA 1.8.3 - The Battle Rages!
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-04-01-p2.0-69/"
+    
+  >Patch Notes – Menma’s TERA 2.0.6 - R9 The Big One!
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-03-29-p1.8.2/"
+    
+  >Menma’s TERA 1.8.2 – Kaia&#39;s Conquest
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-03-25-p1.8.1/"
+    
+  >Menma’s TERA 1.8.1 – Hotfixes
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-03-23-p1.8/"
+    
+  >Menma’s TERA 1.8 – Kaia’s Call to Battles
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-03-02-p1.7.1/"
+    
+  >Menma’s TERA 1.7.1 – PvE Adjustments
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-02-24-p1.7/"
+    
+  >Menma’s TERA 1.7 - PvP Balancing
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-02-09-p1.6.2/"
+    
+  >Menma’s TERA 1.6.2 - Second Part of Hotfixes
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-02-08-p1.6.1/"
+    
+  >Patch Notes – Menma’s TERA 1.6.1 – Hotfixes
+    </a>
+              
+            </li><li class="flex flex-col gap-1 open"><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 contrast-more:border contrast-more:border-primary-500 dark:bg-primary-400/10 dark:text-primary-600 contrast-more:dark:border-primary-500"
+    href="/blog/2023-02-06-p1.6/"
+    
+  >Menma’s TERA 1.6 – PvP returns
+    </a>
+  
+    <ul class='flex flex-col gap-1 relative before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] dark:before:bg-neutral-800 ltr:pl-3 ltr:before:left-0 rtl:pr-3 rtl:before:right-0 ltr:ml-3 rtl:mr-3'><li>
+              <a
+                href="#"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              ></a>
+            </li>
+          <li>
+              <a
+                href="#dungeon-changes"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Dungeon Changes</a>
+            </li>
+          <li>
+              <a
+                href="#reputation"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Reputation</a>
+            </li>
+          <li>
+              <a
+                href="#new-relics-and-halidoms"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >New Relics and Halidoms</a>
+            </li>
+          <li>
+              <a
+                href="#solo-content-adjustments"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Solo Content Adjustments</a>
+            </li>
+          <li>
+              <a
+                href="#class-changes"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Class Changes</a>
+            </li>
+          <li>
+              <a
+                href="#new-player-progression"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >New Player Progression</a>
+            </li>
+          <li>
+              <a
+                href="#general-content"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >General Content</a>
+            </li>
+          <li>
+              <a
+                href="#pvp-content"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >PvP Content</a>
+            </li>
+          <li>
+              <a
+                href="#events"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Events</a>
+            </li>
+          <li>
+              <a
+                href="#miscellaneous"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Miscellaneous</a>
+            </li>
+          <li>
+              <a
+                href="#bug-fixes"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border flex gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Bug Fixes</a>
+            </li>
+          </ul>
+  
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/2023-01-17-p1.5/"
+    
+  >Menma’s TERA 1.5 – Boss Partners
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/"
+    
+  >MT: The Dream Patch Notes Archive
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="pt-1 ltr:pr-0 overflow-hidden transition-all ease-in-out duration-200">
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-12-28-p1.4.2/"
+    
+  >Menma’s TERA 1.4.2 – Holiday Adjustments
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-12-13-p1.4/"
+    
+  >Menma’s TERA 1.4 – Life Skilling, Class Revamps
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-12-18-p1.4.1/"
+    
+  >Menma’s TERA 1.4 – Life Skilling, Class Revamps
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-11-15-p1.3.1/"
+    
+  >Menma’s TERA 1.3.1 – Battle Pass
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-11-07-p1.3/"
+    
+  >Menma’s TERA 1.3 – Finishing Accessories
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-10-11-p1.2.1/"
+    
+  >Menma’s TERA 1.2.1 – Jewellery And More…
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-09-27-p1.2/"
+    
+  >Menma’s TERA 1.2 - New Dungeons &amp; Jewelry
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-08-30-p1.1.5/"
+    
+  >Menma’s TERA 1.1.5
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-08-20-p1.1.4/"
+    
+  >Menma’s TERA 1.1.4
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-08-09-p1.1.3/"
+    
+  >Menma’s TERA 1.1.3
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-08-01-p1.1.2/"
+    
+  >Menma’s TERA 1.1.2
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-07-12-p1.1.1/"
+    
+  >Menma’s TERA 1.1.1
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-07-08-p1.1/"
+    
+  >Menma’s TERA 1.1
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-06-10-p1.0.9/"
+    
+  >Menma’s TERA 1.0.9
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-06-02-p1.0.8/"
+    
+  >Menma’s TERA 1.0.8
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-05-22-p1.0.7/"
+    
+  >Menma’s TERA 1.0.7
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-05-15-p1.0.6/"
+    
+  >Menma’s TERA 1.0.6
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2022-05-01-p1.0.5/"
+    
+  >Menma’s TERA 1.0.5
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2021-09-13-p1.0.4/"
+    
+  >Menma’s TERA 1.0.4
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2021-09-08-p1.0.3/"
+    
+  >Menma’s TERA 1.0.3
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2021-08-30-p1.0.2/"
+    
+  >Menma’s TERA 1.0.2
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2021-08-29-p1.0.1/"
+    
+  >Menma’s TERA 1.0.1
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2021-08-28-p1.0/"
+    
+  >Menma’s TERA 1.0 | The Release
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2021-06-29-p0.2/"
+    
+  >Menma’s TERA 0.2
+    </a>
+              
+            </li><li class="flex flex-col gap-1 "><a
+    class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+    href="/blog/archive/2021-06-12-p0.1/"
+    
+  >Menma’s TERA 0.1 | The Open Beta
+    </a>
+              
+            </li></ul>
+      </div>
+            </li></ul>
+      </div></li>
+    </ul>
+
+    <div class="max-xl:hidden h-0 w-64 shrink-0"></div></div>
+  
+  
+  <div class="md:hidden  sticky bottom-0 bg-white dark:bg-dark mx-4 py-4 shadow-[0_-12px_16px_#fff] flex items-center gap-2 dark:border-neutral-800 dark:shadow-[0_-12px_16px_#111] contrast-more:border-neutral-400 contrast-more:shadow-none contrast-more:dark:shadow-none border-t" data-toggle-animation="show">
+      <div class="flex grow flex-col">
+        <button
+  title="Change theme"
+  data-theme="light"
+  class="theme-toggle group h-7 rounded-md px-2 text-left text-xs font-medium text-gray-600 transition-colors dark:text-gray-400 hover:bg-gray-100 hover:text-gray-900 dark:hover:bg-primary-100/5 dark:hover:text-gray-50"
+  type="button"
+  aria-label="Toggle Dark Mode"
+>
+  <div class="flex items-center gap-2 capitalize"><svg height=12 class="group-data-[theme=light]:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg><span class="group-data-[theme=light]:hidden">Light</span><svg height=12 class="group-data-[theme=dark]:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg><span class="group-data-[theme=dark]:hidden">Dark</span></div>
+</button>
+
+      </div>
+    </div>
+</aside>
+    
+<nav class="hextra-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
+    <div class="hextra-scrollbar sticky top-16 overflow-y-auto pr-4 pt-6 text-sm [hyphens:auto] max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] ltr:-mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#pve">PvE
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#pvp">PvP
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#dungeon-changes">Dungeon Changes
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#new-dungeons">New Dungeons
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#removed-dungeons">Removed Dungeons
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#antaroths-abyss-hard">Antaroth&rsquo;s Abyss (Hard)
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#sky-cruiser-hard">Sky Cruiser (Hard)
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#the-plexus-hard">The Plexus (Hard)
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#rampaging-rk-9">Rampaging RK-9
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#forbidden-arena-nightmare-undying-warlord">Forbidden Arena (Nightmare Undying Warlord)
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#demokron-factory-hard">Demokron Factory (Hard)
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#dragons-nest">Dragon&rsquo;s Nest 
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#kalivans-dreadnaught">Kalivan&rsquo;s Dreadnaught
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#kezzels-gorge">Kezzel&rsquo;s Gorge
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#liliths-keep">Lilith&rsquo;s Keep
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#leaderboards">Leaderboards
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#leaderboard-rewards">Leaderboard Rewards
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#reputation">Reputation
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#dungeon-reputation">Dungeon Reputation
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#new-relics-and-halidoms">New Relics and Halidoms
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#solo-content-adjustments">Solo Content Adjustments
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#akashas-trial-baracos-trial">Akasha&rsquo;s Trial, Baracos&rsquo; Trial
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#liliths-trial">Lilith&rsquo;s Trial
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#ace-medal-shop">Ace Medal Shop
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#ghillieglade">Ghillieglade
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#class-changes">Class Changes
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#lancer">Lancer
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#brawler">Brawler
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#warrior">Warrior
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#berserker">Berserker
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#gunner">Gunner
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#slayer">Slayer
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#sorcerer">Sorcerer
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#ninja">Ninja
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#reaper">Reaper
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#archer">Archer
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#valkyrie">Valkyrie
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#mystic">Mystic
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#priest">Priest
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#various-classes">Various Classes
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#new-player-progression">New Player Progression
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#player-guidance">Player Guidance
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#new-character-inventory">New Character Inventory
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#general-content">General Content
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#island-of-dawn">Island of Dawn
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#guardian-legion">Guardian Legion
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#achievements">Achievements
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#companions">Companions
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#pvp-content">PvP Content
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#new-battlegrounds">New Battlegrounds
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#removed-battlegrounds">Removed Battlegrounds
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#shore-hold-10v10">Shore Hold (10v10)
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#corsairs-stronghold-15v15">Corsair&rsquo;s Stronghold (15v15)
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#battleground-vanguard-changes">Battleground Vanguard Changes
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#battleground-equalized-gear">Battleground Equalized Gear
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#velika-outskirts">Velika Outskirts
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#civil-unrest-island-of-dawn">Civil Unrest: Island of Dawn
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#events">Events
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#pve-elin-event">PvE Elin Event
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#pvp-elin-event">PvP Elin Event
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#elleon-companion-box">Elleon Companion Box
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#valentines-event">Valentine&rsquo;s Event
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#miscellaneous">Miscellaneous
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#bug-fixes">Bug Fixes
+        </a>
+      </li></ul>
+      <div class="mt-8 border-t bg-white pt-8 shadow-[0_-12px_16px_white] dark:bg-dark dark:shadow-[0_-12px_16px_#111] sticky bottom-0 flex flex-col items-start gap-2 pb-8 dark:border-neutral-800 contrast-more:border-t contrast-more:border-neutral-400 contrast-more:shadow-none contrast-more:dark:border-neutral-400">
+        <button aria-hidden="true" id="backToTop" onClick="scrollUp();" class="transition-all transition duration-75 opacity-0 text-xs font-medium text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 contrast-more:text-gray-800 contrast-more:dark:text-gray-50">
+          <span>Scroll to top</span>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="inline ml-1 h-3.5 w-3.5 border rounded-full border-gray-500 hover:border-gray-900 dark:border-gray-400 dark:hover:border-gray-100 contrast-more:border-gray-800 contrast-more:dark:border-gray-50">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+
+    <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+        <div class="mt-1.5 flex items-center gap-1 overflow-hidden text-sm text-gray-500 dark:text-gray-400 contrast-more:text-current">
+      <div class="whitespace-nowrap transition-colors min-w-[24px] overflow-hidden text-ellipsis hover:text-gray-900 dark:hover:text-gray-100">
+        <a href="https://tenacity-tera.eu/blog/">MT: The Dream Patch Notes</a>
+      </div><svg class="w-3.5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg><div class="whitespace-nowrap transition-colors font-medium text-gray-700 contrast-more:font-bold contrast-more:text-current dark:text-gray-100 contrast-more:dark:text-current">Menma’s TERA 1.6 – PvP returns</div>
+</div>
+
+        <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Menma’s TERA 1.6 – PvP returns</h1>
+        
+          <div class="mt-4 mb-16 text-gray-500 text-sm">
+            February 6, 2023&nbsp;by&nbsp;<span>Menma</span></div>
+        
+        <div class="content">
+          <p>There is a lot going on with this patch, so we&rsquo;ll split this design note into two sections with bullet points. Hopefully this&rsquo;ll help highlight what we believe are the most important changes for our players to see. This is the first time since we have joined the team that we&rsquo;ve been making such large notable changes for both PvE and PvP simultaneously.</p>
+<h3>PvE<span class="absolute -mt-20" id="pve"></span>
+    <a href="#pve" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>We have received a lot of valuable feedback, with a common trend of feeling tired of our current lineup. We hear you, and we&rsquo;re preparing to release new stuff! We want to provide you with new content that has a reason to be played. It&rsquo;s easy to rotate dungeons out, but it&rsquo;s a lot harder to prevent the new content from getting boring and stale without a twist and/or incentive. We&rsquo;re currently working on customizing mechanics and creating more interesting things, and this patch includes some of these changes as a teaser to show off our capabilities.</p>
+</li>
+<li>
+<p>A major change that we&rsquo;re making in this patch is that Brawler DPS is now viable, and should deal similar damage to all other DPS classes. We&rsquo;ve also made many other class changes in this patch which lay the framework for us to fine tune classes easier in the future. For a short time, class balance will be up in the air; this is something we&rsquo;re aware of and okay with as long as it stays in a specific margin. This is also true with our new dungeon rotations, as we won&rsquo;t have data on them. The goal is to allow us to make changes faster without taking our entire focus on it to get right.</p>
+</li>
+<li>
+<p>As we promised, we&rsquo;ve begun the initial phase of improving new player progression. We&rsquo;re tackling some of the most urgent core issues we&rsquo;ve heard from you. We&rsquo;ve been getting a large influx of new players recently, and it&rsquo;s important to take care of them for the health of the server.</p>
+</li>
+<li>
+<p>Regarding our recent sneak peeks, we&rsquo;ve been seeing a lot of the community taking them as the absolute truth of our future content. We show off some things that may or may not enter the game. Even if we do plan to release something, a sneak peek may be something that&rsquo;ll come out a week from now, or a month from now. So please do not treat sneak peeks as something that&rsquo;ll happen soon or even at all! We adapt our roadmap according to what is most important at the moment, and what is possible for us.</p>
+</li>
+<li>
+<p>We have planned some interesting events, so please stay tuned for more information soon! Many of you are concerned with Manglemire, and we can safely say that it&rsquo;ll stay around for a bit longer. It&rsquo;ll be swapped out when we have another dungeon lined up to take its place, which you&rsquo;ll be made aware of well before it happens.</p>
+</li>
+</ul>
+<h3>PvP<span class="absolute -mt-20" id="pvp"></span>
+    <a href="#pvp" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>We have been listening very closely to your feedback, and we feel that we&rsquo;re much more capable to handle PvP now than we were in the past. Our main goal with this patch is to address the utmost concerns first and foremost. We will not be perfect, but we&rsquo;re looking to take steps in the right direction. We will be seeking frequent patches to continue addressing your concerns.</p>
+</li>
+<li>
+<p>We understand that class balance is not in a great state right now, especially when paired with healer Velocity. We are acutely aware of the situation and will continue to monitor it while we&rsquo;re tackling more urgent issues. Balancing will be our focus when we&rsquo;re happier with the overall content offering and viability of playing PvP to begin with.</p>
+</li>
+<li>
+<p>We understand that Fraywind Canyon is an extremely popular battleground, but the version we have has issues that we are currently unable to solve. Although our battleground changes are experimental, we want to sate your immediate desire to queue into a functional and somewhat fun battleground. We will look into Fraywind Canyon more in the future, when the dust has settled.</p>
+</li>
+<li>
+<p>We plan to release dedicated PvP content in the near future, after we address the urgent concerns to make PvP enjoyable. In the interim, we will monitor and gather feedback about the state of PvP. Welcome back to Menma&rsquo;s TERA, we will do our best to serve you.</p>
+</li>
+</ul>
+<p>Best Regards, Hail (Community Manager) &amp; Icha (Content Lead ─ PvE &amp; PvP)</p>
+<h2>Dungeon Changes<span class="absolute -mt-20" id="dungeon-changes"></span>
+    <a href="#dungeon-changes" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>New Dungeons<span class="absolute -mt-20" id="new-dungeons"></span>
+    <a href="#new-dungeons" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>The following dungeons are opening their doors:</p>
+<ul>
+<li>
+<p>Antaroth&rsquo;s Abyss (Hard) ─ Item Level 496</p>
+</li>
+<li>
+<p>Kalivan&rsquo;s Dreadnaught ─ Item Level 464</p>
+</li>
+<li>
+<p>Kezzel&rsquo;s Gorge ─ Item Level 455</p>
+</li>
+<li>
+<p>Channelworks (3-Man) ─ Item Level 455</p>
+</li>
+</ul>
+<h3>Removed Dungeons<span class="absolute -mt-20" id="removed-dungeons"></span>
+    <a href="#removed-dungeons" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>The following dungeons have closed their doors:</p>
+<ul>
+<li>Corrupted Skynest (Hard)</li>
+</ul>
+<h3>Antaroth&rsquo;s Abyss (Hard)<span class="absolute -mt-20" id="antaroths-abyss-hard"></span>
+    <a href="#antaroths-abyss-hard" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Bosses will not attack the player preemptively.</p>
+</li>
+<li>
+<p>Ghergof, Kalioth, and Antaroth have a chance to drop a pet box, which may contain the respective boss pet.</p>
+</li>
+<li>
+<p>May drop Brooch Etching: Pumped IV.</p>
+</li>
+</ul>
+<h3>Sky Cruiser (Hard)<span class="absolute -mt-20" id="sky-cruiser-hard"></span>
+    <a href="#sky-cruiser-hard" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Reworked Boss AI with new skills and attack patterns. Go find out ;)</p>
+</li>
+<li>
+<p>Increased Darkan&rsquo;s HP to 52.8B.</p>
+</li>
+<li>
+<p>The bomb mechanic now shows the accurate area of effect.</p>
+</li>
+<li>
+<p>Additionally, super-iframes no longer evade the attack.</p>
+</li>
+</ul>
+<h3>The Plexus (Hard)<span class="absolute -mt-20" id="the-plexus-hard"></span>
+    <a href="#the-plexus-hard" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>The wipe mechanic (&ldquo;Insufficient!&rdquo;) can no longer be avoided with any skill.</p>
+</li>
+<li>
+<p>The donut attack has had its hitbox improved to match the visual more accurately.</p>
+</li>
+<li>
+<p>Additionally, it has been moved back slightly to give more room for melee DPS and for tanks to be out of the inner AOE&rsquo;s range with a single move.</p>
+</li>
+<li>
+<p>Improved the hitbox and visual effects of puddles.</p>
+</li>
+<li>
+<p>Improved the hitbox of the laser attack.</p>
+</li>
+<li>
+<p>Increased Manaya&rsquo;s HP to 71B.</p>
+</li>
+</ul>
+<h3>Rampaging RK-9<span class="absolute -mt-20" id="rampaging-rk-9"></span>
+    <a href="#rampaging-rk-9" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Increased RK-9&rsquo;s HP to 45B.</li>
+</ul>
+<h3>Forbidden Arena (Nightmare Undying Warlord)<span class="absolute -mt-20" id="forbidden-arena-nightmare-undying-warlord"></span>
+    <a href="#forbidden-arena-nightmare-undying-warlord" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Lines no longer have a delay when targeting the healer and appearing.</p>
+</li>
+<li>
+<p>Increased Undying Warlord&rsquo;s HP to 56.6B.</p>
+</li>
+</ul>
+<h3>Demokron Factory (Hard)<span class="absolute -mt-20" id="demokron-factory-hard"></span>
+    <a href="#demokron-factory-hard" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Prima &amp; Vera have a chance to drop a pet box, which may contain the respective boss pet.</li>
+</ul>
+<h3>Dragon&rsquo;s Nest <span class="absolute -mt-20" id="dragons-nest"></span>
+    <a href="#dragons-nest" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Increased pet box drop rate.</li>
+</ul>
+<h3>Kalivan&rsquo;s Dreadnaught<span class="absolute -mt-20" id="kalivans-dreadnaught"></span>
+    <a href="#kalivans-dreadnaught" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Bosses will not attack the player preemptively.</p>
+</li>
+<li>
+<p>Pepero and Kalivan have a chance to drop a pet box, which may contain the respective boss pet.</p>
+</li>
+</ul>
+<h3>Kezzel&rsquo;s Gorge<span class="absolute -mt-20" id="kezzels-gorge"></span>
+    <a href="#kezzels-gorge" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Kezzel has a chance to drop a pet box, which may contain the respective boss pet.</li>
+</ul>
+<h3>Lilith&rsquo;s Keep<span class="absolute -mt-20" id="liliths-keep"></span>
+    <a href="#liliths-keep" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Now guaranteed to drop Energetic Transcendent Mask.</li>
+</ul>
+<h3>Leaderboards<span class="absolute -mt-20" id="leaderboards"></span>
+    <a href="#leaderboards" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>The following changes have been made to the leaderboard roster:</p>
+<ul>
+<li>
+<p>Antaroth&rsquo;s Abyss (Hard) has been added.</p>
+</li>
+<li>
+<p>Draakon Arena (Hard) has been removed.</p>
+</li>
+</ul>
+<h3>Leaderboard Rewards<span class="absolute -mt-20" id="leaderboard-rewards"></span>
+    <a href="#leaderboard-rewards" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: We will continue to review our rewards for leaderboards, especially as we continue to release new content, cosmetics, and more. If you have any ideas about ways to improve the leaderboard system or its rewards, please submit feedback on our Discord.</p>
+<ul>
+<li>
+<p>All leaderboard rewards have been updated:</p>
+</li>
+<li>
+<p>Rank 1: 15x Pet Boxes + Title</p>
+</li>
+<li>
+<p>Rank 2~3: 10x Pet Boxes + Title</p>
+</li>
+<li>
+<p>Rank 4~10: 8x Pet Boxes</p>
+</li>
+<li>
+<p>Rank 11~20: 5x Pet Boxes</p>
+</li>
+<li>
+<p>Rank 21~50: 2x Pet Boxes</p>
+</li>
+<li>
+<p>All pet boxes are based on their respective dungeon.</p>
+</li>
+<li>
+<p>Forbidden Arena [Nightmare Undying Warlord] rewards players with exclusive Nightmare Undying Warlord pet boxes based on their ranking position.</p>
+</li>
+<li>
+<p>The Nightmare Undying Warlord companion has unique animations.</p>
+</li>
+</ul>
+<h2>Reputation<span class="absolute -mt-20" id="reputation"></span>
+    <a href="#reputation" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Design Note:  We&rsquo;ve seen the struggle of players who clear hundreds of a dungeon only to never get a boss pet. This change introduces a finite ending to an otherwise potentially endless RNG cycle.</p>
+<h3>Dungeon Reputation<span class="absolute -mt-20" id="dungeon-reputation"></span>
+    <a href="#dungeon-reputation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Added a new reputation category called &ldquo;Reputation&rdquo; with the following dungeons:</p>
+</li>
+<li>
+<p>Antaroth&rsquo;s Abyss (Hard)</p>
+</li>
+<li>
+<p>Sky Cruiser (Hard)</p>
+</li>
+<li>
+<p>The Plexus (Hard)</p>
+</li>
+<li>
+<p>You gain reputation points for each clear of the respective dungeon.</p>
+</li>
+<li>
+<p>The reputation merchant can be found in Highwatch.</p>
+</li>
+<li>
+<p>You can spend dungeon reputation points to buy the respective boss pet.</p>
+</li>
+</ul>
+<h2>New Relics and Halidoms<span class="absolute -mt-20" id="new-relics-and-halidoms"></span>
+    <a href="#new-relics-and-halidoms" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
+<li>
+<p>Added Thulsa&rsquo;s and Akasha&rsquo;s Relic and Halidoms.</p>
+</li>
+<li>
+<p>Upgrades using non-PvP Blue/Gold Relic and Halidom V&rsquo;s.</p>
+</li>
+<li>
+<p>Requires five new upgrade materials to upgrade:</p>
+</li>
+<li>
+<p>From Antaroth&rsquo;s Abyss (Hard):</p>
+</li>
+<li>
+<p>Antaroth&rsquo;s Soul Fragment</p>
+</li>
+<li>
+<p>Ghergof&rsquo;s Shield Fragment</p>
+</li>
+<li>
+<p>Kalioth&rsquo;s Sword Fragment</p>
+</li>
+<li>
+<p>From Sky Cruiser (Hard):</p>
+</li>
+<li>
+<p>Darkan&rsquo;s Ember</p>
+</li>
+<li>
+<p>From The Plexus (Hard):</p>
+</li>
+<li>
+<p>Shandra&rsquo;s Curse</p>
+</li>
+<li>
+<p>You can use an Accessory Morpher to switch between the Akasha and Thulsa variants.</p>
+</li>
+</ul>
+<h2>Solo Content Adjustments<span class="absolute -mt-20" id="solo-content-adjustments"></span>
+    <a href="#solo-content-adjustments" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Akasha&rsquo;s Trial, Baracos&rsquo; Trial<span class="absolute -mt-20" id="akashas-trial-baracos-trial"></span>
+    <a href="#akashas-trial-baracos-trial" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Increased the HP of all bosses.</p>
+</li>
+<li>
+<p>Adjusted Attack and Defense of all bosses.</p>
+</li>
+<li>
+<p>Adjusted the related Vanguard Request</p>
+</li>
+</ul>
+<h3>Lilith&rsquo;s Trial<span class="absolute -mt-20" id="liliths-trial"></span>
+    <a href="#liliths-trial" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Increased Lilith&rsquo;s HP.</p>
+</li>
+<li>
+<p>Slightly increased Lilith&rsquo;s Attack.</p>
+</li>
+</ul>
+<h3>Ace Medal Shop<span class="absolute -mt-20" id="ace-medal-shop"></span>
+    <a href="#ace-medal-shop" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>No longer sells Glyphs.</p>
+</li>
+<li>
+<p>Now sells the following items:</p>
+</li>
+<li>
+<p>Ruby: 45 Ace Medals</p>
+</li>
+<li>
+<p>Sapphire: 80 Ace Medals</p>
+</li>
+<li>
+<p>Emerald: 350 Ace Medals</p>
+</li>
+<li>
+<p>Diamond: 2,000 Ace Medals</p>
+</li>
+<li>
+<p>Golden and Silver Plate: 50 Ace Medals</p>
+</li>
+<li>
+<p>Annealed and Honed Dark Shard Cohesion Arcane: 500 Ace Medals</p>
+</li>
+<li>
+<p>Dragonwing Scale: 75 Ace Medals</p>
+</li>
+</ul>
+<h3>Ghillieglade<span class="absolute -mt-20" id="ghillieglade"></span>
+    <a href="#ghillieglade" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Adjusted the loot from Banyaka&rsquo;s Treasure:</p>
+</li>
+<li>
+<p>Now contains Refined Mana Essence (25x).</p>
+</li>
+<li>
+<p>Removed Golden Daric and Silver Siglo.</p>
+</li>
+<li>
+<p>Increased Banyaka&rsquo;s HP by 10%.</p>
+</li>
+</ul>
+<h2>Class Changes<span class="absolute -mt-20" id="class-changes"></span>
+    <a href="#class-changes" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Design Note: Balancing in TERA has always relied on the tanks, especially considering how every damage dealer (so called &ldquo;DD&rdquo;) class synergizes differently with each tank. We have reworked the unique party buffs that each tank can provide with the goal of improving these synergies, and making DD classes less reliant on a single tank for peak performance. On one hand, we want to provide something fresh and unique for our players; and on the other, the unbalanced synergies between DDs and tanks caused problematic balancing concerns. Lancer and Warrior now provide both cooldown reduction and skill damage, with the amounts of each varying depending on the class affected. The buff values have been carefully decided and should increase damage across the board, providing players with extra cooldown reduction where necessary to utilize the higher amount of attack speed they&rsquo;ve gained. We will continue to monitor how classes perform with these changes, and tweak the changes in the future; so please upload some runs and see how the changes feel. Let us know what you think once you get used to them!</p>
+<p>Additionally, evasion skills have received a major overhaul in this patch. A common point of contention with high attack speed gameplay is that it reduces the amount of invincibility frames (so called &ldquo;iframes&rdquo;) from evasion skills. In our investigation, we&rsquo;ve found that some of these skills had extremely low and nearly unusable iframe windows. When pairing the low iframe windows with high ping, these skills are completely unreliable. We want to make sure that everyone can enjoy Menma&rsquo;s TERA, no matter where they&rsquo;re playing from, so all classes have had their evasion skills adjusted so that the iframe window matches the duration of the animation, sometimes longer. Many skills benefited from this by becoming much longer, with no evasion skill having an iframe window below 0.65 seconds.</p>
+<h3>Lancer<span class="absolute -mt-20" id="lancer"></span>
+    <a href="#lancer" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: The buffs provided by the reworked Adrenaline Rush effect is approximate, as it varies class-to-class based on their performance with CDR. Every class receives some skill damage% and final cooldown reduction%, but the amounts will slightly differ.</p>
+<ul>
+<li>
+<p>Adrenaline Rush</p>
+</li>
+<li>
+<p>Reworked the party effect (does not affect the caster&rsquo;s buff):</p>
+</li>
+<li>
+<p>Increases Attack Speed by 25%.</p>
+</li>
+<li>
+<p>Increases Skill Damage by ~11% when attacking monsters.</p>
+</li>
+<li>
+<p>Reduces final cooldown of Attacking Skills under 60s by ~15%.</p>
+</li>
+<li>
+<p>Guardian Shout</p>
+</li>
+<li>
+<p>Increases Endurance by 91%.</p>
+</li>
+<li>
+<p>Skill Damage increases by 3% while within 40m of the caster.</p>
+</li>
+</ul>
+<h3>Brawler<span class="absolute -mt-20" id="brawler"></span>
+    <a href="#brawler" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: Due to the reworks that Lancer and Defensive Stance Warrior have received, Brawlers also needed some love to remain an attractive and viable option. Brawler has always been the &ldquo;high damage but no attack speed&rdquo; tank, and we wanted to continue that trend by giving a very strong damage buff. Coupled with the Internal Wound endurance debuff, a Brawler&rsquo;s party members will land the highest damage per hit achievable in the game. Furthermore, we&rsquo;ve also been looking into Growing Fury&rsquo;s Irregular advancement, aka Brawler&rsquo;s &ldquo;DPS Stance&rdquo;, and have reworked it to be more enjoyable and in line with other DPS classes.</p>
+<ul>
+<li>
+<p>Rhythmic Blows</p>
+</li>
+<li>
+<p>&ldquo;Vibration&rdquo; buff now increases Power and Attack Speed by 30% but can no longer stack.</p>
+</li>
+<li>
+<p>First hit applies a new party buff: &ldquo;Furious Blows&rdquo;</p>
+</li>
+<li>
+<p>Increases Skill Damage by 10% for 20 seconds.</p>
+</li>
+<li>
+<p>Does not affect the caster.</p>
+</li>
+<li>
+<p>Haymaker&rsquo;s Resonance Advancement</p>
+</li>
+<li>
+<p>A successful hit of Haymaker increases all Skill Damage for you and party members by 3.7% for 8 seconds.</p>
+</li>
+<li>
+<p>Improved how the effect applies to avoid several bugs.</p>
+</li>
+<li>
+<p>Haymaker&rsquo;s Weak Spot Thrust Advancement</p>
+</li>
+<li>
+<p>Increases Haymaker damage dealt from behind by 20%.</p>
+</li>
+<li>
+<p>A successful hit of Haymaker reduces the cooldown of Flying Kick by 1.5 seconds.</p>
+</li>
+<li>
+<p>Haymaker&rsquo;s Resonance and Rhythmic Blows&rsquo; Furious Blows effects do not apply in PvP, and require the Brawler to be in Growing Fury. These effects do not apply if the Brawler is using Growing Fury&rsquo;s Irregular Advancement.</p>
+</li>
+<li>
+<p>Growing Fury&rsquo;s Irregular Advancement</p>
+</li>
+<li>
+<p>Increases all damage by 45%.</p>
+</li>
+<li>
+<p>Increases damage dealt from behind against monsters by an additional 40%.</p>
+</li>
+<li>
+<p>Increases damage of One-Inch Punch by 20% against monsters.</p>
+</li>
+<li>
+<p>Increases damage of Rhythmic Blows by 350% against monsters.</p>
+</li>
+</ul>
+<h3>Warrior<span class="absolute -mt-20" id="warrior"></span>
+    <a href="#warrior" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: Similar to the Adrenaline Rush rework, One With The Sword change affects classes differently based on their performance with attack speed. Every class, when paired with Warrior Tank, now receives some skill damage% and final cooldown reduction%, but the amounts slightly differ from class-to-class. In addition to this, Warrior has been given a few QoL improvements to address some of long-standing vanilla bugs with the class. Lastly, Defensive Stance&rsquo;s damage reduction has been changed to affect &ldquo;Skill Damage&rdquo; only, resulting in an identical damage output as the prior buff, though it consolidates all tank buffs to that of the same type.</p>
+<ul>
+<li>
+<p>Quality of Life Improvements</p>
+</li>
+<li>
+<p>Blade Waltz internal lockout now matches the lowest skill length of your next chained skill, resulting in much smoother chains.</p>
+</li>
+<li>
+<p>Using a consumable after Blade Waltz no longer interrupts the next chained skill.</p>
+</li>
+<li>
+<p>Defensive Stance</p>
+</li>
+<li>
+<p>Now reduces Skill Damage by 7% instead of All Damage by 10%.</p>
+</li>
+<li>
+<p>Combative Strike</p>
+</li>
+<li>
+<p>Endurance debuff duration increased to 19s.</p>
+</li>
+<li>
+<p>One With The Sword</p>
+</li>
+<li>
+<p>Increases Skill Damage by ~6.5%.</p>
+</li>
+<li>
+<p>Reduces final cooldown of Attacking Skills under 60s by ~7%.</p>
+</li>
+</ul>
+<h3>Berserker<span class="absolute -mt-20" id="berserker"></span>
+    <a href="#berserker" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Increased Axe&rsquo;s Attack Modifier to 60,121.</p>
+</li>
+<li>
+<p>Tackle damage now applies as Physical.</p>
+</li>
+<li>
+<p>Physical and Magical Factor has been adjusted accordingly.</p>
+</li>
+</ul>
+<h3>Gunner<span class="absolute -mt-20" id="gunner"></span>
+    <a href="#gunner" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Increased Arcannon&rsquo;s Attack Modifier to 52,740.</li>
+</ul>
+<h3>Slayer<span class="absolute -mt-20" id="slayer"></span>
+    <a href="#slayer" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: It has been proven that Slayer is capable of performing very strongly with both Brawler and Lancer. It would have performed even stronger than previously after the tank buff changes, so the Greatsword&rsquo;s Attack Modifier has been reduced.</p>
+<ul>
+<li>
+<p>When casting In Cold Blood, the cooldown of Overhand Strike is reset.</p>
+</li>
+<li>
+<p>Decreased Greatsword&rsquo;s Attack Modifier to 55,528.</p>
+</li>
+</ul>
+<h3>Sorcerer<span class="absolute -mt-20" id="sorcerer"></span>
+    <a href="#sorcerer" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note:  These changes should finally address a bug we introduced back in July. In the future, we hope to curb these issues sooner rather than later. Thank you for your patience!</p>
+<ul>
+<li>
+<p>Warp Barrier has received multiple changes:</p>
+</li>
+<li>
+<p>It will no longer cancel the Mana Boost effect while active.</p>
+</li>
+<li>
+<p>Skill Prediction should also now correctly emulate Meteor Shower while Mana Boost and Warp Barrier are active simultaneously.</p>
+</li>
+<li>
+<p>It no longer has a small invincibility frame delay, which previously caused deaths despite the skill being activated.</p>
+</li>
+</ul>
+<h3>Ninja<span class="absolute -mt-20" id="ninja"></span>
+    <a href="#ninja" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: Tightening the spreads of Harmonious Fire Avalanche and Harmonious Quick Attack to allow for full hits, on top of the changes to tank buffs has shown that Ninja performs above our expectations. As such, the Shuriken&rsquo;s Attack Modifier was reduced slightly.</p>
+<ul>
+<li>
+<p>The following skills have had their ranges tightened, allowing full hits on smaller targets:</p>
+</li>
+<li>
+<p>Harmonious Fire Avalanche</p>
+</li>
+<li>
+<p>Harmonious Quick Attack</p>
+</li>
+<li>
+<p>Decreased Shuriken&rsquo;s Attack Modifier to 51,379.</p>
+</li>
+</ul>
+<h3>Reaper<span class="absolute -mt-20" id="reaper"></span>
+    <a href="#reaper" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: These changes should allow players to sync Shrouded Escape and Shadow Reaping seamlessly, improving both the fluidity of Reaper&rsquo;s gameplay and improving the consistency of their damage output. Providing Assassination on cast is a solution to a rather annoying caveat to how Shrouded Escape works, preventing you from losing Shrouded Escape to DOT or other unintentional causes. Lastly, the Cable Step and Enhanced Shadow Burst changes help high ping players, particularly as Cable Step is often poorly emulated by skill prediction.</p>
+<ul>
+<li>
+<p>Shrouded Escape has received multiple changes:</p>
+</li>
+<li>
+<p>Base cooldown is now 70 seconds.</p>
+</li>
+<li>
+<p>Now provides Assassination on cast, and refreshes its duration when Shrouded Escape is broken again.</p>
+</li>
+<li>
+<p>Decreased the Cable Step attack speed abnormality to 30%.</p>
+</li>
+<li>
+<p>Enhanced Shadow Burst now applies the Cable Step attack speed abnormality.</p>
+</li>
+</ul>
+<h3>Archer<span class="absolute -mt-20" id="archer"></span>
+    <a href="#archer" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: The changes to Rain of Arrows is a reaction to a common complaint about missing the skill due to target size in PvE. In addition, the Crit Power gained from Focus X has been removed and replaced with an Attack Modifier adjustment, allowing Archers to gain more value from Crit Power acquired from other sources, ultimately reducing preference to run solely with Priest over Mystic.</p>
+<ul>
+<li>
+<p>Feign Death will now remove aggro from all PvE monsters under Level 65.</p>
+</li>
+<li>
+<p>Rain of Arrows Empowered Advancement</p>
+</li>
+<li>
+<p>Now increases Area of Effect by 40%.</p>
+</li>
+<li>
+<p>Reduces cast distance by 25%.</p>
+</li>
+<li>
+<p>Reduces PvP Damage by 30%.</p>
+</li>
+<li>
+<p>Visual displays the correct Rain of Arrows size.</p>
+</li>
+<li>
+<p>The Focus X buff no longer provides Crit Power.</p>
+</li>
+<li>
+<p>Greatly increased Bow Attack Modifier to 64,507.</p>
+</li>
+</ul>
+<h3>Valkyrie<span class="absolute -mt-20" id="valkyrie"></span>
+    <a href="#valkyrie" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: We&rsquo;re aware of the community&rsquo;s opinion on Valkyrie&rsquo;s strength. While this change may look like a buff, when paired with the aforementioned tank changes, Valkyrie should be performing roughly as expected.</p>
+<ul>
+<li>Increased Runeglaive Attack Modifier to 66,646.</li>
+</ul>
+<h3>Mystic<span class="absolute -mt-20" id="mystic"></span>
+    <a href="#mystic" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: A common point of contention with Mystic competition is with prestacking motes, and these changes will address that. The changes to Arunic Release is designed to make Mystic less dependent on boss attack patterns and RNG from other sources, which could ruin runs by the boss jumping out of prestacked motes. Lastly, these changes may affect PvP in unintended ways. We will monitor how these changes perform in PvP and adjust accordingly if necessary.</p>
+<ul>
+<li>
+<p>Arun&rsquo;s Tears and Arun&rsquo;s Vitae have received multiple changes:</p>
+</li>
+<li>
+<p>Cooldown has been increased to 7.5 seconds.</p>
+</li>
+<li>
+<p>Prestacked motes will disappear in leaderboard dungeons.</p>
+</li>
+<li>
+<p>Arunic Release has received multiple changes:</p>
+</li>
+<li>
+<p>Cooldown has been reduced to 7.5 seconds.</p>
+</li>
+<li>
+<p>Can only detonate 2 motes.</p>
+</li>
+<li>
+<p>Increased skill damage by 22%.</p>
+</li>
+<li>
+<p>Increased detonation range by 50%.</p>
+</li>
+<li>
+<p>The following skills have had their mana costs reduced:</p>
+</li>
+<li>
+<p>Arunic Release</p>
+</li>
+<li>
+<p>Boomerang Pulse</p>
+</li>
+<li>
+<p>Contagion</p>
+</li>
+<li>
+<p>Thrall of Wrath</p>
+</li>
+<li>
+<p>Thrall Augmentation&rsquo;s Elementalize is no longer a transformation, allowing you to access the Dressing Room without disabling Thrall Augmentation.</p>
+</li>
+</ul>
+<h3>Priest<span class="absolute -mt-20" id="priest"></span>
+    <a href="#priest" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note:  We recently released a sneak peek of Priest with Double Backstep, but we have chosen to not release it due to PvP&rsquo;s resurgence. We knew the change would be very uncertain for PvP, and we would like to sit down and properly discuss it with the PvP side first before releasing it.</p>
+<ul>
+<li>Shocking Implosion&rsquo;s size while affected by Edict of Judgment has been greatly increased.</li>
+</ul>
+<h3>Various Classes<span class="absolute -mt-20" id="various-classes"></span>
+    <a href="#various-classes" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: Certain evasion skills have proven themselves to be too hard to use with high attack speed, especially when coupled with high ping. These changes ensure that no evasion skill has a duration under 0.65 seconds, which will help with both playability and reliability. These changes are noticeable on every class, but are most noticeable on Archer, Berserker, Mystic, Ninja, Priest, Sorcerer, Valkyrie, and Warrior.</p>
+<ul>
+<li>
+<p>The following abilities now have a fixed 0.65 second invincibility frame window:</p>
+</li>
+<li>
+<p>Mystic&rsquo;s Teleport Jaunt</p>
+</li>
+<li>
+<p>Priest&rsquo;s Backstep</p>
+</li>
+<li>
+<p>Sorcerer&rsquo;s Backstep</p>
+</li>
+<li>
+<p>Sorcerer&rsquo;s Teleport Jaunt</p>
+</li>
+<li>
+<p>Every evasion skill in the game now has a matching invincibility frame duration window, matching the animation of the skill.</p>
+</li>
+<li>
+<p>Chaining evasion skills together no longer risks leaving openings in the invincibility frame window.</p>
+</li>
+</ul>
+<h2>New Player Progression<span class="absolute -mt-20" id="new-player-progression"></span>
+    <a href="#new-player-progression" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Design Note: Previously, the new player experience on Menma&rsquo;s was extremely rough. You were rushed into dungeons, or rather a single dungeon that you were ill-equipped to handle. Likewise, the amount of items and tokens to click through when making a new character needed to be simplified. Jumping straight to Level 70 with nearly no explanation and then being expected to handle an overtuned Lilith&rsquo;s Keep as your first dungeon experience was unfair for new TERA players. We hope these changes will help, but these are just the beginning. Thank you for your feedback regarding the new player experience, please let us know if you think of a way to further improve it.</p>
+<h3>Player Guidance<span class="absolute -mt-20" id="player-guidance"></span>
+    <a href="#player-guidance" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>There is an in-game help menu which you can view with the system button (cog wheel icon). We have updated this to explain many of the mechanics in the game, from basic gearing to endgame systems.</p>
+</li>
+<li>
+<p>When starting the game, the Item Level 455 experience has been expanded to include two new dungeons, and one new dungeon at Item Level 464. These should help ease players into higher-tiered content without feeling unfair.</p>
+</li>
+</ul>
+<h3>New Character Inventory<span class="absolute -mt-20" id="new-character-inventory"></span>
+    <a href="#new-character-inventory" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>All newly created characters will have the following inventory items:</p>
+</li>
+<li>
+<p>Amarun&rsquo;s Wisdom Box</p>
+</li>
+<li>
+<p>Divine Infusions and Valkyon Health Potions</p>
+</li>
+<li>
+<p>Rank 1 Relic and Halidom relevant for the class</p>
+</li>
+<li>
+<p>Federation Supply: Accessory Box, which contains the following:</p>
+</li>
+<li>
+<p>4x Powerful, Keen, and Swift Vyrsks</p>
+</li>
+<li>
+<p>Full set of Pumped Ethereal Jewelry</p>
+</li>
+<li>
+<p>10x Uncommon Accessory Morphers</p>
+</li>
+<li>
+<p>2x Energetic Weapon &amp; Glove Etching</p>
+</li>
+<li>
+<p>2x Grounded Armor &amp; Boot Etching</p>
+</li>
+</ul>
+<h2>General Content<span class="absolute -mt-20" id="general-content"></span>
+    <a href="#general-content" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Island of Dawn<span class="absolute -mt-20" id="island-of-dawn"></span>
+    <a href="#island-of-dawn" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Reduced Devoted Karascha&rsquo;s HP by 10%.</p>
+</li>
+<li>
+<p>The repeatable kill quest for Devoted Karaschas has been changed:</p>
+</li>
+<li>
+<p>You can now complete it 10 times before delivering it to Eduyar.</p>
+</li>
+<li>
+<p>Now gives you 1 Golden Cryolite.</p>
+</li>
+<li>
+<p>Now gives you 15 Dawn Tokens.</p>
+</li>
+<li>
+<p>No longer gives Superior Glove Box.</p>
+</li>
+<li>
+<p>Dawn Token Shop has had its prices adjusted.</p>
+</li>
+<li>
+<p>Vanguard Rewards have been updated:</p>
+</li>
+<li>
+<p>Low tier BAMs now give 3 Dawn Tokens.</p>
+</li>
+<li>
+<p>Mid tier BAMs now give 5 Dawn Tokens.</p>
+</li>
+<li>
+<p>High tier BAMs now give 10 Dawn Tokens.</p>
+</li>
+</ul>
+<h3>Guardian Legion<span class="absolute -mt-20" id="guardian-legion"></span>
+    <a href="#guardian-legion" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Contribution point gain has been increased by 500%.</p>
+</li>
+<li>
+<p>You now gain contribution for healing.</p>
+</li>
+<li>
+<p>Flying Guardian Missions no longer provide EP EXP.</p>
+</li>
+</ul>
+<h3>Achievements<span class="absolute -mt-20" id="achievements"></span>
+    <a href="#achievements" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Achievements related to the following dungeons are no longer Legacy achievements:</p>
+</li>
+<li>
+<p>Antaroth&rsquo;s Abyss (Hard)</p>
+</li>
+<li>
+<p>Channelworks</p>
+</li>
+<li>
+<p>Kalivan&rsquo;s Dreadnaught</p>
+</li>
+<li>
+<p>Achievements related to Corrupted Skynest (Hard) are now Legacy achievements.</p>
+</li>
+<li>
+<p>Some achievements from the Sundry and Dungeon sections are no longer hidden.</p>
+</li>
+<li>
+<p>Adjusted the following Corsair&rsquo;s Stronghold achievements:</p>
+</li>
+<li>
+<p>Stink like a Pirate now requires 25 games won.</p>
+</li>
+<li>
+<p>Walk like a Pirate now requires 75 games won.</p>
+</li>
+<li>
+<p>Stronghold Uncommonality now requires you to place first 5 times.</p>
+</li>
+<li>
+<p>Stronghold Rarity now requires you to place first 10 times.</p>
+</li>
+<li>
+<p>Stronghold Superior now requires you to place first 25 times.</p>
+</li>
+<li>
+<p>Stronghold Legend now requires you to place first 50 times.</p>
+</li>
+<li>
+<p>Added four new achievements related to Dungeon Reputation.</p>
+</li>
+<li>
+<p>The following achievements are unlocked when receiving Revered level:</p>
+</li>
+<li>
+<p>Lost In The Abyss (Antaroth&rsquo;s Abyss (Hard))</p>
+</li>
+<li>
+<p>One, Two, Three, Repeat&hellip; (The Plexus (Hard))</p>
+</li>
+<li>
+<p>Fire Is My Friend (Sky Cruiser (Hard))</p>
+</li>
+<li>
+<p>You will obtain the following achievement if you unlock all previous achievements:</p>
+</li>
+<li>
+<p>One More Run?</p>
+</li>
+<li>
+<p>The following achievement related to Castle Aranea now display correctly when using the &ldquo;Comparing Achievements&rdquo; option.</p>
+</li>
+<li>
+<p>Bread and Carcasses</p>
+</li>
+<li>
+<p>Down in the Underground</p>
+</li>
+<li>
+<p>Insider Knowledge</p>
+</li>
+<li>
+<p>It All Depends</p>
+</li>
+<li>
+<p>Just Let Yourself In</p>
+</li>
+<li>
+<p>Rough Handling</p>
+</li>
+<li>
+<p>To Serve Man</p>
+</li>
+</ul>
+<h3>Companions<span class="absolute -mt-20" id="companions"></span>
+    <a href="#companions" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>The following pets have had their animation edited:</p>
+</li>
+<li>
+<p>Darkan (from Sky Cruiser (Hard))</p>
+</li>
+<li>
+<p>Darkan&rsquo;s Bond Skill (from Sky Cruiser (Hard))</p>
+</li>
+<li>
+<p>Kelsaik (from Corrupted Skynest)</p>
+</li>
+<li>
+<p>Lachelith (from Ruinous Manor &amp; Ruinous Manor (Hard))</p>
+</li>
+<li>
+<p>Lachelith&rsquo;s Bond Skill (from Ruinous Manor &amp; Ruinous Manor (Hard))</p>
+</li>
+<li>
+<p>Odon (from Demokron Factory (Hard))</p>
+</li>
+<li>
+<p>Pyrepelt (from Lilith&rsquo;s Keep)</p>
+</li>
+<li>
+<p>Shandra Manaya (from The Plexus (Hard))</p>
+</li>
+</ul>
+<h2>PvP Content<span class="absolute -mt-20" id="pvp-content"></span>
+    <a href="#pvp-content" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Design Note: Our main aim with these changes is to take our first steps in the right direction as fast as possible, making battlegrounds playable and PvP overall more enjoyable. Shore Hold (10v10) is here to sate your immediate desire to queue a battleground, while we are looking into less-trivial issues to maximize your enjoyment. We will keep a close eye on PvP and will continually seek feedback from you.</p>
+<h3>New Battlegrounds<span class="absolute -mt-20" id="new-battlegrounds"></span>
+    <a href="#new-battlegrounds" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>You hear the call of war from the following battlegrounds:</p>
+<ul>
+<li>Shore Hold (10v10)</li>
+</ul>
+<h3>Removed Battlegrounds<span class="absolute -mt-20" id="removed-battlegrounds"></span>
+    <a href="#removed-battlegrounds" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>The following battlegrounds fall silent:</p>
+<ul>
+<li>Fraywind Canyon</li>
+</ul>
+<h3>Shore Hold (10v10)<span class="absolute -mt-20" id="shore-hold-10v10"></span>
+    <a href="#shore-hold-10v10" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Two healers are required for each team.</p>
+</li>
+<li>
+<p>Increased the target score to win to 7,500.</p>
+</li>
+<li>
+<p>BAMs have received multiple changes:</p>
+</li>
+<li>
+<p>The first BAM rewards the team with 500 points.</p>
+</li>
+<li>
+<p>The second BAM rewards the team with 800 points.</p>
+</li>
+<li>
+<p>The buff provided for killing a BAM now protects against 300% more damage.</p>
+</li>
+<li>
+<p>All BAMs have had their HP adjusted to match equalized gear damage.</p>
+</li>
+<li>
+<p>Zolyn has invaded Shore Hold, and spawns after 10 minutes!</p>
+</li>
+</ul>
+<h3>Corsair&rsquo;s Stronghold (15v15)<span class="absolute -mt-20" id="corsairs-stronghold-15v15"></span>
+    <a href="#corsairs-stronghold-15v15" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Has been adjusted to a 15v15, requiring three healers for each team.</p>
+</li>
+<li>
+<p>No longer has operating hours, and is available at all times.</p>
+</li>
+<li>
+<p>Slightly reduced the HP of the Outer Gates.</p>
+</li>
+<li>
+<p>Slightly increased the HP of the Anchorstone.</p>
+</li>
+</ul>
+<h3>Battleground Vanguard Changes<span class="absolute -mt-20" id="battleground-vanguard-changes"></span>
+    <a href="#battleground-vanguard-changes" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>All Battleground Win vanguards have received the following changes:</p>
+</li>
+<li>
+<p>Deprecated or otherwise unnecessary items have been removed.</p>
+</li>
+<li>
+<p>Gold has increased.</p>
+</li>
+<li>
+<p>You can now receive an Elleon Companion Box from the following Vanguards:</p>
+</li>
+<li>
+<p>Corsair&rsquo;s Stronghold (15v15)</p>
+</li>
+<li>
+<p>Shore Hold (10v10)</p>
+</li>
+</ul>
+<h3>Battleground Equalized Gear<span class="absolute -mt-20" id="battleground-equalized-gear"></span>
+    <a href="#battleground-equalized-gear" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: We&rsquo;ve received an overwhelming amount of feedback regarding Battlegrounds and equalized gear&rsquo;s performance in them. As such, we&rsquo;ve increased the damage of nearly every class to get them closer into line with how we want PvP to feel. We&rsquo;ve also applied some additional tuning for obviously problematic classes beforehand, but we will continue to monitor equalized gear&rsquo;s performance and balance classes further as we get more data.</p>
+<ul>
+<li>
+<p>The following classes have had their damage increased while wearing equalized gear:</p>
+</li>
+<li>
+<p>Archer </p>
+</li>
+<li>
+<p>Berserker </p>
+</li>
+<li>
+<p>Brawler </p>
+</li>
+<li>
+<p>Gunner </p>
+</li>
+<li>
+<p>Lancer </p>
+</li>
+<li>
+<p>Ninja </p>
+</li>
+<li>
+<p>Reaper</p>
+</li>
+<li>
+<p>Slayer </p>
+</li>
+<li>
+<p>Sorcerer</p>
+</li>
+<li>
+<p>Valkyrie </p>
+</li>
+<li>
+<p>Warrior </p>
+</li>
+</ul>
+<h3>Velika Outskirts<span class="absolute -mt-20" id="velika-outskirts"></span>
+    <a href="#velika-outskirts" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Design Note: We wanted to improve the feeling of Velika Outskirts PvP and continue the long-held trend of embracing it as the meeting point for OWPvP.</p>
+<ul>
+<li>
+<p>Residents of Velika have populated the Velika Outskirts Hall:</p>
+</li>
+<li>
+<p>Now has all relevant NPCs for PvPing: Banker, Bellicarium Shop, Cleric Dueling Merchant, Merchant, Specialty Store, and Trade Broker,</p>
+</li>
+<li>
+<p>When dying in Velika Outskirts, you will be able to respawn at the Velika Outskirts Hall. You can also use any Velika City Teleport to go to or from the Hall.</p>
+</li>
+<li>
+<p>Velika Outskirts Hall is a safezone, protecting from PK and GvG.</p>
+</li>
+<li>
+<p>The training dummies have been moved to Velika Outskirts Hall.</p>
+</li>
+<li>
+<p>Elleon has been added as a new NPC next to the Bellicarium Quartermaster Redukk in Highwatch. Elleon can take you to the Velika Outskirts Hall.</p>
+</li>
+</ul>
+<h3>Civil Unrest: Island of Dawn<span class="absolute -mt-20" id="civil-unrest-island-of-dawn"></span>
+    <a href="#civil-unrest-island-of-dawn" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>The safezone now works as intended.</p>
+</li>
+<li>
+<p>Unstuck will now take you to the proper spawn location, instead of North Dock.</p>
+</li>
+<li>
+<p>Relevant NPCs have been moved from the North Dock to the proper spawn location.</p>
+</li>
+<li>
+<p>Increased the duration of post-Civil Unrest to 5 minutes before you get teleported out.</p>
+</li>
+</ul>
+<h2>Events<span class="absolute -mt-20" id="events"></span>
+    <a href="#events" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>PvE Elin Event<span class="absolute -mt-20" id="pve-elin-event"></span>
+    <a href="#pve-elin-event" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>An elin event will be started and ran for two weeks with the following dungeons:</p>
+</li>
+<li>
+<p>Akalath Quarantine</p>
+</li>
+<li>
+<p>Draakon Arena (Hard)</p>
+</li>
+<li>
+<p>Forbidden Arena [Undying Warlord]</p>
+</li>
+<li>
+<p>The Plexus (Hard)</p>
+</li>
+<li>
+<p>Complete the aforementioned dungeons to gain rewards.</p>
+</li>
+<li>
+<p>Special Reward: Lunar New Year Undying Warlord Costume.</p>
+</li>
+</ul>
+<h3>PvP Elin Event<span class="absolute -mt-20" id="pvp-elin-event"></span>
+    <a href="#pvp-elin-event" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>An elin event will be ran for four weeks with the following battlegrounds:</p>
+</li>
+<li>
+<p>Shore Hold (10v10)</p>
+</li>
+<li>
+<p>Champion&rsquo;s Skyring (Solo) &amp; Champion&rsquo;s Skyring (Team)</p>
+</li>
+<li>
+<p>Corsair&rsquo;s Stronghold (15v15)</p>
+</li>
+<li>
+<p>Shore Hold (10v10)</p>
+</li>
+<li>
+<p>Every week, the battleground in the event will change following the aforementioned lineup.</p>
+</li>
+<li>
+<p>Participating in the PvP Elin Event will reward you with additional Elleon Companion Boxes!</p>
+</li>
+</ul>
+<h3>Elleon Companion Box<span class="absolute -mt-20" id="elleon-companion-box"></span>
+    <a href="#elleon-companion-box" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>You can obtain a new companion: Elleon, by participating in PvP Battlegrounds! Unlike most Companion boxes, the Elleon Companion Box has three unique jackpots:</p>
+</li>
+<li>
+<p>Partner: Elleon</p>
+</li>
+<li>
+<p>Unique Title: &ldquo;Bane of the Battlefield&rdquo;</p>
+</li>
+<li>
+<p>Tikat Chest</p>
+</li>
+<li>
+<p>Elleon Companion Box is only available for the duration of the Elin Event!</p>
+</li>
+</ul>
+<h3>Valentine&rsquo;s Event<span class="absolute -mt-20" id="valentines-event"></span>
+    <a href="#valentines-event" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>
+<p>Get ready to spread the love! Stay tuned for more information on our Discord server. If you aren&rsquo;t part of our Discord server, join us <a href="http://discord.gg/menmastera" target="_blank" rel="noopener">here</a>.</p>
+</li>
+<li>
+<p>Hagufna and Undying Warlord are dressed to hand out Valentines!</p>
+</li>
+</ul>
+<h2>Miscellaneous<span class="absolute -mt-20" id="miscellaneous"></span>
+    <a href="#miscellaneous" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
+<li>
+<p>The Russian client now has item translations.</p>
+</li>
+<li>
+<p>We have made significant work on the French and German clients. Expect to see them soon!</p>
+</li>
+<li>
+<p>All versions of Darkan&rsquo;s Wings no longer disappear when entering combat.</p>
+</li>
+<li>
+<p>Adjusted shiny loot effects on some loot.</p>
+</li>
+<li>
+<p>Adjusted the location of Reputation on the profile.</p>
+</li>
+<li>
+<p>Removed deprecated Reputation like Agnitor and Anti-Amber Operations.</p>
+</li>
+<li>
+<p>Moved Battleground Reputation under Jax Trust.</p>
+</li>
+<li>
+<p>Moved ???? and Exodor Justicar Reputations to their own Exodor section.</p>
+</li>
+<li>
+<p>Adjusted the Island of Dawn Reputation section.</p>
+</li>
+<li>
+<p>Valkyon Health Potions now activate instantly.</p>
+</li>
+<li>
+<p>Exodor Laundry Basket has been replaced with Darkcore Laundry Basket (2,500 Tikat) in the Tikat Shop, containing Darkcore Underwear (Phys/Mag. Factor) tradeable versions.</p>
+</li>
+</ul>
+<h2>Bug Fixes<span class="absolute -mt-20" id="bug-fixes"></span>
+    <a href="#bug-fixes" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
+<li>
+<p>Fixed multiple issues with boss partners:</p>
+</li>
+<li>
+<p>A maximum fellowship boss partner now correctly provides 40 Power.</p>
+</li>
+<li>
+<p>A maximum fellowship boss partner now correctly plays its Bond Skill animation.</p>
+</li>
+<li>
+<p>Might still cause issues with appearance changed boss partners.</p>
+</li>
+<li>
+<p>Boss partners can no longer body block players.</p>
+</li>
+<li>
+<p>Boss partners can no longer be targeted by a Healer&rsquo;s lockons.</p>
+</li>
+<li>
+<p>Pets that have their appearance changed into boss pets now play animations correctly.</p>
+</li>
+<li>
+<p>Fixed issues preventing the following achievements from being possible to complete for tanks:</p>
+</li>
+<li>
+<p>&ldquo;Too Slow of a Punch&rdquo;</p>
+</li>
+<li>
+<p>&ldquo;Move Your Feet!&rdquo;</p>
+</li>
+<li>
+<p>Darkan&rsquo;s debuff under 25% (&ldquo;Darkan&rsquo;s Fire&rdquo;) now correctly appears on the debuff bar.</p>
+</li>
+<li>
+<p>Berserker&rsquo;s Bloodlust Advancement &ldquo;Charisma&rdquo; now shows the correct cooldown.</p>
+</li>
+<li>
+<p>Lancer&rsquo;s Adrenaline Rush Advancement &ldquo;Change of Strategy&rdquo; now shows the correct cooldown.</p>
+</li>
+<li>
+<p>Removed Archer EP which has been disabled from the Enhancement Point menu.</p>
+</li>
+<li>
+<p>Fixed issue where certain costumes from Tikat Shop couldn&rsquo;t be dismantled.</p>
+</li>
+<li>
+<p>Removed deprecated loot from The Plexus (Hard).</p>
+</li>
+<li>
+<p>Fixed the issue where Guards in Velika randomly appeared as Dueling Merchants.</p>
+</li>
+<li>
+<p>Fixed the issue where 1 hour shape changers weren&rsquo;t being removed in combat.</p>
+</li>
+<li>
+<p>Fixed issue where Crimson Salmon from the Azart Fishery doesn&rsquo;t give Angler Tokens.</p>
+</li>
+<li>
+<p>Enchantment messages from Annihilation, Dark Light, and Kaia Gear are correctly hidden.</p>
+</li>
+<li>
+<p>Fixed an issue where the tooltip of the Shandra Manaya costume displayed twice.</p>
+</li>
+<li>
+<p>Fixed a typo in the name of the Manglemore Partner item.</p>
+</li>
+<li>
+<p>Prevented an exploit with &ldquo;One with the Sword&rdquo; buff.</p>
+</li>
+<li>
+<p>Removed the annoying portal from Highwatch.</p>
+</li>
+</ul>
+
+        </div>
+        <div class="mt-16"></div>
+        
+        <div class="mb-8 flex items-center border-t pt-8 dark:border-neutral-800 contrast-more:border-neutral-400 dark:contrast-more:border-neutral-400 print:hidden"><a
+        href="/blog/2023-01-17-p1.5/"
+        title="Menma’s TERA 1.5 – Boss Partners"
+        class="flex max-w-[50%] items-center gap-1 py-4 text-base font-medium text-gray-600 transition-colors [word-break:break-word] hover:text-primary-600 dark:text-gray-300 md:text-lg ltr:pr-4 rtl:pl-4"
+      ><svg class="inline h-5 shrink-0 ltr:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>Menma’s TERA 1.5 – Boss Partners</a><a
+        href="/blog/2023-02-08-p1.6.1/"
+        title="Patch Notes – Menma’s TERA 1.6.1 – Hotfixes"
+        class="flex max-w-[50%] items-center gap-1 py-4 text-base font-medium text-gray-600 transition-colors [word-break:break-word] hover:text-primary-600 dark:text-gray-300 md:text-lg ltr:ml-auto ltr:pl-4 ltr:text-right rtl:mr-auto rtl:pr-4 rtl:text-left"
+      >Patch Notes – Menma’s TERA 1.6.1 – Hotfixes<svg class="inline h-5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg></a></div>
+        
+      </main>
+    </article>
+  </div>
+
+      <footer class="hextra-footer bg-gray-100 pb-[env(safe-area-inset-bottom)] dark:bg-neutral-900 print:bg-transparent">
+    <div class='mx-auto flex gap-2 py-2 px-4 max-w-screen-xl'><button
+  title="Change theme"
+  data-theme="light"
+  class="theme-toggle group h-7 rounded-md px-2 text-left text-xs font-medium text-gray-600 transition-colors dark:text-gray-400 hover:bg-gray-100 hover:text-gray-900 dark:hover:bg-primary-100/5 dark:hover:text-gray-50"
+  type="button"
+  aria-label="Toggle Dark Mode"
+>
+  <div class="flex items-center gap-2 capitalize"><svg height=12 class="group-data-[theme=light]:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg><span class="group-data-[theme=light]:hidden">Light</span><svg height=12 class="group-data-[theme=dark]:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg><span class="group-data-[theme=dark]:hidden">Dark</span></div>
+</button>
+</div>
+  <hr class="dark:border-neutral-800" />
+  <div
+    class='max-w-screen-xl mx-auto flex justify-center py-12 pl-[max(env(safe-area-inset-left),1.5rem)] pr-[max(env(safe-area-inset-right),1.5rem)] text-gray-600 dark:text-gray-400 md:justify-start'
+  >
+    <div class="flex w-full flex-col items-center sm:items-start">
+    </div>
+  </div>
+</footer>
+    
+  </body>
+  <script defer src="/js/main.min.8d7e023a427b8d9aacbe078702dc3d651e4c05824555138ebe4215801fcbaf41.js" integrity="sha256-jX4COkJ7jZqsvgeHAtw9ZR5MBYJFVROOvkIVgB/Lr0E="></script>
+
+<script defer src="/lib/flexsearch/flexsearch.bundle.min.0425860527cc9968f9f049421c7a56b39327d475e2e3a8f550416be3a9134327.js" integrity="sha256-BCWGBSfMmWj58ElCHHpWs5Mn1HXi46j1UEFr46kTQyc="></script>
+  <script defer src="/en.search.min.9afdc7c586c6f971dd94df10b989f10faaf38e5702571fd8cfc9ff9135c2d495.js" integrity="sha256-mv3HxYbG&#43;XHdlN8QuYnxD6rzjlcCVx/Yz8n/kTXC1JU="></script>
+
+
+</html>
