@@ -81,10 +81,11 @@ menu:
     #   pageRef: "/about"
     #   weight: 2
 
-params:
-  description: TERA Blog by Hostility | Looking for something? Maybe you will find it here.
-  # images : https://i.imgur.com/y1Ii9IP.png
-  
+Params:
+  description: "TERA Blog by Hostility | Looking for something? Maybe you will find it here."
+  images:
+    - 'https://i.imgur.com/y1Ii9IP.png'
+
   navbar:
     displayTitle: true
     displayLogo: true
