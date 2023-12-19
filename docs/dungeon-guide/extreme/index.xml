@@ -781,45 +781,5 @@ When the boss has done the jump, the boss will spawn two mobs: One fire mob and 
       </description>
     </item>
     
-    <item>
-      <title>Harrowhold | Phase 1</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/extreme/harrowhold-phase-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/dungeon-guide/extreme/harrowhold-phase-1/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/JgqosA2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;Basic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#basic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Each party will have [5] people: [1] Tank and at least [1] Healer.&lt;br&gt;
-Each dragon will be manually enraged after engage. Afterwards [dragons enrage every 15%] of non-enraged HP.&lt;/p&gt;
-&lt;h3&gt;Debuff Mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;debuff-mechanic&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#debuff-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;There are 4 colored circles  (White, Red, Orange and Yellow), each with a dragon. &lt;br&gt;Fighting inside this area will every 15seconds apply a stack of same colored debuff.
-White/Aquadrax &lt;img src=&#34;https://cdn.discordapp.com/emojis/777145915916025866.webp?size=44&amp;amp;quality=lossless&#34; alt=&#34;:aquadrax_debuff:&#34; loading=&#34;lazy&#34; /&gt; Orange/Ignidrax &lt;img src=&#34;https://cdn.discordapp.com/emojis/777145931233230858.webp?size=44&amp;amp;quality=lossless&#34; alt=&#34;:ignidrax_debuff:&#34; loading=&#34;lazy&#34; /&gt; Yellow/Terradrax &lt;img src=&#34;https://cdn.discordapp.com/emojis/777144891859795999.webp?size=44&amp;amp;quality=lossless&#34; alt=&#34;:terradrax_debuff:&#34; loading=&#34;lazy&#34; /&gt; Red/Umbradrax &lt;img src=&#34;https://cdn.discordapp.com/emojis/777145944701141002.webp?size=44&amp;amp;quality=lossless&#34; alt=&#34;:umbradrax_debuff:&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;At the beginning,each party will already have assigned dragon to start and which direction will the full raid rotate. (clockwise) First stack of debuff is automatically applied after &lt;strong&gt;first 10seconds&lt;/strong&gt; in the circle.&lt;br&gt;&lt;br&gt;
-&lt;strong&gt;[If you arent in any circle once the first or any other stack is applied, you will automatically die.]&lt;/strong&gt;
-If any of the dragons has no alive players inside of the circle, he will start healing himself and other dragons.&lt;/p&gt;
-&lt;h3&gt;Shield Mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;shield-mechanic&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#shield-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Around 8 stacks or 2minutes into the fight, dragons will do a shield mechanic. It’ll be advised by a message saying &lt;strong&gt;“Dragons summon Vergos”&lt;/strong&gt;.&lt;/p&gt;
-&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/rLpRGe0.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;Break the shield and move quickly to the next circle.Your stacks will probably be on 9.&lt;/p&gt;
-&lt;h3&gt;Killing All Dragons + Timer Starts&lt;span class=&#34;absolute -mt-20&#34; id=&#34;killing-all-dragons--timer-starts&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#killing-all-dragons--timer-starts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Having &lt;strong&gt;10 stacks of any color will automatically kill you&lt;/strong&gt; and you won&amp;rsquo;t be able to resurrect for the whole phase.&lt;/p&gt;
-&lt;p&gt;Parties who have killed the first dragon should rotate to the next dragon and help killing it, then keep rotating.&lt;/p&gt;
-&lt;p&gt;After the first dragon has been killed, a 60s timer starts with the message &amp;ldquo;Dragons are getting angrier!&amp;rdquo;. &lt;br&gt;
-After 30s, you will get another message saying &lt;strong&gt;&amp;ldquo;Dragons will be enraged in 30 seconds&amp;rdquo;&lt;/strong&gt;. All dragons still alive when the timer has run out will gain massive damage and attack speed buff.&lt;/p&gt;
-&lt;p&gt;With &lt;strong&gt;60s timer after first dragon is killed&lt;/strong&gt;,DPS should be careful so the HP difference of dragons isnt too high.&lt;/p&gt;
-&lt;p&gt;Optimally, each party should do 25-30% dps per rotation, but some might do more some might do less. The &lt;strong&gt;difference should never get too big&lt;/strong&gt; (ex. 2%HP white dragon and 40%HP red dragon).&lt;/p&gt;
-&lt;h2&gt;White Dragon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;white-dragon&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#white-dragon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Yellow Dragon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;yellow-dragon&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#yellow-dragon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Orange Dragon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;orange-dragon&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#orange-dragon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Red Dragon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;red-dragon&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#red-dragon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-      </description>
-    </item>
-    
   </channel>
 </rss>
