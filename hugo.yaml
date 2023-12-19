@@ -82,8 +82,7 @@ menu:
     #   weight: 2
 
 params:
-  description: TERA Blog by Hostility | Looking for something? Maybe you will find it here.
-  # images : 'https://i.imgur.com/y1Ii9IP.png'
+  description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   navbar:
     displayTitle: true
