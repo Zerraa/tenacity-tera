@@ -1,6 +1,6 @@
 baseURL: "https://tenacity-tera.eu"
 title: "Tenacity"
-enableRobotsTXT: true
+enableRobotsTXT: false
 # enableGitInfo: true
 # enableEmoji: false
 hasCJKLanguage: true
