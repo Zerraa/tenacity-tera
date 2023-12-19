@@ -19,17 +19,12 @@ Focusing on Dungeon guides and Patch notes for MT The Dream, together with other
 
   <div align="left">
     
-  - [Articles](https://zerraa.github.io/tenacity-tera/en/articles/)
-  - [Classes](https://zerraa.github.io/tenacity-tera/en/class/)
-  - [Activities](https://zerraa.github.io/tenacity-tera/en/activity/)
-  - [Dungeons](https://zerraa.github.io/tenacity-tera/en/dungeons/)
-  - [Battlegrounds](https://zerraa.github.io/tenacity-tera/en/battlegrounds/)
-  - [Achievements](https://zerraa.github.io/tenacity-tera/en/achievements/)
+  - [Dungeons](https://tenacity-tera.eu/dungeon-guide/)
  
  #### MT The Dream   
     
-  - [Patch Notes](https://zerraa.github.io/tenacity-tera/en/patch-note/)
-  - [Guide](https://zerraa.github.io/tenacity-tera/en/menma-guide/)
+  - [Patch Notes](https://tenacity-tera.eu/blog/)
+  - [Guide](https://docs.google.com/document/d/192noLmzna1cJ6CXB9EfxXJwKUjjMllkHiCFswTENvAM/edit)
     
   </div> 
 
