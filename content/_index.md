@@ -3,6 +3,9 @@ title: ""
 date: 2023-10-08T21:46:43+02:00
 draft: false
 toc: false
+description: TERA Blog by Hostility | Looking for something? Maybe you will find it here.
+images:
+- https://i.imgur.com/y1Ii9IP.png
 ---
 
 ![](https://i.imgur.com/y1Ii9IP.png)
