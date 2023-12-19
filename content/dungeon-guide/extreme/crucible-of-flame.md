@@ -1,6 +1,6 @@
 ---
 title: Crucible of Flame
-description: Crucible of Flame
+description: Guide for the dungeon Crucible of Flame
 weight: 1
 draft: true
 toc: true

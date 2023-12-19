@@ -1,6 +1,6 @@
 ---
 title: Forbidden Arena (Brawler)
-description: Forbidden Arena (Brawler)
+description: Guide for the dungeon Forbidden Arena (Brawler)
 weight: 1
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Demon's Wheel
-description: Demon's Wheel
+description: Guide for the dungeon Demon's Wheel
 weight: 1
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grotto of Lost Souls (Hard)
-description: Grotto of Lost Souls (Hard)
+description: Guide for the dungeon Grotto of Lost Souls (Hard)
 weight: 1
 toc: true
 ---

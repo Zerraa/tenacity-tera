@@ -1,6 +1,6 @@
 ---
 title: Kalivan's Dreadnaught
-description: Kalivan's Dreadnaught
+description: Guide for the dungeon Kalivan's Dreadnaught
 weight: 1
 toc: true
 ---

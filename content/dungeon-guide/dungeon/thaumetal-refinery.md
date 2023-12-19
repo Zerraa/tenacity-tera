@@ -1,6 +1,6 @@
 ---
 title: Thaumetal Refinery
-description: Thaumetal Refinery
+description: Guide for the dungeon Thaumetal Refinery
 weight: 1
 toc: true
 ---

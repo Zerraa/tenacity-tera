@@ -1,6 +1,6 @@
 ---
 title: Kelsaik's Nest (Hard)
-description: Kelsaik's Nest (Hard)
+description: Guide for the dungeon Kelsaik's Nest (Hard)
 weight: 1
 toc: true
 ---

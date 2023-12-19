@@ -1,6 +1,6 @@
 ---
 title: Bathysmal Rise(Hard)
-description: Bathysmal Rise(Hard)
+description: Guide for the dungeon Bathysmal Rise(Hard)
 weight: 1
 toc: true
 ---

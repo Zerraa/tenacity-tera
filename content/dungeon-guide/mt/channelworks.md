@@ -1,6 +1,6 @@
 ---
 title: Channelworks
-description: Channelworks
+description: Guide for the dungeon Channelworks
 weight: 1
 toc: true
 ---

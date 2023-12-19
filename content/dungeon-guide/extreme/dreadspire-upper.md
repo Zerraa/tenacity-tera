@@ -1,6 +1,6 @@
 ---
 title: Dreadspire (Uppers)
-description: Dreadspire (Uppers)
+description: Guide for the dungeon Dreadspire (Uppers)
 weight: 1
 draft: false
 toc: true

@@ -1,6 +1,6 @@
 ---
 title: Sky Cruiser Endeavor (Hard)
-description: Sky Cruiser Endeavor (Hard)
+description: Guide for the dungeon Sky Cruiser Endeavor (Hard)
 weight: 1
 toc: true
 ---

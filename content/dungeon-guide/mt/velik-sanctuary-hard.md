@@ -1,6 +1,6 @@
 ---
 title: Velik's Sanctuary (Hard)
-description: Velik's Sanctuary (Hard)
+description: Guide for the dungeon Velik's Sanctuary (Hard)
 weight: 1
 toc: true
 ---

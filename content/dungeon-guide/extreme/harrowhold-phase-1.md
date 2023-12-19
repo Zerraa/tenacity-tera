@@ -1,6 +1,6 @@
 ---
 title: Harrowhold | Phase 1
-description: Harrowhold | Phase 1
+description: Guide for the dungeon Harrowhold | Phase 1
 weight: 1
 draft: true
 toc: true

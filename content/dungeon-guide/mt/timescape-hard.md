@@ -1,6 +1,6 @@
 ---
 title: Timescape (Hard)
-description: Timescape (Hard)
+description: Guide for the dungeon Timescape (Hard)
 weight: 1
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Argon Corpus (Hard)
-description: Argon Corpus (Hard)
+description: Guide for the dungeon Argon Corpus (Hard)
 weight: 1
 toc: true
 ---

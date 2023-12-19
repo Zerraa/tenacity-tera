@@ -1,6 +1,6 @@
 ---
 title: Draakon Arena
-description: Draakon Arena
+description: Guide for the dungeon Draakon Arena
 weight: 1
 toc: true
 ---

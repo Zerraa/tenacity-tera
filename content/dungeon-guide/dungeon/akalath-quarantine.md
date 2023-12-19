@@ -1,6 +1,6 @@
 ---
 title: Akalath Quarantine
-description: Akalath Quarantine
+description: Guide for the dungeon Akalath Quarantine
 weight: 1
 toc: true
 ---

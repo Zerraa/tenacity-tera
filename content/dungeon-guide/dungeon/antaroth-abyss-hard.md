@@ -1,6 +1,6 @@
 ---
 title: Antaroth Abyss (Hard)
-description: Antaroth Abyss (Hard)
+description: Guide for the dungeon Antaroth Abyss (Hard)
 weight: 1
 toc: true
 ---

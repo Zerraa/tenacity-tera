@@ -1,6 +1,6 @@
 ---
 title: Vault of Kaprima
-description: Vault of Kaprima
+description: Guide for the dungeon Vault of Kaprima
 weight: 1
 toc: true
 ---

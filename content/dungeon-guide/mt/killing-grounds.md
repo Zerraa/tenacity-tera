@@ -1,6 +1,6 @@
 ---
 title: Crimson Killing Grounds
-description: Guide for the dungeon Crimson Killing Grounds
+description: Guide for the dungeon Guide for the dungeon Crimson Killing Grounds
 weight: 1
 toc: true
 ---

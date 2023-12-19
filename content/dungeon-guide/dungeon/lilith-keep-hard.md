@@ -1,6 +1,6 @@
 ---
 title: Lilith's Keep (Hard)
-description: Lilith's Keep (Hard)
+description: Guide for the dungeon Lilith's Keep (Hard)
 weight: 1
 toc: true
 ---

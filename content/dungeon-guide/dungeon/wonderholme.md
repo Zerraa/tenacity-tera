@@ -1,6 +1,6 @@
 ---
 title: Wonderholme
-description: Wonderholme
+description: Guide for the dungeon Wonderholme
 weight: 1
 toc: true
 ---

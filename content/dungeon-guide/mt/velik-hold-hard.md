@@ -1,6 +1,6 @@
 ---
 title: Velik's Hold (Hard)
-description: Velik's Hold (Hard)
+description: Guide for the dungeon Velik's Hold (Hard)
 weight: 1
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Forsaken Island (Hard)
-description: Forsaken Island (Hard)
+description: Guide for the dungeon Forsaken Island (Hard)
 weight: 1
 toc: true
 ---

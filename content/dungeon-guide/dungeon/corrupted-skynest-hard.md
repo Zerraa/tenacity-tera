@@ -1,6 +1,6 @@
 ---
 title: Corrupted Skynest (Hard)
-description: Corrupted Skynest (Hard)
+description: Guide for the dungeon Corrupted Skynest (Hard)
 weight: 1
 toc: true
 ---

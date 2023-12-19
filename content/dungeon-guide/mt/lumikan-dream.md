@@ -1,6 +1,6 @@
 ---
 title: Lumikan's Dream (Hard)
-description: Lumikan's Dream (Hard)
+description: Guide for the dungeon Lumikan's Dream (Hard)
 weight: 1
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Demokron Factory (Hard)
-description: Demokron Factory (Hard)
+description: Guide for the dungeon Demokron Factory (Hard)
 weight: 1
 toc: true
 ---

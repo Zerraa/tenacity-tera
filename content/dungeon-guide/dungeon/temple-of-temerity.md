@@ -1,6 +1,6 @@
 ---
 title: Temple of Temerity
-description: Temple of Temerity
+description: Guide for the dungeon Temple of Temerity
 weight: 1
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Balder's Temple (Hard)
-description: Balder's Temple (Hard)
+description: Guide for the dungeon Balder's Temple (Hard)
 weight: 1
 toc: true
 draft: true

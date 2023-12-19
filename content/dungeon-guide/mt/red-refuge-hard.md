@@ -1,6 +1,6 @@
 ---
 title: Red Refuge (Hard)
-description: Red Refuge (Hard)
+description: Guide for the dungeon Red Refuge (Hard)
 weight: 1
 toc: true
 ---

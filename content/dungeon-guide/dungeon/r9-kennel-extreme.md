@@ -1,6 +1,6 @@
 ---
 title: RK-9 Kennel (Hard)
-description: RK-9 Kennel (Hard)
+description: Guide for the dungeon RK-9 Kennel (Hard)
 weight: 1
 toc: true
 ---

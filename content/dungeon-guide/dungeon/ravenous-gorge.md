@@ -1,6 +1,6 @@
 ---
 title: Ravenous Gorge
-description: Ravenous Gorge
+description: Guide for the dungeon Ravenous Gorge
 weight: 1
 toc: true
 ---

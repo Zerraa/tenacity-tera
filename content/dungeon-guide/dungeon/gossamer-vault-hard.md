@@ -1,6 +1,6 @@
 ---
 title: Gossamer's Vault (Hard)
-description: Gossamer's Vault (Hard)
+description: Guide for the dungeon Gossamer's Vault (Hard)
 weight: 1
 toc: true
 ---

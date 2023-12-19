@@ -1,6 +1,6 @@
 ---
 title: Dark Reach Citadel (Hard)
-description: Dark Reach Citadel (Hard)
+description: Guide for the dungeon Dark Reach Citadel (Hard)
 weight: 1
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Commander's Residence
-description: Commander's Residence
+description: Guide for the dungeon Commander's Residence
 weight: 1
 toc: true
 draft: true

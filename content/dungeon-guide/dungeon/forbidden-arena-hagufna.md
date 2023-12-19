@@ -1,6 +1,6 @@
 ---
 title: Forbidden Arena (Hagufna)
-description: Forbidden Arena (Hagufna)
+description: Guide for the dungeon Forbidden Arena (Hagufna)
 weight: 1
 toc: true
 ---

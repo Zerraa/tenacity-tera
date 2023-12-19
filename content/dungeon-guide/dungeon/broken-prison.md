@@ -1,6 +1,6 @@
 ---
 title: Broken Prison
-description: Broken Prison
+description: Guide for the dungeon Broken Prison
 weight: 1
 toc: true
 ---

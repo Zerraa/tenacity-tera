@@ -1,6 +1,6 @@
 ---
 title: Manaya Core (Hard)
-description: Manaya Core (Hard)
+description: Guide for the dungeon Manaya Core (Hard)
 weight: 1
 toc: true
 ---

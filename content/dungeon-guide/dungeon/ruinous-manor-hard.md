@@ -1,6 +1,6 @@
 ---
 title: Ruinous Manor (Hard)
-description: Ruinous Manor (Hard)
+description: Guide for the dungeon Ruinous Manor (Hard)
 weight: 1
 toc: true
 ---

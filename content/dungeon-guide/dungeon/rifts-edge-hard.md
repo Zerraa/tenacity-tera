@@ -1,6 +1,6 @@
 ---
 title: Rift's Edge (Hard)
-description: Rift's Edge (Hard)
+description: Guide for the dungeon Rift's Edge (Hard)
 weight: 1
 toc: true
 ---

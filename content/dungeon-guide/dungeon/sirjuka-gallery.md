@@ -1,6 +1,6 @@
 ---
 title: Sirjuka Gallery
-description: Sirjuka Gallery
+description: Guide for the dungeon Sirjuka Gallery
 weight: 1
 toc: true
 ---

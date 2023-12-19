@@ -1,6 +1,6 @@
 ---
 title: Manglemire
-description: Manglemire
+description: Guide for the dungeon Manglemire
 weight: 1
 toc: true
 ---

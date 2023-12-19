@@ -1,6 +1,6 @@
 ---
 title: Bahaar's Sanctum
-description: Bahaar's Sanctum
+description: Guide for the dungeon Bahaar's Sanctum
 weight: 1
 toc: true
 ---

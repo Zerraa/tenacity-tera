@@ -1,6 +1,6 @@
 ---
 title: Sea of Honor
-description: Sea of Honor
+description: Guide for the dungeon Sea of Honor
 weight: 1
 toc: true
 ---

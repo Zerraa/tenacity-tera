@@ -1,6 +1,6 @@
 ---
 title: Akeron's Inferno (Hard)
-description: Akeron's Inferno (Hard)
+description: Guide for the dungeon Akeron's Inferno (Hard)
 weight: 1
 toc: true
 ---

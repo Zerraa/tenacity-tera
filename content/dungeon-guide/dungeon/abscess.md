@@ -1,6 +1,6 @@
 ---
 title: Abscess
-description: Abscess
+description: Guide for the dungeon Abscess
 weight: 1
 toc: true
 ---

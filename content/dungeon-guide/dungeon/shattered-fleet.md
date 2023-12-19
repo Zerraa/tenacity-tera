@@ -1,6 +1,6 @@
 ---
 title: Shattered Fleet
-description: Shattered Fleet
+description: Guide for the dungeon Shattered Fleet
 weight: 1
 toc: true
 ---

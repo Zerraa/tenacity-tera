@@ -1,6 +1,6 @@
 ---
 title: Shadow Sanguinary (Hard)
-description: Shadow Sanguinary (Hard)
+description: Guide for the dungeon Shadow Sanguinary (Hard)
 weight: 1
 toc: true
 ---
