@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Homepage"
 date: 2023-10-08T21:46:43+02:00
 draft: false
 toc: false
