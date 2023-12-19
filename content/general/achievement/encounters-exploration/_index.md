@@ -1,5 +1,5 @@
 ---
-title: Encounters
+title: Encounters & Exploration
 weight: 2
 sidebar:
   open: false
