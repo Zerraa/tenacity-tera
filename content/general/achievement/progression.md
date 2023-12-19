@@ -8,7 +8,6 @@ toc: true
 
 Progression achievements are very easy to obtain, as you will gather them while leveling up to lvl70 and then by progressing your skill advancements.
 
-<hr/>
 
 <center>
 
