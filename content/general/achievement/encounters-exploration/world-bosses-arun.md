@@ -1,7 +1,7 @@
 ---
 title: World Bosses | Arun
 description: World Bosses | Arun
-weight: 1
+weight: 2
 draft: false
 toc: true
 ---

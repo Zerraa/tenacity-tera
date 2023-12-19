@@ -1,7 +1,7 @@
 ---
 title: World Bosses | Shara
 description: World Bosses | Shara
-weight: 1
+weight: 2
 draft: false
 toc: true
 ---

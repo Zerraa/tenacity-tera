@@ -1,7 +1,7 @@
 ---
 title: PvP & BattleGrounds
 description: PvP & BattleGrounds
-weight: 2
+weight: 5
 draft: false
 toc: true
 ---

@@ -71,7 +71,7 @@ Its recommended to maximize those for ideal gameplay.
 | Take Flight                      	|    All    	|        Embarked on 50 pegasus flights.       	|
 | Fashion Icon                     	|    All    	|                Dyed 30 times.                	|
 | Full-Time Job                    	|    All    	|       Played for six consecutive hours.      	|
-| Moving On Up                     	|    All    	|   Completed the achievements listed below:   	|
+| Moving On Up                     	|    All    	|   Completed a set of achievements.   	|
 | First to Fight                   	|    All    	|    Completed 1 Vanguard Initiative Order.    	|
 | High Five                        	|    All    	|    Completed 5 Vanguard Initiative orders.   	|
 | Cutting a Swath                  	|    All    	|   Completed 50 Vanguard Initiative orders.   	|
