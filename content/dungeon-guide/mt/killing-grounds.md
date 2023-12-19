@@ -240,7 +240,6 @@ Where do you think you are going, (player name)?
 {{< /callout >}}
 
 </div>
-<hr/>
 
 <center><h3>Sources</h3></center>
 
