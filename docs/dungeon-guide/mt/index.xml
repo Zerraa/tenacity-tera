@@ -632,6 +632,535 @@ When Kerkion is at 95% HP, two other NPC’s will spawn, a healer and a DPS, how
     </item>
     
     <item>
+      <title>Crimson Killing Grounds</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/mt/killing-grounds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/mt/killing-grounds/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;first-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/DNB0m8B.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Boss: Gardan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-gardan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#boss-gardan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Glowing Fist AoE&lt;span class=&#34;absolute -mt-20&#34; id=&#34;glowing-fist-aoe&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#glowing-fist-aoe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Starting at &lt;strong&gt;80% then every 70-80 seconds&lt;/strong&gt;, the boss will stand straight and his right hand will glow either red or blue and he will slam it, creating donuts to dodge.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;p&gt;&lt;strong&gt;Red Fist&lt;/strong&gt; = Coming from Inner First&lt;br&gt;
+&lt;strong&gt;Blue fist&lt;/strong&gt; = Coming from Outer First&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4 waves of donuts will spawn moving quickly.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;Increasing Power&lt;span class=&#34;absolute -mt-20&#34; id=&#34;increasing-power&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#increasing-power&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;At &lt;strong&gt;70%&lt;/strong&gt; the boss will gain this buff, increasing his damage done by 2%.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This will &lt;strong&gt;stack every 60 seconds&lt;/strong&gt; for the rest of the fight.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804327907950198794/2_damage_increase_over_time.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;65% Unleash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;65-unleash&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#65-unleash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Once below 65%, the boss will begin casting an unleash.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This will also create a cage that will limit the amount of space you have.&lt;/li&gt;
+&lt;li&gt;Once in unleash, the boss will gain a buff:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804328760241160232/unleash_power_increase.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This gives him 20% movement speed and 30% attack speed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The boss in unleash is entirely combo based and the unleash will not end until he reaches a certain amount.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;p&gt;The &lt;strong&gt;First Unleash&lt;/strong&gt; goes like this:&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3x Right - Left - Right hits &lt;strong&gt;(Blockable)&lt;/strong&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;3x Rampages (dodge the 3rd hit, hurts) OR Whirlwind &lt;strong&gt;(Blockable)&lt;/strong&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Shout ( cannot prevent this damage, heal through)&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If he Starts the combo with Left hand = Rampages&lt;br&gt;
+if he Starts the combo with Right hand = Whirlwind.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If his target dies or he changes targets, he will restart this combo!&lt;br&gt;
+He must get &lt;strong&gt;3 finishers off to exit unleash&lt;/strong&gt;, the finishers are the 3rd rampage or the whirlwind followed by a shout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this, the giant will still spit snowballs at people with the 45 second debuff, place these out of the stack.&lt;br&gt;
+After exiting unleash, all of the bosses cooldowns will be up similar to Lumikan so prepare for everything back to back.&lt;/p&gt;
+&lt;h4&gt;35% Unleash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;35-unleash&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#35-unleash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The Second Unleash will gain some new stuff added to it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If everyone &lt;strong&gt;stays near the boss&lt;/strong&gt;, he will &lt;strong&gt;only target the tank&lt;/strong&gt; like the first unleash.&lt;/li&gt;
+&lt;li&gt;If people are &lt;strong&gt;far away enough from the boss&lt;/strong&gt;, he will instead &lt;strong&gt;target them or a random person&lt;/strong&gt; with a focus target.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804331183705817168/unleash_focus_target.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This means the boss will focus that player for his entire combo or until they die.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The person with this eye needs to quickly go to the tank and &lt;strong&gt;let the tank block&lt;/strong&gt; for them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It can be quite messy especially with snowballs still coming from the giant on the wall.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The bosses combo will also be longer this time around.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;p&gt;The &lt;strong&gt;Second Unleash&lt;/strong&gt; goes like this:&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3x Right - Left - Right&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;3x Rampages  OR  Whirlwind&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;1x Beast fury  (5-6 hits and the final hit &lt;strong&gt;kds through block&lt;/strong&gt;)&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Shout&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If his target dies or he changes targets, he will restart this combo!&lt;br&gt;
+In order for the boss to exit unleash, he will &lt;strong&gt;need to do 3 total shouts&lt;/strong&gt; after finishing a combo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;1% Final Unleash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;1-final-unleash&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-final-unleash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Finally at 1%, the boss will go immune to damage and cast his final unleash.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This unleash will never end until he dies or you do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804334522614939668/shield_buff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;He also gains a &lt;strong&gt;shield&lt;/strong&gt; for 700k that you must first break through before finishing his hp.
+The final unleash will &lt;strong&gt;ALWAYS&lt;/strong&gt; trigger a focus debuff on someone after shouting.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unlike the other unleashes, the boss will start this one with a shout which applies the focus target on a random person.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anytime the combo string ends the shout will apply it again randomly to any person in party, excluding healers.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      [HARD MODE] The shield here is effectively another 10% of the bosses max hp you need to burn at the hardest part.&lt;br&gt;
+Also &lt;strong&gt;every time the boss shouts&lt;/strong&gt;, either from someone dying or finishing a combo string, it will spawn a wave. &lt;strong&gt;Deals more damage and applies ice stack, not worth avoiding but more heal/cleanse intense.&lt;/strong&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;All of this consist of berserker auto attack animations and to save time ill call them by the direction they go.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Up, Down, Spin Around, and Slam&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All 4 hits are blockable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Down, Down, Up, Knockback spin&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first hit staggers and the second hit of the spin at the end knocks you back, all blockable and shieldable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Down, Up, Down, Thunderstrike&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The thunderstrike at the end will knock you down if hit, iframe it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Down, Up, Turn around, Cyclone&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If the tank chases while the boss turns around, he will be body blocked and not move while doing cyclone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;90% Closest/Furthest Debuff&lt;span class=&#34;absolute -mt-20&#34; id=&#34;90-closestfurthest-debuff&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#90-closestfurthest-debuff&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The boss will stand up straight and say a message, either:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      The guys nearby&amp;hellip; are annoying&amp;hellip; -&amp;gt;  &lt;strong&gt;targetting closest person&lt;/strong&gt;.&lt;br&gt;
+Those guys back there&amp;hellip; are infuriating&amp;hellip; -&amp;gt;  &lt;strong&gt;targetting furthest person&lt;/strong&gt;.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+This will give a 45 second long ice debuff to closest or furthest depending on the message. &lt;br&gt;This will &lt;strong&gt;slow you by 10%&lt;/strong&gt; for 90 seconds.
+&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321421769179156/closest_furthest_2_stack.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+This mechanic happens every &lt;strong&gt;45 seconds&lt;/strong&gt; and if you take 2 in a row, you will be &lt;strong&gt;frozen&lt;/strong&gt; and instantly die.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rotate between healer and a mobile dps. But why not tank and healer you ask? it interacts with a different mechanic.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      [HARD MODE] The furthest/closest mechanic will now target &lt;strong&gt;2 people at a time&lt;/strong&gt;, need to alternate similar to RMHM.&lt;br&gt;
+Try to avoid the tank taking it, as you dont want ice puddles being thrown at the tank &lt;strong&gt;ever&lt;/strong&gt;.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;Snowball Puddles&lt;span class=&#34;absolute -mt-20&#34; id=&#34;snowball-puddles&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#snowball-puddles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;There is a &lt;strong&gt;frost giant chained to the north wall&lt;/strong&gt; and he will &lt;strong&gt;target&lt;/strong&gt; people specifically with the 45 second debuff.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;He will &lt;strong&gt;spit a giant snowball&lt;/strong&gt; at them that will home in until it hits, creating a &lt;strong&gt;puddle of ice&lt;/strong&gt; on that spot.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Standing in an ice puddle and every single attack he does in unleash will apply a &lt;strong&gt;frost stack&lt;/strong&gt;.&lt;br&gt;Reaching 10 stacks of this will freeze you solid, killing you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804328500072677406/ice_stacks.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;These puddles last a long time so placing them well matters for later.&lt;/p&gt;
+&lt;h4&gt;85% Stomp Mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;85-stomp-mechanic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#85-stomp-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The boss will quickly put his axe over his right shoulder and rear back and stomp, knocking everyone down.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kaia and iframe will dodge it, blocking doesnt work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After the boss will do one of 3 different attacks, based on a glow he gets around certain parts of him.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;strong&gt;Red Glow Around Axe&lt;/strong&gt; -&amp;gt; Giant thunderstrike&lt;br&gt;
+&lt;strong&gt;Blue Glow Around Pants&lt;/strong&gt; -&amp;gt; Giant Cyclone - Each tick of this cyclone gives a nasty bleed that stacks, 7% hp per tick per stack.&lt;br&gt;
+&lt;strong&gt;No Glow At All&lt;/strong&gt; -&amp;gt; Roll into strike on Random target
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;When you engage the boss at 100% he will have a buff for the entire fight:
+&lt;br&gt;This makes him immune to stuns.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804323470368047114/immune_to_stun_buff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;instant the boss starts stomping&lt;/strong&gt;, he will lose this buff for 2 seconds, replaced by a buff that makes him &lt;strong&gt;vulnerable to stuns&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804323670129901599/stunnable.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If anyone can react to the stomp fast enough, &lt;strong&gt;you can prevent both the stomp and the following attack&lt;/strong&gt; after.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This mechanic has a &lt;strong&gt;45 second cd&lt;/strong&gt; and very often lines up right after the closest/furthest debuff.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      [HARD MODE] At 45%, Inner and Outer Donuts patterns speeds up considerably.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Blue AoE above 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/0O15EMX.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Blue AoE under 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/TgOpT9G.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Red AoE above 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/Dpz3XJr.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Red AoE under 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/sf6VlUy.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Both of these are actually easier to dodge if you go 2 donuts out/in.&lt;br&gt;
+If its &lt;strong&gt;Red&lt;/strong&gt;, go to 14m.&lt;br&gt;
+If its &lt;strong&gt;Blue&lt;/strong&gt;, go to 10m.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;HARD MODE ONLY&lt;span class=&#34;absolute -mt-20&#34; id=&#34;hard-mode-only&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hard-mode-only&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Starting from &lt;strong&gt;100-95% the boss will gain a buff every 35-55 seconds&lt;/strong&gt; for the the entire fight:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308665606864916/804342197922824212/delayed_power_buff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;When this buff times out, it will give him a stack of increasing power.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is &lt;strong&gt;removable with plague/regression&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308665606864916/804342313597665280/2_damage_increase_over_time.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+This is separate from gaining it over time starting at 70%.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The result is he will have many more stacks over a short period of time, you can&amp;rsquo;t stall hardmode forever with low dps.&lt;br&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      There will be nothing left of you!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+Gaining 10 stacks of this buff causes the boss to shout the message above and &lt;strong&gt;WIPE&lt;/strong&gt; the party.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ice Stacks&lt;/strong&gt; - From Snowball Puddles/Unleash.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It now only takes 7 ice stacks to fully freeze your character.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Range-Check + Wave&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The boss will shout leap to the furthest player to him. The boss landing also knocks anyone near him down, spawning a wave coming out.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Where do you think you are going, (player name)?
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;center&gt;&lt;h3&gt;Sources&lt;/h3&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;Tera Dungeon Guides Discord&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Dark Reach Citadel (Hard)</title>
       <link>https://tenacity-tera.eu/dungeon-guide/mt/dark-reach-citadel-hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2120,535 +2649,6 @@ Lure him to the bomb squad!”
 &lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Killing Grounds</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/mt/killing-grounds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/dungeon-guide/mt/killing-grounds/</guid>
-      <description>
-        
-        
-        &lt;div id=&#34;first-boss&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/DNB0m8B.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;Boss: Gardan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-gardan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#boss-gardan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Glowing Fist AoE&lt;span class=&#34;absolute -mt-20&#34; id=&#34;glowing-fist-aoe&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#glowing-fist-aoe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Starting at &lt;strong&gt;80% then every 70-80 seconds&lt;/strong&gt;, the boss will stand straight and his right hand will glow either red or blue and he will slam it, creating donuts to dodge.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;p&gt;&lt;strong&gt;Red Fist&lt;/strong&gt; = Coming from Inner First&lt;br&gt;
-&lt;strong&gt;Blue fist&lt;/strong&gt; = Coming from Outer First&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;4 waves of donuts will spawn moving quickly.&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h4&gt;Increasing Power&lt;span class=&#34;absolute -mt-20&#34; id=&#34;increasing-power&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#increasing-power&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;At &lt;strong&gt;70%&lt;/strong&gt; the boss will gain this buff, increasing his damage done by 2%.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This will &lt;strong&gt;stack every 60 seconds&lt;/strong&gt; for the rest of the fight.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804327907950198794/2_damage_increase_over_time.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h4&gt;65% Unleash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;65-unleash&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#65-unleash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Once below 65%, the boss will begin casting an unleash.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This will also create a cage that will limit the amount of space you have.&lt;/li&gt;
-&lt;li&gt;Once in unleash, the boss will gain a buff:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804328760241160232/unleash_power_increase.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;This gives him 20% movement speed and 30% attack speed.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The boss in unleash is entirely combo based and the unleash will not end until he reaches a certain amount.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;p&gt;The &lt;strong&gt;First Unleash&lt;/strong&gt; goes like this:&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;3x Right - Left - Right hits &lt;strong&gt;(Blockable)&lt;/strong&gt;&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;3x Rampages (dodge the 3rd hit, hurts) OR Whirlwind &lt;strong&gt;(Blockable)&lt;/strong&gt;&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Shout ( cannot prevent this damage, heal through)&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;If he Starts the combo with Left hand = Rampages&lt;br&gt;
-if he Starts the combo with Right hand = Whirlwind.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If his target dies or he changes targets, he will restart this combo!&lt;br&gt;
-He must get &lt;strong&gt;3 finishers off to exit unleash&lt;/strong&gt;, the finishers are the 3rd rampage or the whirlwind followed by a shout.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;During this, the giant will still spit snowballs at people with the 45 second debuff, place these out of the stack.&lt;br&gt;
-After exiting unleash, all of the bosses cooldowns will be up similar to Lumikan so prepare for everything back to back.&lt;/p&gt;
-&lt;h4&gt;35% Unleash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;35-unleash&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#35-unleash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The Second Unleash will gain some new stuff added to it.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If everyone &lt;strong&gt;stays near the boss&lt;/strong&gt;, he will &lt;strong&gt;only target the tank&lt;/strong&gt; like the first unleash.&lt;/li&gt;
-&lt;li&gt;If people are &lt;strong&gt;far away enough from the boss&lt;/strong&gt;, he will instead &lt;strong&gt;target them or a random person&lt;/strong&gt; with a focus target.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804331183705817168/unleash_focus_target.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;This means the boss will focus that player for his entire combo or until they die.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The person with this eye needs to quickly go to the tank and &lt;strong&gt;let the tank block&lt;/strong&gt; for them.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It can be quite messy especially with snowballs still coming from the giant on the wall.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The bosses combo will also be longer this time around.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;p&gt;The &lt;strong&gt;Second Unleash&lt;/strong&gt; goes like this:&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;3x Right - Left - Right&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;3x Rampages  OR  Whirlwind&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;1x Beast fury  (5-6 hits and the final hit &lt;strong&gt;kds through block&lt;/strong&gt;)&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Shout&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;If his target dies or he changes targets, he will restart this combo!&lt;br&gt;
-In order for the boss to exit unleash, he will &lt;strong&gt;need to do 3 total shouts&lt;/strong&gt; after finishing a combo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;1% Final Unleash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;1-final-unleash&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-final-unleash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Finally at 1%, the boss will go immune to damage and cast his final unleash.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This unleash will never end until he dies or you do.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804334522614939668/shield_buff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;He also gains a &lt;strong&gt;shield&lt;/strong&gt; for 700k that you must first break through before finishing his hp.
-The final unleash will &lt;strong&gt;ALWAYS&lt;/strong&gt; trigger a focus debuff on someone after shouting.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Unlike the other unleashes, the boss will start this one with a shout which applies the focus target on a random person.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Anytime the combo string ends the shout will apply it again randomly to any person in party, excluding healers.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        🚫
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      [HARD MODE] The shield here is effectively another 10% of the bosses max hp you need to burn at the hardest part.&lt;br&gt;
-Also &lt;strong&gt;every time the boss shouts&lt;/strong&gt;, either from someone dying or finishing a combo string, it will spawn a wave. &lt;strong&gt;Deals more damage and applies ice stack, not worth avoiding but more heal/cleanse intense.&lt;/strong&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;All of this consist of berserker auto attack animations and to save time ill call them by the direction they go.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Up, Down, Spin Around, and Slam&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;All 4 hits are blockable&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Down, Down, Up, Knockback spin&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The first hit staggers and the second hit of the spin at the end knocks you back, all blockable and shieldable.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Down, Up, Down, Thunderstrike&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The thunderstrike at the end will knock you down if hit, iframe it.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Down, Up, Turn around, Cyclone&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If the tank chases while the boss turns around, he will be body blocked and not move while doing cyclone.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;90% Closest/Furthest Debuff&lt;span class=&#34;absolute -mt-20&#34; id=&#34;90-closestfurthest-debuff&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#90-closestfurthest-debuff&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The boss will stand up straight and say a message, either:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      The guys nearby&amp;hellip; are annoying&amp;hellip; -&amp;gt;  &lt;strong&gt;targetting closest person&lt;/strong&gt;.&lt;br&gt;
-Those guys back there&amp;hellip; are infuriating&amp;hellip; -&amp;gt;  &lt;strong&gt;targetting furthest person&lt;/strong&gt;.
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
-This will give a 45 second long ice debuff to closest or furthest depending on the message. &lt;br&gt;This will &lt;strong&gt;slow you by 10%&lt;/strong&gt; for 90 seconds.
-&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321421769179156/closest_furthest_2_stack.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
-This mechanic happens every &lt;strong&gt;45 seconds&lt;/strong&gt; and if you take 2 in a row, you will be &lt;strong&gt;frozen&lt;/strong&gt; and instantly die.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rotate between healer and a mobile dps. But why not tank and healer you ask? it interacts with a different mechanic.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        🚫
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      [HARD MODE] The furthest/closest mechanic will now target &lt;strong&gt;2 people at a time&lt;/strong&gt;, need to alternate similar to RMHM.&lt;br&gt;
-Try to avoid the tank taking it, as you dont want ice puddles being thrown at the tank &lt;strong&gt;ever&lt;/strong&gt;.
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h4&gt;Snowball Puddles&lt;span class=&#34;absolute -mt-20&#34; id=&#34;snowball-puddles&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#snowball-puddles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;There is a &lt;strong&gt;frost giant chained to the north wall&lt;/strong&gt; and he will &lt;strong&gt;target&lt;/strong&gt; people specifically with the 45 second debuff.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;He will &lt;strong&gt;spit a giant snowball&lt;/strong&gt; at them that will home in until it hits, creating a &lt;strong&gt;puddle of ice&lt;/strong&gt; on that spot.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Standing in an ice puddle and every single attack he does in unleash will apply a &lt;strong&gt;frost stack&lt;/strong&gt;.&lt;br&gt;Reaching 10 stacks of this will freeze you solid, killing you.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804328500072677406/ice_stacks.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;These puddles last a long time so placing them well matters for later.&lt;/p&gt;
-&lt;h4&gt;85% Stomp Mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;85-stomp-mechanic&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#85-stomp-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The boss will quickly put his axe over his right shoulder and rear back and stomp, knocking everyone down.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kaia and iframe will dodge it, blocking doesnt work.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;After the boss will do one of 3 different attacks, based on a glow he gets around certain parts of him.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ⚠️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;strong&gt;Red Glow Around Axe&lt;/strong&gt; -&amp;gt; Giant thunderstrike&lt;br&gt;
-&lt;strong&gt;Blue Glow Around Pants&lt;/strong&gt; -&amp;gt; Giant Cyclone - Each tick of this cyclone gives a nasty bleed that stacks, 7% hp per tick per stack.&lt;br&gt;
-&lt;strong&gt;No Glow At All&lt;/strong&gt; -&amp;gt; Roll into strike on Random target
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;When you engage the boss at 100% he will have a buff for the entire fight:
-&lt;br&gt;This makes him immune to stuns.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804323470368047114/immune_to_stun_buff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;instant the boss starts stomping&lt;/strong&gt;, he will lose this buff for 2 seconds, replaced by a buff that makes him &lt;strong&gt;vulnerable to stuns&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804323670129901599/stunnable.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;If anyone can react to the stomp fast enough, &lt;strong&gt;you can prevent both the stomp and the following attack&lt;/strong&gt; after.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This mechanic has a &lt;strong&gt;45 second cd&lt;/strong&gt; and very often lines up right after the closest/furthest debuff.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        🚫
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      [HARD MODE] At 45%, Inner and Outer Donuts patterns speeds up considerably.
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Blue AoE above 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/0O15EMX.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Blue AoE under 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/TgOpT9G.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Red AoE above 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/Dpz3XJr.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Red AoE under 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/sf6VlUy.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      Both of these are actually easier to dodge if you go 2 donuts out/in.&lt;br&gt;
-If its &lt;strong&gt;Red&lt;/strong&gt;, go to 14m.&lt;br&gt;
-If its &lt;strong&gt;Blue&lt;/strong&gt;, go to 10m.
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Range-Check + Wave&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The boss will shout leap to the furthest player to him. The boss landing also knocks anyone near him down, spawning a wave coming out.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        🚫
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      Where do you think you are going, (player name)?
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;HARD MODE ONLY&lt;span class=&#34;absolute -mt-20&#34; id=&#34;hard-mode-only&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#hard-mode-only&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Starting from &lt;strong&gt;100-95% the boss will gain a buff every 35-55 seconds&lt;/strong&gt; for the the entire fight:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308665606864916/804342197922824212/delayed_power_buff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;When this buff times out, it will give him a stack of increasing power.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This is &lt;strong&gt;removable with plague/regression&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308665606864916/804342313597665280/2_damage_increase_over_time.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
-This is separate from gaining it over time starting at 70%.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The result is he will have many more stacks over a short period of time, you can&amp;rsquo;t stall hardmode forever with low dps.&lt;br&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        🚫
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      There will be nothing left of you!
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;br&gt;
-Gaining 10 stacks of this buff causes the boss to shout the message above and &lt;strong&gt;WIPE&lt;/strong&gt; the party.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Ice Stacks&lt;/strong&gt; - From Snowball Puddles/Unleash.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;It now only takes 7 ice stacks to fully freeze your character.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;hr/&gt;
-&lt;center&gt;&lt;h3&gt;Sources&lt;/h3&gt;&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;Tera Dungeon Guides Discord&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

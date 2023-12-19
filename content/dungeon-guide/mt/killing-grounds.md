@@ -1,6 +1,6 @@
 ---
-title: Killing Grounds
-description: Killing Grounds
+title: Crimson Killing Grounds
+description: Guide for the dungeon Crimson Killing Grounds
 weight: 1
 toc: true
 ---
@@ -212,14 +212,6 @@ If its **Red**, go to 14m.<br>
 If its **Blue**, go to 10m.
 {{< /callout >}}
 
-**Range-Check + Wave**
-* The boss will shout leap to the furthest player to him. The boss landing also knocks anyone near him down, spawning a wave coming out.
-
-{{< callout type="error" >}}
-Where do you think you are going, (player name)?
-{{< /callout >}}
-
-
 ### HARD MODE ONLY
 
 Starting from **100-95% the boss will gain a buff every 35-55 seconds** for the the entire fight:
@@ -239,6 +231,13 @@ Gaining 10 stacks of this buff causes the boss to shout the message above and **
 
 **Ice Stacks** - From Snowball Puddles/Unleash.
 * It now only takes 7 ice stacks to fully freeze your character.
+
+**Range-Check + Wave**
+* The boss will shout leap to the furthest player to him. The boss landing also knocks anyone near him down, spawning a wave coming out.
+
+{{< callout type="error" >}}
+Where do you think you are going, (player name)?
+{{< /callout >}}
 
 </div>
 <hr/>
