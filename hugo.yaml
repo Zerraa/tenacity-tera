@@ -7,7 +7,9 @@ hasCJKLanguage: true
 publishDir: docs
 theme: hextra
 
-googleAnalytics: G-JCGLY16DT0
+services:
+  googleAnalytics:
+    ID: G-JCGLY16DT0
 
 outputs:
   home: [HTML]
@@ -109,7 +111,11 @@ params:
   dateFormat: "January 2, 2006"
 
   search:
-    enable: false
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      index: content
 
   editURL:
     enable: false
