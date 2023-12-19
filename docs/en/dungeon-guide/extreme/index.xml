@@ -1,0 +1,825 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tenacity – Extreme Modes</title>
+    <link>https://tenacity-tera.eu/en/dungeon-guide/extreme/</link>
+    <description>Recent content in Extreme Modes on Tenacity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://tenacity-tera.eu/en/dungeon-guide/extreme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Dreadspire (Uppers)</title>
+      <link>https://tenacity-tera.eu/en/dungeon-guide/extreme/dreadspire-upper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/dungeon-guide/extreme/dreadspire-upper/</guid>
+      <description>
+        
+        
+        &lt;hr/&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      MT The Dream significantly raised the difficulty on top of new mechanics in Patch 2.0
+You also don&amp;rsquo;t restart on Floor 1 if you fail a challenge.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This version of Dreadspire has 10 Floors, on each floor you wil fight a single boss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Each of these bosses are buffed up versions of the same boss we’ve seen before from hard modes/raids/previous DS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The biggest difference is that when your party wipes, you do not just go back in and try again where you left off. &lt;br&gt;
+In this dungeon, &lt;strong&gt;if your party fails you get teleported out of the dungeon and will have to start over&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Only if you have another entry tho, you lose your entry when you fail.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ways in which &lt;strong&gt;you can fail by&lt;/strong&gt; are :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;ul&gt;
+&lt;li&gt;Your party all dies.&lt;/li&gt;
+&lt;li&gt;You did not meet the timer.&lt;/li&gt;
+&lt;li&gt;You failed one of the main boss mechanics.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An important part about this dungeon is that each boss usually starts with one of their most annoying attacks the moment they spawn.&lt;/li&gt;
+&lt;li&gt;Another difference between normal dungeons and Dreadspire is the fact that you constantly have a debuff that reduces your HP every 2 seconds, depending on how far into the run you are.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Stage 1 – 3: 5% per 2 seconds&lt;br&gt;
+Stage 3 – 6: 7% per 2 seconds&lt;br&gt;
+Stage 7 – 9: 9% per 2 seconds&lt;br&gt;
+Stage 10: 10% per 2 seconds
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;center&gt;
+&lt;p&gt;&lt;strong&gt;THIS GUIDE WILL NOT HAVE BASIC ATTACKS EXPLAINED&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Counting in that you already know basic patterns of these bosses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f1&#34;&gt;
+&lt;h2&gt;Floor 1: Akasha&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-1-akasha&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-1-akasha&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Akasha is your typical Crab BAM type.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Mindblast&lt;/strong&gt; - Not blockable, AoE&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can recognize this by her eyes glowing red.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/mZbNCHZ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Poison&lt;/strong&gt; - Not blockable, AoE&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can recognize this by the boss lifting up her butt, followed by eyes glowing red.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/2YmRXz1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Charge and Spin&lt;/strong&gt; - The boss either charges twice to the front or he backsteps.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Followed by a spin that hits the back, and then the front.&lt;/li&gt;
+&lt;li&gt;Getting hit by this spin will cause a &lt;strong&gt;knock back&lt;/strong&gt; and then the boss will target someone who got hit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Army&lt;/strong&gt; - A text indicator will show up on the screen saying:&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Akasha summons a large army.”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This mechanic happens every 20% hp, starting at 90%.&lt;/li&gt;
+&lt;li&gt;Akasha will then summon a lot of baby spiders. To deal with this mechanic the healer should cast a few heals so that the baby spiders aggro onto them, then the DPS and healer should kill them.
+&lt;ul&gt;
+&lt;li&gt;Using a Sky Lotus Drink will make you immune to these staggers and allow you to walk/iframe away from these spiders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/p7TrHN6.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Clone Mechanic&lt;/strong&gt; - The boss will gain a buff that needs to be &lt;strong&gt;removed by stunning&lt;/strong&gt; the boss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There’s a 3 second time period to stun the boss, failure to do so will cause the boss to summon 3 clones of herself. &lt;br&gt;
+Which will then do one of the 3 attacks listed under Special Attacks. All of these attacks can be iframed but stunning is just that much easier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f2&#34;&gt;
+&lt;h2&gt;Floor 2: Baphomet&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-2-baphomet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-2-baphomet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;This is just a reskin of Kaprima from Vault of Kaprima or Broken Prison.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Main Pentagram attack does 100% of your HP as as damage. Which means that with kaia/thrall of protection you can live.&lt;/li&gt;
+&lt;li&gt;When this boss is &lt;strong&gt;enraged, all of his attacks do significantly less damage&lt;/strong&gt;. Around half the damage he does compared to when he’s unenraged.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Double Tap&lt;/strong&gt; - Baphomet hits the tank by slamming the back of his weapon on the ground.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Followed by a not blockable, but iframable attack in front of the boss.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/WAbNFBZ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Breath into Spin&lt;/strong&gt; - Baphomet breathes something on the tank and then puts his weapon down to spin behind him&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/ZWYIsFp.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Tankbuster&lt;/strong&gt; - Baphomet’s eyes glow red, followed by a swipe to the front.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Followed up by a strong attack in the front that’s blockable but does bleed, &lt;strong&gt;iframe to the side on the second attack&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;When the boss is enraged, this last attack can be blocked and it will barely hurt.&lt;/li&gt;
+&lt;li&gt;Baphomet often follows up this attack by doing the above mentioned Double Tap.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/9jPCHnf.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Snakehead&lt;/strong&gt; - Baphomet will give someone a &lt;strong&gt;debuff that lasts 10 seconds&lt;/strong&gt;, when these 10 seconds it will spawn a Snakehead on that person.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; Enrage: Closest
+ Non Enrage: Furthest Away
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Getting stuck in a Snakehead will deal constant damage to you and you will not be able to move out, giving you the following debuff:
+&lt;img src=&#34;https://i.imgur.com/wtZJTVW.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;These snakeheads will be used for the next mechanic, but because these two mechanics don’t line up after another.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/IC1o8OT.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h4&gt;Complete&lt;/h4&gt; - A text message will show up on the screen saying:
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Finally, all is complete”.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This pentagram attack can be avoided by standing &lt;strong&gt;behind the Snakehead&lt;/strong&gt;, by the word “behind” we mean having the Snakehead in between you and Baphomet.&lt;/li&gt;
+&lt;li&gt;This attack does 100% of your hp as damage, which means that if you have a shield you can survive this attack without getting behind the Snakehead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/A3oxNHh.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Donut&lt;/strong&gt; - A text message will show up on the screen, either he says “You are nothing to my power” or “Worthless…”&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Just like other Kaprima bosses, he does either a small or a big AoE(where close it safe) around him.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Iframe when he’s about to stomp his foot on the ground.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;You are nothing to my power!&amp;quot; Safe close to the boss.
+&amp;quot;Worthless...&amp;quot; Not safe near him.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+         &lt;td&gt;You are nothing to my power!&lt;/td&gt;
+         &lt;td&gt;Worthless...&lt;/td&gt;
+      &lt;/tr&gt;      
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;source src=&#34;https://i.imgur.com/iMuk4sV.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;source src=&#34;https://i.imgur.com/1bOPoRy.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Leash pull&lt;/strong&gt; - Kaprima will &lt;strong&gt;fly backwards and then pull everyone into him&lt;/strong&gt;. If after this animation ends someone is stunned by the pull he will do a whirlwind attack.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you can cleanse yourself using brooch or a healer cleansing fast then you can avoid the whirlwind attack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+         &lt;td&gt;Failed&lt;/td&gt;
+         &lt;td&gt;Iframed&lt;/td&gt;
+      &lt;/tr&gt;      
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;source src=&#34;https://i.imgur.com/xotGoSa.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;source src=&#34;https://i.imgur.com/YCcGKus.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f3&#34;&gt;
+&lt;h2&gt;Floor 3: Dakuryon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-3-dakuryon&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-3-dakuryon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;The main difference between the old Dakuryon and the new one is that he will do 4 swipes no matter what.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;During the “Gathering Power” mechanic &lt;strong&gt;he gains attack speed&lt;/strong&gt; as well as attack damage the lower hp he is.
+&lt;ul&gt;
+&lt;li&gt;This makes stuff like his swipes a lot faster.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Circles&lt;/strong&gt; - Compared to the old circles, this one goes under every single party member.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is also the ress bait on this boss so you want to avoid doing this because it requires our entire party to reposition and iframe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/vytlaRU.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Thrust&lt;/strong&gt; - This is the mechanic he starts the boss fight with.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sometimes he will do a backstep after this followed by the same attack.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/d7BSESO.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;More Power&amp;hellip;&lt;/strong&gt; - The boss gets down on the ground and says “More… I need… more power”&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This &lt;strong&gt;happens every 25% of the boss fight&lt;/strong&gt;, so 75%, 50% and 25%. The boss gets significantly faster and stronger as these buffs stack up.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/ir7fkAK.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Swipes&lt;/strong&gt; - The boss starts spinning his sword around and then does swipes. With a text message saying&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      I will rip you apart!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you’re familiar with the old swipes then it’s not that much different, except that it will always do 4 swipes.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;You can tell which side he’s gonna swipe by which side he holds his weapon, or by how he places it down. &lt;strong&gt;He either places it down vertically or diagonally.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;From the back&lt;/strong&gt; it’s easy to tell cause you just go to the side where the back side of his weapon is, he might do back slam but you can iframe this.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;From the front&lt;/strong&gt;, if he places his weapon down diagonally then you go to the right and expect a front slam and if he places it down vertically you go to the left side.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;He will swipe every side once.
+Once he does certain swipe you know it won’t happen again. 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;     
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;source src=&#34;https://i.imgur.com/5c7SkLK.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;source src=&#34;https://i.imgur.com/KCuKEU1.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Retargeting&lt;/strong&gt; - The boss smashes his weapon down twice in a row and after the second hit he will target the one closest to him and put a debuff on them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taking this debuff twice will kill said person.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make sure to rotate this debuff around.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pizza Cage&lt;/strong&gt; - The boss will summon mobs around the map, followed by the cage mechanic.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Failure to kill these mobs will cause them to change into mobs that shoot annoying balls around the map.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/zj4aFQu.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Blood Cage&lt;/strong&gt; - There will be a text indicator on the screen saying:&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Dakuryon uses the power of the Bloodshard!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The boss smashes his weapon down twice in a row, just like on the retargeting mechanic.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Instead of putting a debuff on someone, he’ll go into his cage same as the Pizza Cage mechanic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This cage is slightly different from the cage that people are used to.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;While the patterns are the same as the old cage as well as the tells, which won’t be covered here.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You now gain 5 debuffs on your debuff, each having either a red or a blue color.&lt;/strong&gt; Each representing one of the 5 hits of the cage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You have to do the cage according to the debuffs colors you have.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; If you have a Red debuff you get hit by the red area.
+ If you have a Blue debuff you avoid the red area.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/rHs2vmV.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f4&#34;&gt;
+&lt;h2&gt;Floor 4: Meldita&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-4-meldita&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-4-meldita&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The way to tell most of Melditas basic attacks is by looking at &lt;strong&gt;his “arms” the way he moves next to his body are the tells for his atacks.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The main priority for this boss is dealing with the worms effectively as soon as they spawn. We’ll go over these in Key mechanics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Front Back (big)&lt;/strong&gt; - Meldita attacks the front and then throws a big aoe behind itself.&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/bKS68lZ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Front Back (multiple small)&lt;/strong&gt;  - Meldita attacks the front and then throws multiple small aoes behind itself.&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/hTabFUJ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Targeting&lt;/strong&gt; - Meldita targets a player and after a slight delay, throw an AoE at them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can tell the timing by when Meldita opens his eyes and goes into the spin. &lt;strong&gt;Iframe when he opens his eye.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/39U9y0V.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Laser&lt;/strong&gt; - Meldita targets the furthest player and starts charging a laser.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;timing for the iframe is when Meldita opens like a clam&lt;/strong&gt;, his sides begin expanding.&lt;/li&gt;
+&lt;li&gt;If you are a healer and don’t know the timing for this mechanic, you can get far away from the boss and &lt;strong&gt;outrange it&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/sCmRqoO.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Circles and Donuts&lt;/strong&gt; - Meldita gets on his feet and uses expanding donuts around itself, this is not lethal but iframing/blocking would avoid the damage completely.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There is a close range and a high range version of this attack.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;     
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;source src=&#34;https://i.imgur.com/rH5usHm.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;source src=&#34;https://i.imgur.com/4lthkmm.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;T Laser&lt;/strong&gt; - Meldita moves backwards and then shoots a laser to the front and then to his left, followed by a laser to his right.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Healer should not stand directly to the side of the boss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/sIM49tL.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;360 Laser into Worms&lt;/strong&gt; - This happens at 95% and is on a 90 second cooldown.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The boss will sit down on the ground and give a text message saying &lt;strong&gt;“Taste this!”&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After a moment he will fire a laser in front of him then he starts rotating clockwise, killing everyone who gets hit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To deal with this &lt;strong&gt;as a tank, you move slightly to the right&lt;/strong&gt; so that you don’t get hit by the first part of the laser.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;As a dps you are going to have to iframe this as it reaches you.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/xqwKMbm.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;During this attack, Meldita will start spawning a couple of worms around the map.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It is very important that you &lt;strong&gt;kill these as quickly as possible&lt;/strong&gt; because if you do not, the worms will multiply.
+&lt;ul&gt;
+&lt;li&gt;These worms fire projectiles at Meldita that heal if they reach it.&lt;/li&gt;
+&lt;li&gt;You want to get in between the Worms and Meldita to avoid healing the boss, it does deal some damage though.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/lnSkBtb.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f5&#34;&gt;
+&lt;h2&gt;Floor 5: Kelsaik&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-5-kelsaik&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-5-kelsaik&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Stun/pushback&lt;/strong&gt; - &lt;strong&gt;This mechanic will only happen at the beginning.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;He will slightly lower his head, and after a short delay, he will raise his head and roar. That’s when you want to iframe.&lt;/li&gt;
+&lt;li&gt;Usually you just ignore this mechanic though, as you’re just blocking it with blue shield.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tail smash&lt;/strong&gt; - The indicator is that the boss will do a brief pause, and then it will it will smash it tail super quickly.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This attack is both blockable and iframeable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Jump&lt;/strong&gt; - Occasionally the boss will do a jump, kinda like before he spawn minions. Again make sure you dodge this, as it can be quite punishing in terms of damage.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you’re uncomfortable you can simply walk this mechanic out, by going on a distance of ~15 meters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ice Storm&lt;/strong&gt; - The boss will have ice swirling around it, and after a brief delay, an ice storm will appear.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is both iframe and blockable, so if you’re on ice side, you can actually just stay in. If you’re fire, jump and stay safe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fire Storm&lt;/strong&gt; - The boss will have fire swirling around it, and then it will do a fire storm, where fire will appear everywhere, and meteors will come raining from the sky.,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It’s kinda the same as the stun, you want to iframe just before he lifts his head, as to avoid getting hit by the fire storm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;If you get hit by the fire or ice storm, you will take the debuff from the corresponding mechanic, so if you get hit by ice, you get ice debuff and vice versa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Inner Temperature&lt;/strong&gt; -  This boss generally isn’t very hard in terms of attacks. What makes this boss hard is managing your heat bar.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The heat bar is displayed in your upper right corner per default, and it indicates what your current heat is.&lt;/li&gt;
+&lt;li&gt;The trick here is to manage the heat, and &lt;strong&gt;not get too much heat or too little heat&lt;/strong&gt;, in other words you want to &lt;strong&gt;stay as close as possible to 50 at all times&lt;/strong&gt;, so you avoid going too close to either 100 or 0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When &lt;strong&gt;no debuffs&lt;/strong&gt; have been taken:
+&lt;img src=&#34;https://i.imgur.com/fImAx6M.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If you have &lt;strong&gt;overload of ice&lt;/strong&gt;:
+&lt;img src=&#34;https://i.imgur.com/3s5Kt5z.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If you have &lt;strong&gt;overload of fire&lt;/strong&gt;:
+&lt;img src=&#34;https://i.imgur.com/cL5dKJP.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;h4&gt;Taking the debuff&lt;/h4&gt;
+&lt;/center&gt;
+You get these debuffs by getting hit by specific attacks from the boss, in particular the most important one is when the boss lifts both front paws and smash the ground!&lt;br&gt;
+Furthermore, you can take the debuffs by going in front of the boss and then take the debuffs by going to the specific paw, that holds the debuff
+&lt;center&gt;
+&lt;h4&gt;How to manage the debuff&lt;/h4&gt;
+&lt;/center&gt;
+&lt;p&gt;As mentioned, you want to stay as close to 50 as possible, and the trick is to “switch sides”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The bar will go up or down quicker, depending on the overload of one debuff&lt;/strong&gt;
+This means, that if you for example have the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;3 ice and 2 fire&lt;/strong&gt;
+The bar will decrease with 1 per second&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On the other hand, if you have the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;3 fire and 2 ice&lt;/strong&gt;
+The bar will increase with 1 per second&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But, if you’ve messed up and have for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;4 fire and 1 ice&lt;/strong&gt;
+The bar will increase with 3 per second&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And if you’ve messed up even more, and for example have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;0 fire and 5 ice&lt;/strong&gt;
+The bar will increase with 5 per second&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Minions&lt;/strong&gt; - A text will appear on screen saying :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Kelsaik prepares to summon minions”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After that he will do a brief pause and jump into the air and fall down again. &lt;strong&gt;You have to iframe this&lt;/strong&gt;, as this will most likely be a one-shot otherwise.
+When the boss has done the jump, the boss will spawn two mobs: One fire mob and an ice mob. &lt;strong&gt;The important thing here is that the mobs can only be killed by players, who have the opposite debuff of the mob.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Each mob count as an extra fire or ice debuff!&lt;/strong&gt; - So if you’re for example having an overload of ice debuff, you should wait a bit with killing the fire mob and kill the ice mob ASAP.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f6&#34;&gt;
+&lt;h2&gt;Floor 6: Krakatox&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-6-krakatox&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-6-krakatox&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;This floor is fairly easy and more of a DPS check, rather than a mechanic heavy fight.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Furthermore, you cannot go through this boss, which is a huge handicap for a lot of classes, instead you will have to manually walk around it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Double Swing&lt;/strong&gt; - The boss will simply do a double swing with his weapon. He pulls out the weapon, then he will swing right, and afterwards he will swing left.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The right swing doesn’t hit you in the back, but it’s an indicator for the left swing, which will hit you, if you don’t dodge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Triple smash into front smash&lt;/strong&gt; - The boss will essentially do three hits with his weapon on the tank, then smash his weapon into the ground, dealing light damage AoE damage, if you don’t dodge or block it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/KugPzT9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Single smash AoE&lt;/strong&gt; - The boss will essentially pull out his weapon, then hold his left for a while and then smash the ground, creating a huge AoE, that can be quite punishing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This one should usually be dodged or blocked at anytime, to avoid putting too much stress on the healer, plus it can KD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Range target&lt;/strong&gt; - Krakatox will target someone at too far range, and throw a head after the target - simply iframe this one, and avoid standing too far away.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cage&lt;/strong&gt; - The boss will randomly target a person, again &lt;strong&gt;usually the one furthest away&lt;/strong&gt;, and you have to &lt;strong&gt;iframe this&lt;/strong&gt;, as you otherwise will get caged, and the dps’es will then have to &lt;strong&gt;kill that cage, before you’re able to move&lt;/strong&gt;, cast spells and so on again.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Little spike that appear under your character, indicate the cage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Laser&lt;/strong&gt; - The boss will target someone entirely at random, and a laser will be aimed at the targeted person.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You should try and aim the laser away from other people in the party.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The laser cannot be blocked, only iframed.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The timing is a bit weird, and it’s better to &lt;strong&gt;dodge towards the boss&lt;/strong&gt;, rather than away&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Different patters for Krakatox&lt;/strong&gt; - The attacks alternate, meaning that if he for example did a &lt;strong&gt;right/left swipe&lt;/strong&gt; the next one will be &lt;strong&gt;right swipe/laser&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If he did &lt;strong&gt;triple smash into front smash&lt;/strong&gt;, then the next one will be &lt;strong&gt;triple smash without front smash&lt;/strong&gt;, and that way he will always his attacks in a &lt;strong&gt;1&amp;gt;2&amp;gt;1&amp;gt;2&lt;/strong&gt; system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Crystal shard&lt;/strong&gt; - &lt;strong&gt;The first thing you want to make sure you master is the crystal.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The crystal is spawning every the text on the screen says &lt;strong&gt;“The Demokron shard has been created”&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;What you need to do is simply destroy it, since else it will wipe the party by exploding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You will get a debuff that will keep stacking, MAKING YOU LOSE HP but GAIN ATTACK POWER&lt;/strong&gt;. Prepare potions to ease out healers job.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f7&#34;&gt;
+&lt;h2&gt;Floor 7: Lakan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-7-lakan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-7-lakan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Essentially this boss doesn’t require a lot of teamwork, but it requires a huge amount of consistency and the ability to dodge shit around the arena.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-6&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-6&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f8&#34;&gt;
+&lt;h2&gt;Floor 8: Desolarus&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-8-desolarus&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-8-desolarus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-7&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-7&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f9&#34;&gt;
+&lt;h2&gt;Floor 9: Darkan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-9-darkan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-9-darkan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-8&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-8&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;f10&#34;&gt;
+&lt;h2&gt;Floor 10: Shandra Manaya&lt;span class=&#34;absolute -mt-20&#34; id=&#34;floor-10-shandra-manaya&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#floor-10-shandra-manaya&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-9&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Key Mechanics&lt;/center&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanicscenter-9&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanicscenter-9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;hr/&gt;
+&lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://essentialmana.com/dreadspire/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EssentialMana - Lowers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1C1DGTvWEVuGHLI-Jybm-oBv9iZIrK3ILipQACBHHWQI/edit#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trappiez (beginner) Guide for DS 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Harrowhold | Phase 1</title>
+      <link>https://tenacity-tera.eu/en/dungeon-guide/extreme/harrowhold-phase-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/en/dungeon-guide/extreme/harrowhold-phase-1/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/JgqosA2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Basic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Each party will have [5] people: [1] Tank and at least [1] Healer.&lt;br&gt;
+Each dragon will be manually enraged after engage. Afterwards [dragons enrage every 15%] of non-enraged HP.&lt;/p&gt;
+&lt;h3&gt;Debuff Mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;debuff-mechanic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#debuff-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;There are 4 colored circles  (White, Red, Orange and Yellow), each with a dragon. &lt;br&gt;Fighting inside this area will every 15seconds apply a stack of same colored debuff.
+White/Aquadrax &lt;img src=&#34;https://cdn.discordapp.com/emojis/777145915916025866.webp?size=44&amp;amp;quality=lossless&#34; alt=&#34;:aquadrax_debuff:&#34; loading=&#34;lazy&#34; /&gt; Orange/Ignidrax &lt;img src=&#34;https://cdn.discordapp.com/emojis/777145931233230858.webp?size=44&amp;amp;quality=lossless&#34; alt=&#34;:ignidrax_debuff:&#34; loading=&#34;lazy&#34; /&gt; Yellow/Terradrax &lt;img src=&#34;https://cdn.discordapp.com/emojis/777144891859795999.webp?size=44&amp;amp;quality=lossless&#34; alt=&#34;:terradrax_debuff:&#34; loading=&#34;lazy&#34; /&gt; Red/Umbradrax &lt;img src=&#34;https://cdn.discordapp.com/emojis/777145944701141002.webp?size=44&amp;amp;quality=lossless&#34; alt=&#34;:umbradrax_debuff:&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;At the beginning,each party will already have assigned dragon to start and which direction will the full raid rotate. (clockwise) First stack of debuff is automatically applied after &lt;strong&gt;first 10seconds&lt;/strong&gt; in the circle.&lt;br&gt;&lt;br&gt;
+&lt;strong&gt;[If you arent in any circle once the first or any other stack is applied, you will automatically die.]&lt;/strong&gt;
+If any of the dragons has no alive players inside of the circle, he will start healing himself and other dragons.&lt;/p&gt;
+&lt;h3&gt;Shield Mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;shield-mechanic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#shield-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Around 8 stacks or 2minutes into the fight, dragons will do a shield mechanic. It’ll be advised by a message saying &lt;strong&gt;“Dragons summon Vergos”&lt;/strong&gt;.&lt;/p&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/rLpRGe0.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;Break the shield and move quickly to the next circle.Your stacks will probably be on 9.&lt;/p&gt;
+&lt;h3&gt;Killing All Dragons + Timer Starts&lt;span class=&#34;absolute -mt-20&#34; id=&#34;killing-all-dragons--timer-starts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#killing-all-dragons--timer-starts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Having &lt;strong&gt;10 stacks of any color will automatically kill you&lt;/strong&gt; and you won&amp;rsquo;t be able to resurrect for the whole phase.&lt;/p&gt;
+&lt;p&gt;Parties who have killed the first dragon should rotate to the next dragon and help killing it, then keep rotating.&lt;/p&gt;
+&lt;p&gt;After the first dragon has been killed, a 60s timer starts with the message &amp;ldquo;Dragons are getting angrier!&amp;rdquo;. &lt;br&gt;
+After 30s, you will get another message saying &lt;strong&gt;&amp;ldquo;Dragons will be enraged in 30 seconds&amp;rdquo;&lt;/strong&gt;. All dragons still alive when the timer has run out will gain massive damage and attack speed buff.&lt;/p&gt;
+&lt;p&gt;With &lt;strong&gt;60s timer after first dragon is killed&lt;/strong&gt;,DPS should be careful so the HP difference of dragons isnt too high.&lt;/p&gt;
+&lt;p&gt;Optimally, each party should do 25-30% dps per rotation, but some might do more some might do less. The &lt;strong&gt;difference should never get too big&lt;/strong&gt; (ex. 2%HP white dragon and 40%HP red dragon).&lt;/p&gt;
+&lt;h2&gt;White Dragon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;white-dragon&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#white-dragon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Yellow Dragon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;yellow-dragon&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#yellow-dragon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Orange Dragon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;orange-dragon&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#orange-dragon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Red Dragon&lt;span class=&#34;absolute -mt-20&#34; id=&#34;red-dragon&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#red-dragon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>
