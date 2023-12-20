@@ -89,7 +89,7 @@ At **70%** the boss will gain this buff, increasing his damage done by 2%.
 <br>
 
 <center>
-<video controls>
+<video controls height="246" width="604">
   <source src="https://i.imgur.com/Yj2MTYh.mp4" type="video/mp4">
 </video></center>
 
@@ -119,7 +119,7 @@ if he Starts the combo with Right hand = Whirlwind.
 <br>
 
 <center>
-<video controls>
+<video controls height="246" width="604">
   <source src="https://i.imgur.com/BQduorp.mp4" type="video/mp4">
 </video></center>
 
@@ -184,7 +184,7 @@ All of this consist of berserker auto attack animations and to save time ill cal
 <br>
 
 <center>
-<video controls>
+<video controls height="246" width="604">
   <source src="https://i.imgur.com/GmOjEJ4.mp4" type="video/mp4">
 </video></center>
 
@@ -194,7 +194,7 @@ All of this consist of berserker auto attack animations and to save time ill cal
 <br>
 
 <center>
-<video controls>
+<video controls height="246" width="604">
   <source src="https://i.imgur.com/8yHAz8o.mp4" type="video/mp4">
 </video></center>
 
@@ -204,7 +204,7 @@ All of this consist of berserker auto attack animations and to save time ill cal
 <br>
 
 <center>
-<video controls>
+<video controls height="246" width="604">
   <source src="https://i.imgur.com/LjH4xkR.mp4" type="video/mp4">
 </video></center>
 
@@ -222,7 +222,7 @@ Those guys back there... are infuriating... ->  **targetting furthest person**.
 <br>
 
 <center>
-<video controls>
+<video controls height="246" width="604">
   <source src="https://i.imgur.com/88BF4SN.mp4" type="video/mp4">
 </video></center>
 
@@ -260,7 +260,7 @@ The boss will quickly put his axe over his right shoulder and rear back and stom
 <br>
 
 <center>
-<video controls>
+<video controls height="246" width="604">
   <source src="https://i.imgur.com/RoSgiVv.mp4" type="video/mp4">
 </video></center>
 
