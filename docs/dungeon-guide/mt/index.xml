@@ -993,7 +993,7 @@ Also &lt;strong&gt;every time the boss shouts&lt;/strong&gt;, either from someon
 &lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;90% Closest/Furthest Debuff&lt;span class=&#34;absolute -mt-20&#34; id=&#34;90-closestfurthest-debuff&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#90-closestfurthest-debuff&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The boss will stand up straight and say a message, either:&lt;/p&gt;
-&lt;p&gt;
+
 
 
 
@@ -1024,7 +1024,13 @@ Those guys back there&amp;hellip; are infuriating&amp;hellip; -&amp;gt;  &lt;str
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/88BF4SN.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
 This will give a 45 second long ice debuff to closest or furthest depending on the message. &lt;br&gt;This will &lt;strong&gt;slow you by 10%&lt;/strong&gt; for 90 seconds.
 &lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321421769179156/closest_furthest_2_stack.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
 This mechanic happens every &lt;strong&gt;45 seconds&lt;/strong&gt; and if you take 2 in a row, you will be &lt;strong&gt;frozen&lt;/strong&gt; and instantly die.&lt;/p&gt;
@@ -1062,11 +1068,6 @@ Try to avoid the tank taking it, as you dont want ice puddles being thrown at th
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;br&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/88BF4SN.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
 &lt;h4&gt;Snowball Puddles&lt;span class=&#34;absolute -mt-20&#34; id=&#34;snowball-puddles&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#snowball-puddles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;There is a &lt;strong&gt;frost giant chained to the north wall&lt;/strong&gt; and he will &lt;strong&gt;target&lt;/strong&gt; people specifically with the 45 second debuff.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;

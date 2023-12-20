@@ -218,6 +218,16 @@ The boss will stand up straight and say a message, either:
 The guys nearby... are annoying... ->  **targetting closest person**.<br>
 Those guys back there... are infuriating... ->  **targetting furthest person**.
 {{< /callout >}}
+
+<br>
+
+<center>
+<video controls>
+  <source src="https://i.imgur.com/88BF4SN.mp4" type="video/mp4">
+</video></center>
+
+<br>
+
 ![](https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png)
 This will give a 45 second long ice debuff to closest or furthest depending on the message. <br>This will **slow you by 10%** for 90 seconds.
 ![](https://cdn.discordapp.com/attachments/804308617703850014/804321421769179156/closest_furthest_2_stack.png)
@@ -228,13 +238,6 @@ This mechanic happens every **45 seconds** and if you take 2 in a row, you will 
 [HARD MODE] The furthest/closest mechanic will now target **2 people at a time**, need to alternate similar to RMHM.<br>
 Try to avoid the tank taking it, as you dont want ice puddles being thrown at the tank **ever**.
 {{< /callout >}}
-
-<br>
-
-<center>
-<video controls>
-  <source src="https://i.imgur.com/88BF4SN.mp4" type="video/mp4">
-</video></center>
 
 #### Snowball Puddles
 
