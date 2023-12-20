@@ -681,11 +681,122 @@ When Kerkion is at 95% HP, two other NPC’s will spawn, a healer and a DPS, how
   &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;br&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      [HARD MODE] At 45%, Inner and Outer Donuts patterns speeds up considerably.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Red Fist Above 45%&lt;/td&gt;
+        &lt;td&gt;[HARD MODE ONLY] Red Fist Under 45%&lt;/td&gt;
+      &lt;/tr&gt;        
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/Dpz3XJr.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/vt4bS7j.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Blue Fist Above 45%&lt;/td&gt;
+        &lt;td&gt;[HARD MODE ONLY] Blue Fist Under 45%&lt;/td&gt;
+      &lt;/tr&gt;        
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/0O15EMX.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/XPlrueb.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Both of these are actually easier to dodge if you go 2 donuts out/in.&lt;br&gt;
+If its &lt;strong&gt;Red&lt;/strong&gt;, go to 14m.&lt;br&gt;
+If its &lt;strong&gt;Blue&lt;/strong&gt;, go to 10m.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h4&gt;Increasing Power&lt;span class=&#34;absolute -mt-20&#34; id=&#34;increasing-power&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#increasing-power&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;At &lt;strong&gt;70%&lt;/strong&gt; the boss will gain this buff, increasing his damage done by 2%.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This will &lt;strong&gt;stack every 60 seconds&lt;/strong&gt; for the rest of the fight.&lt;/li&gt;
+&lt;li&gt;This is &lt;strong&gt;removable with plague/regression&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/Yj2MTYh.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804327907950198794/2_damage_increase_over_time.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h4&gt;65% Unleash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;65-unleash&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#65-unleash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Once below 65%, the boss will begin casting an unleash.&lt;/p&gt;
@@ -736,6 +847,11 @@ When Kerkion is at 95% HP, two other NPC’s will spawn, a healer and a DPS, how
 
 &lt;p&gt;If he Starts the combo with Left hand = Rampages&lt;br&gt;
 if he Starts the combo with Right hand = Whirlwind.&lt;/p&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/BQduorp.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;ul&gt;
 &lt;li&gt;If his target dies or he changes targets, he will restart this combo!&lt;br&gt;
 He must get &lt;strong&gt;3 finishers off to exit unleash&lt;/strong&gt;, the finishers are the 3rd rampage or the whirlwind followed by a shout.&lt;/li&gt;
@@ -851,14 +967,29 @@ Also &lt;strong&gt;every time the boss shouts&lt;/strong&gt;, either from someon
 &lt;ul&gt;
 &lt;li&gt;The first hit staggers and the second hit of the spin at the end knocks you back, all blockable and shieldable.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/GmOjEJ4.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;p&gt;&lt;strong&gt;Down, Up, Down, Thunderstrike&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The thunderstrike at the end will knock you down if hit, iframe it.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/8yHAz8o.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;p&gt;&lt;strong&gt;Down, Up, Turn around, Cyclone&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;If the tank chases while the boss turns around, he will be body blocked and not move while doing cyclone.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/LjH4xkR.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;90% Closest/Furthest Debuff&lt;span class=&#34;absolute -mt-20&#34; id=&#34;90-closestfurthest-debuff&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#90-closestfurthest-debuff&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The boss will stand up straight and say a message, either:&lt;/p&gt;
@@ -931,6 +1062,11 @@ Try to avoid the tank taking it, as you dont want ice puddles being thrown at th
   &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/88BF4SN.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;h4&gt;Snowball Puddles&lt;span class=&#34;absolute -mt-20&#34; id=&#34;snowball-puddles&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#snowball-puddles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;There is a &lt;strong&gt;frost giant chained to the north wall&lt;/strong&gt; and he will &lt;strong&gt;target&lt;/strong&gt; people specifically with the 45 second debuff.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
@@ -945,6 +1081,11 @@ Try to avoid the tank taking it, as you dont want ice puddles being thrown at th
 &lt;ul&gt;
 &lt;li&gt;Kaia and iframe will dodge it, blocking doesnt work.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/RoSgiVv.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;p&gt;After the boss will do one of 3 different attacks, based on a glow he gets around certain parts of him.&lt;/p&gt;
 
 
@@ -985,96 +1126,14 @@ Try to avoid the tank taking it, as you dont want ice puddles being thrown at th
 &lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308617703850014/804323670129901599/stunnable.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;If anyone can react to the stomp fast enough, &lt;strong&gt;you can prevent both the stomp and the following attack&lt;/strong&gt; after.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;This mechanic has a &lt;strong&gt;45 second cd&lt;/strong&gt; and very often lines up right after the closest/furthest debuff.&lt;/li&gt;
+&lt;li&gt;This mechanic has a &lt;strong&gt;45 second cd&lt;/strong&gt; and very often lines up right after the &lt;strong&gt;closest/furthest debuff&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        🚫
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      [HARD MODE] At 45%, Inner and Outer Donuts patterns speeds up considerably.
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Blue AoE above 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/0O15EMX.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Blue AoE under 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/TgOpT9G.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Red AoE above 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/Dpz3XJr.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Red AoE under 45% in HARD MODE&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/sf6VlUy.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      Both of these are actually easier to dodge if you go 2 donuts out/in.&lt;br&gt;
-If its &lt;strong&gt;Red&lt;/strong&gt;, go to 14m.&lt;br&gt;
-If its &lt;strong&gt;Blue&lt;/strong&gt;, go to 10m.
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
 &lt;h3&gt;HARD MODE ONLY&lt;span class=&#34;absolute -mt-20&#34; id=&#34;hard-mode-only&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#hard-mode-only&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Starting from &lt;strong&gt;100-95% the boss will gain a buff every 35-55 seconds&lt;/strong&gt; for the the entire fight:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308665606864916/804342197922824212/delayed_power_buff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;When this buff times out, it will give him a stack of increasing power.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;This is &lt;strong&gt;removable with plague/regression&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;This is &lt;strong&gt;removable with plague/regression&lt;/strong&gt; as written in &lt;a href=&#34;#increasing-power&#34; &gt;Increasing Power&lt;/a&gt; in first section.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/804308665606864916/804342313597665280/2_damage_increase_over_time.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
 This is separate from gaining it over time starting at 70%.&lt;/p&gt;

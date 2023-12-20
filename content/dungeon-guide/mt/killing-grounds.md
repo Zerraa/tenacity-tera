@@ -22,10 +22,76 @@ Starting at **80% then every 70-80 seconds**, the boss will stand straight and h
 - 4 waves of donuts will spawn moving quickly.
 {{< /callout >}}
 
+<br>
+
+{{< callout type="error" >}}
+[HARD MODE] At 45%, Inner and Outer Donuts patterns speeds up considerably.
+{{< /callout >}}
+
+<br>
+
+<center>
+<table>
+   <tbody>
+      <tr>
+        <td>Red Fist Above 45%</td>
+        <td>[HARD MODE ONLY] Red Fist Under 45%</td>
+      </tr>        
+      <tr>
+         <td><video width="320" height="240" controls>
+              <source src="https://i.imgur.com/Dpz3XJr.mp4" type="video/mp4">
+             </video>
+         </td>
+         <td><video width="320" height="240" controls>
+              <source src="https://i.imgur.com/vt4bS7j.mp4" type="video/mp4">
+             </video>
+         </td>
+      </tr>
+   </tbody>
+</table>
+</center>
+
+<br>
+
+<center>
+<table>
+   <tbody>
+      <tr>
+        <td>Blue Fist Above 45%</td>
+        <td>[HARD MODE ONLY] Blue Fist Under 45%</td>
+      </tr>        
+      <tr>
+         <td><video width="320" height="240" controls>
+              <source src="https://i.imgur.com/0O15EMX.mp4" type="video/mp4">
+             </video>
+         </td>
+         <td><video width="320" height="240" controls>
+              <source src="https://i.imgur.com/XPlrueb.mp4" type="video/mp4">
+             </video>
+         </td>
+      </tr>
+   </tbody>
+</table>
+</center>
+
+{{< callout type="info" >}}
+Both of these are actually easier to dodge if you go 2 donuts out/in.<br>
+If its **Red**, go to 14m.<br>
+If its **Blue**, go to 10m.
+{{< /callout >}}
+
 #### Increasing Power
 
 At **70%** the boss will gain this buff, increasing his damage done by 2%. 
 * This will **stack every 60 seconds** for the rest of the fight.
+* This is **removable with plague/regression**. 
+
+<br>
+
+<center>
+<video controls>
+  <source src="https://i.imgur.com/Yj2MTYh.mp4" type="video/mp4">
+</video></center>
 
 ![](https://cdn.discordapp.com/attachments/804308617703850014/804327907950198794/2_damage_increase_over_time.png)
 
@@ -49,6 +115,13 @@ The **First Unleash** goes like this:<br>
 
 If he Starts the combo with Left hand = Rampages<br>
 if he Starts the combo with Right hand = Whirlwind. 
+
+<br>
+
+<center>
+<video controls>
+  <source src="https://i.imgur.com/BQduorp.mp4" type="video/mp4">
+</video></center>
 
 * If his target dies or he changes targets, he will restart this combo!<br>
 He must get **3 finishers off to exit unleash**, the finishers are the 3rd rampage or the whirlwind followed by a shout. 
@@ -108,11 +181,32 @@ All of this consist of berserker auto attack animations and to save time ill cal
 **Down, Down, Up, Knockback spin**
 * The first hit staggers and the second hit of the spin at the end knocks you back, all blockable and shieldable.
 
+<br>
+
+<center>
+<video controls>
+  <source src="https://i.imgur.com/GmOjEJ4.mp4" type="video/mp4">
+</video></center>
+
 **Down, Up, Down, Thunderstrike**
 * The thunderstrike at the end will knock you down if hit, iframe it.
 
+<br>
+
+<center>
+<video controls>
+  <source src="https://i.imgur.com/8yHAz8o.mp4" type="video/mp4">
+</video></center>
+
 **Down, Up, Turn around, Cyclone**
 * If the tank chases while the boss turns around, he will be body blocked and not move while doing cyclone.
+
+<br>
+
+<center>
+<video controls>
+  <source src="https://i.imgur.com/LjH4xkR.mp4" type="video/mp4">
+</video></center>
 
 ### Special attacks 
 
@@ -135,6 +229,12 @@ This mechanic happens every **45 seconds** and if you take 2 in a row, you will 
 Try to avoid the tank taking it, as you dont want ice puddles being thrown at the tank **ever**.
 {{< /callout >}}
 
+<br>
+
+<center>
+<video controls>
+  <source src="https://i.imgur.com/88BF4SN.mp4" type="video/mp4">
+</video></center>
 
 #### Snowball Puddles
 
@@ -154,6 +254,13 @@ These puddles last a long time so placing them well matters for later.
 The boss will quickly put his axe over his right shoulder and rear back and stomp, knocking everyone down. 
 * Kaia and iframe will dodge it, blocking doesnt work.
 
+<br>
+
+<center>
+<video controls>
+  <source src="https://i.imgur.com/RoSgiVv.mp4" type="video/mp4">
+</video></center>
+
 After the boss will do one of 3 different attacks, based on a glow he gets around certain parts of him.
 
 {{< callout type="warning" >}}
@@ -172,45 +279,7 @@ The **instant the boss starts stomping**, he will lose this buff for 2 seconds, 
 ![](https://cdn.discordapp.com/attachments/804308617703850014/804323670129901599/stunnable.png)
 
 If anyone can react to the stomp fast enough, **you can prevent both the stomp and the following attack** after.
-* This mechanic has a **45 second cd** and very often lines up right after the closest/furthest debuff.
-
-{{< callout type="error" >}}
-[HARD MODE] At 45%, Inner and Outer Donuts patterns speeds up considerably.
-{{< /callout >}}
-
-**Blue AoE above 45% in HARD MODE**
-
-<center>
-<video controls>
-  <source src="https://i.imgur.com/0O15EMX.mp4" type="video/mp4">
-</video></center>
-
-**Blue AoE under 45% in HARD MODE**
-
-<center>
-<video controls>
-  <source src="https://i.imgur.com/TgOpT9G.mp4" type="video/mp4">
-</video></center>
-
-**Red AoE above 45% in HARD MODE**
-
-<center>
-<video controls>
-  <source src="https://i.imgur.com/Dpz3XJr.mp4" type="video/mp4">
-</video></center>
-
-**Red AoE under 45% in HARD MODE**
-
-<center>
-<video controls>
-  <source src="https://i.imgur.com/sf6VlUy.mp4" type="video/mp4">
-</video></center>
-
-{{< callout type="info" >}}
-Both of these are actually easier to dodge if you go 2 donuts out/in.<br>
-If its **Red**, go to 14m.<br>
-If its **Blue**, go to 10m.
-{{< /callout >}}
+* This mechanic has a **45 second cd** and very often lines up right after the **closest/furthest debuff**.
 
 ### HARD MODE ONLY
 
@@ -219,7 +288,7 @@ Starting from **100-95% the boss will gain a buff every 35-55 seconds** for the 
 ![](https://cdn.discordapp.com/attachments/804308665606864916/804342197922824212/delayed_power_buff.png)
 
 When this buff times out, it will give him a stack of increasing power. 
-* This is **removable with plague/regression**. 
+* This is **removable with plague/regression** as written in [Increasing Power](#increasing-power) in first section.
 
 ![](https://cdn.discordapp.com/attachments/804308665606864916/804342313597665280/2_damage_increase_over_time.png)
 This is separate from gaining it over time starting at 70%.
