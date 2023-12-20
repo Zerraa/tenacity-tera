@@ -93,7 +93,9 @@ At **70%** the boss will gain this buff, increasing his damage done by 2%.
   <source src="https://i.imgur.com/Yj2MTYh.mp4" type="video/mp4">
 </video></center>
 
-![](https://cdn.discordapp.com/attachments/804308617703850014/804327907950198794/2_damage_increase_over_time.png)
+| Icon | Effect |
+| --- | --- |
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804327907950198794/2_damage_increase_over_time.png) | Increases Gardan's damage by 2% per stack. This mechanic will happen very often, make sure to kill him before the fight becomes very hard.|
 
 #### 65% Unleash
 
@@ -101,10 +103,11 @@ Once below 65%, the boss will begin casting an unleash.
 * This will also create a cage that will limit the amount of space you have.
 * Once in unleash, the boss will gain a buff: 
 
-![](https://cdn.discordapp.com/attachments/804308617703850014/804328760241160232/unleash_power_increase.png)
+| Icon | Effect |
+| --- | --- |
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804328760241160232/unleash_power_increase.png) | This gives him 20% movement speed and 30% attack speed inside of Unleash.|
 
-This gives him 20% movement speed and 30% attack speed.
-* The boss in unleash is entirely combo based and the unleash will not end until he reaches a certain amount.
+The boss in unleash is entirely combo based and the unleash will not end until he reaches a certain amount.
 
 {{< callout type="info" >}}
 The **First Unleash** goes like this:<br>
@@ -135,7 +138,9 @@ The Second Unleash will gain some new stuff added to it.
 * If everyone **stays near the boss**, he will **only target the tank** like the first unleash.
 * If people are **far away enough from the boss**, he will instead **target them or a random person** with a focus target. 
 
-![](https://cdn.discordapp.com/attachments/804308617703850014/804331183705817168/unleash_focus_target.png)
+| Icon | Effect |
+| --- | --- |
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804331183705817168/unleash_focus_target.png) | Gardan targets you, go close to tank and let them block for you, otherwise you will die.|
 
 This means the boss will focus that player for his entire combo or until they die.
 * The person with this eye needs to quickly go to the tank and **let the tank block** for them.
@@ -159,9 +164,10 @@ In order for the boss to exit unleash, he will **need to do 3 total shouts** aft
 Finally at 1%, the boss will go immune to damage and cast his final unleash.
 * This unleash will never end until he dies or you do.
 
-![](https://cdn.discordapp.com/attachments/804308617703850014/804334522614939668/shield_buff.png)
+| Icon | Effect |
+| --- | --- |
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804334522614939668/shield_buff.png) | He also gains a **shield** that you must first break through before finishing him off. |
 
-He also gains a **shield** for 700k that you must first break through before finishing his hp.
 The final unleash will **ALWAYS** trigger a focus debuff on someone after shouting.
 * Unlike the other unleashes, the boss will start this one with a shout which applies the focus target on a random person. 
 * **Anytime the combo string ends the shout will apply it again randomly to any person in party, excluding healers.** 
@@ -226,11 +232,14 @@ Those guys back there... are infuriating... ->  **targetting furthest person**.
   <source src="https://i.imgur.com/88BF4SN.mp4" type="video/mp4">
 </video></center>
 
-<br>
 
-![](https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png)
-This will give a 45 second long ice debuff to closest or furthest depending on the message. <br>This will **slow you by 10%** for 90 seconds.
-![](https://cdn.discordapp.com/attachments/804308617703850014/804321421769179156/closest_furthest_2_stack.png)
+This will give a 45 second long ice debuff to closest or furthest depending on the message. <br>This will **slow you by 10%** for 90 seconds.<br>
+
+| Icon | Effect |
+| --- | --- |
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png) | This effect shows that you took furthest or closest debuff. Avoid taking 2 stacks of this.|
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804321421769179156/closest_furthest_2_stack.png) | If you took 2 stacks of debuff, you will be frozen solid and die. |
+
 This mechanic happens every **45 seconds** and if you take 2 in a row, you will be **frozen** and instantly die.
 * Rotate between healer and a mobile dps. But why not tank and healer you ask? it interacts with a different mechanic.
 
@@ -243,12 +252,12 @@ Try to avoid the tank taking it, as you dont want ice puddles being thrown at th
 
 There is a **frost giant chained to the north wall** and he will **target** people specifically with the 45 second debuff.
 
-![](https://cdn.discordapp.com/attachments/804308617703850014/804321286243221514/closest_furthest_debuff.png)
+| Icon | Effect |
+| --- | --- |
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804328500072677406/ice_stacks.png) | Reaching 10 stacks of this will freeze you solid in place, killing you. If you wont die instantly, the boss will trigger a fake out attack on you. |
 
 He will **spit a giant snowball** at them that will home in until it hits, creating a **puddle of ice** on that spot.
 * Standing in an ice puddle and every single attack he does in unleash will apply a **frost stack**.<br>Reaching 10 stacks of this will freeze you solid, killing you.
-
-![](https://cdn.discordapp.com/attachments/804308617703850014/804328500072677406/ice_stacks.png)
 
 These puddles last a long time so placing them well matters for later.
 
@@ -275,11 +284,10 @@ After the boss will do one of 3 different attacks, based on a glow he gets aroun
 When you engage the boss at 100% he will have a buff for the entire fight:
 <br>This makes him immune to stuns.
 
-![](https://cdn.discordapp.com/attachments/804308617703850014/804323470368047114/immune_to_stun_buff.png)
-
-The **instant the boss starts stomping**, he will lose this buff for 2 seconds, replaced by a buff that makes him **vulnerable to stuns**:
-
-![](https://cdn.discordapp.com/attachments/804308617703850014/804323670129901599/stunnable.png)
+| Icon | Effect |
+| --- | --- |
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804323470368047114/immune_to_stun_buff.png) | The **instant the boss starts stomping**, he will lose this buff for 2 seconds, replaced by a buff that makes him **vulnerable to stuns**.|
+| ![](https://cdn.discordapp.com/attachments/804308617703850014/804323670129901599/stunnable.png) | This effect makes him vulnerable to stuns for short period of time.|
 
 If anyone can react to the stomp fast enough, **you can prevent both the stomp and the following attack** after.
 * This mechanic has a **45 second cd** and very often lines up right after the **closest/furthest debuff**.
@@ -288,14 +296,11 @@ If anyone can react to the stomp fast enough, **you can prevent both the stomp a
 
 Starting from **100-95% the boss will gain a buff every 35-55 seconds** for the the entire fight:
 
-![](https://cdn.discordapp.com/attachments/804308665606864916/804342197922824212/delayed_power_buff.png)
+| Icon | Effect |
+| --- | --- |
+| ![](https://cdn.discordapp.com/attachments/804308665606864916/804342197922824212/delayed_power_buff.png) | When this buff times out, it will give him a stack of increasing power.<br>This is **removable with plague/regression** as written in [Increasing Power](#increasing-power) in first section.|
+| ![](https://cdn.discordapp.com/attachments/804308665606864916/804342313597665280/2_damage_increase_over_time.png) | This is separate from gaining it over time starting at 70%.<br>The result is he will have many more stacks over a short period of time, you can't stall hardmode forever with low dps.|
 
-When this buff times out, it will give him a stack of increasing power. 
-* This is **removable with plague/regression** as written in [Increasing Power](#increasing-power) in first section.
-
-![](https://cdn.discordapp.com/attachments/804308665606864916/804342313597665280/2_damage_increase_over_time.png)
-This is separate from gaining it over time starting at 70%.
-* The result is he will have many more stacks over a short period of time, you can't stall hardmode forever with low dps.<br>
 {{< callout type="error" >}}
 There will be nothing left of you!
 {{< /callout >}}<br>
@@ -312,6 +317,10 @@ Where do you think you are going, (player name)?
 {{< /callout >}}
 
 </div>
+
+<br>
+
+<hr>
 
 <center><h3>Sources</h3></center>
 
