@@ -280,15 +280,17 @@ After several seconds, a Fireball will land on the circle (iframeable) and leave
 &lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
   &lt;source src=&#34;https://i.imgur.com/spS1h3R.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Right Hand Drag&lt;/strong&gt; - Bahaar has a basic attack which is meant to test your skill as a Tank, called the Hilt Attack.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bahaar will wind up then hit you with the hilt of his hammer.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Right Hand Drag&lt;/strong&gt; - The Drag needs to be blocked by the tank by rotating your camera and blocking backwards.&lt;/p&gt;
 &lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
   &lt;source src=&#34;https://i.imgur.com/OoTnEFd.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Hilt Attack&lt;/strong&gt; - Bahaar has a basic attack which is meant to test your skill as a Tank, called the Hilt Attack.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;This attack is not iframeable, so the Tank must block it.
+&lt;li&gt;
+&lt;p&gt;Bahaar will wind up then hit you with the hilt of his hammer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This attack is not iframeable, so the Tank must block it.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Perfect Blocking this attack will make it deal greatly reduced damage and prevent being one-shot.&lt;/li&gt;
 &lt;/ul&gt;
@@ -296,23 +298,21 @@ After several seconds, a Fireball will land on the circle (iframeable) and leave
 &lt;/ul&gt;
 &lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
   &lt;source src=&#34;https://i.imgur.com/1K1uyCI.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;  
+&lt;/video&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;The Hilt Attack is not iframeable, and will likely one-shot if you normal block. If Bahaar is enraged, he will do a double Hilt Attack instead of a single.
 &lt;ul&gt;
 &lt;li&gt;During enrage, Bahaar will always have a short delay during the windup of the Hilt Attack, and will do a double Hilt Attack.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Hilt Attack&lt;/strong&gt; - Bahaar has a ranged check, a special attack he does if anyone is more than 8m away from the boss. Hence, always try to stay near the boss to avoid triggering this.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;If he picks up the &lt;strong&gt;hammer with his right hand&lt;/strong&gt;, he follows this with an outer Donut.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If he picks up the &lt;strong&gt;hammer with his left hand&lt;/strong&gt;, he will summon it back to him and Crush a large AoE in front of him.&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Range Check&lt;/strong&gt; - Bahaar has a ranged check, a special attack he does if anyone is more than 8m away from the boss. Hence, always try to stay near the boss to avoid triggering this.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If he picks up the &lt;strong&gt;hammer with his right hand&lt;/strong&gt;, he follows this with an outer Donut.&lt;/li&gt;
+&lt;li&gt;If he picks up the &lt;strong&gt;hammer with his left hand&lt;/strong&gt;, he will summon it back to him and Crush a large AoE in front of him.
 &lt;ul&gt;
 &lt;li&gt;The Hammer Throw is iframeable, but the Donut and Crush are neither iframeable nor blockable.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The Hilt Attack is not iframeable, and will likely one-shot if you normal block. If Bahaar is enraged, he will do a double Hilt Attack instead of a single.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Left Hand Drag&lt;/strong&gt; - Same as in Phase 1&lt;/p&gt;
