@@ -1,3 +1,3 @@
 ---
-title: "MT: The Dream Patch Notes Archive"
+title: "MT The Dream Patch Notes Archive"
 ---
