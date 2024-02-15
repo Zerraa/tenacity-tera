@@ -63,6 +63,16 @@ MT The Dream changed Rally BAMs significantly with Patch 2.0. There are now PvP,
 - **PvE BAMs** provide materials to help you **upgrade your gear** further.
 - **PvP BAMs** provide materials to **craft your new PvP Jewelry** set.
 
+| **DAY** | **TYPE** | **BAM** | **TIME** | **LOCATION** |
+|:------------|-----------|-----------|-----------|:---------:|
+|    MONDAY    |     PVE/PVP     |     SABRANAK     |     18:00-22:00 UTC     |     HOWLING GLACIER/FROST REACH     |
+|    TUESDAY   |     PVP     |     TANTIBUS     |     18:30 UTC     |     VELIKA OUTSKIRTS     |
+|   WEDNESDAY  |     -     |     -     |     -     |     -     |
+|   THURSDAY   |     PVE     |     EMBERMAW     |     17:00-19:00 UTC     |     BALDERA DISTRICT     |
+|    FRIDAY    |     PVP     |     NORUK     |     19:00 UTC     |     FEY FOREST     |
+|    SATURDAY    |     -     |     -     |     -     |     -     |
+|    SUNDAY    |     PVP     |     ARGENTUS     |     17:30 UTC     |     CIVIL UNREST     |
+
 <center>
 
 <hr>
