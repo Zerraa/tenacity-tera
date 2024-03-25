@@ -5,7 +5,7 @@
     <description>Recent content in MT The Dream Patch Notes on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://tenacity-tera.eu/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,1305 @@
         
       
     
+    
+    <item>
+      <title>MT The Dream 2.3.6</title>
+      <link>https://tenacity-tera.eu/blog/2024-03-19-p2.3.6/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/blog/2024-03-19-p2.3.6/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;[Event] Paesyn&amp;rsquo;s Valentines Splash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;event-paesyns-valentines-splash&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#event-paesyns-valentines-splash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;As of &lt;a href=&#34;https://docs.google.com/document/d/1ze2Qe6CfqP7No5bkl-cgulTXcB5dN_crIhIGmnQfJx0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last patch&lt;/a&gt;, no new [Event] Monster Pieces can be obtained but all other portions of the event remained active, dubbed the &amp;ldquo;Sunset period&amp;rdquo;. This portion of the event will continue until the release of our upcoming major patch.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use this time to fish with the last of your [Event] Monster Pieces, obtain the last [Event] Waterlogged Letters needed for reward(s) you want, or trade with other players!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Classes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;classes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#classes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Gunner&lt;span class=&#34;absolute -mt-20&#34; id=&#34;gunner&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gunner&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mana Missiles, Obliteration and Time Bomb&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the aforementioned skills&amp;rsquo; projectile speeds to mismatch their intended value.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Reaper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;reaper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reaper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cable Step&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Fixed an issue made in a &lt;a href=&#34;https://docs.google.com/document/d/1ze2Qe6CfqP7No5bkl-cgulTXcB5dN_crIhIGmnQfJx0/edit#heading=h.t7d5izu2qp8b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous nerf&lt;/a&gt; which erroneously reduced the effectiveness of Shadow Reaping&amp;rsquo;s Cooldown Reduction from 70% → 43% on every skill rather than just Cable Step.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MT The Dream 2.3.5</title>
+      <link>https://tenacity-tera.eu/blog/2024-03-11-p2.3.5/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/blog/2024-03-11-p2.3.5/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;[Event] Paesyn&amp;rsquo;s Valentines Splash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;event-paesyns-valentines-splash&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#event-paesyns-valentines-splash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Event Period: The event has ended. Thank you for participating!&lt;/p&gt;
+&lt;p&gt;Sunset Period: March 12 ~ March 19&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;You can no longer obtain [Event] Monster Pieces from vanguards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;All other parts of the event will remain active until the end of the &amp;ldquo;Sunset Period&amp;rdquo;: March 19th.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use this time to fish with the last of your [Event] Monster Pieces, obtain the last [Event] Waterlogged Letters needed for reward(s) you want, or trade with other players!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Classes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;classes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#classes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Berserker&lt;span class=&#34;absolute -mt-20&#34; id=&#34;berserker&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#berserker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fiery Rage&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced base cooldown from 50 → 35 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No longer receives extra cooldown reduction while under the effects of Intimidation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Ninja&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ninja&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ninja&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Burning Heart&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Fraywind Canyon, Gridiron, Shore Hold] Fixed an issue made in a &lt;a href=&#34;https://docs.google.com/document/d/19cf6PzyQ6fJ_M1cDH-n6ta2q7AZkZPGI84XpSK1eHqw/edit#heading=h.qh120qpykfhn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous nerf&lt;/a&gt; which erroneously reduced damage by an additional 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Harmonious Burning Heart&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Fraywind Canyon, Gridiron, Shore Hold] Fixed an issue made in a &lt;a href=&#34;https://docs.google.com/document/d/19cf6PzyQ6fJ_M1cDH-n6ta2q7AZkZPGI84XpSK1eHqw/edit#heading=h.qh120qpykfhn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous nerf&lt;/a&gt; which erroneously reduced damage by an additional 30%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Reaper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;reaper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reaper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cable Step&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Skill cooldown reduction while under the effects of Shadow Reaping reduced from 70% → 43%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Warrior&lt;span class=&#34;absolute -mt-20&#34; id=&#34;warrior&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#warrior&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Battle Cry&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Now guaranteed to stun the closest target within 2.5 meters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You cannot stun players with stun immunity, for example provided by Guardian Sanctuary or Tenacity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Backstab&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Decreased stun duration while under the effects of Defensive Stance by 50%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This reduces the base stun duration from 2.6 → 1.3 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[PvP] Battlegrounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-battlegrounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pvp-battlegrounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Gridiron&lt;span class=&#34;absolute -mt-20&#34; id=&#34;gridiron&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gridiron&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Increased the damage buff for all classes from 3.5% → 15%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced the amount of tank classes needed from 2 ~ 3 → 1 ~ 2 per team.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Changed the Barrier Monolith effect as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OLD: Increased Power by 50%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NEW: Increases Skill Damage by 20%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted the Astrum Coin shop.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added Bad Wolf costume.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Swapped various cosmetics that were using a different region&amp;rsquo;s name.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;These cosmetics are still available, but with a different name for consistency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed duplicate weapon skins.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed duplicate back, face and hair accessories.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Bug Fixes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;bug-fixes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bug-fixes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Fixed a clipping issue with Dyeable Angel Wings.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MT The Dream 2.3.4</title>
+      <link>https://tenacity-tera.eu/blog/2024-02-22-p2.3.4/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/blog/2024-02-22-p2.3.4/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Dungeons&lt;span class=&#34;absolute -mt-20&#34; id=&#34;dungeons&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#dungeons&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Crimson Killing Grounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;crimson-killing-grounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#crimson-killing-grounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Reduced HP by approximately 5.38%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Frozen Bahaar&amp;rsquo;s Sanctum&lt;span class=&#34;absolute -mt-20&#34; id=&#34;frozen-bahaars-sanctum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#frozen-bahaars-sanctum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Reduced HP by approximately 3.125%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Classes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;classes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#classes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Slayer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;slayer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#slayer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;[PvE] Increased overall damage by 1.2%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Valkyrie&lt;span class=&#34;absolute -mt-20&#34; id=&#34;valkyrie&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#valkyrie&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;[PvE] Reduced overall damage by 2.6%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Gunner&lt;span class=&#34;absolute -mt-20&#34; id=&#34;gunner&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gunner&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Bombardment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the knockdown immunity effect to persist after canceling the skill.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Mystic, Priest&lt;span class=&#34;absolute -mt-20&#34; id=&#34;mystic-priest&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mystic-priest&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Velocity Advancement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Battlegrounds] This skill advancement option has been enabled again for Mystic&amp;rsquo;s Titanic Favor and Priest&amp;rsquo;s Focus Heal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We&amp;rsquo;ve fixed an issue where the Velocity advancement canceled other player&amp;rsquo;s lock-ons while being used. For this to work correctly, you&amp;rsquo;ll need to use our official NGSP, as other emulation mods may still encounter the aforementioned skill canceling issue.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;General Content&lt;span class=&#34;absolute -mt-20&#34; id=&#34;general-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Achievements&lt;span class=&#34;absolute -mt-20&#34; id=&#34;achievements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#achievements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Various internal changes have been made to the achievement system.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This round of internal changes has finally fixed the issues that have been plaguing the achievement system. Thank you to everyone who reported the issue, and especially to those who&amp;rsquo;ve been patient with us while we&amp;rsquo;ve investigated the issue.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue where some shop names had missing text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed some passive monsters near the Scythera Fae Fishery.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MT The Dream 2.3.3</title>
+      <link>https://tenacity-tera.eu/blog/2024-02-08-p2.3.3/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/blog/2024-02-08-p2.3.3/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;[Event] Paesyn&amp;rsquo;s Valentines Splash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;event-paesyns-valentines-splash&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#event-paesyns-valentines-splash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Event Period: February 9 ~ February 23&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;While on a routine journey on the Federation&amp;rsquo;s Sky Cruiser, Zolyn dropped Paesyn&amp;rsquo;s box of poems off the ship! All of his beautifully written letters plummeted straight into the Scythera Fae Fishery!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now, what&amp;rsquo;s more attracted to the words of love than the remains of monsters..? Complete dungeons to obtain [Event] Monster Pieces, which you can use in the Scythera Fae Fishery to obtain [Event] Waterlogged Letter! Return these letters to Paesyn in exchange for exclusive items!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Both the [Event] Monster Pieces and [Event] Waterlogged Letter can be traded with other players, and even added to the Trade Broker! Show your love (or economic prowess) by working together to save as many of Paesyn&amp;rsquo;s poems as possible!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can get rewards such as:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2024 Valentines Title Token (&amp;ldquo;Master Baiter&amp;rdquo;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Smart Box: Dyeable Sailor Dress&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Smart Box: Sailor Dress&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dyeable Heart Bow&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Heart Aura&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Heart Stickers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pinned-up Hairstyle (Face Slot)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pinned-up Hairstyle (Hair Slot)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Design Note: For a while now, our events have followed the same design principles. Instead of doing the same thing this time around, we wanted to try something different and experiment. You&amp;rsquo;re able to trade some event items (specifically the bait and token, not the reward items). This, paired with how the shop has been set up this time around, we hope will encourage players to change how they engage with our events and the impact they have on the server. Do you want to sell the bait/tokens from the start, try to clear out the entire shop, or maybe just get a few things you like the most and sell the rest of your bait/tokens? We&amp;rsquo;ll keep a close eye on how this event goes and make adjustments to both this event and potential future ones as necessary.&lt;/p&gt;
+&lt;h2&gt;Class Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;class-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#class-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Archer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;archer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#archer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Close Quarters&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Open World]  Increased base cooldown from 9 → 10 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incendiary Trap Arrow&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Increased damage by 20%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Penetrating Arrow&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Increased damage by 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rain of Arrows&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Reverted a previous change which reduced the damage of the skill during Windsong by 15%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the &amp;ldquo;super armor&amp;rdquo; effect to remain for a short period after walk canceling it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rapid Fire&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Increased damage by 20%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Note: Empowered Rapid Fire (Windsong variant) will not be affected by this change.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Restraining Arrow&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed Glyph of Sapping.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sequential Fire&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Changed the Skill Advancement effect as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OLD: 50% chance to increase damage by 100%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NEW: 100% chance of increasing damage by 50%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stunning Trap&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed Glyph of Lingering.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced base stun duration from 4 → 3 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced base cooldown from 30 → 20 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced trap&amp;rsquo;s duration from 20 → 10 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thunderbolt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Increased damage by 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Reduced base cooldown from 35 → 25 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Disabled the &amp;ldquo;Reload&amp;rdquo; enhancement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Damage is no longer split between targets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Design Note: As stated in previous patch notes, we&amp;rsquo;ve been wanting to bring Archer to a more healthy spot. These changes are going to shift Archer&amp;rsquo;s strengths away from their combo and into front loaded damage. This&amp;rsquo;ll also make the class more viable in teamfight scenarios. The slow &amp;ldquo;double kick&amp;rdquo; combo, which caused a lot of Archer players to be able to kill any class from full HP, will no longer be possible. Instead, we&amp;rsquo;ll see a lot of faster execution combos, both new and old, in play. We&amp;rsquo;ll be paying close attention to the class&amp;rsquo;s performance and make further adjustments as necessary.&lt;/p&gt;
+&lt;h4&gt;Gunner&lt;span class=&#34;absolute -mt-20&#34; id=&#34;gunner&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gunner&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Blast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Changed the Glyph of Swiftness effect as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OLD: 20% chance to increase Attack Speed by 18.5% for 10 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NEW: 30% chance to increase Attack Speed by 13.5% for 10 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Above values are based on the Superior Glyph, which everyone should have. However, the Common Glyph has also been adjusted accordingly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bombardment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased the chance of the Outrage Enhancement effect applying per hit from 30% → 100% at the final rank.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Burst Fire&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased the chance of the Force Enhancement effect applying per hit from 26% → 38% at final rank.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Remote Trigger&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Changed the Skill Advancement effect as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OLD: 50% chance to increase damage by 34%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NEW: 100% chance to increase damage by 17%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Mystic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;mystic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mystic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mass Teleport&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the Glyph of Selfishness to occasionally still teleport allies, even after our previous fix.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Ninja&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ninja&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ninja&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Smoke Bomb&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the caster to be able to iframe the invulnerability buff provided by the skill.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Priest&lt;span class=&#34;absolute -mt-20&#34; id=&#34;priest&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#priest&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Divine Charge&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Each level of Divine Charge now gives you and all affected allies Crit Factor for the effect duration:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Divine Charge I: +8 Crit Factor&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Divine Charge II: +10 Crit Factor&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Divine Charge III: +12 Crit Factor&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Divine Charge IV: +16 Crit Factor&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Edict of Judgment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Fixed an issue which caused Guardian Sanctuary to remain locked if the effect was dispelled while wearing PvP gear for the remaining duration Edict of Judgment would have lasted.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced the amount of Crit Factor provided from 36 → 20.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Slayer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;slayer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#slayer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Energy Rush (In Cold Blood Passive)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Fixed an issue which caused stacks to be reset upon hitting any of Mystic&amp;rsquo;s thralls.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;PvP Content&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pvp-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Civil Unrest&lt;span class=&#34;absolute -mt-20&#34; id=&#34;civil-unrest&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#civil-unrest&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Removed Battle Marks merchant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed Battle Marks from Civil Unrest BAM loot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Rally: Sacred Noruk (Friday)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;rally-sacred-noruk-friday&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rally-sacred-noruk-friday&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Spawn time moved from 8 PM UTC → 7 PM UTC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[Event] Blitz Barrage&lt;span class=&#34;absolute -mt-20&#34; id=&#34;event-blitz-barrage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#event-blitz-barrage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;The event has ended, and as such all parts of it have been disabled. Thank you for participating!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;General Content&lt;span class=&#34;absolute -mt-20&#34; id=&#34;general-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Training Grounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;training-grounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#training-grounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Brawlers now gain maximum rage from Mounting Rage, just like dungeons.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Warriors now have a 100% chance to activate their Swift glyph  while out of combat, just like dungeons.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted the placement of the Dyeable, Black, Heart and Yellow Bow on the new fox hair.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced the delay between loot items appearing significantly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If all party members are rolling / passing, the looting process should be ~85% faster than before.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Bug Fixes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;bug-fixes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bug-fixes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue with the Ghost Axe enchantment glow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue where the Elin Winter Jacket had a duplicate texture.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the Antaroth, Asgard, Atlantean, Forbidden Arena [Undying Warlord], Gardan, Golden Dragon, and Manaya costumes&amp;rsquo; back accessories to disappear.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MT The Dream 2.3.2</title>
+      <link>https://tenacity-tera.eu/blog/2024-01-25-p2.3.2/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/blog/2024-01-25-p2.3.2/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Menma&amp;rsquo;s Official Skill Prediction&lt;span class=&#34;absolute -mt-20&#34; id=&#34;menmas-official-skill-prediction&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#menmas-official-skill-prediction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Internally, we&amp;rsquo;ve been working on a custom Skill Prediction solution to allow us to do further changes and fix a myriad of issues. We feel that it&amp;rsquo;s in a good enough place for others to use it and let us know if you encounter any issues. We highly recommend you update and help us make it better, as it will be our official solution moving forward.&lt;/p&gt;
+&lt;h4&gt;Fixed Issues / Features&lt;span class=&#34;absolute -mt-20&#34; id=&#34;fixed-issues--features&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#fixed-issues--features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Skill lengths have been adjusted across the board to better match their correct lengths.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mystic&amp;rsquo;s Augmented Thrall of Vengeance no longer has a longer animation lock than intended.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mystic&amp;rsquo;s Corruption Ring length has been adjusted to match the current, shorter length.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ninja&amp;rsquo;s Fire Avalanche no longer consumes Chi.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Priest&amp;rsquo;s Divine Charge has the correct physical skill size when Glyph of Longshot is applied.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Priest&amp;rsquo;s Guardian Sanctuary is enabled during Edict of Judgment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Priest&amp;rsquo;s Kaia&amp;rsquo;s Shield is enabled during Edict of Judgment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Priest&amp;rsquo;s Resurrect now has the correct length.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Warrior&amp;rsquo;s Blade Waltz lockout has been adjusted.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[PvE] Gear Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pve-gear-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pve-gear-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Corrected an issue where the Frozen Agaia Rings and Scorching Agaia Necklace had 10 less Magical or Physical Amplification as intended.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[PvE] Dungeon Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pve-dungeon-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pve-dungeon-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Design Note: With the release of Frozen Bahaar&amp;rsquo;s Sanctum and the Killing Grounds, we&amp;rsquo;ve been changing the enemy&amp;rsquo;s Defense rather than simply scaling their HP. This reduced damage numbers to a more palatable level, while simultaneously protecting us from reaching the damage cap. We will continue this trend on existing bosses for consistency. You should see no-to-minimal change to dungeon cleartimes as a result of this change.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The following dungeons have had their Defense and HP tweaked, including shields where applicable:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Channelworks&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dreadspire&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kalivan&amp;rsquo;s Dreadnaught&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kezzel&amp;rsquo;s Gorge&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lilith&amp;rsquo;s Keep&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ruinous Manor&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Antaroth&amp;rsquo;s Abyss&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Timescape&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Red Refuge&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Red Refuge (Hard)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Velik&amp;rsquo;s Hold (Hard)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Velik&amp;rsquo;s Sanctuary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Velik&amp;rsquo;s Sanctuary (Hard)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lumikan&amp;rsquo;s Dream&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lumikan&amp;rsquo;s Dream (Hard)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grotto of Lost Souls&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grotto of Lost Souls (Hard)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dark Reach Citadel&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dark Reach Citadel (Hard)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Shadow Sanguinary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Shadow Sanguinary (Hard)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Channelworks, Kezzel&amp;rsquo;s Gorge&lt;span class=&#34;absolute -mt-20&#34; id=&#34;channelworks-kezzels-gorge&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#channelworks-kezzels-gorge&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Increased the drop rate of Relic and Halidom Tokens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Kalivan&amp;rsquo;s Dreadnaught, Lilith&amp;rsquo;s Keep&lt;span class=&#34;absolute -mt-20&#34; id=&#34;kalivans-dreadnaught-liliths-keep&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#kalivans-dreadnaught-liliths-keep&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Greatly increased the drop rate of Relic and Halidom Tokens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Dreadspire&lt;span class=&#34;absolute -mt-20&#34; id=&#34;dreadspire&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#dreadspire&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;All bosses can no longer resist abnormalities applied to them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Frozen Bahaar&amp;rsquo;s Sanctum&lt;span class=&#34;absolute -mt-20&#34; id=&#34;frozen-bahaars-sanctum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#frozen-bahaars-sanctum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Increased Phase 2 Bahaar&amp;rsquo;s HP by 5.4%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Only Mystic and Priest can hit Bahaar&amp;rsquo;s Skeletons.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed split damage from player skills while in the instance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Warrior&amp;rsquo;s Battle Cry skill will now reliably stun Bahaar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Various attacks that previously turned Bahaar will now guarantee tanks deal damage from the front and DPS/Healers deal damage from the back for the duration that Bahaar is turned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can see this effect through your abnormalities whenever this effect is active:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh7-us.googleusercontent.com/y271tMJSrkzwetchzQJx3l4-rus--rDXphBw7WSnQFA_wDtW736ZtMHZVc8Pi16FQlyCe7ByN0wN6oyPz53YcAiH6DfMkzDZ-nLiG1gpbFHcRKur28xobYg58XLKUiwmLINxW3ic9YKziAiYwcDPKK8&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt; Tank&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh7-us.googleusercontent.com/pBzvslVkGlrVmJgY8GQQRooML8KrlX0CNzqrGe7RqgGdg_ydjTJ2NtzhytXAWsvnirtuUyhpyfQAax49Dzn87EGHUGPwXqRnYyDI64Y6H_lvJQAvGtW5_iSV6yuq8prMu-qk0RJppaGli-wmenJtgx8&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt; DPS / Healer&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Grotto of Lost Souls (Hard)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;grotto-of-lost-souls-hard&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#grotto-of-lost-souls-hard&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;All bosses can no longer resist abnormalities applied to them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nightmare Kylos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced HP by 5%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased fight time from 8:00 → 10:00.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exploding orbs HP reduced from 150 million → 125 million.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Killing Grounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;killing-grounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#killing-grounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;The message informing the player of the Gardan&amp;rsquo;s Rage mechanic only occurs at the start of the fight.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Crimson Killing Grounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;crimson-killing-grounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#crimson-killing-grounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Increased Nightmare Gardan&amp;rsquo;s HP by 9.5%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The message informing the player of the Gardan&amp;rsquo;s Rage mechanic only occurs at the start of the fight.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Design Note: This dungeon has a fight time of under five minutes, which wasn&amp;rsquo;t our intention due to it being a main top tier dungeon and leaderboard dungeon. This adjustment to HP should equalize the fight times between Bahaar&amp;rsquo;s Sanctum and Crimson Killing Grounds. We&amp;rsquo;ll keep an eye on the dungeon and make further changes as necessary.&lt;/p&gt;
+&lt;h4&gt;Lumikan&amp;rsquo;s Dream&lt;span class=&#34;absolute -mt-20&#34; id=&#34;lumikans-dream&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#lumikans-dream&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Increased the amount of Lumikan&amp;rsquo;s Wing Fragment drops from 5 → 10.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Velik&amp;rsquo;s Sanctuary&lt;span class=&#34;absolute -mt-20&#34; id=&#34;veliks-sanctuary&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#veliks-sanctuary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Revived Dakuryon&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced HP by 20%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced damage dealt from cage attack from 80% HP → 40% HP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[Event] Snowbound Sabotage&lt;span class=&#34;absolute -mt-20&#34; id=&#34;event-snowbound-sabotage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#event-snowbound-sabotage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;This event has ended, and the Wintera Snowfield has been closed. Thank you for participating! If you still have leftover [Event] Polar Snowflake, be sure to trade them in Balderon or at the Velika Outskirts Hall for exclusive rewards!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Class Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;class-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#class-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Archer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;archer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#archer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Increased overall damage by 1.5%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring]  Reverted a previous change which reduced overall damage by 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feign Death&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Glorious Enhancement: Reduced the duration of invincibility frames provided by 1.5 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At maximum Enhancement level, the invincibility duration is now 2 seconds rather than 3.5.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incendiary Arrow&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Fixed an issue which caused players to not get knocked down occasionally from the skill.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rain of Arrows&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased skill tick rate, reducing the length of arrows raining from 3.5s → 2s.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The skill still deals the full damage despite being faster.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thunderbolt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring] No longer splits damage between targets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Windsong&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring] Reduced damage during the effect by 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring] Gust Advancement: Removed the debuff which increased damage taken by 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Design Note: [PvP]  Combining Archer&amp;rsquo;s strong mobility and its aggressive 100-to-0 combo results in them often being an aggravating and unfun experience to face against, especially in 1v1 scenarios. Archer had to be kept rather weak in both small and large scale fights to not indirectly buff its already strong combo damage and its duel performance. We&amp;rsquo;ll be taking a closer look at Archer as a whole soon, so stay tuned.&lt;/p&gt;
+&lt;h4&gt;Brawler&lt;span class=&#34;absolute -mt-20&#34; id=&#34;brawler&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#brawler&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;[PvE]  Reduced overall damage by 1.8% when affected by Growing Fury&amp;rsquo;s Irregular Advancement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Berserker&lt;span class=&#34;absolute -mt-20&#34; id=&#34;berserker&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#berserker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Reduced overall damage by 3.2%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bloodlust&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring] Charisma Advancement: Removed the debuff which increased damage taken by 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sweeping Strike&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Glyph of Persistence: Added a 4 second cooldown between activations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Lancer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;lancer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#lancer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Backstep&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reload Enhancement: Corrected an issue with the tooltip erroneously mentioning a Reset Chance rather than reducing the Resolve cost of the skill.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pledge of Protection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the skill to absorb approximately 16% more damage than intended.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Damage reduction effect now only applies to the caster.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Doesn&amp;rsquo;t apply raid wide.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Mystic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;mystic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mystic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mass Teleport&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added a new 0 point cost glyph which removes the party teleportation effect while active.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thrall of Life&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring] Glyph of Persistence: No longer functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thrall of Protection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring] No longer spawns the Thrall when cast.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;All other effects of the skill remain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vow of Rebirth&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which allowed players to apply Vow of Rebirth to the entire party when it was paired with the Bomb of Cooling in certain situations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Design Note: We understand that while Mystic players want the class to be smoother and more enjoyable to play, those that face against Mystics often find it unenjoyable or even frustrating to fight against. Both of these are important and we&amp;rsquo;re working hard to strike a balance without moving too far in either direction.&lt;/p&gt;
+&lt;h4&gt;Ninja&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ninja&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ninja&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Increased overall damage by 2%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Attunement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the skill to enter cooldown without providing the effect if interrupted at a specific moment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Smoke Bomb&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which provided the invincibility effect even while outside of the skill&amp;rsquo;s area of effect.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Apex Glyph of Power has received various changes:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced point cost from 5 → 3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skill damage increase now applies only against monsters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now provides invincibility frames.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Changed skill sound when casting compared to normal Smoke Bomb.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Priest&lt;span class=&#34;absolute -mt-20&#34; id=&#34;priest&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#priest&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Energy Stars&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring] Curse Enhancement: No longer functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Guardian Sanctuary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Enabled the skill during Edict of Judgment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Holy Burst&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the skill to enter cooldown without providing the effect if interrupted at a specific moment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Plague of Exhaustion&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP] Reduced projectile speed by 20%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Reaper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;reaper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reaper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Reduced overall damage by 1.5%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Shadow Reaping&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring]  Reduced damage during the effect by 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring] Snare Advancement: No longer functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Slayer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;slayer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#slayer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Reduced overall damage by 2.6%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Overpower&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This skill&amp;rsquo;s effect has gotten a complete rework:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Every 3rd cast of Heart Thrust deals 100% more damage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Every 3rd cast of Punishing Blow deals 15% more skill damage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Every 3rd cast of Whirlwind deals 33% more damage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You must hit the target for a cast to count. Each skill&amp;rsquo;s casts are tracked individually, meaning any third successful hit will get the increase regardless of skill order.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you do not hit a target within 30 seconds, the counter for that skill resets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Sorcerer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sorcerer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sorcerer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Increased overall damage by 1%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Warp Barrier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the skill to enter cooldown without providing the effect if interrupted at a specific moment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Valkyrie&lt;span class=&#34;absolute -mt-20&#34; id=&#34;valkyrie&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#valkyrie&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Dark Herald&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring]  Reduced range of the pull effect while under the effects of Ragnarok from 20m → 15m.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Runeburst&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring]  Reduced damage by 10%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Warrior&lt;span class=&#34;absolute -mt-20&#34; id=&#34;warrior&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#warrior&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Increased overall damage by 1.5%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE]  Reduced overall damage by 6.5% while affected by Defensive Stance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Due to the aforementioned 1.5% overall buff, this is effectively a 5% reduction of overall damage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;While inside of a dungeon instance and while the Boss is not active, Warriors now have a 100% chance of activating Swift Evasive Roll.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Backstab&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring]  Reduced edge generation from 1 → 0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;While Glyph of Advantage is active, this skill will generate 1 Edge rather than 2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Blade Draw&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring]  Reduced edge generation while under the effects of Deadly Gamble from 2 → 1.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;While Glyph of Advantage is active, this skill will generate 2 Edge rather than 4.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rain of Blows&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP: Champion&amp;rsquo;s Skyring]  Reduced edge generation while under the effects of Deadly Gamble from 4 → 2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;General Content&lt;span class=&#34;absolute -mt-20&#34; id=&#34;general-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Achievements&lt;span class=&#34;absolute -mt-20&#34; id=&#34;achievements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#achievements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue where the Prophets of Doom achievement gave 40 achievement points instead of the intended 30.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Updated the amount of possible achievement points.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted the amount of achievement point completion required for laurel tiers:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bronze: 20% → 13%&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Champion: 90% → 95%&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Silver, Gold, and Diamond remain the same.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Design Note: We&amp;rsquo;re looking into what we can do to make achievements more reliable, rather than leave them in their current state. These are a few of the initial things that were incorrect that we noticed, so they have been adjusted. We will continue to monitor and make further changes as necessary.&lt;/p&gt;
+&lt;h4&gt;Arun&amp;rsquo;s Legacy Reputation Vendor&lt;span class=&#34;absolute -mt-20&#34; id=&#34;aruns-legacy-reputation-vendor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aruns-legacy-reputation-vendor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Added Thunder Dragon Skull, Lakan&amp;rsquo;s Soul, and Lumikan&amp;rsquo;s Horn Fragment for Trusted reputation rank and higher.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lowered reputation rank required from Revered to Trusted to purchase Archdevan Spear, Darkan&amp;rsquo;s Wing, and Lakan&amp;rsquo;s Heart.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Hydrangea&lt;span class=&#34;absolute -mt-20&#34; id=&#34;hydrangea&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hydrangea&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Added both a banker and a broker to the area.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Training Grounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;training-grounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#training-grounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Changed the spawn location of the Healer crystals to be closer to the Training Simulacrum.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added a debuff to the Simulacrum displaying when the next &amp;ldquo;burn&amp;rdquo; will occur.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added Brawler, Lancer and Warrior stones.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Upon destroying the stone, buffs from the corresponding tank apply:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lancer stone will apply Adrenaline Rush to the player&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Brawler stone will apply Haymaker (Resonance) permanently and Furious Blows to the player, Internal Wounds to the Simulacrum&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Warrior stone will apply One With the Sword to the player and Armorbreaker to the Simulacrum&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Destroying another stone will remove all buffs from the previous tank and apply new ones.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[PvP] Rally Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-rally-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pvp-rally-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Tuesday: Enraged Tantibus&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tuesday-enraged-tantibus&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tuesday-enraged-tantibus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Removed leash attack.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed Primal Fear effect which reduced affected player&amp;rsquo;s Endurance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed related mechanic message.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted tooltips for various PvE materials to list Grotto of Lost Souls (Hard) as a source.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted tooltips of various skills to reflect changes made to them over time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Bug Fixes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;bug-fixes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bug-fixes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused a Fox Elin&amp;rsquo;s tail to switch to an incorrect LoD.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed rigging issues with Elin&amp;rsquo;s Winter Jacket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed Winter Jacket missing sounds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed Kimono model issues.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MT The Dream 2.3.1 - Blitz Rages On</title>
+      <link>https://tenacity-tera.eu/blog/2024-01-04-p2.3.1/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/blog/2024-01-04-p2.3.1/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;[PvE] Dungeon Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pve-dungeon-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pve-dungeon-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Killing Grounds, Crimson Killing Grounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;killing-grounds-crimson-killing-grounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#killing-grounds-crimson-killing-grounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Fixed an issue which caused Gardan and Nightmare Gardan&amp;rsquo;s healing abnormality to be removable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Killing Grounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;killing-grounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#killing-grounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused Gardan&amp;rsquo;s stomp mechanic to have a different stun window than Nightmare Gardan in the Crimson Killing Grounds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After this change, both Gardan and Nightmare Gardan will have identical stun windows.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[Event] Blitz Barrage&lt;span class=&#34;absolute -mt-20&#34; id=&#34;event-blitz-barrage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#event-blitz-barrage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Event Period: December 19th, 2023 ~ February 1st, 2024&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Increased the amount of players that can contribute to capturing the Central Pyre from 3 → 8.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Slightly changed the amount of time until the spawn cage despawns.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enabled the use of [Battleground] Smilecracker.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted classes during the Blitz Barrage as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removed passive which provided Cooldown Reduction for skills with a less than 60 second cooldown based on class for Adrenaline Rush (~15%) and Traverse Cut (~7%).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lancer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chained Leash&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased cooldown from 16 → 20 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mystic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Curse of Exhaustion&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skill disabled.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ninja&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quick Attack&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased cooldown from 2 → 6 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Priest&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Energy Stars&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skill enabled, however the Cooldown Reduction does not apply.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Guardian Sanctuary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced cooldown from 17 → 10 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[Event] Snowbound Sabotage&lt;span class=&#34;absolute -mt-20&#34; id=&#34;event-snowbound-sabotage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#event-snowbound-sabotage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Event Period: December 12th, 2023 ~ January 16th, 2024&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As a reminder, this event will be ending soon. Be sure to participate in the Wintera Snowfield to get the items you want before you lose the opportunity!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Wintera Snowfield&lt;span class=&#34;absolute -mt-20&#34; id=&#34;wintera-snowfield&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#wintera-snowfield&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Reduced entry cooldown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Class Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;class-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#class-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Brawler&lt;span class=&#34;absolute -mt-20&#34; id=&#34;brawler&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#brawler&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Haymaker&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvP]  The Resonance advancement now activates when hitting players.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Mystic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;mystic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mystic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Thrall of Life&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused the healing effect and the fairy&amp;rsquo;s firing animation to desync for some skill variants.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Priest&lt;span class=&#34;absolute -mt-20&#34; id=&#34;priest&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#priest&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue which caused High Elf Male&amp;rsquo;s lockons to be slower than other races.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ishara&amp;rsquo;s Lullaby&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[PvE] Increased the duration of the sleep effect from 20 → 26 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To confirm, the duration in PvP will remain unchanged at 8 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Sorcerer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sorcerer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sorcerer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Fixed an issue where Sorcerer&amp;rsquo;s lock-on skills had a more strict lock-on radius than other class&amp;rsquo; lock-on skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Warrior&lt;span class=&#34;absolute -mt-20&#34; id=&#34;warrior&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#warrior&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Rain of Blows&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue where the Dueling Scar advancement wouldn&amp;rsquo;t apply its endurance shred effect to Bahaar, Gardan, or Nightmare Gardan. However after this change, Dueling Scar will no longer stun these bosses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;General Content&lt;span class=&#34;absolute -mt-20&#34; id=&#34;general-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Achievements&lt;span class=&#34;absolute -mt-20&#34; id=&#34;achievements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#achievements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Adjusted maximum achievement points.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Improved Russian translations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bug Fixes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;bug-fixes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bug-fixes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced the noise made by the Arkai birds&amp;rsquo; wing flapping.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This fixes a long-standing issue with extremely loud wing flaps which many who do Guardian Legion Missions would have noticed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>MT The Dream 2.3 P2 - Rage Frozen Over</title>
@@ -9511,10 +10810,10 @@
     
     <item>
       <title>MT The Dream 1.8.5 - Final Preparations</title>
-      <link>https://tenacity-tera.eu/blog/2023-05-08-p1.8.5/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-05-08-p1.8.5/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-05-08-p1.8.5/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-05-08-p1.8.5/</guid>
       <description>
         
         
@@ -9805,10 +11104,10 @@
     
     <item>
       <title>MT The Dream 1.8.4 - A Fine-Tuned Fight</title>
-      <link>https://tenacity-tera.eu/blog/2023-04-20-p1.8.4/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-04-20-p1.8.4/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-04-20-p1.8.4/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-04-20-p1.8.4/</guid>
       <description>
         
         
@@ -10077,10 +11376,10 @@
     
     <item>
       <title>MT The Dream 1.8.3 - The Battle Rages!</title>
-      <link>https://tenacity-tera.eu/blog/2023-04-07-p1.8.3/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-04-07-p1.8.3/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-04-07-p1.8.3/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-04-07-p1.8.3/</guid>
       <description>
         
         
@@ -10134,10 +11433,10 @@
     
     <item>
       <title>Patch Notes – MT The Dream 2.0.6 - R9 The Big One!</title>
-      <link>https://tenacity-tera.eu/blog/2023-04-01-p2.0-69/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-04-01-p2.0-69/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-04-01-p2.0-69/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-04-01-p2.0-69/</guid>
       <description>
         
         
@@ -10939,10 +12238,10 @@ The slayer is the best class in the game, hands down. No other class can match i
     
     <item>
       <title>MT The Dream 1.8.2 – Kaia&#39;s Conquest</title>
-      <link>https://tenacity-tera.eu/blog/2023-03-29-p1.8.2/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-03-29-p1.8.2/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-03-29-p1.8.2/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-03-29-p1.8.2/</guid>
       <description>
         
         
@@ -11144,10 +12443,10 @@ The slayer is the best class in the game, hands down. No other class can match i
     
     <item>
       <title>MT The Dream 1.8.1 – Hotfixes</title>
-      <link>https://tenacity-tera.eu/blog/2023-03-25-p1.8.1/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-03-25-p1.8.1/</link>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-03-25-p1.8.1/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-03-25-p1.8.1/</guid>
       <description>
         
         
@@ -11228,10 +12527,10 @@ The slayer is the best class in the game, hands down. No other class can match i
     
     <item>
       <title>MT The Dream 1.8 – Kaia’s Call to Battles</title>
-      <link>https://tenacity-tera.eu/blog/2023-03-23-p1.8/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-03-23-p1.8/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-03-23-p1.8/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-03-23-p1.8/</guid>
       <description>
         
         
@@ -11814,10 +13113,10 @@ We also have an &lt;em&gt;all-new&lt;/em&gt; dungeon system planned which will
     
     <item>
       <title>MT The Dream 1.7.1 – PvE Adjustments</title>
-      <link>https://tenacity-tera.eu/blog/2023-03-02-p1.7.1/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-03-02-p1.7.1/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-03-02-p1.7.1/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-03-02-p1.7.1/</guid>
       <description>
         
         
@@ -12138,10 +13437,10 @@ We also have an &lt;em&gt;all-new&lt;/em&gt; dungeon system planned which will
     
     <item>
       <title>MT The Dream 1.7 - PvP Balancing</title>
-      <link>https://tenacity-tera.eu/blog/2023-02-24-p1.7/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-02-24-p1.7/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-02-24-p1.7/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-02-24-p1.7/</guid>
       <description>
         
         
@@ -12792,10 +14091,10 @@ We also have an &lt;em&gt;all-new&lt;/em&gt; dungeon system planned which will
     
     <item>
       <title>MT The Dream 1.6.2 - Second Part of Hotfixes</title>
-      <link>https://tenacity-tera.eu/blog/2023-02-09-p1.6.2/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-02-09-p1.6.2/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-02-09-p1.6.2/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-02-09-p1.6.2/</guid>
       <description>
         
         
@@ -12836,10 +14135,10 @@ We also have an &lt;em&gt;all-new&lt;/em&gt; dungeon system planned which will
     
     <item>
       <title>Patch Notes – MT The Dream 1.6.1 – Hotfixes</title>
-      <link>https://tenacity-tera.eu/blog/2023-02-08-p1.6.1/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-02-08-p1.6.1/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-02-08-p1.6.1/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-02-08-p1.6.1/</guid>
       <description>
         
         
@@ -12893,10 +14192,10 @@ We also have an &lt;em&gt;all-new&lt;/em&gt; dungeon system planned which will
     
     <item>
       <title>MT The Dream 1.6 – PvP returns</title>
-      <link>https://tenacity-tera.eu/blog/2023-02-06-p1.6/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-02-06-p1.6/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-02-06-p1.6/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-02-06-p1.6/</guid>
       <description>
         
         
@@ -14077,10 +15376,10 @@ We also have an &lt;em&gt;all-new&lt;/em&gt; dungeon system planned which will
     
     <item>
       <title>MT The Dream 1.5 – Boss Partners</title>
-      <link>https://tenacity-tera.eu/blog/2023-01-17-p1.5/</link>
+      <link>https://tenacity-tera.eu/blog/archive/2023-01-17-p1.5/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/blog/2023-01-17-p1.5/</guid>
+      <guid>https://tenacity-tera.eu/blog/archive/2023-01-17-p1.5/</guid>
       <description>
         
         
@@ -17527,833 +18826,6 @@ Second will be coming towards the end of this week or next week’s Monday.&lt;/
 &lt;h3&gt;Berserker&lt;span class=&#34;absolute -mt-20&#34; id=&#34;berserker&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#berserker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Readjusted Unleash cooldown to 3 minutes 40 seconds&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MT The Dream 1.1</title>
-      <link>https://tenacity-tera.eu/blog/archive/2022-07-08-p1.1/</link>
-      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/blog/archive/2022-07-08-p1.1/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The long awaited 1.1 patch is finally here. With changes to PvE, PvP, Open World content, Class Balancing and of course, the 64-bit client.&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Game Client&lt;span class=&#34;absolute -mt-20&#34; id=&#34;game-client&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#game-client&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;The game client has been updated to 64-bit, DirectX 11.&lt;/li&gt;
-&lt;li&gt;Added new supported game languages: German, French, Russian.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Dungeons &amp;amp; PvE&lt;span class=&#34;absolute -mt-20&#34; id=&#34;dungeons--pve&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#dungeons--pve&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The following dungeons are closing their doors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dreadspire&lt;/li&gt;
-&lt;li&gt;Velik’s Sanctuary (Hard)&lt;/li&gt;
-&lt;li&gt;Forsaken Island (Hard)&lt;/li&gt;
-&lt;li&gt;Timescape (Hard)&lt;/li&gt;
-&lt;li&gt;Grotto of Lost Souls (Hard)&lt;/li&gt;
-&lt;li&gt;Antaroth’s Abyss (Hard)&lt;/li&gt;
-&lt;li&gt;RK-9 Kennel&lt;/li&gt;
-&lt;li&gt;Red Refuge&lt;/li&gt;
-&lt;li&gt;Velik’s Hold&lt;/li&gt;
-&lt;li&gt;Velik’s Sanctuary&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The new dungeon list is as follows:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;5-star Dungeons – &lt;strong&gt;Item Level 490&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Corrupted Skynest (Hard)&lt;/li&gt;
-&lt;li&gt;Sky Cruiser Endeavor (Hard)&lt;/li&gt;
-&lt;li&gt;Manaya’s Core (Hard)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;5-star Dungeons – &lt;strong&gt;Item Level 480&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ruinous Manor (Hard)&lt;/li&gt;
-&lt;li&gt;Bahaar’s Sanctum&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;4-star Dungeons – &lt;strong&gt;Item Level 475&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Forbidden Arena (Hagufna)&lt;/li&gt;
-&lt;li&gt;Akeron’s Inferno (Hard) [10-man]&lt;/li&gt;
-&lt;li&gt;Bathysmal Rise (Hard)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;4-star Dungeons – &lt;strong&gt;Item Level 470&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sky Cruiser Endeavor&lt;/li&gt;
-&lt;li&gt;Ruinous Manor&lt;/li&gt;
-&lt;li&gt;Corrupted Skynest&lt;/li&gt;
-&lt;li&gt;Gossamer Vault (Hard)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;3-star Dungeons – &lt;strong&gt;Item Level 460&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Akeron’s Inferno [10-man]&lt;/li&gt;
-&lt;li&gt;Broken Prison&lt;/li&gt;
-&lt;li&gt;Ravenous Gorge [3-man]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;3-star Dungeons – &lt;strong&gt;Item Level 455&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bathysmal Rise&lt;/li&gt;
-&lt;li&gt;Lilith’s Keep&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;ul&gt;
-&lt;li&gt;Vanguard Quest Rewards have been adjusted per item level of dungeon:&lt;/li&gt;
-&lt;li&gt;Item Level 490
-&lt;ul&gt;
-&lt;li&gt;15,000 Gold&lt;/li&gt;
-&lt;li&gt;800 Vanguard Credits&lt;/li&gt;
-&lt;li&gt;3x Superior Noctenium Elixir&lt;/li&gt;
-&lt;li&gt;6x Dragonwing Scale&lt;/li&gt;
-&lt;li&gt;4x Dark Shard Weapon Feedstock Box&lt;/li&gt;
-&lt;li&gt;12x Dark Shard Armor Feedstock Box&lt;/li&gt;
-&lt;li&gt;10x Mystery Market Coin&lt;/li&gt;
-&lt;li&gt;25x Golden Plates&lt;/li&gt;
-&lt;li&gt;10x Silver Plates&lt;/li&gt;
-&lt;li&gt;1x Karas’s Wisdom Box&lt;/li&gt;
-&lt;li&gt;250x Elleon’s Mark of Valor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Item Level 480
-&lt;ul&gt;
-&lt;li&gt;9,500 Gold&lt;/li&gt;
-&lt;li&gt;650 Vanguard Credits&lt;/li&gt;
-&lt;li&gt;2x Superior Noctenium Elixir&lt;/li&gt;
-&lt;li&gt;5x Dragonwing Scale&lt;/li&gt;
-&lt;li&gt;2x Dark Shard Weapon Feedstock Box&lt;/li&gt;
-&lt;li&gt;6x Dark Shard Armor Feedstock Box&lt;/li&gt;
-&lt;li&gt;8x Mystery Market Coin&lt;/li&gt;
-&lt;li&gt;50x Golden Darics&lt;/li&gt;
-&lt;li&gt;20x Silver Siglos&lt;/li&gt;
-&lt;li&gt;8x Luminous Mana Essence&lt;/li&gt;
-&lt;li&gt;1x Karas’s Wisdom Box&lt;/li&gt;
-&lt;li&gt;200x Elleon’s Mark of Valor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Item Level 470/475
-&lt;ul&gt;
-&lt;li&gt;6,000 Gold&lt;/li&gt;
-&lt;li&gt;500 Vanguard Credits&lt;/li&gt;
-&lt;li&gt;2x Superior Noctenium Elixir&lt;/li&gt;
-&lt;li&gt;4x Dragonwing Scale&lt;/li&gt;
-&lt;li&gt;2x Dark Shard Weapon Feedstock Box&lt;/li&gt;
-&lt;li&gt;6x Dark Shard Armor Feedstock Box&lt;/li&gt;
-&lt;li&gt;6x Mystery Market Coin&lt;/li&gt;
-&lt;li&gt;25x Golden Darics&lt;/li&gt;
-&lt;li&gt;10x Silver Siglos&lt;/li&gt;
-&lt;li&gt;16x Luminous Mana Essence&lt;/li&gt;
-&lt;li&gt;1x Karas’s Wisdom Box&lt;/li&gt;
-&lt;li&gt;150x Elleon’s Mark of Valor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Item Level 460
-&lt;ul&gt;
-&lt;li&gt;3,500 Gold&lt;/li&gt;
-&lt;li&gt;350 Vanguard Credits&lt;/li&gt;
-&lt;li&gt;1x Superior Noctenium Elixir&lt;/li&gt;
-&lt;li&gt;3x Dragonwing Scale&lt;/li&gt;
-&lt;li&gt;1x Dark Shard Weapon Feedstock Box&lt;/li&gt;
-&lt;li&gt;3x Dark Shard Armor Feedstock Box&lt;/li&gt;
-&lt;li&gt;4x Mystery Market Coin&lt;/li&gt;
-&lt;li&gt;50x Golden Talents&lt;/li&gt;
-&lt;li&gt;20x Silver Talents&lt;/li&gt;
-&lt;li&gt;15x Sapphires&lt;/li&gt;
-&lt;li&gt;1x Karas’s Wisdom Box&lt;/li&gt;
-&lt;li&gt;100x Elleon’s Mark of Valor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Item Level 455
-&lt;ul&gt;
-&lt;li&gt;2,000 Gold&lt;/li&gt;
-&lt;li&gt;200 Vanguard Credits&lt;/li&gt;
-&lt;li&gt;1x Superior Noctenium Elixir&lt;/li&gt;
-&lt;li&gt;2x Dragonwing Scale&lt;/li&gt;
-&lt;li&gt;1x Dark Shard Weapon Feedstock Box&lt;/li&gt;
-&lt;li&gt;3x Dark Shard Armor Feedstock Box&lt;/li&gt;
-&lt;li&gt;2x Mystery Market Coin&lt;/li&gt;
-&lt;li&gt;25x Golden Talents&lt;/li&gt;
-&lt;li&gt;10x Silver Talents&lt;/li&gt;
-&lt;li&gt;15x Ruby&lt;/li&gt;
-&lt;li&gt;2x Bespoke Exodor Weapon Random Box&lt;/li&gt;
-&lt;li&gt;2x Bespoke Exodor Armor Random Box&lt;/li&gt;
-&lt;li&gt;1x Karas’s Wisdom Box&lt;/li&gt;
-&lt;li&gt;100x Elleon’s Mark of Valor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Civil Unrest: Island of Dawn&lt;span class=&#34;absolute -mt-20&#34; id=&#34;civil-unrest-island-of-dawn&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#civil-unrest-island-of-dawn&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Changed the spawn point (safe-zone) from North Dock to the middle of the map.&lt;/li&gt;
-&lt;li&gt;The BAMs HP and endurance values have been adjusted to be the same as Guild Towers and their spawn points have been set to North Dock.&lt;/li&gt;
-&lt;li&gt;Reduced the BAM buff duration from 30 minutes to 15 minutes.&lt;/li&gt;
-&lt;li&gt;Changed the CU mount speed to 330.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Dreamstorm&lt;span class=&#34;absolute -mt-20&#34; id=&#34;dreamstorm&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#dreamstorm&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;The Dreamstorm event in Highwatch has been reworked!&lt;/li&gt;
-&lt;li&gt;The event will be active every 6 hours.&lt;/li&gt;
-&lt;li&gt;Mobs Attack &amp;amp; HP values have been greatly increased.&lt;/li&gt;
-&lt;li&gt;New rewards have been added:&lt;/li&gt;
-&lt;li&gt;Finishing the dreamstorm daily quest:
-&lt;ul&gt;
-&lt;li&gt;500 Tikats&lt;/li&gt;
-&lt;li&gt;1x 800 Adventure Coin Token&lt;/li&gt;
-&lt;li&gt;1x 1 Hour Haste Coin II (3 Hours)&lt;/li&gt;
-&lt;li&gt;5x Strong Bravery Potions&lt;/li&gt;
-&lt;li&gt;5x Strong Canephora Potions&lt;/li&gt;
-&lt;li&gt;5x Superior Noctenium Elixir&lt;/li&gt;
-&lt;li&gt;1x Complete Crystalbind&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Rank 1 Rewards:
-&lt;ul&gt;
-&lt;li&gt;500 Tikats&lt;/li&gt;
-&lt;li&gt;2x Diamond&lt;/li&gt;
-&lt;li&gt;75 Golden Plates&lt;/li&gt;
-&lt;li&gt;75 Silver Plates&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Rank 2 Rewards:
-&lt;ul&gt;
-&lt;li&gt;400 Tikats&lt;/li&gt;
-&lt;li&gt;10x Emerald&lt;/li&gt;
-&lt;li&gt;30 Golden Plates&lt;/li&gt;
-&lt;li&gt;30 Silver Plates&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Rank 3 Rewards:
-&lt;ul&gt;
-&lt;li&gt;300 Tikats&lt;/li&gt;
-&lt;li&gt;80x Ruby&lt;/li&gt;
-&lt;li&gt;45 Golden Darics&lt;/li&gt;
-&lt;li&gt;45 Silver Darics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Rank 4 Rewards:
-&lt;ul&gt;
-&lt;li&gt;200 Tikats&lt;/li&gt;
-&lt;li&gt;60x Ruby&lt;/li&gt;
-&lt;li&gt;25 Golden Darics&lt;/li&gt;
-&lt;li&gt;25 Silver Darics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Rank 5 Rewards:
-&lt;ul&gt;
-&lt;li&gt;100 Tikats&lt;/li&gt;
-&lt;li&gt;25x Ruby&lt;/li&gt;
-&lt;li&gt;50 Golden Talents&lt;/li&gt;
-&lt;li&gt;50 Silver Talents&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Ghillieglade&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ghillieglade&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ghillieglade&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Can be entered once per day by non-Tera Club members, 3-times per day by Tera Club Members.&lt;/li&gt;
-&lt;li&gt;uffed the HP and damage values of Banyakas, the Dark Guardian, the Dark Gatekeeper and the Dominolith stone.&lt;/li&gt;
-&lt;li&gt;Added the Ghillieglade Teleport Scroll, to the Vanguard Initiative Credit Merchant for 500 Credits.&lt;/li&gt;
-&lt;li&gt;The Loot table has been adjusted:
-&lt;ul&gt;
-&lt;li&gt;300 Tikats&lt;/li&gt;
-&lt;li&gt;50x Golden Darics&lt;/li&gt;
-&lt;li&gt;50x Silver Siglos&lt;/li&gt;
-&lt;li&gt;20x Golden Plates&lt;/li&gt;
-&lt;li&gt;20x Silver Plates&lt;/li&gt;
-&lt;li&gt;5-20x Emeralds&lt;/li&gt;
-&lt;li&gt;15x Luminous Mana Essence&lt;/li&gt;
-&lt;li&gt;3x Black Core Shard&lt;/li&gt;
-&lt;li&gt;15x Black Core Nodules&lt;/li&gt;
-&lt;li&gt;10-20x Goldfinger Token&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;PvP Gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-gear&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pvp-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Reduced the Cooldown Reduction stat from 10% to 7.2%.&lt;/li&gt;
-&lt;li&gt;Changed the Disciplinary Weapons enchantment stats to the following:
-&lt;ul&gt;
-&lt;li&gt;+7: Increases PvP Damage by 4%.&lt;/li&gt;
-&lt;li&gt;+8: Increases PvP Damage by 4%.&lt;/li&gt;
-&lt;li&gt;+9: Increases PvP Damage by 4%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Changed the Impregnable Weapons enchantment stats to the following:
-&lt;ul&gt;
-&lt;li&gt;+7: Decreases damage taken by 1% when under 50% HP.&lt;/li&gt;
-&lt;li&gt;+8: Decreases damage taken by 2% when under 50% HP.&lt;/li&gt;
-&lt;li&gt;+9: Decreases damage taken by 3% when under 50% HP.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Disabled the enchantment stats on all PvP gear armor pieces.
-&lt;ul&gt;
-&lt;li&gt;The Attack Modifiers of PvP Weapons have been adjusted to always hit the maximum value. It will no longer be random.&lt;/li&gt;
-&lt;li&gt;Disabled the PvP Signature Innerwears.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;PvE Gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pve-gear&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pve-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;The Attack Modifiers of PvE Weapons have been adjusted to fixed values instead of previously random values in a range.
-&lt;ul&gt;
-&lt;li&gt;The new values are about the average of the previous random ranges on every gear piece.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Changed the PvP damage reduction from previous 40% to 80%.&lt;/li&gt;
-&lt;li&gt;Bloodlust passive has been removed from all classes except Reaper and Brawler.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Class Balancing&lt;span class=&#34;absolute -mt-20&#34; id=&#34;class-balancing&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#class-balancing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Archer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;archer&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#archer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;The following Skills have had their skill damage against monsters reduced by 10%:
-&lt;ul&gt;
-&lt;li&gt;Thunderbolt&lt;/li&gt;
-&lt;li&gt;Rapid Fire&lt;/li&gt;
-&lt;li&gt;Radiant Arrow&lt;/li&gt;
-&lt;li&gt;Rain of Arrows&lt;/li&gt;
-&lt;li&gt;Wind Walk&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;The “Safe Space” passive has been removed.&lt;/li&gt;
-&lt;li&gt;Rain of Arrows PvP damage has been increased by 5% &amp;amp; will no longer split damage.&lt;/li&gt;
-&lt;li&gt;Feign Death reset chance EP has been removed.&lt;/li&gt;
-&lt;li&gt;EP to refund Backstep RE cost has been removed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Priest&lt;span class=&#34;absolute -mt-20&#34; id=&#34;priest&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#priest&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Edict of Judgment
-&lt;ul&gt;
-&lt;li&gt;Increased provided power and crit factor by 20%.&lt;/li&gt;
-&lt;li&gt;No longer gets removed on knockdown.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Divine Charge
-&lt;ul&gt;
-&lt;li&gt;Increased provided power and crit power by 20%.&lt;/li&gt;
-&lt;li&gt;No longer gets removed on knockdown.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Grace of Resurrection
-&lt;ul&gt;
-&lt;li&gt;Can now be removed by other healers using Plague of Exhaustion/Regression.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Mystic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;mystic&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mystic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Thrall of Vengeance &amp;amp; Thrall of Wrath
-&lt;ul&gt;
-&lt;li&gt;No longer gets removed on knockdown.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Berserker&lt;span class=&#34;absolute -mt-20&#34; id=&#34;berserker&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#berserker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Unleash
-&lt;ul&gt;
-&lt;li&gt;Reduced cooldown by approximately 20%.&lt;/li&gt;
-&lt;li&gt;Unleash: Rampage &amp;amp; Beast Fury&lt;/li&gt;
-&lt;li&gt;Increased damage against monsters by 35%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;New Passive
-&lt;ul&gt;
-&lt;li&gt;Increases damage against monsters by 1% per Cyclone, Unleash Cast, Unleash: Beast Fury hit.&lt;/li&gt;
-&lt;li&gt;Stacks up to 10 times for a total of 10%.&lt;/li&gt;
-&lt;li&gt;Duration of the buff lasts for 9.5 seconds.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Cyclone
-&lt;ul&gt;
-&lt;li&gt;Increased PvP damage by 20%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Gunner&lt;span class=&#34;absolute -mt-20&#34; id=&#34;gunner&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#gunner&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Burst Fire has been adjusted to scale with attack speed.&lt;/li&gt;
-&lt;li&gt;Probability of stacks has been increased from 26% to 35% on Force EP.&lt;/li&gt;
-&lt;li&gt;Added a new passive which reduces Balder’s Vengeance cooldown by 2 seconds for each hit of Burst fire/Targeted Burst Fire against monsters.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Slayer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;slayer&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#slayer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Unsheathe PvP damage has been reduced by 20%.&lt;/li&gt;
-&lt;li&gt;Punishing Blow will no longer reduce the cooldown of Unsheathe in PvP.&lt;/li&gt;
-&lt;li&gt;Propulsion passive for Eviscerate has been changed so it is also applied by non critical attacks.&lt;/li&gt;
-&lt;li&gt;Crit rate of Eviscerate has been increased by 15%.&lt;/li&gt;
-&lt;li&gt;Crit rate of Overhand Strike has been increased by 5%.&lt;/li&gt;
-&lt;li&gt;Measuring Slice and Punishing Blow damage has been increased by 5%.&lt;/li&gt;
-&lt;li&gt;In Cold Blood flat skill cooldown has been reduced by 7 seconds.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Valkyrie&lt;span class=&#34;absolute -mt-20&#34; id=&#34;valkyrie&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#valkyrie&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Glaive Strike
-&lt;ul&gt;
-&lt;li&gt;Increased damage against monsters by 10%.&lt;/li&gt;
-&lt;li&gt;Increased PvP damage by 15%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dream Slash
-&lt;ul&gt;
-&lt;li&gt;The glyph that deals damage to knockdown opponents has been changed to 3x damage instead of previous 2x.&lt;/li&gt;
-&lt;li&gt;Will now apply 1 stack of Dreamblaze.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dark Herald
-&lt;ul&gt;
-&lt;li&gt;Players pulled are now immune to the effect for 30 seconds.&lt;/li&gt;
-&lt;li&gt;Can pull up to 4 players.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Titansbane
-&lt;ul&gt;
-&lt;li&gt;Increases all raid members damage by 5% per second, up to 25%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Twilight Waltz
-&lt;ul&gt;
-&lt;li&gt;Endurance debuff has been removed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Ground Bash
-&lt;ul&gt;
-&lt;li&gt;Damage against monsters has been increased to 15%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dreamblaze
-&lt;ul&gt;
-&lt;li&gt;Stacks have been changed from 4 to 2.&lt;/li&gt;
-&lt;li&gt;Damage per stack has been increased by 100%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Overhead Slash
-&lt;ul&gt;
-&lt;li&gt;Increased cooldown from 12 seconds to 15 seconds.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Gungnir’s Bite
-&lt;ul&gt;
-&lt;li&gt;Partial Eclipse buff will now increase damage by an additional 5%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Runeburst
-&lt;ul&gt;
-&lt;li&gt;Physical Factor scaling has been adjusted from 20% to 50%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Evasion
-&lt;ul&gt;
-&lt;li&gt;Reset glyph has been removed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Shining Crescent
-&lt;ul&gt;
-&lt;li&gt;Increased PvP damage by 20%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Maelstorm
-&lt;ul&gt;
-&lt;li&gt;HP regen glyph will now regenerate 3% of HP on a successful hit compared to previous 5%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Warrior&lt;span class=&#34;absolute -mt-20&#34; id=&#34;warrior&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#warrior&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Assault Stance Damage to Monsters stat has been reduced from 10% to 5%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Reaper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;reaper&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#reaper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Binding Scythes cooldown has been reduced to 4 minutes.&lt;/li&gt;
-&lt;li&gt;Shadow Reaping will no longer reduce the cooldown of Retaliate.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sorcerer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sorcerer&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#sorcerer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Every hit of Meteor Shower will apply Fire Element.&lt;/li&gt;
-&lt;li&gt;Ice Lance crit chance has been increased by 1.5.&lt;/li&gt;
-&lt;li&gt;Arcane Pulse crit chance has been increased by 1.5.&lt;/li&gt;
-&lt;li&gt;Ice Storm instant cast damage has been increased to match DoT damage.&lt;/li&gt;
-&lt;li&gt;Wrap Barrier will no longer cancel Mana Boost effect.&lt;/li&gt;
-&lt;li&gt;Meteor Strike is no longer splitting damage and its critical chance has been increased on PvP.&lt;/li&gt;
-&lt;li&gt;Mindblast
-&lt;ul&gt;
-&lt;li&gt;Removed reset glyph.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Brawler&lt;span class=&#34;absolute -mt-20&#34; id=&#34;brawler&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#brawler&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Growing fury will no longer reduce the cooldown of Retaliate.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Lancer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;lancer&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#lancer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Chained Leash will no longer pull people after using Challenging Shout.&lt;/li&gt;
-&lt;li&gt;Chained Leash is now uncleansable and unbroochable.&lt;/li&gt;
-&lt;li&gt;Leash will not longer be resist able.&lt;/li&gt;
-&lt;li&gt;Super Leap PvP damage has been increased by 10%.&lt;/li&gt;
-&lt;li&gt;Critical chance of Spring Attack, Wallop &amp;amp; Super Leap in PvP has been increased.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Ninja&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ninja&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ninja&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Skyfall
-&lt;ul&gt;
-&lt;li&gt;Increased damage against monsters by 15%.&lt;/li&gt;
-&lt;li&gt;Increased crit chance by 15%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Changed starting area for Reapers to Stepstone Isle.&lt;/li&gt;
-&lt;li&gt;Awakening Skills can now be acquired directly from the UI in case they are lost during a race change.&lt;/li&gt;
-&lt;li&gt;Tikat Price on Vanguard Initiative Credit Merchant has been changed from 1 to 3.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MT The Dream 1.0.9</title>
-      <link>https://tenacity-tera.eu/blog/archive/2022-06-10-p1.0.9/</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/blog/archive/2022-06-10-p1.0.9/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Guild Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;guild-changes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#guild-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Increased Guild XP Rewards from Guild Quests by 10x.&lt;/li&gt;
-&lt;li&gt;Decreased amount of Guild XP required for each Guild Level by 20%.&lt;/li&gt;
-&lt;li&gt;Increased maximum amount of Valderon Tokens from 900 to 1500.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Disabled Pit of Petrax Leaderboards.&lt;/li&gt;
-&lt;li&gt;Added &lt;strong&gt;Strong Canephora Potion&lt;/strong&gt; to &lt;strong&gt;Elleon’s Mark of Valor&lt;/strong&gt; for 5 Elleon’s Marks.&lt;/li&gt;
-&lt;li&gt;Added &lt;strong&gt;Moongourd Pie&lt;/strong&gt; to &lt;strong&gt;Eleon’s Mark of Valor&lt;/strong&gt; for 10 Eleon’s Marks.&lt;/li&gt;
-&lt;li&gt;Increased channels of all open world zones.&lt;/li&gt;
-&lt;li&gt;Added Manaya’s Core (Solo). Accessible through the Argon Corpus/Manaya’s Core Teleportal.&lt;/li&gt;
-&lt;li&gt;Activated Celestial Arena.&lt;/li&gt;
-&lt;li&gt;Disabled custom costumes and enabled automatic optimisation in Civil Unrest: Island of Dawn.&lt;/li&gt;
-&lt;li&gt;Fixed an issue where required members for Civil Unrest tower was previously a minimum of 6, even though it was set to 5. Now requires at least 5 members.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MT The Dream 1.0.8</title>
-      <link>https://tenacity-tera.eu/blog/archive/2022-06-02-p1.0.8/</link>
-      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/blog/archive/2022-06-02-p1.0.8/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Maximum guild size has been increased to 35.&lt;/li&gt;
-&lt;li&gt;All inactive accounts that did not log in since January 1st, 2022, have had their character names freed. Approximately 800 names have been freed.&lt;/li&gt;
-&lt;li&gt;All Characters of level 70 have received 1x Eternal Gear Token Box on their Parcel Post.&lt;/li&gt;
-&lt;li&gt;Fishing Rods have been temporarily disabled due to them being used to escape knockdown state with no cooldown. They will be fixed and brought back at a later patch.&lt;/li&gt;
-&lt;li&gt;Readjusted chances of Golden Halidoms and Relics drops on Manaya’s Core (Hard).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Battleground Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;battleground-changes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#battleground-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Gridiron, Kumasylum, Wintera Snowfield, The Colosseum (3v3), Monkeydrome, Kumas Royale have been disabled.&lt;/li&gt;
-&lt;li&gt;Fraywind Canyon has been temporarily disabled due to an issue with gathering points and will be brought back as soon as we are able to fix it.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;Battleground Leaderboards&lt;span class=&#34;absolute -mt-20&#34; id=&#34;battleground-leaderboards&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#battleground-leaderboards&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;PvP Leaderboards will now reset every 2 weeks instead of a month.&lt;/li&gt;
-&lt;li&gt;Shore-Hold Leaderboards have been disabled.&lt;/li&gt;
-&lt;li&gt;Readjusted the rank 1 rewards per class (previously the ranking rewards were not consistent across different battlegrounds).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;Battleground Leaderboards’ Ranking Rewards (All Classes)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;battleground-leaderboards-ranking-rewards-all-classes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#battleground-leaderboards-ranking-rewards-all-classes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Rank 1 will now receive “Darkan’s Black Wings” for 14 days, usable during combat as well.&lt;/li&gt;
-&lt;li&gt;Ranks 2-3 will receive “Darkan’s Wings” for 14 days, usable during combat as well.&lt;/li&gt;
-&lt;li&gt;Corsairs’ Stronghold Rank 1 on all classes will receive 5000 Tikat as well.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MT The Dream 1.0.7</title>
-      <link>https://tenacity-tera.eu/blog/archive/2022-05-22-p1.0.7/</link>
-      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/blog/archive/2022-05-22-p1.0.7/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Golden Halidoms &amp;amp; Relics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;golden-halidoms--relics&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#golden-halidoms--relics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Manaya’s Core (Hard)&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Nightmare Shandra Manaya has a 20% chance to drop 1-2 Rank IV Halidoms or Relics alongside the Rank II ones that would already drop, the latter which now has a 50% chance to drop.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Velik’s Sanctuary (Hard)&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Nightmare Lakan has a 50% chance to drop 1-3 Rank II Halidoms or Relics.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bahaar/Timescape/Forsaken Island&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;75% chance to drop 1-4 Rank I Halidoms or Relics.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Partners&lt;span class=&#34;absolute -mt-20&#34; id=&#34;partners&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#partners&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Physical and Magical Amplification Superior Companions have been added to the Tikat Shop for 5,000 Tikats.&lt;/li&gt;
-&lt;li&gt;100% Partner Box has been added to the Tikat Shop for 100 Tikats.&lt;/li&gt;
-&lt;li&gt;100% Partner Box has been added in the following dungeons as reward loot for killing the final bosses:
-&lt;ul&gt;
-&lt;li&gt;RK-9 Kennel&lt;/li&gt;
-&lt;li&gt;Red Refuge&lt;/li&gt;
-&lt;li&gt;Broken Prison&lt;/li&gt;
-&lt;li&gt;Gossamer Vault (Hard)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Civil Unrest Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;civil-unrest-changes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#civil-unrest-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;The Civil Unrest Map has been changed to Island of Dawn.&lt;/li&gt;
-&lt;li&gt;The Duration of Pre-CU has been adjusted to 1 hour instead of 2.&lt;/li&gt;
-&lt;li&gt;The Duration of Civil Unrest has been adjusted to be 2 hours instead of previous 1.&lt;/li&gt;
-&lt;li&gt;The tower HP values have been reduced by 15%.&lt;/li&gt;
-&lt;li&gt;A Minimum of 5 guild members are now required for a tower to stay up at the beginning of Civil Unrest: Island of Dawn.&lt;/li&gt;
-&lt;li&gt;Bam spawning spots has been set to spawn at a random location every 30 minutes.&lt;/li&gt;
-&lt;li&gt;The HP of the BAMs has been increased by 100%.&lt;/li&gt;
-&lt;li&gt;Towers can only be placed 100m away from another tower now.&lt;/li&gt;
-&lt;li&gt;The poison potion has been changed to deal 1,000,000 damage now.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Once a player uses the “Cleric NPC” they will receive a debuff that is rendering them unable to use it again for 15 seconds.&lt;/li&gt;
-&lt;li&gt;Fixed a bug where Menma’s Multi-Nostrum would display as on cooldown infinitely, when normal nostrum was being used.&lt;/li&gt;
-&lt;li&gt;The internal name filter and words blacklist has been reworked and common words that were previously non usable are now available for use.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MT The Dream 1.0.6</title>
-      <link>https://tenacity-tera.eu/blog/archive/2022-05-15-p1.0.6/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/blog/archive/2022-05-15-p1.0.6/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Patch v1.0.6 brings various unique changes to the gear, PvP and miscellaneous gameplay improvements. Please find the details below.&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;TERA Club&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tera-club&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#tera-club&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;New item added: &amp;lt;Menma’s Multi-Nostrum&amp;gt;
-&lt;ul&gt;
-&lt;li&gt;Upon use, applies Everful Nostrum, Strong Bravery, Superior Noctenium Elixir and Hot or Salty Fish Buffet buffs, the last one depending on your class.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;New Starting Items&lt;span class=&#34;absolute -mt-20&#34; id=&#34;new-starting-items&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#new-starting-items&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Eternal Gear Token Box has been added.
-&lt;ul&gt;
-&lt;li&gt;Eternal Gear Token Box will replace existing Bellicarium Credits Item which new characters used to receive at the start of the game. The box will loot 1000 Eternal Gear Tokens upon opening.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PvE Relidoms will now be obtainable from Eternal Gear Token Shop for 250 tokens each and will not be given away immediately at character creation as a starting item.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;PvP Essentials&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-essentials&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pvp-essentials&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;PvP Gear and related equipment have been added to the Eternal Gear Token Shop for 1 token each.&lt;/li&gt;
-&lt;li&gt;Brand new Radiant PvP Special Accessories, Relics and Halidoms have been added.
-&lt;ul&gt;
-&lt;li&gt;These Accessories and Relidoms will be able to be acquired instantly but will not be usable in dungeons. Upon entering a dungeon while having them equipped, a “Curse of PvP” debuff will be applied that reduces damage and healing done, and increases damage taken.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;New Item [PvP Gear] Menma’s +9 Gear Enchantment Scroll
-&lt;ul&gt;
-&lt;li&gt;Instantly enchants all PvP Gear pieces to +9 with 100% success chance.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Equalised gear has been removed from all Battlegrounds.&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;From now on they are set to Personal Gear. The change is made as a &lt;strong&gt;temporary hotfix&lt;/strong&gt; while the Equalised Gear is currently being tested. It shall be brought back after these are done.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Eternal Gear Token Box has been added to Bellicarium Credit Merchant for 1m credits each.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Guilds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;guilds&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#guilds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;strike&gt;
-- Maximum number of Guild Members has been adjusted from 30 to 50.
-&lt;/strike&gt;
-&lt;ul&gt;
-&lt;li&gt;While it was originally planned to be increased to 50, it hasn&amp;rsquo;t be changed for this patch. We are looking into potential workarounds to increase the guild size of PvE guilds only while PvP guilds remain on the lower numbers.
-&lt;br&gt;We&amp;rsquo;re happy to see there are multiple PvP guilds fighting each other in CU and GvGs instead of a 1 or 2 guild domination.
-&lt;br&gt;Of course if the server population increases enough, we will be able to increase the guild size for PvP guilds as well.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;PvE Gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pve-gear&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pve-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Red stats of the PvE Gear have been set to 40%
-&lt;ul&gt;
-&lt;li&gt;PvP damage dealt reduction has been adjusted to 40% (from 80%).&lt;/li&gt;
-&lt;li&gt;PPvP damage taken increase has been adjusted to 40% (from 100%).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Radiant Jewelery&lt;span class=&#34;absolute -mt-20&#34; id=&#34;radiant-jewelery&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#radiant-jewelery&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Base enchantment success chance has been increased from 25% to 40%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Healers’ missing Talyphs (Velocity, Downfall, Weakening Touch) have been restored client-side, but remain disabled in the server as they are currently bugged.
-&lt;ul&gt;
-&lt;li&gt;We will be creating a workaround for the issues caused by them cancelling other people’s skill casts.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MT The Dream 1.0.5</title>
-      <link>https://tenacity-tera.eu/blog/archive/2022-05-01-p1.0.5/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/blog/archive/2022-05-01-p1.0.5/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Some scheduled changes have been postponed for the next patch due to time limitations, and will be coming as soon as possible.&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Battleground&lt;span class=&#34;absolute -mt-20&#34; id=&#34;battleground&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#battleground&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Fraywind Canyon no longer gives personal gear over item level 448.&lt;/li&gt;
-&lt;li&gt;All Battlegrounds should stay up 24/7 now with no shutdown time.&lt;/li&gt;
-&lt;li&gt;Removed faulty Civil Unrest NPC Teleport option (You would get doomzoned if you used it)&lt;/li&gt;
-&lt;li&gt;Changed CU Rewards to:
-&lt;ul&gt;
-&lt;li&gt;1st Place:
-&lt;ul&gt;
-&lt;li&gt;5M Bellicarium Credit token&lt;/li&gt;
-&lt;li&gt;5k Tikat Tokens&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;2nd Place:
-&lt;ul&gt;
-&lt;li&gt;5M Bellicarium Credit Token&lt;/li&gt;
-&lt;li&gt;3.5k Tikat Tokens&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;3rd Place:
-&lt;ul&gt;
-&lt;li&gt;5M Bellicarium Credit Token&lt;/li&gt;
-&lt;li&gt;2k Tikat Tokens&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;4th &amp;amp; 5th Place:
-&lt;ul&gt;
-&lt;li&gt;10x Bellicarium Credit Token (100,000)&lt;/li&gt;
-&lt;li&gt;1k Tikat Tokens&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;6th - 10th Place:
-&lt;ul&gt;
-&lt;li&gt;5x Bellicarium Credit Token (100,000)&lt;/li&gt;
-&lt;li&gt;500 Tikat Tokens&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Battleground rewards/vanguards changed and updated to provide the following:
-&lt;ul&gt;
-&lt;li&gt;3v3&amp;rsquo;s WIN Rewards
-&lt;ul&gt;
-&lt;li&gt;100 Vanguard Credits&lt;/li&gt;
-&lt;li&gt;150k Bellicarium Credits&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Corsair&amp;rsquo;s WIN Rewards;
-&lt;ul&gt;
-&lt;li&gt;250 Vanguard Credits&lt;/li&gt;
-&lt;li&gt;330k Bellicarium Credits&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Fraywind WIN Rewards
-&lt;ul&gt;
-&lt;li&gt;450 Vanguard Credits&lt;/li&gt;
-&lt;li&gt;600k Bellicarium Credits&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Heroic Oath gear is no longer usable and currently equipped gear will be ineffective.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Added pocket tab expansion to tikat shop.&lt;/li&gt;
-&lt;li&gt;Removed [Premium] Banyaka&amp;rsquo;s Secret Key stuff from Tikat shop.&lt;/li&gt;
-&lt;li&gt;Elleon&amp;rsquo;s Mark of Valor 2k max stack now (although may not show on client)&lt;/li&gt;
-&lt;li&gt;Fix Flying Skill: Dapper Llewellyn&lt;/li&gt;
-&lt;li&gt;Riveran innerwears now have the red PvP damage dealt decrease and damage taken increase stats.&lt;/li&gt;
-&lt;li&gt;Added font support for these characters:
-&lt;ul&gt;
-&lt;li&gt;Japanese&lt;/li&gt;
-&lt;li&gt;Chinese&lt;/li&gt;
-&lt;li&gt;Hangul&lt;/li&gt;
-&lt;li&gt;Thailand&lt;/li&gt;
-&lt;li&gt;Greek&lt;/li&gt;
-&lt;li&gt;Cyrilic&lt;/li&gt;
-&lt;li&gt;Arabic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
