@@ -6,7 +6,7 @@ sidebar:
 ---
 
 Dungeons currently open on MT: The Dream private server.
-<hr>
+<hr> 
 
 **Select a dungeon to learn more!**<br>
 Dungeons in the **[Currently on MT: The Dream]** section get updated for easier access to the most-wanted guides.<br>You can also expand the side-menu to view more dungeons if necessary.<br><br>
