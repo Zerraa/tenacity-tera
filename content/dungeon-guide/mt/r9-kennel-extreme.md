@@ -1,11 +1,11 @@
 ---
-title: RK-9 Kennel (Hard)
-description: Guide for the dungeon RK-9 Kennel (Hard)
+title: RK-9 Kennel
+description: Guide for the dungeon RK-9 Kennel
 weight: 1
 toc: true
 ---
 
-You can jump off the platform and fall somewhere around the center of the map.
+**You can jump off the platform and fall somewhere around the center of the map.**
 
 <div id="first-boss">
 
