@@ -173,11 +173,13 @@ This is the signal telling you that the mechanic will have Red, Blue, and White 
 * This cannot be blocked or iframed. (**but you can use Teleport Jaunt**)
 
 At the center of the map there’s some structure. This structure shoots out lasers on two ends, which you can see by blue crystal pointing out from it. 
-* It will rotate clockwise or counterclockwise based on the number of mechanic’s activation. Please read Take Note section to understand what to do here (especially tanks). 
+* It will rotate clockwise or counterclockwise based on the number of mechanic’s activation. 
+
+**Please read this section to understand what to do here (especially tanks).** 
   * **Each time the laser passes through the crystals, it will change its color.** To survive this mechanic, you must **match the shield color** with laser color.
 
-   Same colors are Safe.
-   Different colors are Dead.
+   Same colors are safe.
+   Different colors you are dead.
 
 <center><video width="320" height="240" controls>
   <source src="https://i.imgur.com/hVrSHPb.mp4" type="video/mp4">

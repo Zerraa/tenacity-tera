@@ -1903,15 +1903,14 @@ This is the signal telling you that the mechanic will have Red, Blue, and White 
 &lt;/ul&gt;
 &lt;p&gt;At the center of the map there’s some structure. This structure shoots out lasers on two ends, which you can see by blue crystal pointing out from it.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;It will rotate clockwise or counterclockwise based on the number of mechanic’s activation. Please read Take Note section to understand what to do here (especially tanks).&lt;/p&gt;
+&lt;li&gt;It will rotate clockwise or counterclockwise based on the number of mechanic’s activation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Please read this section to understand what to do here (especially tanks).&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Each time the laser passes through the crystals, it will change its color.&lt;/strong&gt; To survive this mechanic, you must &lt;strong&gt;match the shield color&lt;/strong&gt; with laser color.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Same colors are Safe.
-Different colors are Dead.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Same colors are safe.
+Different colors you are dead.&lt;/p&gt;
 &lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
   &lt;source src=&#34;https://i.imgur.com/hVrSHPb.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/center&gt;
