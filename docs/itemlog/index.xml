@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tenacity – Item ID Log</title>
+    <link>https://tenacity-tera.eu/itemlog/</link>
+    <description>Recent content in Item ID Log on Tenacity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Oct 2023 21:46:47 +0200</lastBuildDate>
+    
+	  <atom:link href="https://tenacity-tera.eu/itemlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
