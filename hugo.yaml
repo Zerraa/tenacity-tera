@@ -60,10 +60,10 @@ menu:
       name: MT:The Dream Discord
       weight: 6
       url: "https://discord.gg/mtdream"
-    - name: Search
-      weight: 7
-      params:
-        type: search
+    #- name: Search
+    #  weight: 7
+    #  params:
+    #    type: search
     - name: GitHub
       weight: 8
       url: "https://github.com/Zerraa/tenacity-tera"
