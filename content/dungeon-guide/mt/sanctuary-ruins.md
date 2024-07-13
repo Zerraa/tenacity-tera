@@ -240,7 +240,7 @@ He will continue attacking the tank, his mechanic then changes depending on if h
 <center>
 
 <video controls>
-  <source src="" type="video/mp4">
+  <source src="https://i.imgur.com/tUcTSSj.mp4" type="video/mp4">
 </video>
 
 </center>
