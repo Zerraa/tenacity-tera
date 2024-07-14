@@ -44,21 +44,25 @@ menu:
       name: Dungeon Guides
       pageRef: /dungeon-guide
       weight: 2
+    - identifier: pvp
+      name: PvP Content
+      pageRef: /pvp
+      weight: 3
     - identifier: general
       name: General Content
       pageRef: /general
-      weight: 3
+      weight: 4
     - identifier: blog
       name: Patch Notes
       pageRef: /blog
-      weight: 4
+      weight: 5
     - identifier: mt
       name: MT:The Dream Guide
-      weight: 5
+      weight: 6
       url: "https://docs.google.com/document/d/192noLmzna1cJ6CXB9EfxXJwKUjjMllkHiCFswTENvAM/edit"
     - identifier: mt-discord
       name: MT:The Dream Discord
-      weight: 6
+      weight: 7
       url: "https://discord.gg/mtdream"
     #- name: Search
     #  weight: 7

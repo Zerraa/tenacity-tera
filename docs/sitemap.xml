@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tenacity-tera.eu/pvp/echoes-of-argonea/</loc>
+  </url><url>
+    <loc>https://tenacity-tera.eu/pvp/pvp-gear/</loc>
+  </url><url>
     <loc>https://tenacity-tera.eu/dungeon-guide/dungeon/abscess/</loc>
   </url><url>
     <loc>https://tenacity-tera.eu/dungeon-guide/mt/akalath-quarantine/</loc>
@@ -19,8 +23,6 @@
     <loc>https://tenacity-tera.eu/dungeon-guide/dungeon/broken-prison/</loc>
   </url><url>
     <loc>https://tenacity-tera.eu/dungeon-guide/dungeon/channelworks/</loc>
-  </url><url>
-    <loc>https://tenacity-tera.eu/general/pvp/civil-unrest/</loc>
   </url><url>
     <loc>https://tenacity-tera.eu/general/general/companions/</loc>
   </url><url>
@@ -78,8 +80,6 @@
   </url><url>
     <loc>https://tenacity-tera.eu/general/achievement/progression/</loc>
   </url><url>
-    <loc>https://tenacity-tera.eu/general/pvp/rally-quest/</loc>
-  </url><url>
     <loc>https://tenacity-tera.eu/dungeon-guide/mt/ravenous-gorge/</loc>
   </url><url>
     <loc>https://tenacity-tera.eu/dungeon-guide/dungeon/red-refuge-hard/</loc>
@@ -118,6 +118,8 @@
   </url><url>
     <loc>https://tenacity-tera.eu/dungeon-guide/dungeon/wonderholme/</loc>
   </url><url>
+    <loc>https://tenacity-tera.eu/pvp/civil-unrest/</loc>
+  </url><url>
     <loc>https://tenacity-tera.eu/dungeon-guide/dungeon/</loc>
   </url><url>
     <loc>https://tenacity-tera.eu/general/achievement/encounters-exploration/</loc>
@@ -126,7 +128,7 @@
   </url><url>
     <loc>https://tenacity-tera.eu/general/achievement/dungeons/north-shara-dungeons/</loc>
   </url><url>
-    <loc>https://tenacity-tera.eu/general/pvp/</loc>
+    <loc>https://tenacity-tera.eu/pvp/</loc>
   </url><url>
     <loc>https://tenacity-tera.eu/general/achievement/dungeons/south-arun-dungeons/</loc>
   </url><url>
@@ -142,7 +144,19 @@
   </url><url>
     <loc>https://tenacity-tera.eu/dungeon-guide/extreme/</loc>
   </url><url>
+    <loc>https://tenacity-tera.eu/pvp/rally-quest/</loc>
+  </url><url>
+    <loc>https://tenacity-tera.eu/pvp/battleground/</loc>
+  </url><url>
+    <loc>https://tenacity-tera.eu/pvp/battleground/corsair-stronghold/</loc>
+  </url><url>
+    <loc>https://tenacity-tera.eu/pvp/battleground/fraywind-canyon/</loc>
+  </url><url>
+    <loc>https://tenacity-tera.eu/pvp/battleground/gridiron/</loc>
+  </url><url>
     <loc>https://tenacity-tera.eu/general/achievement/pvp/</loc>
+  </url><url>
+    <loc>https://tenacity-tera.eu/pvp/battleground/shore-hold/</loc>
   </url><url>
     <loc>https://tenacity-tera.eu/general/general/lore/</loc>
   </url><url>

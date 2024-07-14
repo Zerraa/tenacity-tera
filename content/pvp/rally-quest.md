@@ -1,7 +1,7 @@
 ---
 title: Rally Quest
 description: Rally Quest
-weight: 1
+weight: 3
 draft: false
 toc: true
 ---
@@ -66,12 +66,12 @@ MT The Dream changed Rally BAMs significantly with Patch 2.0. There are now PvP,
 | **DAY** | **TYPE** | **BAM** | **TIME** | **LOCATION** |
 |:------------|-----------|-----------|-----------|:---------:|
 |    MONDAY    |     PVE/PVP     |     SABRANAK     |     18:00-22:00 UTC     |     HOWLING GLACIER/FROST REACH     |
-|    TUESDAY   |     PVP     |     TANTIBUS     |     18:30 UTC     |     VELIKA OUTSKIRTS     |
+|    TUESDAY   |     PVP     |     DRAELTERYX     |     18:30 UTC     |     ECHOES OF ARGONEA     |
 |   WEDNESDAY  |     -     |     -     |     -     |     -     |
 |   THURSDAY   |     PVE     |     EMBERMAW     |     17:00-19:00 UTC     |     BALDERA DISTRICT     |
-|    FRIDAY    |     PVP     |     NORUK     |     19:00 UTC     |     FEY FOREST     |
+|    FRIDAY    |     PVP     |     MASKIMXUUL     |     19:00 UTC     |     ECHOES OF ARGONEA     |
 |    SATURDAY    |     -     |     -     |     -     |     -     |
-|    SUNDAY    |     PVP     |     ARGENTUS     |     17:30 UTC     |     CIVIL UNREST     |
+|    SUNDAY    |     PVP     |     ARGENTUS     |     18:30 UTC     |     CIVIL UNREST     |
 
 <center>
 
