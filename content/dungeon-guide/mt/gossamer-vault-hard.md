@@ -174,6 +174,12 @@ However, unlike NM, this now comes with an AOE pool under every player that is N
 </div>
 <hr/>
 
+## Videos
+
+* [Snowsorc Run (EN)](https://www.youtube.com/watch?v=WYqBh-H9asI)
+
+<hr/>
+
 ## Sources
 
 * [Google doc written by Dispel/Frontier](https://docs.google.com/document/d/1TIv5ILgegSicqm28WG692XUu4Lwxr4J8p1E2trkWrOo/edit#heading=h.a59lhbtwoa7m)
