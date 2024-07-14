@@ -303,7 +303,7 @@ A purple eye will appear randomly above Lakan before his donut mechanics startin
 
 <hr/>
 
-## Sources
+## Videos
 
-* [Essential Mana](https://essentialmana.com/veliks-sanctuary/)
-* [Alina-Nyan Guide Run](https://youtu.be/lVSbyIewd8g?si=Q6E271LmntSN9DqJ)
+* [Alina-Nyan Guide Run (ENG)](https://youtu.be/lVSbyIewd8g?si=Q6E271LmntSN9DqJ)
+* [Lekca Guide Run (RU)](https://www.youtube.com/watch?v=qQy4dJtTcmo)
