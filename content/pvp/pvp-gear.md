@@ -1,12 +1,12 @@
 ---
 title: (PvP) Kalash Gear
-description: (PvP) Kalash Gear
+description: (PvP) Kalash Gear is the brand new PvP gear released on **MT The Dream in Patch 3.2**.
 weight: 1
 draft: false
 toc: true
 ---
 
-Kalash Gear is the brand new PvP gear released in **MT: The Dream in Patch 3.2**.
+Kalash Gear is the brand new PvP gear released on **MT: The Dream in Patch 3.2**.
 
 ## Crafting
 

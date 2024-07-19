@@ -1,6 +1,6 @@
 ---
 title: (PvP Area) Echoes of Argonea
-description: Echoes of Argonea
+description: The Echoes of Argonea is a PvP zone, automatically enabling Outlaw Declaration upon entering.
 weight: 1
 draft: false
 toc: true
