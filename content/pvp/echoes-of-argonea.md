@@ -36,10 +36,16 @@ The following potions cannot be used in the Echoes of Argonea:
 
 ## Reputation
 
-Three new reputations have opened related to the Echoes of Argonea.
-- Phantom Essence
-- Riftbound Tributes
-- Argonite Remnants
+Echoes of Argonea is the hall of 3 new reputations:
+
+Phantom Essence
+- This reputation can be obtained through daily quests and hunting specific bams in Echoes of Argonea. Used to obtain useful general items, such as Eternal Pets, HP Potions and useful designs
+
+Argonite Remnants
+- This reputation can be obtained through battlegrounds. Used to obtain progression materials such as Kalash Gear designs, Kalash Shard boxes and Argon Dusts.
+
+Riftbound Tributes
+- This reputation can be obtained through daily quests and participating in open world PvP content. Used to obtain more progression materials, such as Argon Coins (which can be exchanged for Kalash Shard boxes), Argon Dusts, Cyasma Shards and other useful designs.
 
 You can exchange new reputations with the following NPCs:
 - Exchange Phantom Essence with Haangk
@@ -51,6 +57,18 @@ You can exchange new reputations with the following NPCs:
 ### Daily Quests
 
 A variety of new quests can be obtained and completed every day in the Echoes of Argonea.
+
+The following daily quests are available:
+-   Obtain Argon Extractor Keys
+    - For this quest, you must locate Argon Extractors and obtain their key. While you have a key, there will be some additional restrictions applied to you. Once you obtain enough keys, you must safely return them to complete the quest
+-   Hunt Akalath Overseers
+-   Hunt Ethereal Shadowstalkers
+-   Hunt Suulvir Harvesters
+
+The three above quests are recommended to be completed with a party
+-   Absorbing Energy
+-   Harvesting Plants
+-   Mining Ores
 
 <hr>
 
@@ -71,6 +89,7 @@ If you die with this buff, use a teleportal, or leave the Echoes of Argonea you 
 - Monsters with the green aura will provide 0.5% Attack Speed per stack.
 - Monsters with the blue aura will provide 0.5% PvP Defense per stack.
 
+
 <center>
 <table>
    <tbody>
@@ -89,6 +108,21 @@ Invisible BAMs plague the Echoes of Argonea! You won't be able to see or hit the
 You can obtain the detection totem from the quest "Obtain Argon Extractor Keys".
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduzIlP0Velt-3JA6t5khraotKaOmOnlZ3L7sUycEn6q1EAJlrU-7HEys7F5wEwTjtq8o_JtrBRu7SZqa4K-g8fW_5x2EF3Ggdt5ThqdssYTLofL3PmVTvChixteon7VbO8AhC5OOGAEOuAlQ2v2deUAH5A?key=5eOlHu91OR0jUuyQFZGjJA)
+
+## PvP Rally
+
+Echoes of Argonea is now the home of the Tuesday and Friday Rally. Players participating in them will receive gear progression rewards.
+
+<center>
+<table>
+   <tbody>
+      <tr>
+         <td><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcax7ZEAxY7b9TvyaSZZGLAaM90ZpQgHwuqlqpE850XWvoWng36cbuGpDCEUa57-v-2nRhJn5n9ctbNlaHUFWmOTKDOqbXlxf3x8iSn8zQ_yP2XnzLwdOT1DJUdWufhhyozAmBC8kkKzCz1N0G_MVmH3FU?key=ijaPTm-zwLvmHPh-JukRew"></td>
+         <td><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfdr5cH67wZllvReqe9wrXyiqC65KcrZvZjlbuOWGvEsrYvwwKR_BATjy65Fcuo3apWP8eZ7-WXUfV2NqIs01etCCyz0AHvpZl6qoei-WKMg1t9Jg8a73do8nAQM8bz_S_ABxeYHE53LjBkvgsx1cVY3UZH?key=ijaPTm-zwLvmHPh-JukRewA"></td>
+      </tr>
+   </tbody>
+</table>
+</center>
 
 <hr>
 
