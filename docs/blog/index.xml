@@ -5,7 +5,7 @@
     <description>Recent content in MT The Dream Patch Notes on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://tenacity-tera.eu/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,68 @@
         
       
     
+    
+    <item>
+      <title>MT The Dream 3.2.1</title>
+      <link>https://tenacity-tera.eu/blog/2024-07-18-p3.2.1/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/blog/2024-07-18-p3.2.1/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;[Event] Blood on the Beach&lt;span class=&#34;absolute -mt-20&#34; id=&#34;event-blood-on-the-beach&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#event-blood-on-the-beach&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Fixed an issue where the Coastal Battleground tie-in quest displayed the wrong rewards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[PvP] Echoes of Argonea&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-echoes-of-argonea&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pvp-echoes-of-argonea&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Fixed an issue where certain skills were not functioning properly while in the Echoes of Argonea.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;World Boss: Chrono Keeper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;world-boss-chrono-keeper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#world-boss-chrono-keeper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Increased HP by 100%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[PvP] Rally Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-rally-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pvp-rally-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Tuesday: Draelteryx&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tuesday-draelteryx&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tuesday-draelteryx&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Reduced HP by 25%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Friday: Maskimxuul&lt;span class=&#34;absolute -mt-20&#34; id=&#34;friday-maskimxuul&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#friday-maskimxuul&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Reduced HP by 25%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Class Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;class-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#class-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Lancer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;lancer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#lancer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Adrenaline Rush
+Now highlights enhanced abilities while using any advancement option.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Warrior&lt;span class=&#34;absolute -mt-20&#34; id=&#34;warrior&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#warrior&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Blade Draw
+Reverted a &lt;a href=&#34;https://docs.google.com/document/d/1_cy3E-C4X41ebUsy7azdQSLU4pgI053m0T0CQVgHLSE/edit#heading=h.vxtpe4gtyeci&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;change made in the last patch&lt;/a&gt;, where there was a short lockout added between casts while in Defensive Stance, similar to how Blade Waltz works.&lt;/li&gt;
+&lt;li&gt;Unfortunately this method did not work as intended when applied to the live server, so we&amp;rsquo;ll need to return to the drawing board to come up with potential solutions to this problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;General Content&lt;span class=&#34;absolute -mt-20&#34; id=&#34;general-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Achievements&lt;span class=&#34;absolute -mt-20&#34; id=&#34;achievements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#achievements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The following achievements can now be completed in a party:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One with the Guardians&lt;/li&gt;
+&lt;li&gt;One with the Harvesters&lt;/li&gt;
+&lt;li&gt;One with the Overseers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Argonite Remnants Credit (x1750)&amp;rdquo; to Argonite Remnant Shop&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Veilbound gear had a global message when enchanting to +3.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Slayer&amp;rsquo;s Kalash Cuirass had a roll with the wrong color.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where player&amp;rsquo;s game client would crash upon using a Kalash Gear Morpher on a Kalash Weapon or Armor&lt;/li&gt;
+&lt;li&gt;Keep in mind that this fix only works for gear pieces with an etching equipped&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>MT The Dream 3.2 - Echoes of the Past</title>
@@ -20714,99 +20776,6 @@ Boss monster companions are now available as extremely rare drops from dungeons!
 &lt;li&gt;Dark Punk Racer boxes now give the correct costume to male Castanic characters.&lt;/li&gt;
 &lt;li&gt;Fixed some of the issues with new costumes crashing the client and not loading correctly.&lt;/li&gt;
 &lt;li&gt;Removed Highwatch quest &amp;ldquo;Ways of Highwatch Guards&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MT The Dream 1.3.1 – Battle Pass</title>
-      <link>https://tenacity-tera.eu/blog/archive/2022-11-15-p1.3.1/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/blog/archive/2022-11-15-p1.3.1/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Menma’s Hunter Event (Battle Pass)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;menmas-hunter-event-battle-pass&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#menmas-hunter-event-battle-pass&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;After reviewing feedback from the community, we’ve decided to make some significant changes to the Battle Pass system. Alongside a wealth of quality of life improvements, the new Dungeon Mission Box now contains 2 new “Mission Tickets,” allowing players to select specific dungeons they’d like to run. &lt;br&gt;
-Dungeons within the “Dungeon Group Mission” boxes have also been amended. We hope these changes make it slightly more enjoyable to complete your Battle Pass!&lt;/p&gt;
-&lt;h3&gt;[Battle Pass] Dungeon Mission Box now contains:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;battle-pass-dungeon-mission-box-now-contains&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#battle-pass-dungeon-mission-box-now-contains&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Dungeon Group Expert Mission x3&lt;/li&gt;
-&lt;li&gt;Dungeon Group Novice Mission x3&lt;/li&gt;
-&lt;li&gt;Expert Dungeon Mission Ticket x2&lt;/li&gt;
-&lt;li&gt;Novice Dungeon Mission Ticket x2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Other Battle Pass Updates&lt;span class=&#34;absolute -mt-20&#34; id=&#34;other-battle-pass-updates&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#other-battle-pass-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We know some of you still love Manaya, Darkan and Kelsaik in their respective hard modes, but we also understand they can be quite time consuming and challenging for the average party. While we rework these dungeons and their loot tables in the background, we don’t want to force you to do them. &lt;br&gt;
-But don’t worry, you can still select them from your Dungeon Mission Tickets should you wish to run with your friends.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Removed Manaya’s Core (Hard), Sky Cruiser Endeavor (Hard), Corrupted Skynest (Hard) from Dungeon Group Expert Mission.&lt;/li&gt;
-&lt;li&gt;Readded “[Battle Pass] Token: Corrupted Skynest (Hard)” to it’s respective vanguard reward.&lt;/li&gt;
-&lt;li&gt;The aforementioned dungeons are now available to be selected within their corresponding Dungeon Mission Tickets (Expert) only.&lt;/li&gt;
-&lt;li&gt;Novice Missions now have a different icon from Expert Missions making them easily identifiable in your inventory.&lt;/li&gt;
-&lt;li&gt;Tooltips now correctly display if an item is unbankable, following the prior hotfix to make a number of relevant items bankable.&lt;/li&gt;
-&lt;li&gt;Pumped Etchings in Kaia’s “Useful Items” tab changed to correctly increase HP by 1,500.&lt;/li&gt;
-&lt;li&gt;Menma’s Hunter Fragments and Menma’s Hunter Tokens are now unable to be discarded.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Banyaka’s Chest Update&lt;span class=&#34;absolute -mt-20&#34; id=&#34;banyakas-chest-update&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#banyakas-chest-update&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Guaranteed Drop:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Refined Duranium Ore&lt;/li&gt;
-&lt;li&gt;Goldfinger Token&lt;/li&gt;
-&lt;li&gt;Elleon’s Mark of Valor&lt;/li&gt;
-&lt;li&gt;Dark Shard Weapon Feedstock&lt;/li&gt;
-&lt;li&gt;Dark Shard Armor Feedstock&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Percentage Chance:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Eren’s Key&lt;/li&gt;
-&lt;li&gt;Superior Recovery Potable&lt;/li&gt;
-&lt;li&gt;Superior Replenishment Potabl&lt;/li&gt;
-&lt;li&gt;Remnants of Superior Belt&lt;/li&gt;
-&lt;li&gt;Remains of Superior Mask&lt;/li&gt;
-&lt;li&gt;Vestiges of Superior Brooch&lt;/li&gt;
-&lt;li&gt;Expert’s Additive&lt;/li&gt;
-&lt;li&gt;Riding Skill: Hello Kitty Squealer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Dungeon Updates&lt;span class=&#34;absolute -mt-20&#34; id=&#34;dungeon-updates&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#dungeon-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Forbidden Arena (Undying Warlord) now grants 3 resurrections per run for players with rookie status.&lt;/li&gt;
-&lt;li&gt;Reduced damage received from lasers Demokron Factory (Hard), Nightmare Verno.
-&lt;ul&gt;
-&lt;li&gt;This should reduce the number of deaths caused by safezone expiring early.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Changed Dragon’s Lair (20-man) to Dragon’s Nest (20-man).
-&lt;ul&gt;
-&lt;li&gt;Remember you can queue for DN on Saturday/Sunday, with one vanguard reward a day per character, limited to 2 runs per character.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Adjusted HP of Maknakh from 200bn to 130bn in Dragon’s Nest (20-man).&lt;/li&gt;
-&lt;li&gt;Added 50 x Refined Mana Essence to Dragon’s Nest (20-man) vanguard reward.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Class Updates&lt;span class=&#34;absolute -mt-20&#34; id=&#34;class-updates&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#class-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Mystics are now able to prestack motes in Forbidden Arena (Nightmare Undying Warlord) and Corrupted Skynest (Hard).&lt;/li&gt;
-&lt;li&gt;Ninja’s Harmonious Burning Heart should now work as intended, without the skill appearing to cast client-side only in some scenarios.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;World Boss Updates&lt;span class=&#34;absolute -mt-20&#34; id=&#34;world-boss-updates&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#world-boss-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;There’s a new world boss! Among Ortan, Hazard and Cerrus, you can now &lt;strong&gt;hunt for Razan&lt;/strong&gt; in the Granarkus area.&lt;/li&gt;
-&lt;li&gt;Rewards for all world bosses have been reworked to now include bankable Item Experience Boosts and Battered Oath Tokens.&lt;/li&gt;
-&lt;li&gt;HP for all world bosses are now shown.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Miscellaneous Updates&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous-updates&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#miscellaneous-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Dakuryon’s Notes achievement moved to correct category.&lt;/li&gt;
-&lt;li&gt;Fixed counter for Demokron Factory (Hard) achievement.&lt;/li&gt;
-&lt;li&gt;Tooltip for Warrior’s Tempest Aura Passive ability has been updated to accurately reflect the extended duration of “Shadow of the Tempest II” to 15 seconds from a previous patch.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
