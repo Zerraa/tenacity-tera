@@ -113,6 +113,11 @@ You can obtain the detection totem from the quest "Obtain Argon Extractor Keys".
 
 Echoes of Argonea is now the home of the Tuesday and Friday Rally. Players participating in them will receive gear progression rewards.
 
+| **DAY** | **TYPE** | **BAM** | **TIME** | **LOCATION** |
+|:------------|-----------|-----------|-----------|:---------:|
+|    TUESDAY   |     PVP     |     DRAELTERYX     |     18:30 UTC     |     ECHOES OF ARGONEA     |
+|    FRIDAY    |     PVP     |     MASKIMXUUL     |     19:00 UTC     |     ECHOES OF ARGONEA     |
+
 <center>
 <table>
    <tbody>
