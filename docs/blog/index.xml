@@ -5,7 +5,7 @@
     <description>Recent content in MT The Dream Patch Notes on Tenacity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://tenacity-tera.eu/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,44 @@
         
       
     
+    
+    <item>
+      <title>MT The Dream 3.2.2</title>
+      <link>https://tenacity-tera.eu/blog/2024-07-24-p3.2.2/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/blog/2024-07-24-p3.2.2/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;[PvP] Echoes of Argonea&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-echoes-of-argonea&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pvp-echoes-of-argonea&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Increased the maximum stack count of Argon Detection Totem from 20 → 9999.&lt;/li&gt;
+&lt;li&gt;The Cyasma Rejuvenation Potion can no longer be placed in a guild bank.&lt;/li&gt;
+&lt;li&gt;The Cyasma Health Potion can now be placed in a guild bank.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;World Boss: Chrono Keeper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;world-boss-chrono-keeper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#world-boss-chrono-keeper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Increased the spawn delay when the server first starts from 2 hours → 8 hours.&lt;/li&gt;
+&lt;li&gt;Increased HP by 200%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[PvP] Battlegrounds&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pvp-battlegrounds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pvp-battlegrounds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;Leaderboards&lt;span class=&#34;absolute -mt-20&#34; id=&#34;leaderboards&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#leaderboards&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The Hexatrophy item which is available from the Triumph Trophy and Victorious Trophy has been removed and replaced with a &lt;strong&gt;&amp;ldquo;Ruler of the Battlefield&amp;rdquo;&lt;/strong&gt; title token.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixed an issue where the overall leaderboard ranking rewards in the Fraywind Canyon and Shore Hold were different than originally intended.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can view the intended rewards by reading our &lt;a href=&#34;https://docs.google.com/document/d/1_cy3E-C4X41ebUsy7azdQSLU4pgI053m0T0CQVgHLSE/edit#heading=h.s5hgy37ob8yv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3.2 patch notes&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Design Note: &lt;em&gt;We sincerely apologize for any confusion or inconvenience caused by the Hexatrophy item. This item was introduced some time ago, and our stance on titles and their effects have since changed. We believe that unique, exclusive titles and their effects should remain rare and valuable, so as to not devalue the effort that players put into earning them. Due to this, we have decided to exchange the Hexatrophy item with a unique title that will remain only available through the Triumph Trophy and Victorious Trophy.&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>MT The Dream 3.2.1</title>
@@ -20687,96 +20725,6 @@ Boss monster companions are now available as extremely rare drops from dungeons!
 &lt;/ul&gt;
 &lt;p&gt;Boss pets&amp;hellip; coming soon.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://menmastera.com/wp-content/uploads/2022/12/unnamed-2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MT The Dream 1.4 – Life Skilling, Class Revamps</title>
-      <link>https://tenacity-tera.eu/blog/archive/2022-12-18-p1.4.1/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/blog/archive/2022-12-18-p1.4.1/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;PVE Content Changes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pve-content-changes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pve-content-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Events&lt;span class=&#34;absolute -mt-20&#34; id=&#34;events&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#events&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Fixed Wintera not awarding Wintera tokens. Wintera now awards 50 tokens via vanguard quest.&lt;/li&gt;
-&lt;li&gt;Fixed Christmas Map Treasures to be party-wide rather than rolled for.&lt;/li&gt;
-&lt;li&gt;Fat Santa loot updated.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Dungeons&lt;span class=&#34;absolute -mt-20&#34; id=&#34;dungeons&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#dungeons&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;The Plexus&lt;span class=&#34;absolute -mt-20&#34; id=&#34;the-plexus&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-plexus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Decreased Nightmare Shandra Manaya&amp;rsquo;s HP from 50.6 billion to 47.5 billion.&lt;/li&gt;
-&lt;li&gt;Changed Nightmare Shandra Manaya&amp;rsquo;s spawn location to the center of the room.&lt;/li&gt;
-&lt;li&gt;Nightmare Shandra Manaya will not aggro until attacked.&lt;/li&gt;
-&lt;li&gt;Fixed issue where Nightmare Shandra Manaya would not drop aggro if people were outside the arena.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Forbidden Arena&lt;span class=&#34;absolute -mt-20&#34; id=&#34;forbidden-arena&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#forbidden-arena&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Forbidden Arena and both versions of Forbidden Arena (Undying Warlord) now drop Wintera Tokens as party loot:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;FA (Hagufna) and FA (Undying Warlord) drop 20 tokens each.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;FA (Nightmare Undying Warlord) drops 40 tokens.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Classes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;classes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#classes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Mystic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;mystic&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mystic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Corrected issue involving unintended behaviour of skill advancement on Titanic Favor.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Ninja&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ninja&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ninja&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Decreased attack modifier on Darklight/Kaia&amp;rsquo;s Wisdom Shurikens from 53753 to 52090.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Lancer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;lancer&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#lancer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Decreased attack modifier on Annihilation/Kaia&amp;rsquo;s Fury Lances from 56259 to 52884.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Berserker&lt;span class=&#34;absolute -mt-20&#34; id=&#34;berserker&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#berserker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Decreased attack modifier on Annihilation/Kaia&amp;rsquo;s Fury Axes from 62352 to 58226.&lt;/li&gt;
-&lt;li&gt;Fixed an issue in which Bloodlust&amp;rsquo;s &amp;lsquo;Mock&amp;rsquo; skill advancement was not applying the correct base cooldown of 73 seconds.&lt;/li&gt;
-&lt;li&gt;Bloodlust&amp;rsquo;s &amp;lsquo;Mock&amp;rsquo; skill advancement no longer stacks with healer debuff.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Warrior&lt;span class=&#34;absolute -mt-20&#34; id=&#34;warrior&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#warrior&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Fixed Assault Stance tooltip.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Archer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;archer&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#archer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Fixed Howling String tooltip.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Note that all changes are a WIP and subject to change as further data is gathered.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Crafting/Gathering&lt;span class=&#34;absolute -mt-20&#34; id=&#34;craftinggathering&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#craftinggathering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Gathering&lt;span class=&#34;absolute -mt-20&#34; id=&#34;gathering&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#gathering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Fixed Duranium gathering achievements.&lt;/li&gt;
-&lt;li&gt;Fixed Obsidian Essence/Normal ore essence bundle names.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Fishing&lt;span class=&#34;absolute -mt-20&#34; id=&#34;fishing&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#fishing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Fixed issue involving some fishing spots being unusable.&lt;/li&gt;
-&lt;li&gt;Fixed issues with using rank 9 and 10 fishing rods.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cooking&lt;span class=&#34;absolute -mt-20&#34; id=&#34;cooking&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#cooking&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Increased the maximum stack size of Sashimi to 100,000.&lt;/li&gt;
-&lt;li&gt;Kamaboko is now properly usable.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Dark Punk Racer boxes now give the correct costume to male Castanic characters.&lt;/li&gt;
-&lt;li&gt;Fixed some of the issues with new costumes crashing the client and not loading correctly.&lt;/li&gt;
-&lt;li&gt;Removed Highwatch quest &amp;ldquo;Ways of Highwatch Guards&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
 
       </description>
     </item>
