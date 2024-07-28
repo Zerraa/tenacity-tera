@@ -134,6 +134,7 @@ Before you can damage the shield the **healer has to Plague/Regress the boss**. 
 #### Purple Magic
 
 -  An attack reminiscent of the Red Magic attack in Antaroth’s Abyss, very much like that mechanic you need to look at which way he spins to know whether or not the circles start from the inside or outside.
+
 **This attack is a 5 step mechanic, look closely at the videos and try to identify each step yourself:**
 1. Kalligar draws a circle on the ground with his foot, pay close attention to which foot he uses. This is used for step 5.
 2. He will stomp the same foot on the ground which has to be iframed.
