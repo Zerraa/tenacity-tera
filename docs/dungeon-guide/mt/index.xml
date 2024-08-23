@@ -758,6 +758,279 @@ And target them with a circle of fire in which the outer circle deals damage, if
     </item>
     
     <item>
+      <title>Forbidden Arena (Hagufna)</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/mt/forbidden-arena-hagufna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/mt/forbidden-arena-hagufna/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;first-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/axjltqe.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Boss: Hagufna&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-hagufna&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#boss-hagufna&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;hr/&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;ul&gt;
+&lt;li&gt;His phase triggers were moved to 90%, 80%, 70%.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr/&gt;
+&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;pre&gt;&lt;code&gt; 85% Phase Change
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;85% Pull in Mechanic&lt;/strong&gt; - Starting at 85% and then about every minute after, the boss will hold his sword straight up in the air and begin channeling energy into it, either &lt;strong&gt;pink&lt;/strong&gt; or &lt;strong&gt;purple&lt;/strong&gt; energy. After 85% the boss gains a few new combos.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This will then &lt;strong&gt;pull everyone within 25m right on top&lt;/strong&gt; of him and then do a mechanic based on which energy color it was.&lt;/li&gt;
+&lt;li&gt;The pull in is not avoidable in any way aside from outranging it.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pay close attention to his sword&lt;/strong&gt;, around the hilt area to tell which color energy it is.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;Pink Energy: &lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/0TV3Xs6.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;After the pull, he will stab his sword into the ground creating &lt;strong&gt;3 shockwaves&lt;/strong&gt;. These waves deal massive damage but are &lt;strong&gt;survivable with damage reduction/shields&lt;/strong&gt;.&lt;br&gt;
+If by chance you do survive a wave, you will be silenced for 5 seconds and knocked down. Because you are a silenced you cannot retal.&lt;br&gt;
+&lt;strong&gt;The boss will auto target anyone silenced with an overhand strike,&lt;/strong&gt; and if by chance you survive that? a leaping strike.&lt;/p&gt;
+&lt;center&gt;Purple Energy: &lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/2Df9ACj.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;After being pulled, the boss will a fast spin that &lt;strong&gt;applies a bleed (cleanseable)&lt;/strong&gt; if hit directly by spin. &lt;br&gt;
+The spin will also create a &lt;strong&gt;shockwave traveling outwards&lt;/strong&gt; that stuns anyone hit. &lt;strong&gt;This wave is iframeable.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finally the boss will be charging an unsheathe after the quick spin. Its a race to escape it.
+&lt;ul&gt;
+&lt;li&gt;The general idea is to escape quickly as you get pulled, dodging the stun wave as you go.&lt;br&gt;
+Failure and you get stunned inside the unsheathe, at least it &lt;em&gt;looks cool when you die&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Range check / Rez bait&lt;/strong&gt; - At any point after 85%, if a player gets a certain distance away from the boss OR if anyone casts a ressurection spell/scroll, the boss will target them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These have their own separate cooldowns and can trigger back to back and often do because of how the mechanic works.
+&lt;ul&gt;
+&lt;li&gt;The boss will target the person and savage strike to them, often through/behind them and then overhand strike.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/NWEKgn7.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;pre&gt;&lt;code&gt; 55% Phase Change
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The boss will say &lt;strong&gt;My patience is wearing thin&amp;hellip;&lt;/strong&gt; refreshing his damage increase buff and unlocking more combos.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;30% Final Phase
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When reaching 30%, the boss will say &lt;strong&gt;Thats Enough!&lt;/strong&gt; and charge a giant aoe. You can see the edge of it if you are zoomed out far enough.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;When it is near completion, iframe.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The aoe can be survived if you have damage reduction or big shield skills.
+&lt;ul&gt;
+&lt;li&gt;At the same time, he will trigger a separate set of double red line, independant of the single red line from 90%.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The aoe will kill you, the lines shouldnt.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/musp1B6.png&#34;&gt;&lt;br&gt;The boss will gain his final form, a new buff called called Mad Power, increasing his damage by 15% and attack speed by 5%&lt;br&gt;This will also unlock his final combo.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/cvxNTAz.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Tank Buster Combo&lt;/strong&gt; - The boss will charge up in place for a second followed by an &lt;strong&gt;extended combo only under 30%&lt;/strong&gt;. &lt;br&gt;The boss will do this in order: &lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Double spin&lt;/li&gt;
+&lt;li&gt;Overhand strike (will be canceled if red eye flash)&lt;/li&gt;
+&lt;li&gt;Eviserate&lt;/li&gt;
+&lt;li&gt;Overhand strike &lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;There will be zero delay between them&lt;/strong&gt;&lt;br&gt;
+If you get hit by the first overhand strike, you will take x3 damage from the eviserate and INSTANTLY die.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Luckily this combo is easily avoided as a tank.&lt;/li&gt;
+&lt;li&gt;If you iframe to the side after the double spin, he will be locked on your position and simply miss the entire rest of the combo:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/EImbsi2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Double upwards slash into Overhand&lt;/strong&gt; - The boss will slash twice in an upwards motion followed by an Overhand strike.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Overhand is not blockable but iframeable and must be.&lt;/li&gt;
+&lt;li&gt;Knocks down and &lt;strong&gt;applies a debuff stack&lt;/strong&gt; and a separate debuff : &lt;strong&gt;Weakness exposed&lt;/strong&gt; for 5 seconds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/krMGUXk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/FNJxXSK.png&#34;&gt;Getting hit by most of his attacks will apply a  60 second debuff that stacks 4 times. &lt;br&gt; This debuff does nothing until it reaches 4 stacks.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/qTw39v9.png&#34;&gt;Once it reaches 4, it will change into a different debuff for 30 seconds that doubles your damage taken from the boss.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/HYC5WMm.png&#34;&gt;Getting hit by most of his attacks will apply a  60 second debuff that stacks 4 times. &lt;br&gt; This debuff does nothing until it reaches 4 stacks. &lt;br&gt; 
+    If you do not retal immediately or your retaliate is on cd, the boss will trigger a leaping strike on you as an execution, you will not survive.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Upward + Downward slash into Eviserate&lt;/strong&gt; - Similar to overhand with a slight difference, his second slash will have a downwards angle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All hits are blockable.&lt;/li&gt;
+&lt;li&gt;Eviserate will knockdown and &lt;strong&gt;apply weakness exposed&lt;/strong&gt; as well if hit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/EVlV8hs.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Upward slashes into backstep into random overhand&lt;/strong&gt; - Exactly the same as the first combo but now the boss will backstep and then randomly target someone for an overhand strike.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The jump is particularly annoying because he will iframe all your skills during it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/6OwhEBr.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Red Lines&lt;/strong&gt; - Also starting at 90% are random red lines.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;These deal about 100k damage and apply a crippling slow if hit. &lt;strong&gt;-60% move speed&lt;/strong&gt;, &lt;strong&gt;-70% attack speed&lt;/strong&gt;, and &lt;strong&gt;-90% healing&lt;/strong&gt; for 6 seconds.&lt;/p&gt;
+&lt;p&gt;These are iframeable but often come at the worst times possible.
+1 at a time will happen starting at 90%
+2 at a time will happen starting at 30%&lt;/p&gt;
+&lt;p&gt;Each has their own cooldown so a total of 3 at once can happen if unlucky.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Heart Thrust combo&lt;/strong&gt; - The boss will stab the tank with heart thrust, do a turning slash, and then overhand directly behind him. The heart thrust and turn slash are blockable.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The killer here is the small turning slash he does, this mostly gets dps hit. &lt;strong&gt;This applies a debuff leading to 4 stacks.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/8L0FPc9.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Double Spin into Overhand&lt;/strong&gt; - The boss will whirlwind twice followed by an overhand strike on the tank. The spins are blockable.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The spins hit hard and &lt;strong&gt;apply debuffs&lt;/strong&gt; most importantly for dps/healers
+&lt;ul&gt;
+&lt;li&gt;Standing on the bosses left side as a dps/healer avoids you getting hit by spins most of the time, super helpful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/mv5Elyk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;90% phase change + Shield&lt;/strong&gt; - At 90% the boss will say&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Pathetic fools...you asked for it 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And phase change slightly.He will also gain a buff for the rest of the fight that increases his damage by &lt;strong&gt;10% and attack speed by 5%&lt;/strong&gt;.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/2wAbm9N.png&#34;&gt;Increases boss&#39;s Damage by 10% and Attack speed by 5%.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/a9s5IW2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;Failing to break this shield will result in him doing an aoe within &lt;strong&gt;25 meters for massive damage&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It can be tanked with damage reduction skills or blue shield only.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The shield will happen at 90%, 60%, 30% OR every 90 seconds&lt;/strong&gt; ish if you dont push % fast enough.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;When you fail to break the shield, he will gain a stack of Condensed Darkness, increasing his damage by 10% per stack.&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/lHAxxAQ.png&#34;&gt;&lt;br&gt;This isnt a big deal unless you fail to break the shield 10 times in a row.&lt;br&gt;If he gets 10 stacks of this buff, he will gain Bloodlust.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/YKNYcjI.png&#34;&gt;&lt;br&gt;This increases his damage by 5x, move speed by 50%, and attack speed by 20%.&lt;br&gt;This forces you to fully wipe and reset.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Triple Spin into Punishing Blow&lt;/strong&gt; - A variation on the previous double spin move is this: the boss will instead spin 3 times total and then do a jumping slam attack.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All 3 spins are blockable and the jumping attack must be perfect blocked if tank, iframed if dps/healer.&lt;/li&gt;
+&lt;li&gt;There are only &lt;strong&gt;2 situations where the boss will punishing blow&lt;/strong&gt; and one of them is this, only if he triple spins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/mAsPxBo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Upward slashes into Overhand into Punishing Blow&lt;/strong&gt; - A variation on an earlier combo of upwards slashx2 into overhand on tank.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This time it will be followed up by a punishing blow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/F55ayK4.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Double Savage Strike&lt;/strong&gt; - This attack ruins dps lives.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The boss will do a quick turning slash and Savage strike directly away from the main aggro target, turn slash, Savage strike back to the tank, and finally overhand the tank&lt;/li&gt;
+&lt;li&gt;Thats a total of 3 stacks if dps dont move in time from the turnslash and both savage strikes.
+&lt;ul&gt;
+&lt;li&gt;It will ALWAYS go directly away from the aggro target and always return to that same aggro target.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/HcmbwqC.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Spinning stun combo&lt;/strong&gt; - There are &lt;strong&gt;2 variations&lt;/strong&gt; to this and its entirely reactionary for the tank.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The boss will do a small spin and hold in place for a second.&lt;/li&gt;
+&lt;li&gt;The stun is blockable so thats not the issue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;He will either attempt to stun you followed by an overhand strike.&lt;/li&gt;
+&lt;li&gt;He will fake you out, not casting the stun and simply overhanding you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/U65E06i.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;Here is an example of him faking the stun:&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/YMgVisA.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;hr/&gt; 
+&lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/j9YkdaZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taldekk’s Dungeon Guide Discord Server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Gossamer&#39;s Vault</title>
       <link>https://tenacity-tera.eu/dungeon-guide/mt/gossamer-vault-hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1720,396 +1993,6 @@ This can vary based on the positioning, but in general cases, it is recommeneded
 &lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://essentialmana.com/rk-9-kennel-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential Mana&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sanctuary&#39;s Ruins (Hard)</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/mt/sanctuary-ruins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/dungeon-guide/mt/sanctuary-ruins/</guid>
-      <description>
-        
-        
-        &lt;div id=&#34;last-boss&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/VVHctB9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;Boss: Lakan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-lakan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#boss-lakan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;
-&lt;table&gt;
-   &lt;tbody&gt;
-      &lt;tr&gt;
-         &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/u9BeHx2.png&#34;&gt;&lt;/td&gt;
-         &lt;td&gt;Targets two nearest party members with a debuff.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-         &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/hYy5tWw.png&#34;&gt;&lt;/td&gt;
-         &lt;td&gt;After few seconds, everyone will receive a 3 second stun.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-         &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/H7nEdBb.png&#34;&gt;&lt;/td&gt;
-         &lt;td&gt;After few seconds, everyone will have a bomb on their head with 4 second debuff. &lt;/td&gt;
-      &lt;/tr&gt;
-   &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Debuff&lt;/strong&gt; - Players with this debuff will have an eye floating above them, and they will also bleed 3% of max HP every second. This debuff lasts 4 minutes, and if you get this debuff twice, you will die.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Spread&lt;/strong&gt; - While stunned, a large circle will form around each player, which inflicts 50k damage each, so make sure to spread out.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gather&lt;/strong&gt; - Everyone must gather up quickly as those bombs will explode in a donut AoE around them. Players must gather fast and healers must cleanse immediately, or else anyone not cleansed will detonate and cause a massive AoE damage.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dBviVMe.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;After 40 seconds of combat, Lakan will float and say:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      “I mark you!”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;He will do this mechanic every 1 minute unless he says &lt;strong&gt;“I am no mere mortal foe!”&lt;/strong&gt;&lt;/p&gt;
-&lt;h4&gt;Pattern Reversal (&lt;50% HP)&lt;/h4&gt;
-When Lakan’s HP falls below 50%, a system message will appear again, but the order of the Chaos Mechanic pattern will now be **REVERSED**.
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/gDt78d7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Note: Keep in mind that this message will be randomized!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;FEEL THE ICY TOUCH OF MY EMPTY SOUL… (&lt;30% HP) &lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/W0rIwNv.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Randomly under 90% , he will float in air and say&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      “Feel the icy touch of my empty soul!”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;There will be a ring closing in toward Lakan, which inflicts deadly damage.&lt;strong&gt;Iframe it.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;DO NOT go near him after avoiding the ring.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/FBIb13r.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;When this 5 second buff timer icon (see image on right) appears, healers must use their dispell skill to prevent Lakan from creating a shield.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/qU7q67j.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;h4&gt;LAKAN’S SOUL WORLD&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/bXqMvRS.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;When Lakan’s &lt;strong&gt;HP falls below 30%&lt;/strong&gt;, you will notice that Lakan is now silvery, and the arena has turned blue.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;All Chaos mechanics will be the inverse.
-&lt;img src=&#34;https://i.imgur.com/WlPa1WL.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Soul Saturation Gauge&lt;/h4&gt;
-Whenever Lakan initiates Soul World, this gauge will **fill up by 25** each time.
-&lt;h4&gt;UNDO the Soul World&lt;/h4&gt;
-Lakan will also UNDO soul world with the quote: **“Ha! Not bad!”** This time, you must **SLEEP** (not plague/regress) Lakan.
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/jBHCdyv.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;I pity your allies&lt;/strong&gt; - If someone dies throughout the fight, the Soul Saturation meter will go up by &lt;strong&gt;+5&lt;/strong&gt;, this has a cooldown, but will repeat if the person stays dead and does not ressurect fast enough.&lt;/p&gt;
-&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Sword (chop) – Shield (smash) – Sword (R swing) – Back Spin (cone) – Sword (thrust)&lt;/strong&gt; -&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;On the third part when he swings his sword from right to left, he will pause very briefly before he backspins like Darkan, but this time, there will be a large cone attack.&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sword (chop) – Shield (smash) – Sword (L cross) – Shield (stun) – Back Kick (cone)&lt;/strong&gt; -&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;On the third part, he will swing his sword to form an X shape starting with Left diagonal slash then Right.&lt;/li&gt;
-&lt;li&gt;Then he will lift his shield and slam it upright on the ground, creating small AoE that stuns anyone near him, then he will immediately follow up with a back kick that covers large cone AoE behind him.&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Shield (smash) – Sword (chop) – Sword (R cross) – Shield (cone)&lt;/strong&gt; -&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;On the third part, he will swing his sword to form an X shape starting with Right diagonal slash then Left.&lt;/li&gt;
-&lt;li&gt;Cone on last hit with Shield will cause 5 wave AoE, starting with 10m radius circle, then 10~20m donut, 20~30 donut, 30~40 donut and 40~50 donut.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Shield Rally – Sword (R cross)x3 – Sword (stabs)&lt;/strong&gt; -  When he strikes his shield it does nothing, but it tells you that he will start slashing like a maniac.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Random Target Claw Patterns&lt;/strong&gt; - The claw attack itself is a 2 hit attack. Lakan will charge energy into his sword and then throw it, splits into 3, leaving a claw mark on the ground, then he will retrieve it after a moment.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Stop – Face random target – Claw&lt;/strong&gt; &lt;br&gt;
-He just pauses shortly and turns around to face random target.&lt;br&gt;
-This occurs mostly due to res bait.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Backswing Turn – Face random target – Claw&lt;/strong&gt; &lt;br&gt;
-He makes a large swing as he turns around, then faces toward random target. &lt;br&gt;
-To add, this tends to target farthest person who is within ~17m radius.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shield (Slam) – Laser (from his shield) – Backswing Turn – Face random target – Claw&lt;/strong&gt; &lt;br&gt;
-His shield glows pink and attacks by thrusting his shield forward. He will pause briefly as the shield’s glow is concentrated and shoots a laser.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Double 5-way shot&lt;/strong&gt; - He will curl up with a small puddle under him, then launch 5-way projectile around him&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      “You cannot defend against me.”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9TGCa1G.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;There are several ways to trigger this:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ⚠️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;ol&gt;
-&lt;li&gt;Person with aggro dies&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Person with aggro is too far away (~8m?)&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Person with aggro loses aggro&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;When he does or undoes soul realm&lt;/li&gt;
-&lt;/ol&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Healers can prevent this with res bait.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Circle or Donut&lt;/strong&gt; - A quote will pop up in the middle of the screen:
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      “Begone!”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;With a large sword swing motion, he will spin around with either Red or Purple swipe surrounding him.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Purple swipe&lt;/strong&gt; - He will place a Circle AoE (~8m); &lt;strong&gt;stay away&lt;/strong&gt; from him.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/48DsRtA.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Orange swipe&lt;/strong&gt; - He will place Donut AoE (8m~20m); &lt;strong&gt;hug&lt;/strong&gt; him.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/U9GNFgL.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Let&amp;rsquo;s see just how clever you are&amp;hellip;&lt;/strong&gt; - IN into Donuts depending on which world Lakan is currently inside of.&lt;/p&gt;
-&lt;p&gt;A message will popup on the screen &lt;strong&gt;Let&amp;rsquo;s see just how clever you are&amp;hellip;&lt;/strong&gt; and Lakan will hit the tank first, then turn on the dps and do an &lt;strong&gt;ORANGE&lt;/strong&gt; cone shaped hit with his shield, then kick the back. Right after he will turn back towards the tank and do a donut mech.&lt;/p&gt;
-&lt;p&gt;Its recommended for the tank to stay on the back of the boss to &lt;strong&gt;block the kick&lt;/strong&gt; for the dps that will come as the boss turns towards them.&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/GTMzMr5.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;NORMAL -&amp;gt; IN, Orange Donuts (coming from IN OUT)&lt;/li&gt;
-&lt;li&gt;SOUL WORLD -&amp;gt; OUT, Blue Donuts (coming from OUT IN)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If Lakan does a &lt;strong&gt;PURPLE&lt;/strong&gt; cone shaped hit as he turns towards the dps, his next attack will be different.&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/8eqVvrH.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;NORMAL -&amp;gt; OUT, Blue Donuts (coming from OUT IN)&lt;/li&gt;
-&lt;li&gt;SOUL WORLD -&amp;gt; IN, Orange Donuts (coming from IN OUT)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Are you afraid of me?&lt;/strong&gt; - Lakan will hit the tank twice, first with an &lt;strong&gt;ORANGE cone shaped attack and then PURPLE one&lt;/strong&gt;. Then proceed with donut attacks.&lt;/p&gt;
-&lt;p&gt;Lancers are able to use &lt;strong&gt;Divine Protection&lt;/strong&gt; to grant immunity against the damage of inner hit.&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/BfmIAcS.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;NORMAL -&amp;gt; OUT -&amp;gt; IN&lt;/li&gt;
-&lt;li&gt;SOUL WORLD -&amp;gt; IN -&amp;gt; OUT&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If Lakan does a &lt;strong&gt;PURPLE cone shaped hit first and then ORANGE&lt;/strong&gt;, his next attack will be different.&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/VucNDJZ.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;NORMAL -&amp;gt; IN -&amp;gt; OUT&lt;/li&gt;
-&lt;li&gt;SOUL WORLD -&amp;gt; OUT -&amp;gt; IN&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Run&amp;hellip; If you can.&lt;/strong&gt; - Lakan will quickly attack the tank, after a fast double slash attack, he will slam the shield on the ground which will &lt;strong&gt;stun&lt;/strong&gt; if not blocked and then kick the back which has to be avoided or iframed.&lt;/p&gt;
-&lt;p&gt;He will continue attacking the tank, his mechanic then changes depending on if he hits with his &lt;strong&gt;SHIELD&lt;/strong&gt; or &lt;strong&gt;SWORD&lt;/strong&gt;.&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/tUcTSSj.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;Shield -&amp;gt; IN&lt;/li&gt;
-&lt;li&gt;Sword -&amp;gt; OUT&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Donut Attack&lt;/strong&gt; - Lakan will slash the tank and then slowly smash the ground with his shield. This attack is simple to see as the shield hit is way slower than the rest of his animations.&lt;/p&gt;
-&lt;p&gt;Mechanic changes through the fight depending on his HP.&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/tZAmO8x.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;NORMAL -&amp;gt; Waves above 50% - Orange Donuts (from IN - OUT)&lt;/li&gt;
-&lt;li&gt;SOUL WORLD -&amp;gt; Waves above 50% - Blue Donuts (from OUT - IN)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/jwn55cY.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;NORMAL -&amp;gt; Waves under 50% - Orange Donuts (from IN - OUT) into Blue (from OUT - IN)&lt;/li&gt;
-&lt;li&gt;SOUL WORLD -&amp;gt; Waves under 50% - Blue Donuts (from OUT - IN) into Orange (from IN - OUT)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Ha! Laughable!&lt;/strong&gt; - Triggers as a result of &lt;strong&gt;ressbait&lt;/strong&gt; by the healer or anyone else in the party.
-Places AOE on the ground which deals lethal damage to anyone inside.&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/SfI3yye.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;h3&gt;Purple Eye Mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;purple-eye-mechanic&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#purple-eye-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A purple eye will appear randomly above Lakan before his donut mechanics starting under &lt;strong&gt;90% HP&lt;/strong&gt; which will change the donuts he will do massively.&lt;/p&gt;
-&lt;center&gt;
-&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/xhXMbyK.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;NORMAL -&amp;gt; OUT - IN - OUT&lt;/li&gt;
-&lt;li&gt;SOUL WORLD -&amp;gt; IN - OUT - IN&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Videos&lt;span class=&#34;absolute -mt-20&#34; id=&#34;videos&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#videos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/lVSbyIewd8g?si=Q6E271LmntSN9DqJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alina-Nyan Guide Run (ENG)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qQy4dJtTcmo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lekca Guide Run (RU)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
