@@ -1489,6 +1489,491 @@ If you get hit by the first overhand strike, you will take x3 damage from the ev
     </item>
     
     <item>
+      <title>Kalivan&#39;s Dreadnaught</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/mt/kalivan-dreadnaught/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/mt/kalivan-dreadnaught/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;first-boss&#34;&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/nCSutvk.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h2&gt;First Boss: Pepero&lt;span class=&#34;absolute -mt-20&#34; id=&#34;first-boss-pepero&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#first-boss-pepero&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Protect the Kegs!&lt;/strong&gt; - Throughout the fight, mobs will spawn:&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Suicide Soldiers are targeting the X!&lt;br&gt;
+Break an oak barrel and use Inferno Spores to take them out”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;Players will have to &lt;strong&gt;prevent these mobs from destroying&lt;/strong&gt; the different Piles (Wine Barrels, Bomb Piles, Gunpowder Boxes, or Oil Barrels) in each corner of the arena. If any Pile is destroyed a message appears:&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “An explosion has damaged the ship!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;The mobs cannot be CC-d by the player.&lt;/li&gt;
+&lt;li&gt;If all of the Piles are destroyed, the party wipes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Inferno Spores&lt;/strong&gt; - There will be barrels that spawn on the edges of the room.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Breaking these will give nearby party members Inferno Spores, which deals flat damage every second to enemy monsters around the player.&lt;/li&gt;
+&lt;li&gt;Players should use this to defeat the monsters that spawn to protect the barrel kegs.
+&lt;ul&gt;
+&lt;li&gt;These spores damage friendly players as well.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ground Pound&lt;/strong&gt; - Pepero will raise his arms, shout :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Get back!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;Before pounding the ground multiple times, dealing frontal damage.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pepero will leave damaging AoE puddles on the ground. These AoE puddles deal damage per tick.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pushback&lt;/strong&gt; - Pepero will glow red, and unleash a frontal shockwave. His next attack directed towards his side and will players back.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shockwave&lt;/strong&gt; - Pepero will go into the center of the room and proceed to unleash frontal shockwaves four times in a counter-clockwise fashion. Each one of these will deal flat damage and is not blockable.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After 50% HP, Pepero will have a different shockwave attack pattern.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Xb7p57I.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Ground Slam&lt;/strong&gt; - There will be a large mid-range ring. After a few seconds, Pepero will slam down and deal massive damage to players inside the affected area.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;second-boss&#34;&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/6w2jEOE.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h2&gt;Second Boss:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;second-boss&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#second-boss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Overload!&lt;/strong&gt; - You’ll notice a bar. It will start at 0/100.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The more bomb monsters there are on the field, the higher the bar fills.
+&lt;ul&gt;
+&lt;li&gt;Once the bar reaches 100, all bombs will explode and Polyphemus will rapidly fire lasers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/2gyRAzM.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Bombs&lt;/strong&gt; - Stationary bomb monsters will occasionally spawn. These will activate once a player or the boss steps onto the area, stunning players and/or the boss.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hop&lt;/strong&gt; - Polyphemus will jump upwards before landing, dealing damage to nearby players.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laser&lt;/strong&gt; - Polyphemus will fire a laser towards a random target that will deal damage and leave the ground scorched, dealing damage to players standing in the area.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ripples&lt;/strong&gt; - Polyphemus will stomp on the ground, creating three earthquakes with expanding size.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leap&lt;/strong&gt; - Happens when Polyphemus says :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Polyphemus is targeting (Player)&lt;br&gt;
+Lure him to the bomb squad!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Polyphemus will begin charging a powerful attack. After a few seconds, Polyphemus will jump towards that player.
+&lt;ul&gt;
+&lt;li&gt;The player should aim to move so that Polyphemus will land onto a bomb so he can be stunned. &lt;strong&gt;He will then proceed to do Earthquake.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Earthquake&lt;/strong&gt; - If Polyphemus is not stunned by a bomb after Leaping, he will unleash two waves of damage (iframeable) across the entire arena, dealing flat damage.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Polyphemus does not announce who he is targeting (although there is still the secondary aggro purple circle).&lt;/li&gt;
+&lt;li&gt;The waves will deal high damage, which has a much higher probability of killing players who failed to dodge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Petrification&lt;/strong&gt; - Polyphemus will target a random player and fire a large conal attack that deals heavy damage and leave a debuff that will petrify a player after a few seconds if not cleansed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bomb Sparks&lt;/strong&gt; - Players are warned by :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Look Out!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;After a few seconds a number of players will receive a large orange circle. After a few seconds, they will be knocked up for a long period of time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;last-boss&#34;&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Zfq7yz8.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h2&gt;Last Boss: Kalivan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;last-boss-kalivan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#last-boss-kalivan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Flooding&lt;/strong&gt; - Throughout the fight, quarters of the arena will be flooded in water. The water doesn’t deal damage by itself, though &lt;strong&gt;if you are electrified with Electricity Overload, you will take damage.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Water lanes will flood more often as the fight goes on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/liQ6h1f.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h3&gt;&lt;strong&gt;Electricity Overload&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;electricity-overload&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#electricity-overload&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Certain attacks will &lt;strong&gt;apply Electricity Overload on players for 45 seconds&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;If players step into Flooded areas while they have Electricity Overload, any player in the area takes damage. Electricity Overload will stack up to five times.&lt;/li&gt;
+&lt;li&gt;Getting two stacks of Electricity Overload will apply Electric Shock Overload, which is a damage over time debuff that can be cleansed.&lt;/li&gt;
+&lt;li&gt;Getting five stacks of Electricity Overload will stun the player.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Electricity Bomb&lt;/strong&gt; - Kalivan will throw a projectile at players at a distance. Players hit by this will receive damage and &lt;strong&gt;Electricity Overload&lt;/strong&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/gShu2Id.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Mini Lightning Bolts&lt;/strong&gt; - Kalivan will shout :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Behold my thunderous wrath!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt; 
+&lt;p&gt;Before placing circles on all players.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After a duration, the circles will solidify and players have a short period to escape before the circles explode, dealing damage and applying Electricity Overload to players who failed to escape.&lt;/li&gt;
+&lt;li&gt;He will proceed to do Big Lightning Bolt immediately after.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/AB2wBNl.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Big Lightning Bolt&lt;/strong&gt; -  Message of :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “(Player) is targeted by Big Lightning Bolt”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Is announced and a random player is targeted for an attack.
+&lt;ul&gt;
+&lt;li&gt;The player will be stunned and will be struck with heavy damage in 6 seconds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Party members should stay inside the target circle in order to split the damage taken.&lt;/li&gt;
+&lt;li&gt;If taken solo, will deals very high damage to a single player. Mystic thralls, Gunner ST-4 and Warrior shadows count as extra bodies to help split the damage.
+&lt;ul&gt;
+&lt;li&gt;If no player is inside (or if all players inside die) when the Lightning strikes, Kalivan will proceed to do Lightning Storm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/l8RDSeV.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;Further player from the boss is targeted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Lightning Storm&lt;/strong&gt; - Kalivan will shout :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Feel my wrath!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt; 
+&lt;p&gt;Before calling lightning down from the skies, dealing massive damage to the entire field. This occurs when no player is left remaining inside the Big Lightning Bolt when it hits.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stomp&lt;/strong&gt; - Kalivan will raise up on his hind legs and stomp onto the ground, dealing massive damage and applying Electricity Overload.
+&lt;img src=&#34;https://i.imgur.com/uYRF3ps.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wave&lt;/strong&gt; - Kalivan will slash forward, releasing a damaging wave and applying Electricity Overload.
+&lt;img src=&#34;https://i.imgur.com/SiMXeCO.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ground Piercing&lt;/strong&gt; - Kalivan will flash his eye red, before stabbing the ground in front of him four times, each one applying Electricity Overload.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Charge!&lt;/strong&gt; - Kalivan will shout out :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Preparing to charge towards (Player)!! Watch out!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt; 
+&lt;p&gt;Before repeatedly slashing at his selected target. Getting hit by these slashes will apply heavy damage and Electricity Overload.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Watch out, the range of this move is very wide. Use the water to get a movespeed buff (if you do not have the Electricity Overload debuff).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/zs3vKbV.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Kalivan&amp;rsquo;s Wrath&lt;/strong&gt; - Kalivan will warn the party by announcing :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “You won’t be so lucky this time!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;Before pushing players to his sides by swiping left and then right, applying Electricity Overload, and stabbing the ground in front of him with his blades before causing an eruption in front of him.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;-&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Manaya Core (Hard)</title>
       <link>https://tenacity-tera.eu/dungeon-guide/mt/manaya-core-hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
