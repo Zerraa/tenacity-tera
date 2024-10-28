@@ -10151,10 +10151,10 @@ After the boss uses DFA she will create pizza slices, &lt;strong&gt;the first be
     
     <item>
       <title>Manaya Core (Hard)</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/mt/manaya-core-hard/</link>
+      <link>https://tenacity-tera.eu/dungeon-guide/dungeon/manaya-core-hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/dungeon-guide/mt/manaya-core-hard/</guid>
+      <guid>https://tenacity-tera.eu/dungeon-guide/dungeon/manaya-core-hard/</guid>
       <description>
         
         
@@ -15986,6 +15986,375 @@ Different colors you are dead.&lt;/p&gt;
 &lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://essentialmana.com/thaumetal-refinery/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential Mana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The Plexus (Hard)</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/mt/the-plexus-hard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/mt/the-plexus-hard/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;last-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/QpZB4VD.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Last Boss: Shandra Manaya&lt;span class=&#34;absolute -mt-20&#34; id=&#34;last-boss-shandra-manaya&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#last-boss-shandra-manaya&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Depending on how/what you do during cocoon phase, you generally won&amp;rsquo;t have much time to prepare for anything.&lt;/p&gt;
+&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Shandra has a 15 minute enrage timer. Debuff phases now occur every 45 seconds and the debuffs player receive from them last 90 seconds.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Debuff (Stand-up mech)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is the debuff mechanic you probably keep hearing about in Manaya&amp;rsquo;s Core. It starts when Shandra reaches 90% health, and will reoccur every 90 seconds for the rest of the boss fight but she can do it whenever she wants to.&lt;/li&gt;
+&lt;li&gt;Shandra will immediately turn towards whoever has aggro and go into a &amp;ldquo;stand-up&amp;rdquo; state where &lt;strong&gt;all damage she takes is reduced by half&lt;/strong&gt;. She will then perform &lt;strong&gt;three consecutive AOEs centered on herself.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;I will be labelling these AOEs 1, 2, and 3 in the order that they hit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/PU5H4zR.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;The above is an animated GIF that shows how the three debuff AOEs hit during the Shandra Manaya debuff/stand-up phase boss mechanic. &lt;strong&gt;When an AOE hits, the ground in that AOE area briefly flashes white.&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/utpM3xS.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;AOE number 1 will come first.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It will hit in a 5m radius circle directly underneath Shandra.
+&lt;ul&gt;
+&lt;li&gt;It will give you the &lt;strong&gt;&amp;ldquo;Greedy Thought&amp;rdquo;&lt;/strong&gt; debuff and also hit you for 20,000 of your health.&lt;/li&gt;
+&lt;li&gt;The area outside of the circle is the safe zone for this AOE.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If you have the &lt;strong&gt;&amp;ldquo;Desperate Thought&amp;rdquo;&lt;/strong&gt; debuff, it will be removed upon receiving &lt;strong&gt;&amp;ldquo;Greedy Thought&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/fSnkC6Z.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;AOE number 2 follows a few seconds after 1.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It will hit as a 5m inner 10m outer radius donut directly outside of AOE number 1.
+&lt;ul&gt;
+&lt;li&gt;It will give you the &lt;strong&gt;&amp;ldquo;Hateful Thought&amp;rdquo;&lt;/strong&gt; debuff and also hit you for 20,000 of your health.&lt;/li&gt;
+&lt;li&gt;The area inside the donut where AOE 1 hit before is a safe zone, as is the area outside the donut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If you have the &lt;strong&gt;&amp;ldquo;Greedy Thought&amp;rdquo;&lt;/strong&gt; debuff, it will be removed upon receiving &lt;strong&gt;&amp;ldquo;Hateful Thought&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/vzlP5B3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;AOE number 3 follows a few seconds after 2.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It will hit &lt;strong&gt;THE ENTIRE MAP directly outside of AOE number 2 (anything 10m away from Shandra)&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;It will give you the &lt;strong&gt;&amp;ldquo;Desperate Thought&amp;rdquo;&lt;/strong&gt; debuff and also hit you for 20,000 of your health.&lt;/li&gt;
+&lt;li&gt;The areas where AOEs 1 and 2 hit before are both safe zones (aka the 10m radius circle inside 3).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If you have the &lt;strong&gt;&amp;ldquo;Hateful Thought&amp;rdquo;&lt;/strong&gt; debuff, it will be removed upon receiving &lt;strong&gt;&amp;ldquo;Desperate Thought&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Following these three AOEs, &lt;strong&gt;Shandra will immediately check to see that each of those three debuffs is on at least one person in the party&lt;/strong&gt;. If any of these three debuffs from the AOEs are missing. Shandra will say a message:&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &amp;ldquo;Insufficient.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;Curl. That will hit the normal range and also automatically give everyone in the party the &lt;strong&gt;System Seizure&lt;/strong&gt; debuff. &lt;br&gt;
+This is &lt;strong&gt;essentially a wipe&lt;/strong&gt; (to have even a chance of surviving, get the hell away from her and attempt to heal through the subsequent ticks with your consumables).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Basically in order to avoid this wipe, three members of your party need to purposefully get hit by one of the AOEs each.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No dodging.&lt;/li&gt;
+&lt;li&gt;No blocking.&lt;/li&gt;
+&lt;li&gt;No invulnerability frames.
+&lt;ul&gt;
+&lt;li&gt;They need to stand still in the AOEs and get hit so that they take their respective debuffs. In order to avoid the debuff timing out, during the next stand-up each of those three players will need to cycle AOEs so that they can overwrite their old AOE debuff with their new one.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This cycle will repeat throughout the rest of the boss fight.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To organize debuff phases in a manner that is clear and not confusing, you&amp;rsquo;ll want to designate certain people in the party to take debuffs beforehand. They will usually be the three DPS classes in the party (the rest of this section will assume that is the case). &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tanks and healers should still know how debuffs work however, and be prepared to take one of the AOEs in case a party member dies. Designate either the tank or healer as primary or secondary backup debuff taker for moments like these in case a DPS is dead.&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;ll call these three debuff takers A, B, &amp;amp; C. A will start on AOE 1, B will start on AOE 2, and C will start on AOE 3. When Shandra does her stand up and you see that message, A will stand in AOE area 1 and get hit by it to receive the debuff. B will wait in AOE area 2 to receive that debuff. And the same with C in area 3. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Now A must take AOE 2 next, B must take 3 next, and C must take 1 next; this means that during the next debuff cycle, C will stand in AOE area 1 and get hit by it to cycle his/her debuff. A will stand in 2, and B will stand in 3. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;For the next stand-up, B will be on 1, C will be on 2, and A will be on 3. &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Each person will be cycling debuffs in this 123123123 order for the rest of the fight, just at different points in the order.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/hBj18pm.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;The above is an animated GIF that shows where the three debuff takers should go during the Shandra Manaya debuff/stand-up phase boss mechanic. &lt;strong&gt;Depending on what color debuff you have, you will go to the corresponding AOE.&lt;/strong&gt; If you&amp;rsquo;re still puzzled, think of each individual box as a player and just follow that player through multiple debuff phases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shield&lt;/strong&gt; - Shandra will do a shield mechanic every &lt;strong&gt;70%, 50%, 30%, 20%&lt;/strong&gt; of health. When a message appears :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &amp;ldquo;You think to hurt me? You&amp;rsquo;ll have to touch me first!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;Shandra will immediately turn to face whoever has aggro at the moment and shake herself a few times.Save your big hitting skills for this.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/E54kUTh.png&#34; alt=&#34;Note: very old screenshot of shield&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;As soon as you see this icon, unleash hell on Shandra. &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you succeed in burning the shield down quickly enough, the blue shield buff will disappear and you&amp;rsquo;ll get a few seconds of free damage dealing. If you weren&amp;rsquo;t fast enough, Shandra will curl up and wipe you guys.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Dispel buff&lt;/strong&gt; - This is a mechanic for &lt;strong&gt;healers only.&lt;/strong&gt; Once she does a message:&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &amp;ldquo;Great ones, lend me your powers!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;Shandra will immediately turn towards whoever has aggro and begin stacking a buff (Queen&amp;rsquo;s Shriek, watch her health bar) with each roar she does.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/YmrtDyU.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;If she successfully stacks this buff three times, the stacks will be replaced by an undispellable 30-second buff (Queen&amp;rsquo;s Wrath) that triples the power of Shandra&amp;rsquo;s attacks and gives a 20% boost to her attack speed.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/GMmsPh3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;You don&amp;rsquo;t want that. And neither does your group.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The key to nullifying this phase are the three initial stacks. If at least one of these stacks is nullified, Queen&amp;rsquo;s Wrath will not occur. &lt;strong&gt;You need to land your dispel on Shandra when she is at only one or two stacks of the buff.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Once you get Shandra past 8% health, if she does this phase again, the first roar will automatically give Shandra Queen&amp;rsquo;s Wrath&lt;/strong&gt; FOR THE REST OF THE FIGHT.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When you see her do her &lt;strong&gt;walk under 8%&lt;/strong&gt;, she&amp;rsquo;ll also automatically gain Queen&amp;rsquo;s Wrath once she finishes the walk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The &amp;ldquo;walk&amp;rdquo; is when after you push her below 8%, she&amp;rsquo;ll turn in the opposite direction she is facing and begin slowly lumbering across the room.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kill her immediately before she flips out, because she will be permanently flipping out all over the room.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9JKUqT7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;Shandra also has a new buff. At 50%, 30%, and 20%, right after her forced Debuff and Shield phases, you&amp;rsquo;ll see a message flash on your screen that says :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &amp;ldquo;You must know you won&amp;rsquo;t escape.&amp;rdquo;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;And Shandra will receive an undispellable speed buff on her bar &lt;strong&gt;(Fevered Pitch)&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This buff will stack each time she does this, with each stack giving her a 10% boost in speed to all animations (even debuff phases).&lt;/li&gt;
+&lt;li&gt;Donut becomes deadly at this point.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Claw&lt;/strong&gt; - Shandra will raise one of her front paws up and swipe downwards. It hits pretty far in front of her, so watch out.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tail&lt;/strong&gt; - If you&amp;rsquo;re behind Shandra and you see her turn her head and look at you, dodge to the side.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shandra will slam her tail down and then taser you with it.
+&lt;ul&gt;
+&lt;li&gt;The hitbox for the taser reaches wide, but if you&amp;rsquo;re at her side when it starts you won&amp;rsquo;t get touched by it.&lt;/li&gt;
+&lt;li&gt;Both the initial slam and the taser&amp;rsquo;s multiple hits are blockable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Lunge&lt;/strong&gt; - Shandra will back up onto her hind legs and make a huge leap across the room targeted at someone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dodge or just walk towards her or to the side rather than away from her, its distance is much longer than you think it is.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Comb&lt;/strong&gt; - Shandra will bring in her paw and swipe in someone&amp;rsquo;s direction, launching a wave of energy (that looks like three combs in a row) at him/her.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Has a narrow hitbox but hits hard and far, so watch out.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Donut&lt;/strong&gt; - Shandra will start hovering in the air and immediately launch two AOE attacks centered on herself.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first will be a donut. The second AOE will be the small circle inside the donut, directly underneath Shandra.
+&lt;ul&gt;
+&lt;li&gt;Both AOEs are NOT BLOCKABLE and must be dodged/avoided as they are &lt;strong&gt;oneshots&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Curl&lt;/strong&gt; - Also known as the bomb or the explosion. Other than boss mechanics, this is usually the attack that wipes learning groups.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shandra will let out a distinctive audio cue and curl her wings up around her.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This is your cue to get the hell out of there.&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Immediately turn around and get at least 19m away from her. She&amp;rsquo;ll let out &lt;strong&gt;huge waves of energy in a giant circle around her (18m radius)&lt;/strong&gt; for a few seconds.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Curl is NOT BLOCKABLE.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When the sparks on the edge of the blasts disappear, it is safe to head back in even if there is still a red aura remaining from the Curl.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fence&lt;/strong&gt; - Shandra will start building a circular fence in front of her around whoever is targeted (does not inflict damage).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When it is finished forming, Shandra will land an AOE that hits anything inside the fence and immobilizes them (cleansable).
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pool&lt;/strong&gt; - Shandra will lock-on to a player with a moderately-sized circle. After a bit, she will throw down a pool of acid that will tick away at your health fairly quickly as long as you are inside it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The acid pool doesn&amp;rsquo;t move after it has been thrown down. If you get targeted by a Pool, reposition yourself with just running,AFTER the acid has dropped onto you, get out of it, NOT BEFORE.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Trample&lt;/strong&gt; - Shandra will just start walking towards you.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stand still and block.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;If you don&amp;rsquo;t have a block, stand still anyway. &lt;strong&gt;DO NOT DODGE.&lt;/strong&gt; Save your dodge for what comes after. You will lose less health just standing still than you will trying to get away.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Shandra also has a variety of secondary aggro attacks.&lt;/strong&gt;
+&lt;strong&gt;If someone in your party gets that secondary purple aggro circle, one of the following attacks will occur targeted at him/her:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Grenade - Shandra will target a small circle on whoever got secondary aggro and hit that circle with an AOE. &lt;strong&gt;Blockable,&lt;/strong&gt; but rather easy to avoid entirely if your monitor&amp;rsquo;s not off.&lt;/li&gt;
+&lt;li&gt;Laser - She will turn to face someone and her wings will come off her back and start to spin. This will be followed by a three-pronged laser that fires forward and has a huge range. &lt;strong&gt;Essentially a oneshot.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Bird&lt;/strong&gt; - Also known as just flying. Shandra will jump into the air and start flapping her wings. A large circle will appear under her as she flies towards whoever she targeted.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;She will then proceed to land, and anything inside the circle will get hit hard.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Dive&lt;/strong&gt; - Shandra will dive underground and pop up next to whoever she locked-on to.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;This move DOES NO DAMAGE, so don&amp;rsquo;t waste your dodge.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;This attack will always be followed by either a Pool or one to three Lunges targeted at the same person. &lt;strong&gt;You should save your dodges for those attacks.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Do note that if all party members are within a certain range of her &lt;strong&gt;(around 15m)&lt;/strong&gt;, she will not even cast this attack at all.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Not getting hit by all of these attacks has a nice perk, other than not dying. There is an &lt;strong&gt;uncurable, green poison debuff called Argonic Metastasis&lt;/strong&gt; that you get when you are hit by Claw, Lunge, Comb, Bird, Grenade, the initial downward slam of Tail, both hits of Donut, or any and all of Curl&amp;rsquo;s ticks.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/yfMtDcr.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;If this debuff stacks 5 times (i.e. if you get hit by any of the previous attacks 5 times) before it times out, it will be replaced by another debuff called System Seizure (also uncurable) which will tick you for large amounts of health, killing you in mere seconds.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/hSfGLss.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;Just &lt;strong&gt;don&amp;rsquo;t get hit by Shandra&amp;rsquo;s attacks&lt;/strong&gt;. If you see you have 3 or 4 stacks built up, play it safe for a while until the stacks disappear.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;h2&gt;Two-manning Debuff Phase&lt;span class=&#34;absolute -mt-20&#34; id=&#34;two-manning-debuff-phase&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#two-manning-debuff-phase&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s how it works. Designate someone to start out on AOEs 1 &amp;amp; 2. The other will start out on AOEs 1 &amp;amp; 3.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;During first debuff phase, the first person will get the debuff from AOE 1, which will immediately get erased when he/she gets the debuff from AOE 2 (leaving him/her with just the green debuff for AOE 3). The second person will take AOE 1 to get the white debuff, and then AOE 3 to get the red debuff.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now what? The first player with only the green debuff will get AOE 1 to erase the green debuff with a white debuff, and then go out for AOE 3 to get the red debuff. The second person with both red and white debuffs will get hit by AOE 1 to erase the red debuff, and immediately get hit by AOE 2 to erase the white debuff as well, leaving him/her with just a green debuff. &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Repeat this cycle of 1+2 &amp;amp; 1+3 for the rest of the fight.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bryanzhu.com/archive/tera/manayascore.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lostguru on personal website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
