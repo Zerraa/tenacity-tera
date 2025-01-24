@@ -15,6 +15,838 @@
     
     
     <item>
+      <title>Antaroth Abyss (Hard)</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/mt/antaroth-abyss-hard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/mt/antaroth-abyss-hard/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;first-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/skbfBFn.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;First Boss: Ghergof&lt;span class=&#34;absolute -mt-20&#34; id=&#34;first-boss-ghergof&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#first-boss-ghergof&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ice Puddle&lt;/strong&gt; - The boss will target one of the players with a growing red circle, once it fills it will put down an Ice patch which will be used to avoid the mechanic below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It is important to place this away from the boss, but not far because you’re going to need it for the “Delete This” mechanic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/ENsZgbW.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Delete This&lt;/strong&gt; - A text message will show up saying :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Your flesh will be deleted!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;The boss will first do a map wide AoE that needs to be iframed, failure to iframe this will result a knock up and the boss targeting that person with the following Fire Breath. &lt;br&gt;
+&lt;strong&gt;This will happen before you land so you will die.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;After the AoE it’ll target two people with a Fire Breath which can be survived by going into the Ice Patch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/rr4ggPV.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Massive In-Out&lt;/strong&gt; - This one is decided by whether or not the boss is enraged.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first part of this mechanic is a map wide AoE that needs to be iframed.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Enraged: Big AoE, Inner AoE, Outer AoE&lt;br&gt;
+Not enraged: Big AoE, Outer AoE, Inner AoE
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/S7uFSve.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Double AoE&lt;/strong&gt; - In this mechanic he will put a circle under every single party member, the DPS and the healer need to stack behind the boss while the tank moves back a little bit.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It will then do an AoE with the safe spot being where people are gathered and on the tank.&lt;/li&gt;
+&lt;li&gt;Directly afterwards it will do an AoE on the safe spots, so you have to iframe directly as the red circle disappears.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/vBz0JBQ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Shish Kebab&lt;/strong&gt; - Simple 1-hit attack &lt;br&gt;
+&lt;strong&gt;Slash&lt;/strong&gt; - Simple 1-hit attack. &lt;br&gt;
+&lt;strong&gt;Double Slash&lt;/strong&gt; - Same like above, but twice &lt;br&gt;
+&lt;strong&gt;4x Slash&lt;/strong&gt; - Same like above, but four times &lt;br&gt;
+&lt;strong&gt;Jump&lt;/strong&gt; - The boss jumps at the tank, often used when the tank is away from the boss.&lt;br&gt;
+&lt;strong&gt;Jumping Jack&lt;/strong&gt; - Boss jumps sideways and back multiple times, actual boss hitbox stays in the middle.&lt;/p&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Shield AoE&lt;/strong&gt; - An AoE attack that also hits behind the boss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting hit by this attack will knock you back.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Shield Barrage&lt;/strong&gt; - A barrage of hits on the tank.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will push back the tank.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Small AoE&lt;/strong&gt; - A small AoE being put on one of the members, it can be blocked and iframed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In-Out or Out-In&lt;/strong&gt; - On this boss it is decided by whether or not the boss backsteps or not.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If the boss backsteps it will do an outer AoE followed by an inner AoE.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/bhHLBV9.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;If the boss does not backstep it do an inner AoE followed by an outer AoE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/C79d7rc.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;Can be iframed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;second-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/LpKpxtv.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Second Boss: Kalioth&lt;span class=&#34;absolute -mt-20&#34; id=&#34;second-boss-kalioth&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#second-boss-kalioth&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Debuffs&lt;/strong&gt; - A text message will show up on the screen saying :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      ”Sacrificial target selected.”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;The boss will then gain a Blue or Red colored Aura.&lt;/strong&gt; Followed an AoE attack that requires someone to get hit by it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The idea behind this mechanic is that the party has to rotate getting hit by this, getting hit by this gives you a 3 minute lasting debuff that will kill you if you get hit again.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If nobody gets hit the attack the boss will wipe the party, so make sure to have 1 person get hit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This attack will do either an inner or an outer AoE, this is dependent on the color of the Aura he gets. Look at the picture on the right.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;p&gt;Aura is Blue = Outer AoE&lt;br&gt;
+Person taking the debuff should get to the outer circle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The people who need to dodge should get close to the boss.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;p&gt;Aura is Red = Inner AoE&lt;br&gt;
+Person taking the debuff should get to the inner circle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The people who need to dodge should get away from the boss.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Blue - Outer&lt;/td&gt;
+        &lt;td&gt;Red - Inner&lt;/td&gt;
+      &lt;/tr&gt;      
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/jUEG7ay.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/g1wQxBy.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;After 50% boss’ HP he will use one additional debuff AOE, and after 20% HP he will start casting them much more faster: at more than double at the speed as before.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Left, Right, Swipe, (Second Swipe)&lt;/strong&gt; - He’ll start with his left weapon, then follow it up with a hit from his right weapon. He will then look over one of his shoulders and swipe on that side.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Below 50%: He will do a Second Swipe after the First one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Left Shoulder, above 50%&lt;/td&gt;
+        &lt;td&gt;Left Shoulder, below 50%&lt;/td&gt;
+      &lt;/tr&gt;    
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/DGQw1Kn.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/GFRBiXl.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Right Shoulder, above 50%&lt;/td&gt;
+        &lt;td&gt;Right Shoulder, below 50%&lt;/td&gt;
+      &lt;/tr&gt;    
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/fppGnNk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/zpnhZyo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Right, Left, Stab, Wave&lt;/strong&gt; - The boss will start with a Right hit, followed by Left, then Stab the tank and throw a cone-shaped Wave at the tank.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting hit gives a cleansable debuff.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/rjWsDpW.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/W9nIShK.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Right, Left, Left, Cross&lt;/strong&gt; - The boss will start with a Right hit, followed by Left, followed by another Left and then hit the tank with a Cross shaped double attack.&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/97Yizio.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Right, Right, Back, Shockwave&lt;/strong&gt; - Boss attacks with his Right Weapon twice, turning around and hitting behind him and then using a Wave attack.&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/7CppWNz.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Circles into Outer Donut&lt;/strong&gt; - The boss will put circles on everyone, slightly after they disappear and reappear you need to iframe and get close to the boss because he will follow up by an outer AoE circle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;This can be avoided if the healer is quick on cleansing.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/J4bnMWT.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Stun Blast&lt;/strong&gt; - The boss will aim both his weapons down and then smash them into the ground to put a big stun AoE around the boss, hitting the tank as well as the DPS directly behind the boss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting hit by this will stun and the boss will then target you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This can be avoided if the healer is quick on cleansing.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/0Pe8dEG.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Spin&lt;/strong&gt; - The boss will lower his weapons next to his body and then start spinning, doing his Swordnado attack.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This can be blocked and iframed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/CBprtHu.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Jump into Wave&lt;/strong&gt; - The boss will jump at a player, stunning whoever gets hit. Following up with a Wave attack in front of him if someone got stunned.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;This can be avoided if the healer is quick on cleasing.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+       &lt;tr&gt;
+         &lt;td&gt;Player got hit&lt;/td&gt;
+         &lt;td&gt;Player dodged attack&lt;/td&gt;
+       &lt;/tr&gt;
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/cynv4qb.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/w1smaC6.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Random Wave&lt;/strong&gt; - The boss will put secondary aggro on one of the DPS or the healer and will then attack them with a Wave.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This puts a cleansable debuff on the people who got hit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div id=&#34;last-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/hrvprCy.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Last Boss: Antaroth&lt;span class=&#34;absolute -mt-20&#34; id=&#34;last-boss-antaroth&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#last-boss-antaroth&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Mana Burst&lt;/strong&gt; - After call of&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Dispersing collected mana!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Antaroth will unleash uniframable room wide attack.&lt;/li&gt;
+&lt;li&gt;This attack deal flat damage per stack of Mana Burst on target.&lt;/li&gt;
+&lt;li&gt;It also applies a nasty MP reducing debuff which need to be cleansed fast.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Cleanses all stacks of Mana Burst.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/fO9UEuk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Red Magic&lt;/strong&gt; - Boss charges up his sword and then does a series of 4 attacks:&lt;br&gt;
+&lt;strong&gt;1) Thrust&lt;/strong&gt; – blockable and iframable, survivable, applies Mana Burst &lt;br&gt;
+&lt;strong&gt;2) Spin&lt;/strong&gt; – not blockable but iframable, survivable, applies Mana Burst and heavy cleansable bleed &lt;br&gt;
+&lt;strong&gt;3) Half circle blast&lt;/strong&gt; – uniframable, lethal damage &lt;br&gt;
+&lt;strong&gt;4) Series of AOEs&lt;/strong&gt; – uniframable, hit for 100% of targets HP, can survive with shields&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Version 1:&lt;/strong&gt; Thrust, clockwise Spin, Half blast on boss’s left, AOEs from in to out&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/2gqaRxG.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Version 2:&lt;/strong&gt; Thrust, counter clockwise Spin, Half blast on boss’ right, AOEs from out to in&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/c76shJz.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;AOEs have unintuitive timing – they deal damage at time they appear, and the lingering animation is harmless.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Expanding Puddles&lt;/strong&gt; - Antaroth summons 5 expanding puddles, which deal high damage with their edges.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Iframe towards center of bubbles, or run away. It’s good idea to stand closer to the boss, so no puddle spawns directly on you.
+&lt;ul&gt;
+&lt;li&gt;Not blockable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;No Escape&lt;/strong&gt; - Antaroth calls out :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Escape option disabled.”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Then he casts AOEs on every party member.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Getting hit by these aoes applies long stun debuff to player hit and creates a small breakable cage around them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;These aoes are folowed by several medium damage room-wide attaks, which aren’t iframable ! &lt;strong&gt;Tanks can block these attacks and provide 70% damage reduction to nearby party members.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/o0mOZC1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Light and Dark&lt;/strong&gt; - With call out :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Enter your final words now.”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Boss will teleport to middle of room and start casting room wide wipe attack.&lt;/li&gt;
+&lt;li&gt;5 orbs get summoned on edges of room, 3 Light and 2 Dark and each player will get a debuff: &lt;strong&gt;2 Light and 3 Dark&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Players are able to deal damage to opposite color than they have debuff on. Breaking an orb grants a invicibility buff to one nearby player, use this to survive attack he’s casting. &lt;br&gt;
+Destroy the orb anywhen runes start to appear on the spell circle.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      The black orb will have a white outlining&lt;br&gt;
+The white orb will have a black outlining
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Attack of the clones&lt;/strong&gt; - After calling out :&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Patience not found.”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;Players will get applied slow debuff on them, then boss will teleport in middle of the room, and summon 2 clones.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Right after that all 3 will teleport in sequence to outer circle on the floor, and will either use small Spin, or Blue Ball just throw version at random targets.&lt;/li&gt;
+&lt;li&gt;These attacks apply Mana Burst.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Teleports away from enterance = He will throw Blue Ball&lt;br&gt;
+Teleports to the door = He will Spin
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Cage with Shield&lt;/strong&gt; - After calling out:&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Prepare to be deleted.”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;He will cast cage soon after and get a shield. Each player will get one of 3 debuffs: Red, Blue, Yellow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Players must look at their debuff and take slice of same color to refresh their debuff – else they will die after it expires.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Boss will also get shield up during this cage, you need to deal enough damage to him down to break it, else he will cast 4th slices and wipe the party.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/Dkn4d4H.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+* This attack is only used below 40% of boss’ HP.
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Two upward slashes&lt;/strong&gt; - Simple two slashed upwards.&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/Fp5vURP.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;One upward slash&lt;/strong&gt; - Simple slash upwards.&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/KYIDDfv.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Two downward slashes&lt;/strong&gt; - Simple two slashes downwards.&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/xD9MCgl.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Overhand strike&lt;/strong&gt; - Simple slash from above.&lt;/p&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/WgqMRYs.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jump&lt;/strong&gt; - Secondary aggro jump, stuns, &lt;strong&gt;unleashes punishing spin if target was not cleansed.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting hit by either of these attacks stacks Mana Burst&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/4uVWjOu.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/z3YDAVn.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Front hammer into Back hammer&lt;/strong&gt; - Boss eyes flash red for a second. It’s unblockable, iframable and getting hit stuns.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;If someone was hit not cleansed of the stun, he unleashes punishing spin.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Getting hit by either of these attacks stacks Mana Burst&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/mAjWU5m.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/BUF1JUJ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Two up, Two up, Back slam&lt;/strong&gt; - Same as hammers above, just that it only hits one to the back.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting hit by either of these attacks stacks Mana Burst&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/WgqMRYs.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Blue ball throw&lt;/strong&gt; - Boss winds up with a blue ball, and either hits tank with it, launches a beam, or both.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Antharos only starts using hit + beam and beam only on lower HPs. Watch for the ground when beam is comming.&lt;/li&gt;
+&lt;li&gt;Getting hit by either of these attacks stacks Mana Burst&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/csTM0Ey.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+         &lt;td&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+              &lt;source src=&#34;https://i.imgur.com/BMDniaA.mp4&#34; type=&#34;video/mp4&#34;&gt;
+             &lt;/video&gt;
+         &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Teleport back&lt;/strong&gt; - He teleports back and uses either Front hammer into Back hammer, or Spin&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://essentialmana.com/antaroths-abyss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential Mana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Bahaar&#39;s Sanctum</title>
       <link>https://tenacity-tera.eu/dungeon-guide/mt/bahaar-sanctum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1216,279 +2048,6 @@ It consists of 4 parts:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Forbidden Arena (Hagufna)</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/mt/forbidden-arena-hagufna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/dungeon-guide/mt/forbidden-arena-hagufna/</guid>
-      <description>
-        
-        
-        &lt;div id=&#34;first-boss&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/axjltqe.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;Boss: Hagufna&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-hagufna&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#boss-hagufna&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;hr/&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;ul&gt;
-&lt;li&gt;His phase triggers were moved to 90%, 80%, 70%.&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr/&gt;
-&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;pre&gt;&lt;code&gt; 85% Phase Change
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;85% Pull in Mechanic&lt;/strong&gt; - Starting at 85% and then about every minute after, the boss will hold his sword straight up in the air and begin channeling energy into it, either &lt;strong&gt;pink&lt;/strong&gt; or &lt;strong&gt;purple&lt;/strong&gt; energy. After 85% the boss gains a few new combos.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This will then &lt;strong&gt;pull everyone within 25m right on top&lt;/strong&gt; of him and then do a mechanic based on which energy color it was.&lt;/li&gt;
-&lt;li&gt;The pull in is not avoidable in any way aside from outranging it.
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Pay close attention to his sword&lt;/strong&gt;, around the hilt area to tell which color energy it is.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;Pink Energy: &lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/0TV3Xs6.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;After the pull, he will stab his sword into the ground creating &lt;strong&gt;3 shockwaves&lt;/strong&gt;. These waves deal massive damage but are &lt;strong&gt;survivable with damage reduction/shields&lt;/strong&gt;.&lt;br&gt;
-If by chance you do survive a wave, you will be silenced for 5 seconds and knocked down. Because you are a silenced you cannot retal.&lt;br&gt;
-&lt;strong&gt;The boss will auto target anyone silenced with an overhand strike,&lt;/strong&gt; and if by chance you survive that? a leaping strike.&lt;/p&gt;
-&lt;center&gt;Purple Energy: &lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/2Df9ACj.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;After being pulled, the boss will a fast spin that &lt;strong&gt;applies a bleed (cleanseable)&lt;/strong&gt; if hit directly by spin. &lt;br&gt;
-The spin will also create a &lt;strong&gt;shockwave traveling outwards&lt;/strong&gt; that stuns anyone hit. &lt;strong&gt;This wave is iframeable.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Finally the boss will be charging an unsheathe after the quick spin. Its a race to escape it.
-&lt;ul&gt;
-&lt;li&gt;The general idea is to escape quickly as you get pulled, dodging the stun wave as you go.&lt;br&gt;
-Failure and you get stunned inside the unsheathe, at least it &lt;em&gt;looks cool when you die&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Range check / Rez bait&lt;/strong&gt; - At any point after 85%, if a player gets a certain distance away from the boss OR if anyone casts a ressurection spell/scroll, the boss will target them.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;These have their own separate cooldowns and can trigger back to back and often do because of how the mechanic works.
-&lt;ul&gt;
-&lt;li&gt;The boss will target the person and savage strike to them, often through/behind them and then overhand strike.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/NWEKgn7.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;pre&gt;&lt;code&gt; 55% Phase Change
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The boss will say &lt;strong&gt;My patience is wearing thin&amp;hellip;&lt;/strong&gt; refreshing his damage increase buff and unlocking more combos.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;30% Final Phase
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;When reaching 30%, the boss will say &lt;strong&gt;Thats Enough!&lt;/strong&gt; and charge a giant aoe. You can see the edge of it if you are zoomed out far enough.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;When it is near completion, iframe.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;The aoe can be survived if you have damage reduction or big shield skills.
-&lt;ul&gt;
-&lt;li&gt;At the same time, he will trigger a separate set of double red line, independant of the single red line from 90%.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The aoe will kill you, the lines shouldnt.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/musp1B6.png&#34;&gt;&lt;br&gt;The boss will gain his final form, a new buff called called Mad Power, increasing his damage by 15% and attack speed by 5%&lt;br&gt;This will also unlock his final combo.&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/cvxNTAz.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Tank Buster Combo&lt;/strong&gt; - The boss will charge up in place for a second followed by an &lt;strong&gt;extended combo only under 30%&lt;/strong&gt;. &lt;br&gt;The boss will do this in order: &lt;br&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Double spin&lt;/li&gt;
-&lt;li&gt;Overhand strike (will be canceled if red eye flash)&lt;/li&gt;
-&lt;li&gt;Eviserate&lt;/li&gt;
-&lt;li&gt;Overhand strike &lt;br&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;There will be zero delay between them&lt;/strong&gt;&lt;br&gt;
-If you get hit by the first overhand strike, you will take x3 damage from the eviserate and INSTANTLY die.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Luckily this combo is easily avoided as a tank.&lt;/li&gt;
-&lt;li&gt;If you iframe to the side after the double spin, he will be locked on your position and simply miss the entire rest of the combo:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/EImbsi2.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Double upwards slash into Overhand&lt;/strong&gt; - The boss will slash twice in an upwards motion followed by an Overhand strike.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The Overhand is not blockable but iframeable and must be.&lt;/li&gt;
-&lt;li&gt;Knocks down and &lt;strong&gt;applies a debuff stack&lt;/strong&gt; and a separate debuff : &lt;strong&gt;Weakness exposed&lt;/strong&gt; for 5 seconds.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/krMGUXk.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/FNJxXSK.png&#34;&gt;Getting hit by most of his attacks will apply a  60 second debuff that stacks 4 times. &lt;br&gt; This debuff does nothing until it reaches 4 stacks.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/qTw39v9.png&#34;&gt;Once it reaches 4, it will change into a different debuff for 30 seconds that doubles your damage taken from the boss.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/HYC5WMm.png&#34;&gt;Getting hit by most of his attacks will apply a  60 second debuff that stacks 4 times. &lt;br&gt; This debuff does nothing until it reaches 4 stacks. &lt;br&gt; 
-    If you do not retal immediately or your retaliate is on cd, the boss will trigger a leaping strike on you as an execution, you will not survive.&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Upward + Downward slash into Eviserate&lt;/strong&gt; - Similar to overhand with a slight difference, his second slash will have a downwards angle.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;All hits are blockable.&lt;/li&gt;
-&lt;li&gt;Eviserate will knockdown and &lt;strong&gt;apply weakness exposed&lt;/strong&gt; as well if hit.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/EVlV8hs.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Upward slashes into backstep into random overhand&lt;/strong&gt; - Exactly the same as the first combo but now the boss will backstep and then randomly target someone for an overhand strike.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The jump is particularly annoying because he will iframe all your skills during it.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/6OwhEBr.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Red Lines&lt;/strong&gt; - Also starting at 90% are random red lines.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;These deal about 100k damage and apply a crippling slow if hit. &lt;strong&gt;-60% move speed&lt;/strong&gt;, &lt;strong&gt;-70% attack speed&lt;/strong&gt;, and &lt;strong&gt;-90% healing&lt;/strong&gt; for 6 seconds.&lt;/p&gt;
-&lt;p&gt;These are iframeable but often come at the worst times possible.
-1 at a time will happen starting at 90%
-2 at a time will happen starting at 30%&lt;/p&gt;
-&lt;p&gt;Each has their own cooldown so a total of 3 at once can happen if unlucky.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Heart Thrust combo&lt;/strong&gt; - The boss will stab the tank with heart thrust, do a turning slash, and then overhand directly behind him. The heart thrust and turn slash are blockable.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The killer here is the small turning slash he does, this mostly gets dps hit. &lt;strong&gt;This applies a debuff leading to 4 stacks.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/8L0FPc9.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Double Spin into Overhand&lt;/strong&gt; - The boss will whirlwind twice followed by an overhand strike on the tank. The spins are blockable.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The spins hit hard and &lt;strong&gt;apply debuffs&lt;/strong&gt; most importantly for dps/healers
-&lt;ul&gt;
-&lt;li&gt;Standing on the bosses left side as a dps/healer avoids you getting hit by spins most of the time, super helpful.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/mv5Elyk.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;90% phase change + Shield&lt;/strong&gt; - At 90% the boss will say&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Pathetic fools...you asked for it 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;And phase change slightly.He will also gain a buff for the rest of the fight that increases his damage by &lt;strong&gt;10% and attack speed by 5%&lt;/strong&gt;.&lt;/p&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/2wAbm9N.png&#34;&gt;Increases boss&#39;s Damage by 10% and Attack speed by 5%.&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;hr/&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/a9s5IW2.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;Failing to break this shield will result in him doing an aoe within &lt;strong&gt;25 meters for massive damage&lt;/strong&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;It can be tanked with damage reduction skills or blue shield only.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The shield will happen at 90%, 60%, 30% OR every 90 seconds&lt;/strong&gt; ish if you dont push % fast enough.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;When you fail to break the shield, he will gain a stack of Condensed Darkness, increasing his damage by 10% per stack.&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/lHAxxAQ.png&#34;&gt;&lt;br&gt;This isnt a big deal unless you fail to break the shield 10 times in a row.&lt;br&gt;If he gets 10 stacks of this buff, he will gain Bloodlust.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/YKNYcjI.png&#34;&gt;&lt;br&gt;This increases his damage by 5x, move speed by 50%, and attack speed by 20%.&lt;br&gt;This forces you to fully wipe and reset.&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Triple Spin into Punishing Blow&lt;/strong&gt; - A variation on the previous double spin move is this: the boss will instead spin 3 times total and then do a jumping slam attack.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;All 3 spins are blockable and the jumping attack must be perfect blocked if tank, iframed if dps/healer.&lt;/li&gt;
-&lt;li&gt;There are only &lt;strong&gt;2 situations where the boss will punishing blow&lt;/strong&gt; and one of them is this, only if he triple spins.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/mAsPxBo.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Upward slashes into Overhand into Punishing Blow&lt;/strong&gt; - A variation on an earlier combo of upwards slashx2 into overhand on tank.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This time it will be followed up by a punishing blow.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/F55ayK4.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Double Savage Strike&lt;/strong&gt; - This attack ruins dps lives.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The boss will do a quick turning slash and Savage strike directly away from the main aggro target, turn slash, Savage strike back to the tank, and finally overhand the tank&lt;/li&gt;
-&lt;li&gt;Thats a total of 3 stacks if dps dont move in time from the turnslash and both savage strikes.
-&lt;ul&gt;
-&lt;li&gt;It will ALWAYS go directly away from the aggro target and always return to that same aggro target.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/HcmbwqC.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Spinning stun combo&lt;/strong&gt; - There are &lt;strong&gt;2 variations&lt;/strong&gt; to this and its entirely reactionary for the tank.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The boss will do a small spin and hold in place for a second.&lt;/li&gt;
-&lt;li&gt;The stun is blockable so thats not the issue.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;He will either attempt to stun you followed by an overhand strike.&lt;/li&gt;
-&lt;li&gt;He will fake you out, not casting the stun and simply overhanding you.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/U65E06i.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;Here is an example of him faking the stun:&lt;/p&gt;
-&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
-  &lt;source src=&#34;https://i.imgur.com/YMgVisA.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;hr/&gt; 
-&lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://discord.gg/j9YkdaZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taldekk’s Dungeon Guide Discord Server&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Kalivan&#39;s Dreadnaught</title>
       <link>https://tenacity-tera.eu/dungeon-guide/mt/kalivan-dreadnaught/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1968,6 +2527,224 @@ Lure him to the bomb squad!”
 &lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;-&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lumikan&#39;s Dream (Hard)</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/mt/lumikan-dream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/mt/lumikan-dream/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;first-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Hmuxlwq.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Boss: Lumikan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-lumikan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#boss-lumikan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Skulls&lt;/strong&gt; - At 50% and then at 35% the boss will spit out &lt;strong&gt;2 giant red skulls&lt;/strong&gt; and begin charging up an attack.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This mechanic has 80 second cd.&lt;/li&gt;
+&lt;li&gt;You need to have 2 people, preferably the tank and healer , to walk over these skulls to receive a debuff:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/789609004942098473/789652920525652008/scald.png&#34;&gt;&lt;br&gt;If the 2 people with this debuff gather, it will make everyone near them immune to all damage for 4 seconds (buff below)&lt;/td&gt;
+    &lt;td&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/789609004942098473/789653053396877322/immune_3104005.png&#34;&gt;Immunity&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/IdX3wtp.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;You need to time this with the boss attack actually going close together.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After the boss spits out the 2 orbs she will crouch a bit and begin charging indicated by 2 things
+&lt;ul&gt;
+&lt;li&gt;The screen will start &lt;strong&gt;shaking&lt;/strong&gt; furiously AND she will gain a blackish red aura around her&lt;/li&gt;
+&lt;li&gt;The moment the screen starts shaking or you see the aura, whichever is easier to tell for you, you need to count 6 seconds.
+&lt;ul&gt;
+&lt;li&gt;Use the meter combat timer if anythin.g&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;After 6 seconds of charging, &lt;strong&gt;gather up&lt;/strong&gt; and youll survive.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/5YR9MMP.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;If you go in at 4 or an early 5 seconds, the end of the attack will hit you and instantly wipe you out.&lt;/p&gt;
+&lt;p&gt;In Hard mode, she will assign 2 random players with a cross-hair debuff the instant the mechanic starts, before she even throws the red skulls.&lt;/p&gt;
+&lt;p&gt;The 2 people with this debuff are the ONLY ones can collect the giant red skulls to perform the immunity.&lt;br&gt;
+Standing on the red skulls as they spawn will nearly kill you, if not outright one shot you, so wait until she throws it and it fully lands THEN run into it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bleed Debuff&lt;/strong&gt; - On Hard mode, this lasts for &lt;strong&gt;30 seconds and ticks for 10%&lt;/strong&gt; of max hp every 2 seconds ish per stack.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting 3 stacks will stun you for 5 seconds and more importantly, cause an explosion in a radius around your character, killing anyone near you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skeletons&lt;/strong&gt; - &lt;strong&gt;ONLY IN HARD MODE&lt;/strong&gt; Starts at 90% of HP.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These will slowly walk towards the boss and if they touch her, will cast an aoe dealing damage and knocking everyone down and more importantly, buffing the boss with a 25% damage increase for the rest of the fight that stacks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/789609559807361074/793266451058393158/907.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;These can be slept and stunned to delay or stop them from moving. They will not ever die or go away unless they cast their aoe from touching the boss which you dont want.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This fight becomes almost untankable at 3-4 stacks as she will start hitting through block.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The skeletons spawn in the 4 corners of the room at 90% on boss hp. They walk very slowly normally.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3 Minutes after the first 4 skeletons spawn, 3 more will spawn.
+&lt;ul&gt;
+&lt;li&gt;3 Minutes more and a third set will spawn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The boss should be dead either before the 3rd set or shortly after.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/789609559807361074/793269486408564786/910.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+Either keep her in the middle until 70% or move her to a corner at the start, up to you.
+&lt;img src=&#34;https://cdn.discordapp.com/attachments/789609559807361074/793270202325401640/911.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Cage 70% Cage&lt;/strong&gt; - &lt;strong&gt;ONLY IN HARD MODE&lt;/strong&gt; - 2 minute 20 second cooldown from start of cast.&lt;br&gt;
+At 70% the boss will cast a very crazy particle effect resulting in a cage, there are multiple small steps to this.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are far away from boss when this is cast, you will instantly die.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When the cage first spawns it will trigger a wave at the wall of the cage expanding outward. This will interact with the skeletons, making them move very fast for 15 seconds before going back to slow walking.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;There are 3 steps players need to do while this cage is spawning:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cage first appears, you need to be inside or very close to the walls to not instantly die.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;The boss will drop puddles on every player, drop these just near the wall of the cage.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Being outside the cage at any point was hotfixed to kill you
+its a simple go in, go out to drop puddles, go back into cage.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;After the first cage all the skeletons will be near the boss and its time to move.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/789609559807361074/793275868574253106/912.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+You go from one corner to its opposite and repeat each time a cage happens/ the skeletons are very close to boss. Remember cage is every 2:20 after 70%.&lt;/p&gt;
+&lt;p&gt;Depending how fast you push determines the timing here a little bit but the timing is generally the same.
+The first cage will happen at around 2:00-2:20, the next one being at 4:20-4:40 ish.&lt;/p&gt;
+&lt;/center&gt;
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A majority of the boss special abilites chain from this downward slash, important to remember. All the abilities listed below have a low cooldown of &lt;em&gt;30-40 seconds&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Upward Stab&lt;/strong&gt;&lt;br&gt;&lt;center&gt;&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;&lt;/p&gt;
+  &lt;source src=&#34;https://i.imgur.com/tg61jY1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Twin Stab&lt;/strong&gt;&lt;br&gt;&lt;center&gt;&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;&lt;/p&gt;
+  &lt;source src=&#34;https://i.imgur.com/NrqXub1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Down Slash&lt;/strong&gt;&lt;br&gt;&lt;center&gt;&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;&lt;/p&gt;
+  &lt;source src=&#34;https://i.imgur.com/GwOouuN.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Downslash into Twirl Bloodline&lt;/strong&gt; - Both the twirl and the bloodline itself deal high damage and you cannot tank both without some healing/shield in between.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/jRbx3Tm.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/SHXfa4u.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Left Right Quick Slash&lt;/strong&gt;&lt;br&gt;&lt;center&gt;&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;&lt;/p&gt;
+  &lt;source src=&#34;https://i.imgur.com/19pN3kq.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Downslash into Stab Stun into DFA into Pizzas&lt;/strong&gt; - A long tank combo.&lt;br&gt;
+After the boss uses DFA she will create pizza slices, &lt;strong&gt;the first behind her at 5 o clock, and the second at 12 o clock&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can tank 1 pizza slice aoe fine but not 2 in a row.&lt;/li&gt;
+&lt;li&gt;The stun stab is cleanseable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/RK1WjWJ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/AVcSmKW.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;By pausing and iframing the stab and NOT rushing back in to dps will end the combo without her casting DFA or the pizza slices.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/rOnInhr.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Downslash into IN-OUT-SPIN&lt;/strong&gt; - The spin at the end is a small range and mostly ignoreable damage.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/4LnROYK.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;When enraged this combo will be slightly slower and she will aoe stun at the end. The stun is &lt;strong&gt;dodgeable&lt;/strong&gt; and &lt;strong&gt;cleanseable&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The big giveaway is the speed difference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Spear Combo&lt;/strong&gt; - The boss will combine her twin swords into a spear and perform a series of 6 attacks total. She will cast this &lt;strong&gt;60 seconds into combat and then every 2:30-3:00 minutes&lt;/strong&gt; after.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The boss will spawn a red message and very quickly hit the tank twice:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Now I&#39;m getting serious.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;She can change the order of certain attacks but &lt;strong&gt;all 6 must happen&lt;/strong&gt; once.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/lMdjgtY.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;In this clip she does:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Spear throw on furthest target then back hit (both iframe able)&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Tank buster stab into bloodlines. She will stab, instantly spawn line on tank and then half a second later spawn lines everywhere else. Move in right as she stabs.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Pizza slice on aggro target&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Pizza slice opposite the first slice&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Aoe stun&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Spawns yellow arrows on all players, each spawn a bloodline shortly after. The arrows face the same direction as the boss when she cast it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/gjoi1II.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;video controls width=&#34;620&#34; height=&#34;540&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/o5fJj2L.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;The variance on this can be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step 1 and 2 can be in either order&lt;/li&gt;
+&lt;li&gt;AoE stun can be step 4 or 5.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Because the spear combo is so long, ALL of the bosses other abilities will come off cooldown during it. She will use &lt;strong&gt;EVERY&lt;/strong&gt; other ability in a row coming out of a spear combo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ONLY IN HARD MODE&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;At the end of her combo like normal mode, she will spawn bloodlines but with a little extra this time.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After step 6, every player should be hitting her in the back as she will turn around.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8IPM62Z.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;She will spawn arrows that result in a cross shaped bloodline&lt;/strong&gt; on every player:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4K5yyvk.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The tigher everyone stacks, the thinner the bloodline will be.&lt;br&gt;
+2 yellow arrows will &lt;strong&gt;ALWAYS&lt;/strong&gt; orient the same direction every single time because the boss will &lt;strong&gt;ALWAYS&lt;/strong&gt; turn her back to you for this part.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;center&gt;&lt;h3&gt;Sources&lt;/h3&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;Tera Dungeon Guides Discord&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -3588,375 +4365,6 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
     &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://essentialmana.com/sky-cruiser-endeavor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential Mana&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://glremoved1deceivers.gamerlaunch.com/forums/viewtopic.php?t=10872372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guide made by Yosha&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>The Plexus (Hard)</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/mt/the-plexus-hard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/dungeon-guide/mt/the-plexus-hard/</guid>
-      <description>
-        
-        
-        &lt;div id=&#34;last-boss&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/QpZB4VD.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;Last Boss: Shandra Manaya&lt;span class=&#34;absolute -mt-20&#34; id=&#34;last-boss-shandra-manaya&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#last-boss-shandra-manaya&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Depending on how/what you do during cocoon phase, you generally won&amp;rsquo;t have much time to prepare for anything.&lt;/p&gt;
-&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Shandra has a 15 minute enrage timer. Debuff phases now occur every 45 seconds and the debuffs player receive from them last 90 seconds.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Debuff (Stand-up mech)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This is the debuff mechanic you probably keep hearing about in Manaya&amp;rsquo;s Core. It starts when Shandra reaches 90% health, and will reoccur every 90 seconds for the rest of the boss fight but she can do it whenever she wants to.&lt;/li&gt;
-&lt;li&gt;Shandra will immediately turn towards whoever has aggro and go into a &amp;ldquo;stand-up&amp;rdquo; state where &lt;strong&gt;all damage she takes is reduced by half&lt;/strong&gt;. She will then perform &lt;strong&gt;three consecutive AOEs centered on herself.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;I will be labelling these AOEs 1, 2, and 3 in the order that they hit.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/PU5H4zR.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;The above is an animated GIF that shows how the three debuff AOEs hit during the Shandra Manaya debuff/stand-up phase boss mechanic. &lt;strong&gt;When an AOE hits, the ground in that AOE area briefly flashes white.&lt;/strong&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/utpM3xS.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;AOE number 1 will come first.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;It will hit in a 5m radius circle directly underneath Shandra.
-&lt;ul&gt;
-&lt;li&gt;It will give you the &lt;strong&gt;&amp;ldquo;Greedy Thought&amp;rdquo;&lt;/strong&gt; debuff and also hit you for 20,000 of your health.&lt;/li&gt;
-&lt;li&gt;The area outside of the circle is the safe zone for this AOE.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;If you have the &lt;strong&gt;&amp;ldquo;Desperate Thought&amp;rdquo;&lt;/strong&gt; debuff, it will be removed upon receiving &lt;strong&gt;&amp;ldquo;Greedy Thought&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/fSnkC6Z.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;AOE number 2 follows a few seconds after 1.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;It will hit as a 5m inner 10m outer radius donut directly outside of AOE number 1.
-&lt;ul&gt;
-&lt;li&gt;It will give you the &lt;strong&gt;&amp;ldquo;Hateful Thought&amp;rdquo;&lt;/strong&gt; debuff and also hit you for 20,000 of your health.&lt;/li&gt;
-&lt;li&gt;The area inside the donut where AOE 1 hit before is a safe zone, as is the area outside the donut.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;If you have the &lt;strong&gt;&amp;ldquo;Greedy Thought&amp;rdquo;&lt;/strong&gt; debuff, it will be removed upon receiving &lt;strong&gt;&amp;ldquo;Hateful Thought&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/vzlP5B3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;AOE number 3 follows a few seconds after 2.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;It will hit &lt;strong&gt;THE ENTIRE MAP directly outside of AOE number 2 (anything 10m away from Shandra)&lt;/strong&gt;.
-&lt;ul&gt;
-&lt;li&gt;It will give you the &lt;strong&gt;&amp;ldquo;Desperate Thought&amp;rdquo;&lt;/strong&gt; debuff and also hit you for 20,000 of your health.&lt;/li&gt;
-&lt;li&gt;The areas where AOEs 1 and 2 hit before are both safe zones (aka the 10m radius circle inside 3).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;If you have the &lt;strong&gt;&amp;ldquo;Hateful Thought&amp;rdquo;&lt;/strong&gt; debuff, it will be removed upon receiving &lt;strong&gt;&amp;ldquo;Desperate Thought&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Following these three AOEs, &lt;strong&gt;Shandra will immediately check to see that each of those three debuffs is on at least one person in the party&lt;/strong&gt;. If any of these three debuffs from the AOEs are missing. Shandra will say a message:&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-red-200 bg-red-100 text-red-900 dark:border-red-200/30 dark:bg-red-900/30 dark:text-red-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        🚫
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &amp;ldquo;Insufficient.
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;p&gt;Curl. That will hit the normal range and also automatically give everyone in the party the &lt;strong&gt;System Seizure&lt;/strong&gt; debuff. &lt;br&gt;
-This is &lt;strong&gt;essentially a wipe&lt;/strong&gt; (to have even a chance of surviving, get the hell away from her and attempt to heal through the subsequent ticks with your consumables).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Basically in order to avoid this wipe, three members of your party need to purposefully get hit by one of the AOEs each.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;No dodging.&lt;/li&gt;
-&lt;li&gt;No blocking.&lt;/li&gt;
-&lt;li&gt;No invulnerability frames.
-&lt;ul&gt;
-&lt;li&gt;They need to stand still in the AOEs and get hit so that they take their respective debuffs. In order to avoid the debuff timing out, during the next stand-up each of those three players will need to cycle AOEs so that they can overwrite their old AOE debuff with their new one.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;This cycle will repeat throughout the rest of the boss fight.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;To organize debuff phases in a manner that is clear and not confusing, you&amp;rsquo;ll want to designate certain people in the party to take debuffs beforehand. They will usually be the three DPS classes in the party (the rest of this section will assume that is the case). &lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tanks and healers should still know how debuffs work however, and be prepared to take one of the AOEs in case a party member dies. Designate either the tank or healer as primary or secondary backup debuff taker for moments like these in case a DPS is dead.&lt;/li&gt;
-&lt;li&gt;We&amp;rsquo;ll call these three debuff takers A, B, &amp;amp; C. A will start on AOE 1, B will start on AOE 2, and C will start on AOE 3. When Shandra does her stand up and you see that message, A will stand in AOE area 1 and get hit by it to receive the debuff. B will wait in AOE area 2 to receive that debuff. And the same with C in area 3. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Now A must take AOE 2 next, B must take 3 next, and C must take 1 next; this means that during the next debuff cycle, C will stand in AOE area 1 and get hit by it to cycle his/her debuff. A will stand in 2, and B will stand in 3. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;For the next stand-up, B will be on 1, C will be on 2, and A will be on 3. &lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Each person will be cycling debuffs in this 123123123 order for the rest of the fight, just at different points in the order.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/hBj18pm.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;The above is an animated GIF that shows where the three debuff takers should go during the Shandra Manaya debuff/stand-up phase boss mechanic. &lt;strong&gt;Depending on what color debuff you have, you will go to the corresponding AOE.&lt;/strong&gt; If you&amp;rsquo;re still puzzled, think of each individual box as a player and just follow that player through multiple debuff phases.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Shield&lt;/strong&gt; - Shandra will do a shield mechanic every &lt;strong&gt;70%, 50%, 30%, 20%&lt;/strong&gt; of health. When a message appears :&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &amp;ldquo;You think to hurt me? You&amp;rsquo;ll have to touch me first!
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;p&gt;Shandra will immediately turn to face whoever has aggro at the moment and shake herself a few times.Save your big hitting skills for this.&lt;/p&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/E54kUTh.png&#34; alt=&#34;Note: very old screenshot of shield&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;As soon as you see this icon, unleash hell on Shandra. &lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If you succeed in burning the shield down quickly enough, the blue shield buff will disappear and you&amp;rsquo;ll get a few seconds of free damage dealing. If you weren&amp;rsquo;t fast enough, Shandra will curl up and wipe you guys.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Dispel buff&lt;/strong&gt; - This is a mechanic for &lt;strong&gt;healers only.&lt;/strong&gt; Once she does a message:&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &amp;ldquo;Great ones, lend me your powers!
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;p&gt;Shandra will immediately turn towards whoever has aggro and begin stacking a buff (Queen&amp;rsquo;s Shriek, watch her health bar) with each roar she does.&lt;/p&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/YmrtDyU.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;If she successfully stacks this buff three times, the stacks will be replaced by an undispellable 30-second buff (Queen&amp;rsquo;s Wrath) that triples the power of Shandra&amp;rsquo;s attacks and gives a 20% boost to her attack speed.&lt;/p&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/GMmsPh3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;You don&amp;rsquo;t want that. And neither does your group.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The key to nullifying this phase are the three initial stacks. If at least one of these stacks is nullified, Queen&amp;rsquo;s Wrath will not occur. &lt;strong&gt;You need to land your dispel on Shandra when she is at only one or two stacks of the buff.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Once you get Shandra past 8% health, if she does this phase again, the first roar will automatically give Shandra Queen&amp;rsquo;s Wrath&lt;/strong&gt; FOR THE REST OF THE FIGHT.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;When you see her do her &lt;strong&gt;walk under 8%&lt;/strong&gt;, she&amp;rsquo;ll also automatically gain Queen&amp;rsquo;s Wrath once she finishes the walk.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;The &amp;ldquo;walk&amp;rdquo; is when after you push her below 8%, she&amp;rsquo;ll turn in the opposite direction she is facing and begin slowly lumbering across the room.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kill her immediately before she flips out, because she will be permanently flipping out all over the room.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9JKUqT7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;Shandra also has a new buff. At 50%, 30%, and 20%, right after her forced Debuff and Shield phases, you&amp;rsquo;ll see a message flash on your screen that says :&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &amp;ldquo;You must know you won&amp;rsquo;t escape.&amp;rdquo;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;p&gt;And Shandra will receive an undispellable speed buff on her bar &lt;strong&gt;(Fevered Pitch)&lt;/strong&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This buff will stack each time she does this, with each stack giving her a 10% boost in speed to all animations (even debuff phases).&lt;/li&gt;
-&lt;li&gt;Donut becomes deadly at this point.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Claw&lt;/strong&gt; - Shandra will raise one of her front paws up and swipe downwards. It hits pretty far in front of her, so watch out.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Tail&lt;/strong&gt; - If you&amp;rsquo;re behind Shandra and you see her turn her head and look at you, dodge to the side.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shandra will slam her tail down and then taser you with it.
-&lt;ul&gt;
-&lt;li&gt;The hitbox for the taser reaches wide, but if you&amp;rsquo;re at her side when it starts you won&amp;rsquo;t get touched by it.&lt;/li&gt;
-&lt;li&gt;Both the initial slam and the taser&amp;rsquo;s multiple hits are blockable.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Lunge&lt;/strong&gt; - Shandra will back up onto her hind legs and make a huge leap across the room targeted at someone.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dodge or just walk towards her or to the side rather than away from her, its distance is much longer than you think it is.
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Comb&lt;/strong&gt; - Shandra will bring in her paw and swipe in someone&amp;rsquo;s direction, launching a wave of energy (that looks like three combs in a row) at him/her.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Has a narrow hitbox but hits hard and far, so watch out.
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Donut&lt;/strong&gt; - Shandra will start hovering in the air and immediately launch two AOE attacks centered on herself.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The first will be a donut. The second AOE will be the small circle inside the donut, directly underneath Shandra.
-&lt;ul&gt;
-&lt;li&gt;Both AOEs are NOT BLOCKABLE and must be dodged/avoided as they are &lt;strong&gt;oneshots&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Curl&lt;/strong&gt; - Also known as the bomb or the explosion. Other than boss mechanics, this is usually the attack that wipes learning groups.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shandra will let out a distinctive audio cue and curl her wings up around her.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;This is your cue to get the hell out of there.&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Immediately turn around and get at least 19m away from her. She&amp;rsquo;ll let out &lt;strong&gt;huge waves of energy in a giant circle around her (18m radius)&lt;/strong&gt; for a few seconds.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The Curl is NOT BLOCKABLE.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;When the sparks on the edge of the blasts disappear, it is safe to head back in even if there is still a red aura remaining from the Curl.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Fence&lt;/strong&gt; - Shandra will start building a circular fence in front of her around whoever is targeted (does not inflict damage).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;When it is finished forming, Shandra will land an AOE that hits anything inside the fence and immobilizes them (cleansable).
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Pool&lt;/strong&gt; - Shandra will lock-on to a player with a moderately-sized circle. After a bit, she will throw down a pool of acid that will tick away at your health fairly quickly as long as you are inside it.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The acid pool doesn&amp;rsquo;t move after it has been thrown down. If you get targeted by a Pool, reposition yourself with just running,AFTER the acid has dropped onto you, get out of it, NOT BEFORE.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Trample&lt;/strong&gt; - Shandra will just start walking towards you.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Stand still and block.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;If you don&amp;rsquo;t have a block, stand still anyway. &lt;strong&gt;DO NOT DODGE.&lt;/strong&gt; Save your dodge for what comes after. You will lose less health just standing still than you will trying to get away.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Shandra also has a variety of secondary aggro attacks.&lt;/strong&gt;
-&lt;strong&gt;If someone in your party gets that secondary purple aggro circle, one of the following attacks will occur targeted at him/her:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Grenade - Shandra will target a small circle on whoever got secondary aggro and hit that circle with an AOE. &lt;strong&gt;Blockable,&lt;/strong&gt; but rather easy to avoid entirely if your monitor&amp;rsquo;s not off.&lt;/li&gt;
-&lt;li&gt;Laser - She will turn to face someone and her wings will come off her back and start to spin. This will be followed by a three-pronged laser that fires forward and has a huge range. &lt;strong&gt;Essentially a oneshot.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Bird&lt;/strong&gt; - Also known as just flying. Shandra will jump into the air and start flapping her wings. A large circle will appear under her as she flies towards whoever she targeted.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;She will then proceed to land, and anything inside the circle will get hit hard.
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Blockable.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Dive&lt;/strong&gt; - Shandra will dive underground and pop up next to whoever she locked-on to.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;This move DOES NO DAMAGE, so don&amp;rsquo;t waste your dodge.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;This attack will always be followed by either a Pool or one to three Lunges targeted at the same person. &lt;strong&gt;You should save your dodges for those attacks.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Do note that if all party members are within a certain range of her &lt;strong&gt;(around 15m)&lt;/strong&gt;, she will not even cast this attack at all.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Not getting hit by all of these attacks has a nice perk, other than not dying. There is an &lt;strong&gt;uncurable, green poison debuff called Argonic Metastasis&lt;/strong&gt; that you get when you are hit by Claw, Lunge, Comb, Bird, Grenade, the initial downward slam of Tail, both hits of Donut, or any and all of Curl&amp;rsquo;s ticks.&lt;/p&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/yfMtDcr.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;If this debuff stacks 5 times (i.e. if you get hit by any of the previous attacks 5 times) before it times out, it will be replaced by another debuff called System Seizure (also uncurable) which will tick you for large amounts of health, killing you in mere seconds.&lt;/p&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/hSfGLss.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;Just &lt;strong&gt;don&amp;rsquo;t get hit by Shandra&amp;rsquo;s attacks&lt;/strong&gt;. If you see you have 3 or 4 stacks built up, play it safe for a while until the stacks disappear.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Two-manning Debuff Phase&lt;span class=&#34;absolute -mt-20&#34; id=&#34;two-manning-debuff-phase&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#two-manning-debuff-phase&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s how it works. Designate someone to start out on AOEs 1 &amp;amp; 2. The other will start out on AOEs 1 &amp;amp; 3.&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;During first debuff phase, the first person will get the debuff from AOE 1, which will immediately get erased when he/she gets the debuff from AOE 2 (leaving him/her with just the green debuff for AOE 3). The second person will take AOE 1 to get the white debuff, and then AOE 3 to get the red debuff.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Now what? The first player with only the green debuff will get AOE 1 to erase the green debuff with a white debuff, and then go out for AOE 3 to get the red debuff. The second person with both red and white debuffs will get hit by AOE 1 to erase the red debuff, and immediately get hit by AOE 2 to erase the white debuff as well, leaving him/her with just a green debuff. &lt;br&gt;&lt;br&gt;
-&lt;strong&gt;Repeat this cycle of 1+2 &amp;amp; 1+3 for the rest of the fight.&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bryanzhu.com/archive/tera/manayascore.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lostguru on personal website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
