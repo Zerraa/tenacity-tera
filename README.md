@@ -12,7 +12,7 @@
 ----
 #  Tenacity
 <p>Repository for personal TERA website<br>
-Focusing on Dungeon guides and Patch notes for MT The Dream, together with other informations like gear and overworld activities.</p>
+Focusing on Dungeon guides, together with other informations like gear and overworld activities.</p>
 
 
 ## Contents
