@@ -21,11 +21,7 @@ Focusing on Dungeon guides and Patch notes for MT The Dream, together with other
     
   - [Dungeons](https://tenacity-tera.eu/dungeon-guide/)
  
- #### MT The Dream   
-    
-  - [Patch Notes](https://tenacity-tera.eu/blog/)
-  - [Guide](https://docs.google.com/document/d/192noLmzna1cJ6CXB9EfxXJwKUjjMllkHiCFswTENvAM/edit)
-    
+
   </div> 
 
 ## Feedback  
