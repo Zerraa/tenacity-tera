@@ -12,7 +12,7 @@ images:
 <center> <h2> Hello! 👋 </h2> </center>
 <hr/>
 
-`Im Hostility on MT: The Dream.`
+`Im Hostility.`
 You can find many of the previous website posts here, together with many new ones with hopefully smoother performence than before. <br>
 
 
