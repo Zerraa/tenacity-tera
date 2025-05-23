@@ -52,10 +52,10 @@ menu:
     #   name: General Content
     #   pageRef: /general
     #   weight: 4
-    # - identifier: blog
-    #   name: Patch Notes
-    #   pageRef: /blog
-    #   weight: 5
+    - identifier: blog
+      name: Patch Notes
+      pageRef: /agaianotes
+      weight: 5
     # - identifier: mt
     #   name: MT:The Dream Guide
     #   weight: 6
