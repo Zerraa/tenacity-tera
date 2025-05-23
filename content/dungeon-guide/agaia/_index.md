@@ -2,7 +2,7 @@
 title: Agaia Dungeon List
 weight: 1
 sidebar:
-  open: false
+  open: true
 ---
 
 <hr>
