@@ -68,11 +68,11 @@ menu:
     #  weight: 7
     #  params:
     #    type: search
-    # - name: GitHub
-    #   weight: 8
-    #   url: "https://github.com/Zerraa/tenacity-tera"
-    #   params:
-    #     icon: github
+    - name: GitHub
+      weight: 8
+      url: "https://github.com/Zerraa/tenacity-tera"
+      params:
+        icon: github
 
   # sidebar:
     # - identifier: more
