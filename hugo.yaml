@@ -60,11 +60,11 @@ menu:
     #   name: MT:The Dream Guide
     #   weight: 6
     #   url: "https://docs.google.com/document/d/192noLmzna1cJ6CXB9EfxXJwKUjjMllkHiCFswTENvAM/edit"
-    # - identifier: mt-discord
-    #   name: MT:The Dream Discord
-    #   weight: 7
-    #   url: "https://discord.gg/mtdream"
-    #- name: Search
+    - identifier: mt-discord
+      name: Agaia Online Discord
+      weight: 7
+      url: "https://discord.gg/agaiaonline"
+    # - name: Search
     #  weight: 7
     #  params:
     #    type: search
