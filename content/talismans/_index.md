@@ -67,7 +67,7 @@ Talismans can be equipped on both weapon and armor pieces, for a current maximum
 | Severance Spiral | Cyclone charging speed and skill damage increased by 25%. Drains 5% HP on each successful cast. |
 | Grave Toll | Lethal Strike sacrifices an additional 8% HP to increase skill damage by 30%. |
 | Blood Price | Lethal Strike on successful hit, increases skill damage of Lethal Strike by 10% for 2.5 seconds. Effect stacks up to 5 times. |
-| Shatterline | Cyclone skill reset maximum limit increased from 3 to 6%. Skill reset recast duration limit increased from $H_W_GOOD2s$COLOR_END to $H_W_GOOD4s$COLOR_END. Skill damage reduced by 25%. |
+| Shatterline | Cyclone skill reset maximum limit increased from 3 to 6%. Skill reset recast duration limit increased from 2s to 4s. Skill damage reduced by 25%. |
 | Razing Blood | Vampiric Blow skill damage increased by 25%. Resets the cooldown of Raze on successful hit and restores 2% of max HP every second for 5 seconds. |
 | Cleaver's Mercy | Raze has a 40% chance to reset the cooldown of Flatten upon successful hit, increasing its damage by 25% and guarantees it to be a critical hit. |
 
