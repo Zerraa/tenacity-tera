@@ -29,35 +29,27 @@
 &lt;p&gt;All tiers of gear will be enchantable to a maximum of +9, before being able to be directly upgraded to the next tier of gear available. Players can expect to see the return of Item XP on gear, which should give you some extra flexibility in deciding how and when to enchant your gear. Don&amp;rsquo;t worry though, as that&amp;rsquo;s the only amount of RNG you can expect from our gearing; we&amp;rsquo;re not bringing back infusions.&lt;/p&gt;
 &lt;p&gt;A 3% enchantment correction is applied on failure for all levels of enchantment across all tiers of gear.&lt;/p&gt;
 &lt;p&gt;Broadly, we will have three tiers of gear equipment available on launch, corresponding to the tiers of dungeons we have made available on launch. Here&amp;rsquo;s what you can expect the gearing to look like on launch:&lt;/p&gt;
-&lt;p&gt;Tier 1: Forgotten&lt;br&gt;
-&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQLcRlPQtlvEkJ43pWPjojAd1VF6wKe99RXP4pqKlyqeX56g93AfDuqi0xDciVOg2n_xZDJMjzNTvCuKI8AP2PTHxweHAH3swTRhRiIEAcP5tzZu7QW8gkLREyxLpiXjQrhBdRUQ?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;br&gt;
+&lt;h4&gt;Tier 1: Forgotten&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tier-1-forgotten&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tier-1-forgotten&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQLcRlPQtlvEkJ43pWPjojAd1VF6wKe99RXP4pqKlyqeX56g93AfDuqi0xDciVOg2n_xZDJMjzNTvCuKI8AP2PTHxweHAH3swTRhRiIEAcP5tzZu7QW8gkLREyxLpiXjQrhBdRUQ?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
 This is the first set of gear available to players upon reaching level 70. Accessories start at a tier lower than their equipment counterpart, so if this is Tier 1 gear, then these Faded accessories are Tier 0.&lt;/p&gt;
-&lt;p&gt;Because we are using the Heroic Oath era of gear progression as a baseline, we&amp;rsquo;ve started to reintroduce selectable lines on certain pieces of equipment. Currently, we&amp;rsquo;re using a mix of some older lines and some of the newer lines that a lot of players have come to expect. Most notably, we&amp;rsquo;re giving players the opportunity to decide if they want to use &amp;ldquo;Enrage&amp;rdquo; or &amp;ldquo;Cooldown Reduction&amp;rdquo; toplines. We&amp;rsquo;re also utilizing some of the newer versions of gear lines to aid players in tailoring the specific ratio of stats they&amp;rsquo;d like to use (for certain skill passives, for example).&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXfW4facRYzcP8xkA8rph328WDziDeqyaNBe00xrHnklgzEWgmimTM9h574hJIXfwcExptNfR_-iB2LV4UdjKs9S6V-zGz8lfzCc_bjMQgKlCxR0HxSWHJ_XW0Self5970Ow3gaSGA?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
+&lt;p&gt;Because we are using the Heroic Oath era of gear progression as a baseline, we&amp;rsquo;ve started to reintroduce selectable lines on certain pieces of equipment. Currently, we&amp;rsquo;re using a mix of some older lines and some of the newer lines that a lot of players have come to expect. Most notably, we&amp;rsquo;re giving players the opportunity to decide if they want to use &amp;ldquo;Enrage&amp;rdquo; or &amp;ldquo;Cooldown Reduction&amp;rdquo; toplines. We&amp;rsquo;re also utilizing some of the newer versions of gear lines to aid players in tailoring the specific ratio of stats they&amp;rsquo;d like to use (for certain skill passives, for example).
+&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXfW4facRYzcP8xkA8rph328WDziDeqyaNBe00xrHnklgzEWgmimTM9h574hJIXfwcExptNfR_-iB2LV4UdjKs9S6V-zGz8lfzCc_bjMQgKlCxR0HxSWHJ_XW0Self5970Ow3gaSGA?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXfduqf-Xtw5KDYGWR3Ei64enI574i0aEoFKyyrkIhbR_hO_t4MqQuKxfLNVB0WYJvhFnjkTnLNEDkpD9TZNpNCtXMz1iDBRtsIwj6WUltnmMen4S6wrpffnJzkOEq74m2lobTxPjA?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;|&lt;br&gt;
-Forgotten gear is going to be what players will use in the Tier 0 and Tier 1 dungeons. This gear will start with a basic success rate of 50% for each enchantment level. The Faded accessories players receive at the start will have a fixed 100% success rate to upgrade into Forgotten accessories, but starting with Forgotten, accessories will also require Item XP in order to maximize your success rate of upgrading.&lt;/p&gt;
-&lt;p&gt;Forgotten gear can be upgraded to Awakened gear starting at +9 enchantment level, with a basic success rate of 50%.&lt;br&gt;
+&lt;p&gt;Forgotten gear is going to be what players will use in the Tier 0 and Tier 1 dungeons. This gear will start with a basic success rate of 50% for each enchantment level. The Faded accessories players receive at the start will have a fixed 100% success rate to upgrade into Forgotten accessories, but starting with Forgotten, accessories will also require Item XP in order to maximize your success rate of upgrading.&lt;/p&gt;
+&lt;p&gt;Forgotten gear can be upgraded to Awakened gear starting at +9 enchantment level, with a basic success rate of 50%.
 Players can participate in a variety of content to obtain materials used for upgrading this gear, ranging from PvE dungeon content, solo Ace dungeons, Guardian Legion missions, and more.&lt;/p&gt;
-&lt;p&gt;Tier 2: Awakened&lt;br&gt;
-&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4dk0nPNlcNNtLEbtQPhbZay0zpmEtIMIeNtHn8gDa1OQA_cQiMA2cKw6_1h2SRzt77P9eXH49P2h8Hv0RK9i3dYNmrCu9gICV6IC49_ZMQItYP3Q6wOjMAPNzSaxWPdO5l6tlPg?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;Tier 2: Awakened&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tier-2-awakened&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tier-2-awakened&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4dk0nPNlcNNtLEbtQPhbZay0zpmEtIMIeNtHn8gDa1OQA_cQiMA2cKw6_1h2SRzt77P9eXH49P2h8Hv0RK9i3dYNmrCu9gICV6IC49_ZMQItYP3Q6wOjMAPNzSaxWPdO5l6tlPg?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This gear set upgrades directly from the Tier 1 gear. Awakened gear is recommended to be used in the corresponding Tier 2 dungeon content. Not only does this equipment provide better stats than its Tier 1 counterpart, weapons will also start having an additional line of selectable stats available.&lt;/p&gt;
 &lt;p&gt;Awakened gear starts with a basic success rate of 30%, with -2% basic success rate subtracted for every 2nd enchantment level afterwards, with a minimum success rate of 22%.&lt;/p&gt;
 &lt;p&gt;Awakened gear can be upgraded to Elder&amp;rsquo;s gear starting at +9 enchantment level, with a basic upgrade success rate of 22%.&lt;/p&gt;
-&lt;p&gt;Tier 3: Elder&amp;rsquo;s&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZvh33rhh4pu35Kxo8L2XYAfEAmsxraHx1XoolOplEwtRINRQhEkPYwLD9i3EqfILJxv1AgdMsXDoDFEO0tVH-9nGzPf759kKeX9vI695jNRVhyNa0YzdMlD93UwagAazzUf9U3Q?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;Tier 3: Elder&amp;rsquo;s&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tier-3-elders&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tier-3-elders&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZvh33rhh4pu35Kxo8L2XYAfEAmsxraHx1XoolOplEwtRINRQhEkPYwLD9i3EqfILJxv1AgdMsXDoDFEO0tVH-9nGzPf759kKeX9vI695jNRVhyNa0YzdMlD93UwagAazzUf9U3Q?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Elder&amp;rsquo;s gear is the third and final gear set currently available for players, upgraded from Awakened gear. Elder&amp;rsquo;s gear is what players will be using to tackle Tier 3 dungeon content, the most challenging currently available on the server.&lt;/p&gt;
-&lt;p&gt;Elder&amp;rsquo;s gear starts with a basic success rate of 25%, with -2% basic success rate subtracted for every enchantment level afterwards, with a minimum success rate of 12%.&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQG1PR9ILQFJWBR2CbiEJwB_v6QhCDvo8XDBsUU_MeGflzMZTz6LML5ZG5ESgq5HfOfdq88xZaVhorGkS5jMDwTdW-iXaTBJ3c7WbEnZuLqpIxh5UFuxos2hABRphou0p768mKRw?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJTNtC5B2eiU5J9kyBPT52YA207eVubZFeZNt9PrxsIE6Db76VqWBiGR09rwY6w_eOA_8MIrCj9ClRUMMbXUvSbIkt3BhzxU2QWc0AagXmUjaxSah8WCLnfQ73oqMiaO3tTyIf?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Curious about what these Augment sockets are for? Head over to the Talisman section here to learn more: &lt;a href=&#34;https://docs.google.com/document/d/1byySXNU2_nbPkiYNzNn5cwe7fnbRgOzgbkzLXjS8HM8/edit?tab=t.vwsoa94keou5#heading=h.uj2bdsjaq36&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agaia Launch Notes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
+&lt;p&gt;Elder&amp;rsquo;s gear starts with a basic success rate of 25%, with -2% basic success rate subtracted for every enchantment level afterwards, with a minimum success rate of 12%.
+&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQG1PR9ILQFJWBR2CbiEJwB_v6QhCDvo8XDBsUU_MeGflzMZTz6LML5ZG5ESgq5HfOfdq88xZaVhorGkS5jMDwTdW-iXaTBJ3c7WbEnZuLqpIxh5UFuxos2hABRphou0p768mKRw?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJTNtC5B2eiU5J9kyBPT52YA207eVubZFeZNt9PrxsIE6Db76VqWBiGR09rwY6w_eOA_8MIrCj9ClRUMMbXUvSbIkt3BhzxU2QWc0AagXmUjaxSah8WCLnfQ73oqMiaO3tTyIf?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+Curious about what these Augment sockets are for? Head over to the Talisman section here to learn more: &lt;a href=&#34;https://docs.google.com/document/d/1byySXNU2_nbPkiYNzNn5cwe7fnbRgOzgbkzLXjS8HM8/edit?tab=t.vwsoa94keou5#heading=h.uj2bdsjaq36&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agaia Launch Notes&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Etchings&lt;span class=&#34;absolute -mt-20&#34; id=&#34;etchings&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#etchings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Players will probably notice the lack of etchings on equipment. This is because we aren&amp;rsquo;t totally satisfied with Etchings as a system and we&amp;rsquo;d like to breathe new life into it, so we&amp;rsquo;ve gone ahead and disabled etchings for the time being until we&amp;rsquo;re happy with a better implementation. For now, players can enjoy the benefits of double Energetic IV weapon and glove etchings built directly into their gear&amp;rsquo;s stats, so they won&amp;rsquo;t have to miss out on performing their rotations as fluidly as possible.&lt;/p&gt;
@@ -84,18 +76,18 @@ Players can participate in a variety of content to obtain materials used for upg
     &lt;a href=&#34;#gathering--crafting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We aren&amp;rsquo;t satisfied with how neglected these two systems are in the current state of the game, so we have big plans to completely revamp and overhaul how these systems are integrated into the game in the future. Some of these ideas were too grand to fit in time for launch, but players can expect to see big things on the horizon.&lt;/p&gt;
 &lt;p&gt;Currently, crafting will mostly be utilized for purposes such as crafting some materials needed for enchanting and upgrading your gear, and for things like crafting optional consumables to use for combat. We understand that some players may not feel like participating in these areas of the game, so we&amp;rsquo;ve made sure to make these kinds of items obtained through crafting fully tradeable, so you&amp;rsquo;ll never feel locked out.&lt;/p&gt;
 &lt;h2&gt;Classes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;classes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#classes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Let&amp;rsquo;s address the elephant in the room:&lt;br&gt;
-Yes, many of you all have come to expect a certain class playstyle standard from other servers.&lt;br&gt;
-No, we will not initially be following blindly in the same footsteps.&lt;br&gt;
+    &lt;a href=&#34;#classes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Let&amp;rsquo;s address the elephant in the room:
+Yes, many of you all have come to expect a certain class playstyle standard from other servers.
+No, we will not initially be following blindly in the same footsteps.
 But we are open to hearing community feedback and making changes from there!&lt;/p&gt;
 &lt;p&gt;We know this is inevitably a controversial topic, but after weighing our options, we think it better to try and explore more of what this game&amp;rsquo;s combat system potentially has to offer, rather than retread the same stagnant ground from retail and other server(s). Our underlying design philosophy for this server has been to strike a perfect imbalance, prioritizing enjoyment for all  kinds of players, rather than trying to reach a perfect balance, at the detriment of exploring more diverse playstyles and opportunity for growth.&lt;/p&gt;
-&lt;p&gt;With that being said, let&amp;rsquo;s get down to the nitty-gritty:&lt;br&gt;
+&lt;p&gt;With that being said, let&amp;rsquo;s get down to the nitty-gritty:
 This server is based on the retail patch version 100.02, so players can expect, among other things,&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Patch 93 class skill passives, like this one:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; &lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXecYnHAUvUECC7FypIWjQNOsalIpxLxW1m8IVfL7uIuwXaKuQufMSodafbSGyIuElSNm8PDHzlOEqzmkZSDZtDmo7NLA_8g-u-2BFN8fFk9pUE9rfUzdl7HevsVhk7ZnpKaNyYuCA?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Patch 93 class skill passives, like this one:
+&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXecYnHAUvUECC7FypIWjQNOsalIpxLxW1m8IVfL7uIuwXaKuQufMSodafbSGyIuElSNm8PDHzlOEqzmkZSDZtDmo7NLA_8g-u-2BFN8fFk9pUE9rfUzdl7HevsVhk7ZnpKaNyYuCA?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;Patch 93 Class Skill Passives&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Vanilla &amp;ldquo;burst&amp;rdquo; skill cooldowns, rather than a standardized 60s burn meta.&lt;/p&gt;
 &lt;/li&gt;
@@ -107,13 +99,13 @@ This server is based on the retail patch version 100.02, so players can expect, 
 &lt;p&gt;All:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Every class has had all of their skill data truly equalized, so the race you choose to play is no longer a factor.\&lt;/p&gt;
+&lt;p&gt;Every class has had all of their skill data truly equalized, so the race you choose to play is no longer a factor.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Feel free to choose any race you want!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Removed Dirty Fighting racial passive from Castanic.\&lt;/p&gt;
+&lt;p&gt;Removed Dirty Fighting racial passive from Castanic.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;We don&amp;rsquo;t like how Castanic innately has this advantage over other races, so we&amp;rsquo;ve decided to disable it for now. We&amp;rsquo;ll look into reintroducing this in the future along with other meaningful racial passives, so look forward to it!&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -121,26 +113,18 @@ This server is based on the retail patch version 100.02, so players can expect, 
 &lt;/ul&gt;
 &lt;p&gt;Valkyrie:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Significantly increased skill chain &amp;amp; skill cancel timings for almost every skill.\
+&lt;li&gt;Significantly increased skill chain &amp;amp; skill cancel timings for almost every skill.
 &lt;blockquote&gt;
 &lt;p&gt;This should help the class feel a lot more fluid, and not make players want to rely on certain disallowed third party mods.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Dungeons&lt;span class=&#34;absolute -mt-20&#34; id=&#34;dungeons&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#dungeons&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The initial dungeon roster available on launch was curated through a community poll we held during CBT. Most fan favorite dungeons will be making their return, but players must understand that it&amp;rsquo;s simply not sustainable to keep all dungeons active at once, for both balance purposes and player retention. In the standard patch 100.02, there just aren&amp;rsquo;t that many dungeons available for easy implementation. That isn&amp;rsquo;t to say that we won&amp;rsquo;t ever be bringing these kinds of dungeons back in some shape or form, just that it&amp;rsquo;s not something to expect at launch or in the immediate future. Our developers are constantly working hard to both create completely custom and exciting dungeons, as well as bring old fan-favorites back.&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Here are the initial community poll results.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyZ4sM0qZ31bU1djuEhDVSbD4EHPJxWpEIs53xCCB9p4Ls8AILimsTlMw3VCMTmjbDz52CJXLF14UpQlDWfV1BAwxvk19JLRpCiCRaGBTr0aLiLXK-8VuTMBdkdPKJngLY1Xyw3w?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;If your favorite dungeon didn&amp;rsquo;t make the cut, we&amp;rsquo;re sorry! For now, we unfortunately need to leave some fan-favorites out so players can have something to look forward to in future dungeon rotations.&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
+    &lt;a href=&#34;#dungeons&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The initial dungeon roster available on launch was curated through a community poll we held during CBT. Most fan favorite dungeons will be making their return, but players must understand that it&amp;rsquo;s simply not sustainable to keep all dungeons active at once, for both balance purposes and player retention. In the standard patch 100.02, there just aren&amp;rsquo;t that many dungeons available for easy implementation. That isn&amp;rsquo;t to say that we won&amp;rsquo;t ever be bringing these kinds of dungeons back in some shape or form, just that it&amp;rsquo;s not something to expect at launch or in the immediate future. Our developers are constantly working hard to both create completely custom and exciting dungeons, as well as bring old fan-favorites back.
+Here are the initial community poll results.&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyZ4sM0qZ31bU1djuEhDVSbD4EHPJxWpEIs53xCCB9p4Ls8AILimsTlMw3VCMTmjbDz52CJXLF14UpQlDWfV1BAwxvk19JLRpCiCRaGBTr0aLiLXK-8VuTMBdkdPKJngLY1Xyw3w?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;If your favorite dungeon didn&amp;rsquo;t make the cut, we&amp;rsquo;re sorry! For now, we unfortunately need to leave some fan-favorites out so players can have something to look forward to in future dungeon rotations.&lt;/p&gt;
 &lt;p&gt;With that out of the way, let&amp;rsquo;s introduce the roster of dungeons currently available for players to run on launch.&lt;/p&gt;
-&lt;p&gt;Tier 0 (425 ilvl):  Fit for Forgotten gear&lt;/p&gt;
-&lt;ul&gt;
+&lt;h4&gt;Tier 0 (425 ilvl):  Fit for Forgotten gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tier-0-425-ilvl--fit-for-forgotten-gear&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tier-0-425-ilvl--fit-for-forgotten-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Ravenous Gorge&lt;/p&gt;
 &lt;/li&gt;
@@ -151,8 +135,8 @@ This server is based on the retail patch version 100.02, so players can expect, 
 &lt;p&gt;Red Refuge (Normal)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Tier 1 (425 ilvl):  Fit for Forgotten gear&lt;/p&gt;
-&lt;ul&gt;
+&lt;h4&gt;Tier 1 (425 ilvl):  Fit for Forgotten gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tier-1-425-ilvl--fit-for-forgotten-gear&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tier-1-425-ilvl--fit-for-forgotten-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Grotto of Lost Souls (Normal) &lt;/p&gt;
 &lt;/li&gt;
@@ -166,8 +150,8 @@ This server is based on the retail patch version 100.02, so players can expect, 
 &lt;p&gt;Corrupted Skynest (Normal)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Tier 2 (432 ilvl):  Fit for Awakened gear&lt;/p&gt;
-&lt;ul&gt;
+&lt;h4&gt;Tier 2 (432 ilvl):  Fit for Awakened gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tier-2-432-ilvl--fit-for-awakened-gear&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tier-2-432-ilvl--fit-for-awakened-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Red Refuge (Hard)&lt;/p&gt;
 &lt;/li&gt;
@@ -178,8 +162,8 @@ This server is based on the retail patch version 100.02, so players can expect, 
 &lt;p&gt;Forbidden Arena: Hagufna&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Tier 3-1 (438 ilvl): Fit for Elder&amp;rsquo;s gear&lt;/p&gt;
-&lt;ul&gt;
+&lt;h4&gt;Tier 3-1 (438 ilvl): Fit for Elder&amp;rsquo;s gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tier-3-1-438-ilvl-fit-for-elders-gear&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tier-3-1-438-ilvl-fit-for-elders-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Bahaar&amp;rsquo;s Sanctuary&lt;/p&gt;
 &lt;/li&gt;
@@ -190,8 +174,8 @@ This server is based on the retail patch version 100.02, so players can expect, 
 &lt;p&gt;Corrupted Skynest (Hard)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Tier 3-2 (443 ilvl): Fit for Elder&amp;rsquo;s gear&lt;/p&gt;
-&lt;ul&gt;
+&lt;h4&gt;Tier 3-2 (443 ilvl): Fit for Elder&amp;rsquo;s gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tier-3-2-443-ilvl-fit-for-elders-gear&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tier-3-2-443-ilvl-fit-for-elders-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Rampaging RK-9 Kennel&lt;/p&gt;
 &lt;/li&gt;
@@ -199,12 +183,12 @@ This server is based on the retail patch version 100.02, so players can expect, 
 &lt;p&gt;Sky Cruiser Endeavor (Extreme)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Adaptive : Fit for all tiers of gear&lt;/p&gt;
-&lt;ul&gt;
+&lt;h4&gt;Adaptive : Fit for all tiers of gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;adaptive--fit-for-all-tiers-of-gear&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#adaptive--fit-for-all-tiers-of-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Harrowhold [Progression]&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Raids:&lt;/p&gt;
-&lt;p&gt;Additionally, we will have a couple raids available for players to run at specific times, including:&lt;/p&gt;
+&lt;h4&gt;Raids:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;raids&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#raids&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Additionally, we will have a couple raids available for players to run at specific times, including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Scorching Akeron&amp;rsquo;s Inferno (Tier 2)&lt;/p&gt;
@@ -255,76 +239,30 @@ This server is based on the retail patch version 100.02, so players can expect, 
     &lt;a href=&#34;#plans-for-the-future&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We have many more plans to come that are an extreme Work In Progress. While many of the details still need ironing out and can&amp;rsquo;t be discussed in detail, we have plans for a custom Lifeskilling system coming in the future, as well as plans for a custom project to reduce ping for players. We hope that players will stick around with us for the future and be ready to explore all of these exciting projects with us when they are ready to release.&lt;/p&gt;
 &lt;h2&gt;Getting Started&lt;span class=&#34;absolute -mt-20&#34; id=&#34;getting-started&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#getting-started&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This section serves as a jumpstart guide for new or otherwise unfamiliar players, to help learn the ropes and know what to expect and what you can be doing in the first few hours of gameplay. This section will assume that you are choosing to skip the manual leveling process and go straight to participating in level 70 content.&lt;/p&gt;
-&lt;p&gt;Every player will start with the following items on every character they create and log-in to for the first time:&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDcwCH8rO-uxiVKIYwy93Jv9lEVe7xAj5r4vwv2T-FS8R4bP8ZSAn39iuWJL8o4muJ_qIimHBoqYjzW3T24DkehZYlMntZKhAxBD6nX3k5EdqkBZR8GqkfxW7S-hSmfs4OJ3osIg?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;From left to right:&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;1x 7-day Everful Nostrum&lt;/p&gt;
-&lt;p&gt;A re-usable consumable that applies a series of useful buffs to aid the player in combat.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;1x Valkyon&amp;rsquo;s Supply: [Class] Forgotten Gear Box&lt;/p&gt;
-&lt;p&gt;Contains a Tier 1 weapon, chest piece, gloves, and boots suitable for your class.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;1x Valkyon&amp;rsquo;s Supply: Faded Accessory Box &lt;/p&gt;
-&lt;p&gt;Contains a full set of Tier 0 accessories (rings, earrings, necklace, circlet, mask, brooch, belt, innerwear), as well as 5x Gear Morpher to convert your accessories between pumped &amp;lt;-&amp;gt; carving, and 2x Tier V Relic and Halidom Token to acquire a Relic and Halidom.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;1x Valkyon&amp;rsquo;s Supply: Consumable Box&lt;/p&gt;
-&lt;p&gt;Contains 10x Valkyon Health Potions and 10x Federation Supply: Divine Infusions to use in combat situations.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;1x Valkyon&amp;rsquo;s Supply: Level 70 Scroll Box&lt;/p&gt;
-&lt;p&gt;Contains a Level 70 Scroll to instantly allow your character to jump to Level 70, unlocking all skills, glyphs, and 500 Enhancement Points.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;1x Valkyon&amp;rsquo;s Supply: Skill Advancement Box&lt;/p&gt;
-&lt;p&gt;Contains all of the necessary items for unlocking all of your class&amp;rsquo;s Skill Advancements.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;1x Valkyon&amp;rsquo;s Supply: 5 Glyph Points&lt;/p&gt;
-&lt;p&gt;Upon use, provides your character with an additional 5 skill glyph points, to skip the hassle of completing the Awakening questline.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;1000x [PvP] Eternal Gear Token&lt;/p&gt;
+&lt;p&gt;Every player will start with the following items on every character they create and log-in to for the first time:
+&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDcwCH8rO-uxiVKIYwy93Jv9lEVe7xAj5r4vwv2T-FS8R4bP8ZSAn39iuWJL8o4muJ_qIimHBoqYjzW3T24DkehZYlMntZKhAxBD6nX3k5EdqkBZR8GqkfxW7S-hSmfs4OJ3osIg?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;From left to right:1x 7-day Everful Nostrum&lt;/p&gt;
+&lt;p&gt;A re-usable consumable that applies a series of useful buffs to aid the player in combat.1x Valkyon&amp;rsquo;s Supply: [Class] Forgotten Gear Box&lt;/p&gt;
+&lt;p&gt;Contains a Tier 1 weapon, chest piece, gloves, and boots suitable for your class.1x Valkyon&amp;rsquo;s Supply: Faded Accessory Box &lt;/p&gt;
+&lt;p&gt;Contains a full set of Tier 0 accessories (rings, earrings, necklace, circlet, mask, brooch, belt, innerwear), as well as 5x Gear Morpher to convert your accessories between pumped &amp;lt;-&amp;gt; carving, and 2x Tier V Relic and Halidom Token to acquire a Relic and Halidom.1x Valkyon&amp;rsquo;s Supply: Consumable Box&lt;/p&gt;
+&lt;p&gt;Contains 10x Valkyon Health Potions and 10x Federation Supply: Divine Infusions to use in combat situations.1x Valkyon&amp;rsquo;s Supply: Level 70 Scroll Box&lt;/p&gt;
+&lt;p&gt;Contains a Level 70 Scroll to instantly allow your character to jump to Level 70, unlocking all skills, glyphs, and 500 Enhancement Points.1x Valkyon&amp;rsquo;s Supply: Skill Advancement Box&lt;/p&gt;
+&lt;p&gt;Contains all of the necessary items for unlocking all of your class&amp;rsquo;s Skill Advancements.1x Valkyon&amp;rsquo;s Supply: 5 Glyph Points&lt;/p&gt;
+&lt;p&gt;Upon use, provides your character with an additional 5 skill glyph points, to skip the hassle of completing the Awakening questline.1000x [PvP] Eternal Gear Token&lt;/p&gt;
 &lt;p&gt;Opens a token shop that allows you to purchase everything you&amp;rsquo;ll need to immediately jump into enjoying PvP content.&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
 &lt;p&gt;You&amp;rsquo;ll need to open the Level 70 Scroll Box and use the Level 70 scroll before you&amp;rsquo;re able to open any of the other supply boxes. Here&amp;rsquo;s what your inventory should look like once you&amp;rsquo;ve opened everything (and sorted your inventory):&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXechdEOFil3yqZdDOG4owB3IQm-MF0EKXPvyqJkDVvVnJk5U4dqpE9z7tJE4T6LjAA0CgyO2j4JeYsEMrFHSZFClXbyMxweULGbd0kGRM5_AY5pyzC8gtdi410UrnQGWNCYcOhj?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Your class&amp;rsquo;s weapon and most accessories will be Enigmatic, and will require you to select any roll(s) you wish to use for that specific piece of gear. If you&amp;rsquo;re unsure of what rolls are best for you or your class, ask for help, either in our &lt;a href=&#34;https://discord.gg/agaiaonline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discord server&lt;/a&gt;, or in-game. Don&amp;rsquo;t worry too much if you choose any rolls you might regret, because you can always purchase additional Gear  Morphers and Accessory Morphers at any [Magic Supplies] merchant.&lt;/p&gt;
-&lt;p&gt;As a rule of thumb, most classes would like to take 7.2% cooldown reduction as the top line on their weapon. As for the other stats, it depends on your class.&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Tank class (Lancer, Brawler, Warrior)&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Increase damage by 8.6% to the target with the most aggro toward you.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;DPS class (Warrior, Slayer, Berserker, Sorcerer, Archer, Reaper, Gunner, Ninja, Valkyrie)&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Increase damage by 6.9% when attacking from behind.&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;Healer (Priest, Mystic)&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
+&lt;p&gt;As a rule of thumb, most classes would like to take 7.2% cooldown reduction as the top line on their weapon. As for the other stats, it depends on your class.
+Tank class (Lancer, Brawler, Warrior)&lt;/p&gt;
+&lt;p&gt;Increase damage by 8.6% to the target with the most aggro toward you.DPS class (Warrior, Slayer, Berserker, Sorcerer, Archer, Reaper, Gunner, Ninja, Valkyrie)&lt;/p&gt;
+&lt;p&gt;Increase damage by 6.9% when attacking from behind.Healer (Priest, Mystic)&lt;/p&gt;
 &lt;p&gt;Increase your healing skills by 6%.&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;As for the third set of lines, it also varies by class. Consult other players of the class or try to find relevant information on Discord if you aren&amp;rsquo;t sure. Some classes won&amp;rsquo;t need to take the additional crit factor, so consult with this chart for the other stats. The stat best matching your class&amp;rsquo;s damage type will usually be in yellow, so if you aren&amp;rsquo;t sure, it&amp;rsquo;s a safe bet to just pick the yellow ones.&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Warrior, Lancer, Slayer, Berserker, Archer, Brawler, Valkyrie&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Increase Physical Amplification / Increase Physical Crit Power&lt;/p&gt;
-&lt;p&gt;|
-|&lt;/p&gt;
-&lt;p&gt;Sorcerer, Priest, Mystic, Reaper, Gunner, Ninja&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Increase Magic Amplification / Increase Magic Crit Power&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
-&lt;p&gt;Note: Priests and Mystics might prefer to choose Increase Crit Factor instead, to more easily reach the crit factor needed to effectively &amp;ldquo;crit cap&amp;rdquo; their healing skills.&lt;/p&gt;
-&lt;p&gt;|&lt;/p&gt;
+&lt;p&gt;As for the third set of lines, it also varies by class. Consult other players of the class or try to find relevant information on Discord if you aren&amp;rsquo;t sure. Some classes won&amp;rsquo;t need to take the additional crit factor, so consult with this chart for the other stats. The stat best matching your class&amp;rsquo;s damage type will usually be in yellow, so if you aren&amp;rsquo;t sure, it&amp;rsquo;s a safe bet to just pick the yellow ones.
+Warrior, Lancer, Slayer, Berserker, Archer, Brawler, Valkyrie&lt;/p&gt;
+&lt;p&gt;Increase Physical Amplification / Increase Physical Crit PowerSorcerer, Priest, Mystic, Reaper, Gunner, Ninja&lt;/p&gt;
+&lt;p&gt;Increase Magic Amplification / Increase Magic Crit Power
+Note: Priests and Mystics might prefer to choose Increase Crit Factor instead, to more easily reach the crit factor needed to effectively &amp;ldquo;crit cap&amp;rdquo; their healing skills.&lt;/p&gt;
 &lt;p&gt;Accessories are more straightforward. A rule of thumb is to never choose an inefficient crit:power ratio; for all intents and purposes, 4 power is roughly equivalent to 8 crit factor. So, on all accessory rolls, it&amp;rsquo;s best to take 4 power over 4 crit factor, and simply make up the difference elsewhere.&lt;/p&gt;
 &lt;p&gt;After you&amp;rsquo;ve selected all of your gear rolls, you can turn your attention to the Tier V Relic and Halidom Token items. Opening this token will bring up a medal shop window that looks like this:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh7-rt.googleusercontent.com/docsz/AD_4nXeo49cdCcU9h3hXqZhcOeBU6bYr2iAWZIkWFCNrq2eZJr2o8sVofIE4QRPxPdNc_cl8KVzHpvlUrk4g2PVh7pVnggsOhyjiK81ytJpA1rIfrDlAoNDVp0bedp7yULFd7NhNJWXJeA?key=PetMZDiB7HbhiqdAdVAUDg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
