@@ -74,7 +74,7 @@ menu:
     #    type: search
     - name: TeraLogs
       weight: 8
-      url: "https://teralogs.com/"
+      url: "https://preview.teralogs.com/agaia"
       params:
         icon: teralogs
     - name: GitHub
