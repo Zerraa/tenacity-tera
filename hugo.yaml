@@ -48,10 +48,10 @@ menu:
     #   name: PvP Content
     #   pageRef: /pvp
     #   weight: 3
-    # - identifier: general
-    #   name: General Content
-    #   pageRef: /general
-    #   weight: 4
+    - identifier: general
+      name: General Content
+      pageRef: /general
+      weight: 4
     - identifier: talismans
       name: Talisman List [Agaia Online]
       pageRef: /talismans

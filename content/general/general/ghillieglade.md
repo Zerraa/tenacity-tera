@@ -11,11 +11,6 @@ toc: true
 Can be accessed through the teleport scroll **"Teleport Scroll: Premium-only Area"** that can be bought for VG Credits in Highwatch. <br>
 Tera club/Premium account gives free unlimited teleport scroll in the perks bar.
 
-<center>
-
-| [MT The Dream Ghilieglade](#menmas-tera) | 
-
-</center>
 <hr/>
 
 All Players start in front of the last boss Banyakas. But there are the other two bosses in the back in the original teleport location. <br><br>

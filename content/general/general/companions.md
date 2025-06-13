@@ -57,24 +57,6 @@ For an uncommon Partner, 39 Fellowship is the minimum to maintain Bond Skill ind
 
 <hr/>
 
-#### Bond Skill : Power
-
-Select Partners can **provide Power for their Bond Skill**. Depending on the rarity of your Partner and how high the Partner's Fellowship is, the effectiveness of the skill as well as its duration varies. <br>
-Four Partners - **Marie, Kuncun, Cocomin, and Loo** - have been released to have Bracing Force as their Bond Skill, which increases Power for a set duration of time.
-
-![](https://i.imgur.com/UNk3QUq.png)
-
-<hr/>
-
-#### Bond Skill : Amplification
-
-Select Partners can **provide Amplification for their Bond Skill**. Depending on the rarity of your Partner and how high the Partner's Fellowship is, the effectiveness of the skill as well as its duration varies. <br>
-Two Partners - **Rico and Eco** - have been released to have Robust Energy and Vibrant Energy as their Bond Skill, which increases Physical Amplification and Magical Amplication (respectively) for a set duration of time.
-
-![](https://i.imgur.com/hYFQ9j2.png)
-
-<hr/>
-
 #### Special Partners
 
 ![](https://i.imgur.com/FrkuCwv.png)
