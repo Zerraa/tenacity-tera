@@ -14898,10 +14898,10 @@ x&lt;/li&gt;
     
     <item>
       <title>Sky Cruiser Endeavor (Hard)</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/agaia/sky-cruiser-endeavor-hard/</link>
+      <link>https://tenacity-tera.eu/dungeon-guide/dungeon/sky-cruiser-endeavor-hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/dungeon-guide/agaia/sky-cruiser-endeavor-hard/</guid>
+      <guid>https://tenacity-tera.eu/dungeon-guide/dungeon/sky-cruiser-endeavor-hard/</guid>
       <description>
         
         
@@ -15467,6 +15467,254 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
     &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://essentialmana.com/sky-cruiser-endeavor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential Mana&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://glremoved1deceivers.gamerlaunch.com/forums/viewtopic.php?t=10872372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guide made by Yosha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sky Cruiser Endeavor Deck (Extreme)</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/agaia/burning-sky-cruiser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/agaia/burning-sky-cruiser/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;last-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/uPkFbnJ.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Boss: Darkan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-darkan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#boss-darkan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The tank should aim to fight the boss in the middle, so mechanics such as DoT circles can be placed on the sides.&lt;/p&gt;
+&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Rings of Fire&lt;/strong&gt; - Darkan will rise into the air and create a circle cage. You must enter, anyone out of this cage will die when Darkan lands. The cage will split into 3 sections, inner, mid and outer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One section will randomly become a danger zone (noticeable by red indicator), avoid this zone.&lt;/li&gt;
+&lt;li&gt;This occurs 3 times before Darkan slams the ground, breaking the cage and dealing fatal damage to players outside (cannot be iframed, although you can use non-standard iframes such as Breakaway Bolt to survive).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/uePjY4V.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;After the first Ghost phase, the rings will occur 4 times being Darkan slams the ground. In addition, 2 rings can be active at once.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/o8aMRsY.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h4&gt;Swipes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;swipes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#swipes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Swipes are uniframable like the dreadspire version.&lt;br&gt;
+This time around swipes are also reliant on enrage.&lt;br&gt;
+If the boss is enraged, the animation will be reversed from what everyone is used to.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Enrage&lt;/strong&gt; = Upside sword is safe side&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Not enraged&lt;/strong&gt; = Down sword is safe side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This mechanic is important to master. Darkan will slam the ground with his swords often.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If Darkan sword slams (his regular auto attack) with his Left sword (rear view), he will continue to slam the ground another 2 times then he will proceed with the Fire Wing.
+&lt;img src=&#34;https://i.imgur.com/vTWgdu6.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This mechanic will push you the edge of the map and applies &lt;strong&gt;fire bleeding&lt;/strong&gt; effect.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To avoid getting hit you must pay attention to his swords. The 4th/final slam onto the ground determines the direction of the Fire Wing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Darkan can fire left or right and the direction is determined by which sword (left or right) is used for the &lt;strong&gt;4th slam&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;If the left sword is fiery and against the ground (and the right sword in the air), then he will use his right wing and proceed the attack in the right direction.&lt;/li&gt;
+&lt;li&gt;If the right sword is fiery and against the ground (and the left sword in the air), then he will use his left wing and proceed the attack in the left direction.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;Triple Swipes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;triple-swipes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#triple-swipes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Starting at 94% Darkan will begin triple swiping, always targeting the primary aggro for the first, and random targets for the folllowing 2.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/rA2EJxI.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+When you push the boss below 80%, this turns in a 4x swipe.
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/AISIDzB.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h4&gt;50% and 75% Mini Darkans&lt;span class=&#34;absolute -mt-20&#34; id=&#34;50-and-75-mini-darkans&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#50-and-75-mini-darkans&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;The ghosts are gone and are replaced with 2 mini darkans. These minis will spam swipe once they get near their aggro target.
+&lt;ul&gt;
+&lt;li&gt;Darkan will backstep and do an animation to summon them, exactly like the dreadspire version.&lt;/li&gt;
+&lt;li&gt;Darkan will continue doing mechanics when these come out.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This is by far the hardest mechanic of the fight because of how messy everything can go.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;ul&gt;
+&lt;li&gt;These minis need to be chain stunned and killed asap.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/2pvzxIi.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/2gRw1Hr.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/qVtMPyY.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h4&gt;Spreading Fire&lt;span class=&#34;absolute -mt-20&#34; id=&#34;spreading-fire&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#spreading-fire&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;At various points in the fight the fire will get worse around the room, enclosing you in further and further.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/x5w3wh0.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dWGi66O.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;At 35%, a 4 minute timer will start and fire will increase again.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CbVZDFe.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;When the timer hits certain intervals, the fire will spread twice more:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/OLMNrJb.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/sAxxcET.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;10% Full Powered Darkan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;10-full-powered-darkan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#10-full-powered-darkan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;At 10% Darkan will stagger for some seconds and recover, more angry than ever gaining an &lt;strong&gt;additional buff that doubles his damage and attack speed by 30%&lt;/strong&gt;.
+Burn him down as fast as you can.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;During this period, he will be limited to only Basic Combos, Fire Wings, secondary aggro Empowered Strikes, and Sword Throws.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Left hand start -&amp;gt; 1-2-3-4 swipe(s)&lt;/strong&gt;&lt;br&gt;
+This combo is the same as the old Darkan&amp;rsquo;s with the addition of it always being a double swipe.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/orUHOhd.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+Here is an example of what it looks like when its enraged:
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/iXjxbhR.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Right hand -&amp;gt; 1-2 backspin -&amp;gt; Eviserate&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/IoQR29K.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Double Evisterate into 2x or 3x backspin&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/iejc8VF.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+Something new on an old combo is he can do a third backspin, seemingly at random.
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/XFNWkTR.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Dodge This!&lt;/strong&gt; - He will also do 3 consecutive Fire Wing without doing 4 consecutive slams. Each Wing is individual and may be left or right so it is important to pay attention to his swords.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Darkan will say &lt;strong&gt;“I!”&lt;/strong&gt; and proceed the first Fire Wing, then &lt;strong&gt;“Will!”&lt;/strong&gt; and do the second, then finally &lt;strong&gt;“Obliterate you!”&lt;/strong&gt; and then do the third.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Aside from either drill attack or nothing, he can follow &lt;strong&gt;Double Eviscerate&lt;/strong&gt; up with a new attack:&lt;/p&gt;
+&lt;h4&gt;Tank Buster Combo&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tank-buster-combo&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tank-buster-combo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This mechanic likes to happen when the primary aggro target is a distance away from darkan but he can also do it at point blank and back to back.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/gQYhjse.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+The first 2 hits must be blocked while the third must be dodged. The first 2 hits deal alot of damage if not blocked and the last will send you back a far distance.
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/uOlTqpO.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Fire Slam&lt;/strong&gt; - Darkan will twirl into the air, your party must get at least 18m away from Darkan as he will proceed to slam the ground, causing fatal damage up to 18m.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Darkan can cast this multiple times in a row, and he will usually precede this with a Backstep.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fire Circles&lt;/strong&gt; - Darkan will sheath his swords and rise into the air.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your party should run to the edges as Darkan will place DoT circles on each player. You should attempt to avoid being hit by escaping just before the circles take root to avoid damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/nmF39xc.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Fire Charge&lt;/strong&gt; - Darkan will spin and charge towards a player, causing damage. You will not be pushed. This is always used after a double Fire Swipe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sword Throw(Ressbait)&lt;/strong&gt; - The boss will throw his swords and pull them back, leaving the ground scorched for a few seconds.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If a healer casts Resurrect, Darkan will shout :&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Your time is running out!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And throw his swords at the healer.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/ubAWIhW.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Scream&lt;/strong&gt; - Darkan will throw his swords into the ground and scream, applying a cleanseable debuff that deals damage over time and silences players.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This can be blocked, although the attack will still deal damage. Healers can cast their cleanse right before the silence is applied to cleanse party members immediately.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;This mechanic will often happen right before cage.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/A059kD2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;GET OUT&lt;/strong&gt; - Same as the old one, can be done multiple times in a row. Lancers can use Blue Shield of Divine Protection to skip it.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/Buw4vWZ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Empowered Strike&lt;/strong&gt; - Darkan will empower his weapon, slam the ground, and then strike with enormous power, dealing massive damage and applying the fire bleeding debuff.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Tera Dungeon Guides Discord&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

@@ -4254,360 +4254,20 @@ This can vary based on the positioning, but in general cases, it is recommeneded
     </item>
     
     <item>
-      <title>Sky Cruiser Endeavor (Hard)</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/agaia/sky-cruiser-endeavor-hard/</link>
+      <title>Sky Cruiser Endeavor Deck (Extreme)</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/agaia/burning-sky-cruiser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tenacity-tera.eu/dungeon-guide/agaia/sky-cruiser-endeavor-hard/</guid>
+      <guid>https://tenacity-tera.eu/dungeon-guide/agaia/burning-sky-cruiser/</guid>
       <description>
         
         
-        &lt;h2&gt;Pre-Fight&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pre-fight&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pre-fight&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Perimos will be firing lasers at random players, notified by &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      Perimos is gathering power for an attack!”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-  &lt;br&gt;
-This does not follow players and is indicated by the purple secondary aggro circle. The tank should tank the mobs near Perimos, to make dodging lasers easier.&lt;/p&gt;
-&lt;hr&gt;
-&lt;div id=&#34;first-boss&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/GcXwMgF.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;First Boss: Putrion&lt;span class=&#34;absolute -mt-20&#34; id=&#34;first-boss-putrion&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#first-boss-putrion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The tank should attempt to position the boss far from the gate, as certain attacks may cause Putrion to charge through the gate and reset.&lt;/p&gt;
-&lt;hr/&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;ul&gt;
-&lt;li&gt;He is quicker.
-&lt;ul&gt;
-&lt;li&gt;Can still be knocked up / bullrushed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Mobs (archers and hulks) hurt a LOT. Stun them and focus.&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr/&gt;
-&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Slash&lt;/strong&gt; - Putrion will rise into the air and slash the ground in an AoE arc formation, &lt;strong&gt;15m&lt;/strong&gt; in front of him.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You can either stay far away or very close to avoid being hit.&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;If hit, you will be receive damage and a stun effect.&lt;/li&gt;
-&lt;li&gt;This can be cleansed. &lt;strong&gt;If stunned, Putrion will focus his next attack on you.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stun&lt;/strong&gt; - Putrion will reveal a large red circle around him, indicating his next attack.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If caught, you will receive damage and a stun effect.
-&lt;ul&gt;
-&lt;li&gt;This can be cleansed. &lt;strong&gt;If stunned, Putrion will focus his next attack on you.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Charge&lt;/strong&gt; - Putrion will charge at a player, noticeable by the purple ring, dealing damage by trampling over them.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Barrage&lt;/strong&gt; - Putrion will fly into the air and thrust forward after a short period, dealing frontal damage.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr/&gt;
-&lt;div id=&#34;second-boss&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/jtc4MP3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;Second Boss: Perimos&lt;span class=&#34;absolute -mt-20&#34; id=&#34;second-boss-perimos&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#second-boss-perimos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;All players should attempt to stay in the middle of the room, to avoid the boss moving around too far for certain mechanics.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;ul&gt;
-&lt;li&gt;Crystals have 200k HP
-&lt;ul&gt;
-&lt;li&gt;Lasers have been buffed.&lt;/li&gt;
-&lt;li&gt;They deal 960k total damage.&lt;/li&gt;
-&lt;li&gt;5 people MUST GATHER or it will break the crystal.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;When a crystal gets destroyed he gains a 400M shield.&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Aeonalis Pylons&lt;/strong&gt; - A message will be announced saying:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      Perimos is trying to destroy an aeonalis pylon!”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-  &lt;br&gt;
-Perimos will move to the center of the room and focus one of the stones located on the outer edge of the room.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;There are 8 in total, the boss will attempt to destroy these stones with a laser. You and your party must stand inside the lasers range to decrease the damage these pylons receive.
-&lt;ul&gt;
-&lt;li&gt;You will receive damage and a DoT debuff; your healer must cleanse and heal the party.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;If you fail to shield the stones and if all 8 break, your party will wipe.&lt;/strong&gt; This laser is a purple color and is not to be confused with the boss’s normal laser attack.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;He’ll only do one purple laser at a time from 100% to 70% every 50 seconds. He’ll then proceed to do 2 consecutive purple lasers from 69% to 30% every 50 seconds. &lt;br&gt;
-After 30%, Perimos will do two consecutive red lasers instead of one. The second one is aimed at the furthest player.&lt;/p&gt;
-&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#special-attacks-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Laser&lt;/strong&gt; - Perimos will attempt to laser a player, indicated by the purple ring, you must avoid this deadly attack. &lt;strong&gt;This laser is orange/yellow in color and is not to be confused with Aeonalis Pylons laser.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;However, you should move out of the way of any Aeonalis Pylons (do not stand between the boss and a stone if the laser is on you) as this laser can also damage the stones.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This occurs when Perimos says :&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      Small things.. So bothersome.. I’ll kill.. ”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You should iframe this laser as it cannot be blocked.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Blast Wave&lt;/strong&gt; - Perimos will use to inner energy to deal a wave of damage in a cone/arc formation. He’ll say :&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      Get back!”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;strong&gt;Dislocated Swipe&lt;/strong&gt; - Perimos will remove his arm and use it as a weapon. He’ll swipe it side to side four times whilst moving forward.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dislocated Slam&lt;/strong&gt; - Perimos will remove his arm and use it as a weapon. He’ll slam against the ground and then proceed to slam it further into the ground four times.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The third one can hit players directly behind him while the fourth one does significantly higher damage.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Web&lt;/strong&gt; - Perimos will crouch and spawn webs on the floor around him. These webs will damage and debuff players with a heavy movement speed decrease.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This can be cleansed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Central Slam&lt;/strong&gt; - If Perimos moves too far from the middle, he’ll slam his arm into the ground and jump towards the middle causing fatal damage to anyone near the middle.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Perimos will shout &lt;strong&gt;“Pylons… So very fragile…”&lt;/strong&gt; and destroy a pylon with either a Dislocated Swipe or a Web.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;hr/&gt;
-&lt;div id=&#34;last-boss&#34;&gt;
+        &lt;div id=&#34;last-boss&#34;&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/uPkFbnJ.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;Last Boss: Darkan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;last-boss-darkan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#last-boss-darkan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The tank should aim to fight the boss in the middle, so mechanics such as DoT circles can be placed on the sides.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      &lt;ul&gt;
-&lt;li&gt;He is extremely fast.
-&lt;ul&gt;
-&lt;li&gt;1 Swipe is still iframable.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;When he kneels down, he applies a bleed and a root.
-&lt;ul&gt;
-&lt;li&gt;Prevents usage of skills and slows you down.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Gains a 5% attack speed and 3% power buff every 25% (on 75,50,25,10%)&lt;/li&gt;
-&lt;li&gt;He gains 10minute buff on engage.
-&lt;ul&gt;
-&lt;li&gt;Acts as a timer. Once it runs out its impossible to clear.&lt;/li&gt;
-&lt;li&gt;At 25% he will put a 3minute bleeding debuff on every person.&lt;/li&gt;
-&lt;li&gt;Bleeds for 7% every 2 seconds.&lt;/li&gt;
-&lt;li&gt;Bleeds way more when fully buffed at 10%.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Fire bleeding from his attacks is no longer cleansable.
-&lt;ul&gt;
-&lt;li&gt;Stacks up.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;His secondary aggro will most likely kill you, its very fast.&lt;/li&gt;
-&lt;li&gt;Ghosts have 2.5 bilion HP.
-&lt;ul&gt;
-&lt;li&gt;They hit for 150k&lt;/li&gt;
-&lt;li&gt;They MUST be stunned or you will have a bad time.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-mechanics-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Rings of Fire&lt;/strong&gt; - Darkan will rise into the air and create a circle cage. You must enter, anyone out of this cage will die when Darkan lands. The cage will split into 3 sections, inner, mid and outer.&lt;/p&gt;
+&lt;h2&gt;Boss: Darkan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-darkan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#boss-darkan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The tank should aim to fight the boss in the middle, so mechanics such as DoT circles can be placed on the sides.&lt;/p&gt;
+&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Rings of Fire&lt;/strong&gt; - Darkan will rise into the air and create a circle cage. You must enter, anyone out of this cage will die when Darkan lands. The cage will split into 3 sections, inner, mid and outer.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;One section will randomly become a danger zone (noticeable by red indicator), avoid this zone.&lt;/li&gt;
 &lt;li&gt;This occurs 3 times before Darkan slams the ground, breaking the cage and dealing fatal damage to players outside (cannot be iframed, although you can use non-standard iframes such as Breakaway Bolt to survive).&lt;/li&gt;
@@ -4621,77 +4281,15 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
 &lt;center&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/o8aMRsY.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Darkan&amp;rsquo;s Servants&lt;/strong&gt; - At 75% and 50% HP, Darkan will say :&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      The fire will consume you!”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Then disappear and the room will turn red. &lt;strong&gt;A ghost will spawn&lt;/strong&gt;, choose the player with the highest aggro, say :&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      (Player), you’ll die…”
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;And proceed to chase and attack him/her with static damage until player dies. Once it spawns, healers should use a heal to generate aggro and proceed to kite the ghost.&lt;/p&gt;
+&lt;h4&gt;Swipes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;swipes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#swipes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Swipes are uniframable like the dreadspire version.&lt;br&gt;
+This time around swipes are also reliant on enrage.&lt;br&gt;
+If the boss is enraged, the animation will be reversed from what everyone is used to.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;If you do not kill it within the time limit, the party will take fatal damage and die.&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;The 50% Minion phase will have 2 Minion’s instead of 1.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enrage&lt;/strong&gt; = Upside sword is safe side&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Not enraged&lt;/strong&gt; = Down sword is safe side&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Fire Wing&lt;/strong&gt; - This mechanic is important to master. Darkan will slam the ground with his swords often.&lt;/p&gt;
+&lt;p&gt;This mechanic is important to master. Darkan will slam the ground with his swords often.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;If Darkan sword slams (his regular auto attack) with his Left sword (rear view), he will continue to slam the ground another 2 times then he will proceed with the Fire Wing.
@@ -4707,16 +4305,29 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;br&gt;
 &lt;ol&gt;
 &lt;li&gt;If the left sword is fiery and against the ground (and the right sword in the air), then he will use his right wing and proceed the attack in the right direction.&lt;/li&gt;
 &lt;li&gt;If the right sword is fiery and against the ground (and the left sword in the air), then he will use his left wing and proceed the attack in the left direction.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Dodge This!&lt;/strong&gt; - He will also do 3 consecutive Fire Wing without doing 4 consecutive slams. Each Wing is individual and may be left or right so it is important to pay attention to his swords.&lt;/p&gt;
+&lt;h5&gt;Triple Swipes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;triple-swipes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#triple-swipes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Starting at 94% Darkan will begin triple swiping, always targeting the primary aggro for the first, and random targets for the folllowing 2.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/rA2EJxI.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+When you push the boss below 80%, this turns in a 4x swipe.
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/AISIDzB.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h4&gt;50% and 75% Mini Darkans&lt;span class=&#34;absolute -mt-20&#34; id=&#34;50-and-75-mini-darkans&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#50-and-75-mini-darkans&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;The ghosts are gone and are replaced with 2 mini darkans. These minis will spam swipe once they get near their aggro target.
 &lt;ul&gt;
-&lt;li&gt;Darkan will say &lt;strong&gt;“I!”&lt;/strong&gt; and proceed the first Fire Wing, then &lt;strong&gt;“Will!”&lt;/strong&gt; and do the second, then finally &lt;strong&gt;“Obliterate you!”&lt;/strong&gt; and then do the third.&lt;/li&gt;
+&lt;li&gt;Darkan will backstep and do an animation to summon them, exactly like the dreadspire version.&lt;/li&gt;
+&lt;li&gt;Darkan will continue doing mechanics when these come out.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This is by far the hardest mechanic of the fight because of how messy everything can go.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Enraged Darkan&lt;/strong&gt; - Once Darkan passes &lt;strong&gt;25% HP&lt;/strong&gt;, he will shout :&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 
 
 
@@ -4735,40 +4346,86 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
 
 
 
-&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
   &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
+        ⚠️
       &lt;/div&gt;&lt;/div&gt;
 
   &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
     &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
-      I’ll show you true power!”
+      &lt;ul&gt;
+&lt;li&gt;These minis need to be chain stunned and killed asap.&lt;/li&gt;
+&lt;/ul&gt;
+
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;He will enrage and deal more damage. This begins a three minute timer. Once the time limit passes, your party will wipe.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/2pvzxIi.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/2gRw1Hr.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/qVtMPyY.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;h4&gt;Spreading Fire&lt;span class=&#34;absolute -mt-20&#34; id=&#34;spreading-fire&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#spreading-fire&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;At various points in the fight the fire will get worse around the room, enclosing you in further and further.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/x5w3wh0.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dWGi66O.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;At 35%, a 4 minute timer will start and fire will increase again.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CbVZDFe.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;When the timer hits certain intervals, the fire will spread twice more:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/OLMNrJb.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/sAxxcET.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;10% Full Powered Darkan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;10-full-powered-darkan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#10-full-powered-darkan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;At 10% Darkan will stagger for some seconds and recover, more angry than ever gaining an &lt;strong&gt;additional buff that doubles his damage and attack speed by 30%&lt;/strong&gt;.
+Burn him down as fast as you can.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;During this period, he will be limited to only Basic Combos, Fire Wings, secondary aggro Empowered Strikes, and Sword Throws.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Fire zone&lt;/strong&gt; - At 94%, a fiery area will appear on the left and right of the room. At 54% and 25%, this area grows larger. Moving or getting pushed into these areas will instantly kill players.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;These players cannot be revived with a Priest or Mystic Resurrection, but they can use a Goddess’s Blessing to walk out safely.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Darkan will repeatedly use these combos throughout the fight:
-&lt;strong&gt;Fire Wing Turn&lt;/strong&gt; - If Darkan attacks with his &lt;strong&gt;left sword (rear view/DPS view) first&lt;/strong&gt;, he will proceed 2 consecutive normal attacks and then a Fire Wing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fire Swipe&lt;/strong&gt; - If Darkan attacks with his &lt;strong&gt;right sword (rear view/DPS view) first&lt;/strong&gt;, he will proceed with doing a normal attack with his left sword, do a Fire Swipe backwards, then do a Empowered Strike&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fire Charge&lt;/strong&gt; - If Darkan attacks with &lt;strong&gt;2 consecutive Empowered Strikes&lt;/strong&gt;, he will proceed with 2 Fire Swipe backwards and then a Fire Charge forwards.&lt;/p&gt;
-&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks-2&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#special-attacks-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Empowered Darkan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;empowered-darkan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#empowered-darkan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Fire Bleeding&lt;/strong&gt; - Certain attacks will apply a debuff that ticks for a percentage of a player’s maximum HP.&lt;/p&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Left hand start -&amp;gt; 1-2-3-4 swipe(s)&lt;/strong&gt;&lt;br&gt;
+This combo is the same as the old Darkan&amp;rsquo;s with the addition of it always being a double swipe.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/orUHOhd.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+Here is an example of what it looks like when its enraged:
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/iXjxbhR.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Right hand -&amp;gt; 1-2 backspin -&amp;gt; Eviserate&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/IoQR29K.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Double Evisterate into 2x or 3x backspin&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/iejc8VF.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+Something new on an old combo is he can do a third backspin, seemingly at random.
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/XFNWkTR.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Dodge This!&lt;/strong&gt; - He will also do 3 consecutive Fire Wing without doing 4 consecutive slams. Each Wing is individual and may be left or right so it is important to pay attention to his swords.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;This debuff cannot be cleansed.&lt;/li&gt;
+&lt;li&gt;Darkan will say &lt;strong&gt;“I!”&lt;/strong&gt; and proceed the first Fire Wing, then &lt;strong&gt;“Will!”&lt;/strong&gt; and do the second, then finally &lt;strong&gt;“Obliterate you!”&lt;/strong&gt; and then do the third.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/2FB1vs2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/center&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Aside from either drill attack or nothing, he can follow &lt;strong&gt;Double Eviscerate&lt;/strong&gt; up with a new attack:&lt;/p&gt;
+&lt;h4&gt;Tank Buster Combo&lt;span class=&#34;absolute -mt-20&#34; id=&#34;tank-buster-combo&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tank-buster-combo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This mechanic likes to happen when the primary aggro target is a distance away from darkan but he can also do it at point blank and back to back.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/gQYhjse.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+The first 2 hits must be blocked while the third must be dodged. The first 2 hits deal alot of damage if not blocked and the last will send you back a far distance.
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/uOlTqpO.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;p&gt;&lt;strong&gt;Fire Slam&lt;/strong&gt; - Darkan will twirl into the air, your party must get at least 18m away from Darkan as he will proceed to slam the ground, causing fatal damage up to 18m.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Darkan can cast this multiple times in a row, and he will usually precede this with a Backstep.&lt;/li&gt;
@@ -4777,6 +4434,9 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
 &lt;ul&gt;
 &lt;li&gt;Your party should run to the edges as Darkan will place DoT circles on each player. You should attempt to avoid being hit by escaping just before the circles take root to avoid damage.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/nmF39xc.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;p&gt;&lt;strong&gt;Fire Charge&lt;/strong&gt; - Darkan will spin and charge towards a player, causing damage. You will not be pushed. This is always used after a double Fire Swipe.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sword Throw(Ressbait)&lt;/strong&gt; - The boss will throw his swords and pull them back, leaving the ground scorched for a few seconds.&lt;/p&gt;
 &lt;ul&gt;
@@ -4813,17 +4473,29 @@ After 30%, Perimos will do two consecutive red lasers instead of one. The second
 &lt;/div&gt;
 
 &lt;p&gt;And throw his swords at the healer.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/ubAWIhW.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;p&gt;&lt;strong&gt;Scream&lt;/strong&gt; - Darkan will throw his swords into the ground and scream, applying a cleanseable debuff that deals damage over time and silences players.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This can be blocked, although the attack will still deal damage. Healers can cast their cleanse right before the silence is applied to cleanse party members immediately.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;This mechanic will often happen right before cage.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/A059kD2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;GET OUT&lt;/strong&gt; - Same as the old one, can be done multiple times in a row. Lancers can use Blue Shield of Divine Protection to skip it.&lt;/p&gt;
+&lt;center&gt;&lt;video controls height=&#34;356&#34; width=&#34;704&#34;&gt;
+  &lt;source src=&#34;https://i.imgur.com/Buw4vWZ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/center&gt;
 &lt;p&gt;&lt;strong&gt;Empowered Strike&lt;/strong&gt; - Darkan will empower his weapon, slam the ground, and then strike with enormous power, dealing massive damage and applying the fire bleeding debuff.&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr/&gt;
 &lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://essentialmana.com/sky-cruiser-endeavor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential Mana&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://glremoved1deceivers.gamerlaunch.com/forums/viewtopic.php?t=10872372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guide made by Yosha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tera Dungeon Guides Discord&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
