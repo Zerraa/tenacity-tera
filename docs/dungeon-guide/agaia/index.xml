@@ -1337,285 +1337,6 @@ After several seconds, a Fireball will land on the circle (iframeable) and leave
     </item>
     
     <item>
-      <title>Corrupted Skynest (Hard)</title>
-      <link>https://tenacity-tera.eu/dungeon-guide/agaia/corrupted-skynest-hard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tenacity-tera.eu/dungeon-guide/agaia/corrupted-skynest-hard/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/FHoSzrY.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h3&gt;Pre-Boss Battle&lt;/h3&gt;
-&lt;p&gt;There are some mobs in front of the gate. Simply kill them, no need to waste big skills on them.&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;Before the start of the fight, you should already be &lt;strong&gt;familiar with all following debuffs&lt;/strong&gt;:&lt;/p&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/4f4wKa8.png&#34;&gt;Standard debuff, if you dont take any other debuff before this one expires you will die.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/UWiSeBZ.png&#34;&gt;Fire debuff&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/VYwaHAE.png&#34;&gt;Ice debuff&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;Very Similar to Dreadspire, a bar exists that &lt;strong&gt;starts at 50 and will either tick up or down&lt;/strong&gt; based on the debuffs the group has in total.&lt;br&gt;
-The bar will tick &lt;strong&gt;every 1 second on hard mode, increasing by 1 for fire and decreasing by 1&lt;/strong&gt; for ice; compared to every 5 seconds on normal mode.
-&lt;img src=&#34;https://i.imgur.com/pWB8e4I.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
-If everyone has the same debuff, &lt;strong&gt;you will wipe in 3-5 seconds on average if you do not manage&lt;/strong&gt; it properly.&lt;/p&gt;
-&lt;p&gt;Everything until 85% remains identical to normal mode, even the attack order at the start, so if you are comfortable in normal mode your party should be fine:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Roar damage-heal through it&lt;/li&gt;
-&lt;li&gt;Double claw-take to remove green debuff&lt;/li&gt;
-&lt;li&gt;Tail swipe- dodge or kaia&lt;/li&gt;
-&lt;li&gt;Big jump into forced double claw&lt;/li&gt;
-&lt;li&gt;Fire or Ice aoe&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div id=&#34;first-boss&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/WbhWNir.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h3&gt;Boss: Nightmare Kelsaik&lt;/h3&gt;
-&lt;center&gt;&lt;h3&gt;Key Mechanics&lt;/h3&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Parasites&lt;/strong&gt; - A new mechanic to hard mode and super annoying.
-Every time kelsaik does a &lt;strong&gt;random double claw&lt;/strong&gt;, he will apply this debuff to someone.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Its determined by if Kelsaik is &lt;strong&gt;enraged&lt;/strong&gt; or &lt;strong&gt;not&lt;/strong&gt;.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;If Enraged = Closest player
-If Not Enraged = Furthest player
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It stacks to 3 times total and does nothing UNLESS you get 3 stacks. It lasts for 3 minutes and refreshes duration when you take a new stack.  &lt;br&gt;
-At &lt;strong&gt;3 it will deal 100k per second&lt;/strong&gt; for the entire duration and does NOT fade on death. If you ever get 3 stacks you are gonna be on the floor until its fully gone.&lt;/p&gt;
-&lt;p&gt;If the tank or healer ever reaches 3, wipe it up as you will never recover. &lt;br&gt;
-An important note is that &lt;strong&gt;Kelsaik has forced double claws&lt;/strong&gt; he will do after certain mechanics, &lt;strong&gt;these will NOT apply&lt;/strong&gt; parasite ever. &lt;br&gt;
-&lt;strong&gt;The forced claws always happen:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;After a Big Jump&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;After he gives the entire room a red or blue debuff&lt;/p&gt;
-&lt;p&gt;A Song of Fire and Ice&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;At 85% Kelsaik will roar, kding everyone unless kaia&amp;rsquo;d and youre immune to damage briefly, like Tenacity. He will then grow his ice and fire wings and roar, killing anyone hit. &lt;br&gt;&lt;br&gt;
-The roar will send anyone hit initially to the wall and then continue dealing massive ticking damage to anyone still in the radius.&lt;br&gt;
-This &lt;strong&gt;roar is iframeable&lt;/strong&gt;, &lt;strong&gt;blue shieldable&lt;/strong&gt;, and &lt;strong&gt;smokeable by ninja&lt;/strong&gt;. &lt;br&gt; Smoke bomb being the best one as it prevents both the knockback AND the ticking damage entirely.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Iframing roar:&lt;/em&gt;&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/FwmwUZv.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;em&gt;Blue Shield from the back:&lt;/em&gt;&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/Ia2ON9E.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Ad spawn on death&lt;/strong&gt; - Immediately after the initial , Kelsaik will give everyone a debuff for the majority of the fight:&lt;/p&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/QiQ5xKL.png&#34;&gt;This will spawn a mob on you if you die at any point.&lt;br&gt;
-    These mobs can be aggrod by tank but spam aoes that fuck your life up between knockdowns and aoes, think harrowhold skeletons.&lt;br&gt;
-    They will despawn after about a minute or until you murder them.&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;Kelsaik will gain 2 new buffs until they are removed later in the fight.These reduce Kelsaiks damage taken by anyone with the &lt;strong&gt;matching color debuff by 25%&lt;/strong&gt;.&lt;/p&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/1MY0jr0.png&#34;&gt;Fire Resistance&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/zoz34zl.png&#34;&gt;Ice Resistance&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;em&gt;Push Kelsaik to &lt;strong&gt;83%&lt;/strong&gt; to trigger his main mechanic, hardest one in the fight for hard mode.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;IN/OUT Mechanic&lt;/strong&gt; - At 83%, Kelsaik will do the IN/OUT mechanic, only on hard mode it happens twice back to back. &lt;br&gt;
-Hes going to tell you 3 things:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;A color: red or blue&lt;/li&gt;
-&lt;li&gt;Where that color is going to be: in or out&lt;/li&gt;
-&lt;li&gt;Do you need to take the same as debuff or opposite?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/G28qPhx.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Graphic settings&lt;/em&gt; for this is utmost importance if you want to learn this without calls, as one of the tells is entirely particle based. &lt;br&gt;
-So Kelsaik will roar and spawn a message that either tells you take same as debuff or take opposite of debuff.&lt;br&gt;
-The message is &lt;em&gt;unreliable&lt;/em&gt; due to it easily getting pushed off the screen by another message.&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/Of1qkkp.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;The much easier way to tell is when the mechanic starts is to see if Kelsaik is enraged or not.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If he says &lt;strong&gt;Feel the fear&lt;/strong&gt; / &lt;em&gt;NOT&lt;/em&gt; enraged= &lt;strong&gt;take same&lt;/strong&gt; as your debuff&lt;/li&gt;
-&lt;li&gt;If he says &lt;strong&gt;Feel the anger&lt;/strong&gt; / &lt;em&gt;IS&lt;/em&gt; enraged= &lt;strong&gt;take opposite&lt;/strong&gt; of debuff&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Kelsaik will also &lt;strong&gt;glow either fire or ice&lt;/strong&gt;, this tells you a color. &lt;br&gt;
-Kelsaiks wings will also glow with a graphic OR THEY WONT. This tells you where the color he glowed is going to be (in or out).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Here the wings are not glowing with ice/fire:&lt;/em&gt;&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/q65y0B7.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;em&gt;Here the wings ARE glowing with fire/ice:&lt;/em&gt;&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/ddtdVef.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;80% intermission&lt;/strong&gt; - At &lt;strong&gt;79%&lt;/strong&gt;, Kelsaik will spawn &lt;strong&gt;2 adds&lt;/strong&gt;, one red and one blue. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SdzHItD.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;A secondary bar will appear beneath the temp bar with a graphic on it. &lt;em&gt;There are multiple steps to this:&lt;/em&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;You &lt;strong&gt;need to kill the add&lt;/strong&gt; that is the same color as the secondary bar: In this picture the secondary bar is red so kill the red dude. Killing the wrong one &lt;em&gt;gives kelsaik a 50% damage increase for a minute&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;The add will drop an azart elixer allowing you to &lt;strong&gt;use to the jump pad&lt;/strong&gt; in the room.&lt;/li&gt;
-&lt;li&gt;You have &lt;strong&gt;2 minutes from the time the add dies to kill a mini kelsaik&lt;/strong&gt; on a side platform only accessed by the person with the azart elixer.
-The secondary bar is the mini kelsaik hp.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Killing the mini kelsaik is exactly the same as normal mode but with &lt;strong&gt;double the hp and less time&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Normal mode:&lt;/strong&gt; 400m with 2 minute timer&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hard mode:&lt;/strong&gt; 800m with 90 second timer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Killing the red mini kelsaik will drop another azart elixer that allows you to jump back but also &lt;strong&gt;gives you a 50% skill damage increase for a minute&lt;/strong&gt;. &lt;br&gt;
-This also &lt;strong&gt;makes you immune to fire/ice for the duration&lt;/strong&gt; so you arent affected by kelsaiks resistance buffs OR THE IN/OUT MECHANIC.&lt;br&gt;
-This also &lt;strong&gt;removes one of kelsaiks resistance buffs&lt;/strong&gt;, in this case red because it was a mini fire kelsaik.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;60% intermission&lt;/strong&gt; - Same as earlier, 2 adds will spawn and you need to kill the one matching the bottom bars graphic.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Killing the second add will remove his other resistance, allowing full damage from players with both types of debuffs finally.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;center&gt;&lt;h3&gt;Weakened State&lt;/h3&gt;&lt;/center&gt;
-&lt;p&gt;If you can manage to push kelsaik down to 19.9%, he will enter a weakened state, &lt;strong&gt;ceasing a majority of mechanics&lt;/strong&gt;:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Parasites&lt;/li&gt;
-&lt;li&gt;IN/OUTS&lt;/li&gt;
-&lt;li&gt;Empowered aoes&lt;/li&gt;
-&lt;li&gt;Empowered basic attacks on tank&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;All of these mechanics will stop entirely, you only need to manage the temperature bar and &lt;strong&gt;push him to 15%&lt;/strong&gt;. &lt;br&gt;
-This gives you a breather to &lt;strong&gt;rez people&lt;/strong&gt; and recast buffs/food in prep for the final phase.&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/AkwXv87.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Unstable Breakdown&lt;/strong&gt; - When kelsaik reaches 15%, he will stagger and move to the center of the room.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;He will &lt;strong&gt;reduce damage taken by 95%&lt;/strong&gt; and begin breaking down, filling the arena with shit you need to dodge and &lt;strong&gt;losing .1% hp per second&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The goal is here is to &lt;strong&gt;survive for 2 minutes 30 seconds until he kills himself&lt;/strong&gt;. Players will get a 50% healing reduction and 25% increased cdr. &lt;br&gt;
-There are several mechanics to dodge here for the finish.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Expanding and collapsing waves of fire and ice.&lt;/strong&gt; Jumping makes you entirely immune to these, even jumping while riding the wave. Deals rapid but light ticking damage. Iframeable if need be for some reason.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/aXT9cjx.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Ice and fire meteors.&lt;/strong&gt; Ice meteors will spawn ice puddles of different sizes
-Fire meteors will stun you on impact, letting waves finish you off. Iframe these or move out quickly.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/cZIsEnb.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Yellow tornaodes of moth poop.&lt;/strong&gt; These will move around the room knocking anyone hit up into the air. Not alot of damage on their own.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/QVlAnWf.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;This entire phase is a test of how you did earlier in the fight. &lt;br&gt;
-At 70% and every 6 minutes after, the arena will shrink, giving you less and less room to work with. Combined with the Ice meteors, space is everything here.&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;easiest way to do this phase is to spend all your time jumping&lt;/strong&gt; in motion. &lt;br&gt;
-&lt;strong&gt;Jumping makes you immune&lt;/strong&gt; to the waves for a very long time, even a full second after you land and move. If you jump in place, you risk a meteor spawning on you as you start your jump and arent able to iframe in time when you hit the floor.&lt;/p&gt;
-&lt;hr/&gt;
-&lt;center&gt;&lt;h3&gt;Basic attacks&lt;/h3&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Double Claw&lt;/strong&gt; - Kelsaik will quickly stand up and slam both front claws, giving either fire or ice debuff depending on which side you are on within a very small range.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This is your &lt;strong&gt;primary way of changing debuffs&lt;/strong&gt; and youll be doing it very often. This happens randomly but also after certain abilities.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/SpxGwvl.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Tail Swipe&lt;/strong&gt; - There are 2 variations of this tail swipe, one being enraged and the other not.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The &lt;strong&gt;enraged version&lt;/strong&gt;, while faster, will only kd you.&lt;/li&gt;
-&lt;li&gt;The &lt;strong&gt;unenraged version&lt;/strong&gt; will send you flying. Only &lt;em&gt;Arise&lt;/em&gt; can save you.
-&lt;ul&gt;
-&lt;li&gt;Iframeable and kaiable to avoid kd/punt.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/tv8H8il.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Big Jump + Double Claw&lt;/strong&gt; - Kelsaik will crouch down and charge up for a few seconds and jump high into the air, landing 1 full second later.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This will knock you high up into the air unable to do anything.&lt;/li&gt;
-&lt;li&gt;He will &lt;strong&gt;ALWAYS do a double claw&lt;/strong&gt; after this.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/iR3NcEe.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Slow Double Claw -&amp;gt; Tank Stun&lt;/strong&gt; - Unless you are directly in front of him, this is functionally a very slow double claw. Tanks must iframe/back up to avoid getting stunned.
-Getting stunned by this will trigger a boss backstep and knockback, dont ever get this.&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/PavkCrz.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;AoE Fire/AoE Ice&lt;/strong&gt; - Kelsaik will crouch down before roaring and doing an Aoe based on the color he glows, either fire or ice.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If youve done kelsaik before these are nothing new&amp;hellip;for now.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Fire:&lt;/em&gt; Hits in a pattern on and around the boss in a static way. The most important hit is the first which is directly on top of kelsaik himself.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kds and applies fire debuff if hit.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Iframing the very first hit or outranging then moving back into melee range is best.&lt;br&gt;
-Blockable also.&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/9OMjDmK.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;em&gt;Ice:&lt;/em&gt; Opposite of fire is ice which is a ticking aoe around kelsaik which is easily outranged or blocked.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Doesnt deal much damage but gives you ice debuff.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/syxFzuY.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Full powered Fire And Ice&lt;/strong&gt; - At 50% kelsaik will power up one final time, empowering his fire and ice abilities.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Empowered Ice and Empowered Fire aoes function exactly as they do on normal mode but more deadly and of consequence because of the bar being faster.
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Dodging empowered fire aoe will make or break this fight.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/kB8kO4W.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/0fryT3j.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;em&gt;Right after an in/out mechanic, kelsaik will place a fire puddle on the tank forcing him to move.&lt;/em&gt;&lt;/p&gt;
-&lt;center&gt;&lt;h3&gt;Special attacks&lt;/h3&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Getting Hotter/Colder&lt;/strong&gt; - Anytime the bar gets to about 30-35 or 70-75, Kelsaik will give everyone in the room that color in attempt to push the bar further to wipe.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;He will &lt;strong&gt;ALWAYS double claw after this&lt;/strong&gt;, giving you a chance to fix it.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Getting Colder&lt;/em&gt;&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/bcAkssp.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;em&gt;Getting Hotter&lt;/em&gt;&lt;/p&gt;
-&lt;center&gt;&lt;video controls&gt;
-  &lt;source src=&#34;https://i.imgur.com/qr6BCTp.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Knockback&lt;/strong&gt; - If the tank ever gets stunned or other random times, kelsaik will do a slow spin that sends you flying backwards, it is blockable and iframeable.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fire on edges&lt;/strong&gt; - At 70% fire will spawn on the edges of the room ala Bahaar. Every 6 minutes after 70%, the room will shrink in size. For normal we will only see it shrink once.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Range Check&lt;/strong&gt; - If someone goes too far or gets pushed by tail, kelsaik will target them.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;He will jump at them and then either drop an ice line or fire puddle on them. &lt;strong&gt;You can control entirely where he aims them.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;hr/&gt;
-&lt;center&gt;&lt;h3&gt;Sources&lt;/h3&gt;&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://discord.gg/j9YkdaZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taldekk’s Dungeon Guide Discord Server&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Draakon Arena</title>
       <link>https://tenacity-tera.eu/dungeon-guide/agaia/draakon-arena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4725,6 +4446,396 @@ This can vary based on the positioning, but in general cases, it is recommeneded
 &lt;h2&gt;Sources&lt;span class=&#34;absolute -mt-20&#34; id=&#34;sources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://essentialmana.com/rk-9-kennel-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential Mana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sanctuary&#39;s Ruins (Hard)</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/agaia/sanctuary-ruins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/agaia/sanctuary-ruins/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;last-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/VVHctB9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Boss: Lakan&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-lakan&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#boss-lakan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;
+&lt;table&gt;
+   &lt;tbody&gt;
+      &lt;tr&gt;
+         &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/u9BeHx2.png&#34;&gt;&lt;/td&gt;
+         &lt;td&gt;Targets two nearest party members with a debuff.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+         &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/hYy5tWw.png&#34;&gt;&lt;/td&gt;
+         &lt;td&gt;After few seconds, everyone will receive a 3 second stun.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+         &lt;td&gt;&lt;img src=&#34;https://i.imgur.com/H7nEdBb.png&#34;&gt;&lt;/td&gt;
+         &lt;td&gt;After few seconds, everyone will have a bomb on their head with 4 second debuff. &lt;/td&gt;
+      &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Debuff&lt;/strong&gt; - Players with this debuff will have an eye floating above them, and they will also bleed 3% of max HP every second. This debuff lasts 4 minutes, and if you get this debuff twice, you will die.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spread&lt;/strong&gt; - While stunned, a large circle will form around each player, which inflicts 50k damage each, so make sure to spread out.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gather&lt;/strong&gt; - Everyone must gather up quickly as those bombs will explode in a donut AoE around them. Players must gather fast and healers must cleanse immediately, or else anyone not cleansed will detonate and cause a massive AoE damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dBviVMe.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;After 40 seconds of combat, Lakan will float and say:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “I mark you!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;He will do this mechanic every 1 minute unless he says &lt;strong&gt;“I am no mere mortal foe!”&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;Pattern Reversal (&lt;50% HP)&lt;/h4&gt;
+When Lakan’s HP falls below 50%, a system message will appear again, but the order of the Chaos Mechanic pattern will now be **REVERSED**.
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/gDt78d7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Note: Keep in mind that this message will be randomized!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;FEEL THE ICY TOUCH OF MY EMPTY SOUL… (&lt;30% HP) &lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/W0rIwNv.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Randomly under 90% , he will float in air and say&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Feel the icy touch of my empty soul!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;There will be a ring closing in toward Lakan, which inflicts deadly damage.&lt;strong&gt;Iframe it.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DO NOT go near him after avoiding the ring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/FBIb13r.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;When this 5 second buff timer icon (see image on right) appears, healers must use their dispell skill to prevent Lakan from creating a shield.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/qU7q67j.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h4&gt;LAKAN’S SOUL WORLD&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/bXqMvRS.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;When Lakan’s &lt;strong&gt;HP falls below 30%&lt;/strong&gt;, you will notice that Lakan is now silvery, and the arena has turned blue.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All Chaos mechanics will be the inverse.
+&lt;img src=&#34;https://i.imgur.com/WlPa1WL.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Soul Saturation Gauge&lt;/h4&gt;
+Whenever Lakan initiates Soul World, this gauge will **fill up by 25** each time.
+&lt;h4&gt;UNDO the Soul World&lt;/h4&gt;
+Lakan will also UNDO soul world with the quote: **“Ha! Not bad!”** This time, you must **SLEEP** (not plague/regress) Lakan.
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/jBHCdyv.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I pity your allies&lt;/strong&gt; - If someone dies throughout the fight, the Soul Saturation meter will go up by &lt;strong&gt;+5&lt;/strong&gt;, this has a cooldown, but will repeat if the person stays dead and does not ressurect fast enough.&lt;/p&gt;
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Sword (chop) – Shield (smash) – Sword (R swing) – Back Spin (cone) – Sword (thrust)&lt;/strong&gt; -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On the third part when he swings his sword from right to left, he will pause very briefly before he backspins like Darkan, but this time, there will be a large cone attack.&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sword (chop) – Shield (smash) – Sword (L cross) – Shield (stun) – Back Kick (cone)&lt;/strong&gt; -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On the third part, he will swing his sword to form an X shape starting with Left diagonal slash then Right.&lt;/li&gt;
+&lt;li&gt;Then he will lift his shield and slam it upright on the ground, creating small AoE that stuns anyone near him, then he will immediately follow up with a back kick that covers large cone AoE behind him.&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Shield (smash) – Sword (chop) – Sword (R cross) – Shield (cone)&lt;/strong&gt; -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On the third part, he will swing his sword to form an X shape starting with Right diagonal slash then Left.&lt;/li&gt;
+&lt;li&gt;Cone on last hit with Shield will cause 5 wave AoE, starting with 10m radius circle, then 10~20m donut, 20~30 donut, 30~40 donut and 40~50 donut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Shield Rally – Sword (R cross)x3 – Sword (stabs)&lt;/strong&gt; -  When he strikes his shield it does nothing, but it tells you that he will start slashing like a maniac.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Random Target Claw Patterns&lt;/strong&gt; - The claw attack itself is a 2 hit attack. Lakan will charge energy into his sword and then throw it, splits into 3, leaving a claw mark on the ground, then he will retrieve it after a moment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stop – Face random target – Claw&lt;/strong&gt; &lt;br&gt;
+He just pauses shortly and turns around to face random target.&lt;br&gt;
+This occurs mostly due to res bait.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backswing Turn – Face random target – Claw&lt;/strong&gt; &lt;br&gt;
+He makes a large swing as he turns around, then faces toward random target. &lt;br&gt;
+To add, this tends to target farthest person who is within ~17m radius.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shield (Slam) – Laser (from his shield) – Backswing Turn – Face random target – Claw&lt;/strong&gt; &lt;br&gt;
+His shield glows pink and attacks by thrusting his shield forward. He will pause briefly as the shield’s glow is concentrated and shoots a laser.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Double 5-way shot&lt;/strong&gt; - He will curl up with a small puddle under him, then launch 5-way projectile around him&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “You cannot defend against me.”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9TGCa1G.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;There are several ways to trigger this:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;ol&gt;
+&lt;li&gt;Person with aggro dies&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Person with aggro is too far away (~8m?)&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Person with aggro loses aggro&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;When he does or undoes soul realm&lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Healers can prevent this with res bait.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Circle or Donut&lt;/strong&gt; - A quote will pop up in the middle of the screen:
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      “Begone!”
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;With a large sword swing motion, he will spin around with either Red or Purple swipe surrounding him.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Purple swipe&lt;/strong&gt; - He will place a Circle AoE (~8m); &lt;strong&gt;stay away&lt;/strong&gt; from him.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/48DsRtA.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Orange swipe&lt;/strong&gt; - He will place Donut AoE (8m~20m); &lt;strong&gt;hug&lt;/strong&gt; him.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/U9GNFgL.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Let&amp;rsquo;s see just how clever you are&amp;hellip;&lt;/strong&gt; - IN into Donuts depending on which world Lakan is currently inside of.&lt;/p&gt;
+&lt;p&gt;A message will popup on the screen &lt;strong&gt;Let&amp;rsquo;s see just how clever you are&amp;hellip;&lt;/strong&gt; and Lakan will hit the tank first, then turn on the dps and do an &lt;strong&gt;ORANGE&lt;/strong&gt; cone shaped hit with his shield, then kick the back. Right after he will turn back towards the tank and do a donut mech.&lt;/p&gt;
+&lt;p&gt;Its recommended for the tank to stay on the back of the boss to &lt;strong&gt;block the kick&lt;/strong&gt; for the dps that will come as the boss turns towards them.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/GTMzMr5.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;NORMAL -&amp;gt; IN, Orange Donuts (coming from IN OUT)&lt;/li&gt;
+&lt;li&gt;SOUL WORLD -&amp;gt; OUT, Blue Donuts (coming from OUT IN)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If Lakan does a &lt;strong&gt;PURPLE&lt;/strong&gt; cone shaped hit as he turns towards the dps, his next attack will be different.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/8eqVvrH.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;NORMAL -&amp;gt; OUT, Blue Donuts (coming from OUT IN)&lt;/li&gt;
+&lt;li&gt;SOUL WORLD -&amp;gt; IN, Orange Donuts (coming from IN OUT)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Are you afraid of me?&lt;/strong&gt; - Lakan will hit the tank twice, first with an &lt;strong&gt;ORANGE cone shaped attack and then PURPLE one&lt;/strong&gt;. Then proceed with donut attacks.&lt;/p&gt;
+&lt;p&gt;Lancers are able to use &lt;strong&gt;Divine Protection&lt;/strong&gt; to grant immunity against the damage of inner hit.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/BfmIAcS.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;NORMAL -&amp;gt; OUT -&amp;gt; IN&lt;/li&gt;
+&lt;li&gt;SOUL WORLD -&amp;gt; IN -&amp;gt; OUT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If Lakan does a &lt;strong&gt;PURPLE cone shaped hit first and then ORANGE&lt;/strong&gt;, his next attack will be different.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/VucNDJZ.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;NORMAL -&amp;gt; IN -&amp;gt; OUT&lt;/li&gt;
+&lt;li&gt;SOUL WORLD -&amp;gt; OUT -&amp;gt; IN&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Run&amp;hellip; If you can.&lt;/strong&gt; - Lakan will quickly attack the tank, after a fast double slash attack, he will slam the shield on the ground which will &lt;strong&gt;stun&lt;/strong&gt; if not blocked and then kick the back which has to be avoided or iframed.&lt;/p&gt;
+&lt;p&gt;He will continue attacking the tank, his mechanic then changes depending on if he hits with his &lt;strong&gt;SHIELD&lt;/strong&gt; or &lt;strong&gt;SWORD&lt;/strong&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/tUcTSSj.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;Shield -&amp;gt; IN&lt;/li&gt;
+&lt;li&gt;Sword -&amp;gt; OUT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Donut Attack&lt;/strong&gt; - Lakan will slash the tank and then slowly smash the ground with his shield. This attack is simple to see as the shield hit is way slower than the rest of his animations.&lt;/p&gt;
+&lt;p&gt;Mechanic changes through the fight depending on his HP.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/tZAmO8x.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;NORMAL -&amp;gt; Waves above 50% - Orange Donuts (from IN - OUT)&lt;/li&gt;
+&lt;li&gt;SOUL WORLD -&amp;gt; Waves above 50% - Blue Donuts (from OUT - IN)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/jwn55cY.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;NORMAL -&amp;gt; Waves under 50% - Orange Donuts (from IN - OUT) into Blue (from OUT - IN)&lt;/li&gt;
+&lt;li&gt;SOUL WORLD -&amp;gt; Waves under 50% - Blue Donuts (from OUT - IN) into Orange (from IN - OUT)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ha! Laughable!&lt;/strong&gt; - Triggers as a result of &lt;strong&gt;ressbait&lt;/strong&gt; by the healer or anyone else in the party.
+Places AOE on the ground which deals lethal damage to anyone inside.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/SfI3yye.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;h3&gt;Purple Eye Mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;purple-eye-mechanic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#purple-eye-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A purple eye will appear randomly above Lakan before his donut mechanics starting under &lt;strong&gt;90% HP&lt;/strong&gt; which will change the donuts he will do massively.&lt;/p&gt;
+&lt;center&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;https://i.imgur.com/xhXMbyK.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;NORMAL -&amp;gt; OUT - IN - OUT&lt;/li&gt;
+&lt;li&gt;SOUL WORLD -&amp;gt; IN - OUT - IN&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;h2&gt;Videos&lt;span class=&#34;absolute -mt-20&#34; id=&#34;videos&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#videos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/lVSbyIewd8g?si=Q6E271LmntSN9DqJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alina-Nyan Guide Run (ENG)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qQy4dJtTcmo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lekca Guide Run (RU)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
