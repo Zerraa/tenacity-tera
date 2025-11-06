@@ -77,15 +77,15 @@ Talismans can be equipped on both weapon and armor pieces, for a current maximum
 ### Berserker Talismans
 | Talisman Name | Effect |
 |------|--------|
-|  | Evasive Smash damage increased by 3% on every successful cast of Thunder Strike, Lethal Strike and Cyclone up to 99 times. Maximum stacks is reduced to 60 while using the Long Forgotten Dream talisman. Effect only ends when leaving combat. During Intimidation, this talisman has no effects |
-|  | Fiery Rage increases all skill damage by 5% but reduces attack speed and charge speed by 16% for 36 seconds. |
-|  | Global During combat, drains 1% of your max HP every second. Increases all skill damage by 4.5%. This Talisman only takes effect if your HP is higher than 10%. |
-|  | Cyclone charging speed by 25% and skill damage increased by 10%. Consume 1.5% of your max HP on each successful cast. This Talisman only takes effect if your HP is higher than 10%. During Intimidation increases damage of Punishing Strike by 50% and restores 2.5% of max HP on hit. Reduces damage taken by 50% while casting |
-|  | Lethal Strike consumes an additional 1.5% of your max HP. Its skill damage is increased by 15%. This Talisman only takes effect if your HP is higher than 10%. |
-|  | Lethal Strike increases its own damage by 10% for 3.5 seconds, up to 5 times. During Rage Unbound this bonus is reduced to 5% instead |
-|  | Cyclone damage increased by 5%. It has 1 additional reset and recast time between resets is increased from 2s to 4s. Increases reset chance by 10% and every reset deals 5% increased damage. |
-|  | Vampiric Blow skill damage increased by 25%. Resets the cooldown of Raze on successful hit and restores 3% of max HP every second for 5 seconds. |
-|  | Raze resets the cooldown of Flatten. Upon successful hit, increases its damage by 25% and guarantees it to be a critical hit. |
+| Counterforce | Evasive Smash damage increased by 3% on every successful cast of Thunder Strike, Lethal Strike and Cyclone up to 99 times. Maximum stacks is reduced to 60 while using the Long Forgotten Dream talisman. Effect only ends when leaving combat. During Intimidation, this talisman has no effects |
+| Cleave Drive | Fiery Rage increases all skill damage by 5% but reduces attack speed and charge speed by 16% for 36 seconds. |
+| Iron Pact | Global During combat, drains 1% of your max HP every second. Increases all skill damage by 4.5%. This Talisman only takes effect if your HP is higher than 10%. |
+| Severance Spiral | Cyclone charging speed by 25% and skill damage increased by 10%. Consume 1.5% of your max HP on each successful cast. This Talisman only takes effect if your HP is higher than 10%. During Intimidation increases damage of Punishing Strike by 50% and restores 2.5% of max HP on hit. Reduces damage taken by 50% while casting |
+| Grave Toll | Lethal Strike consumes an additional 1.5% of your max HP. Its skill damage is increased by 15%. This Talisman only takes effect if your HP is higher than 10%. |
+| Blood Price | Lethal Strike increases its own damage by 10% for 3.5 seconds, up to 5 times. During Rage Unbound this bonus is reduced to 5% instead |
+| Shatterline | Cyclone damage increased by 5%. It has 1 additional reset and recast time between resets is increased from 2s to 4s. Increases reset chance by 10% and every reset deals 5% increased damage. |
+| Razing Blood | Vampiric Blow skill damage increased by 25%. Resets the cooldown of Raze on successful hit and restores 3% of max HP every second for 5 seconds. |
+| Cleaver's Mercy | Raze resets the cooldown of Flatten. Upon successful hit, increases its damage by 25% and guarantees it to be a critical hit. |
 | Adaptive Axe | Tackle damage increased by 100%, crit chance by 40% and cooldown reduced by 20%. Decreases cooldown of Cyclone by 2 seconds on every successful hit. While affected by Intimidation, on a successful Perfect Defense with Axe Block, increases skill damage by 20% for 4 seconds. |
 | Overcharged Blow | Sweeping Strike damage increased by 300% and cast speed by 30%, but cooldown is increased by 20%. On hit, resets cooldown of Thunder Strike and allow its instant cast at overcharged state if used within 3 seconds . |
 | Long Forgotten Dream | Unleash cast speed increased by 50% and you are immune to knockdown, staggers and stuns while casting. It no longer provides Unleashed buff, but instead provides Rage Unbound, which increases attack speed by 25%, charge speed by 40%, cooldown reduction by 30%, resets Cyclone cooldown and increases all skills damage by 10%. Additionally, Thunder Strike and Cyclone can be overcharged two additional times, with overcharge modifier increased by 25%. Lethal Strike damage reduced by 15% but it resets on every Cyclone hit. Cyclone reset is guaranteed if casted as fully charged. During Intimidation, the damage of Lethal Strike and the cooldown of Raze and Flatten are not reduced. During Rage Unbound you cannot gain Counterforce stacks. |
