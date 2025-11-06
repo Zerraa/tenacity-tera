@@ -500,6 +500,159 @@ After several seconds, a Fireball will land on the circle (iframeable) and leave
     </item>
     
     <item>
+      <title>Cursed Fusion Laboratory</title>
+      <link>https://tenacity-tera.eu/dungeon-guide/agaia/cursed-fusion-laboratory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenacity-tera.eu/dungeon-guide/agaia/cursed-fusion-laboratory/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;first-boss&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mzQzgkJ.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Boss: Rogash&lt;span class=&#34;absolute -mt-20&#34; id=&#34;boss-rogash&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#boss-rogash&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Key Mechanics&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-mechanics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-mechanics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/860160097249132544/860164931918888960/1260.png?ex=690d5944&amp;is=690c07c4&amp;hm=d71b6fe34b4518c9f6a6a0dac468a696c6a8d39dcb0326c1267dd53e727bf280&amp;&#34;&gt;&lt;br&gt;If you reach 5 stacks (3 in Hard mode), you will be stunned (cleanseable) and explode with a large red circle, killing you and anyone around you.&lt;/td&gt;
+    &lt;td&gt;Electricity&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h4&gt;40% Thick lasers and Stun mechanic&lt;span class=&#34;absolute -mt-20&#34; id=&#34;40-thick-lasers-and-stun-mechanic&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#40-thick-lasers-and-stun-mechanic&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;This mechanic also happens 5% earlier compared to Normal Mode.
+Rogash will move to the center of the room and thick red lasers will shoot at him, stunning you for a VERY long time if you are hit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A blue message will appear &amp;ldquo;&lt;strong&gt;Core energy charging complete&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When this appears, everyone needs to move back. After Rogash recovers, a wave will appear and you must iframe over it, same as normal mode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While this happens 2 messages can appear:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Red lightning&amp;rdquo; or &amp;ldquo;Blue lightning&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;Red lightning = stun him immediately&lt;/li&gt;
+&lt;li&gt;Blue lightning = you must plague a 3 second buff off of him and then stun.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;If you dont plague, you cannot stun him.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AoE Stun&lt;/strong&gt; - Rogash will briefly charge and pause with his left hand, punch, and then slam with his right hand, stunning everyone within 9m.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blockable, iframeable, stand 10m as a healer to be safe.&lt;/li&gt;
+&lt;li&gt;Stun is cleanseable and should be asap.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/FzN94xB.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;h4&gt;Stun Check&lt;span class=&#34;absolute -mt-20&#34; id=&#34;stun-check&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#stun-check&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;If any player is &lt;strong&gt;stunned at any point&lt;/strong&gt;, Rogash will move towards them and throw his beyblade at them, spam staggering and rapidily applying debuff stacks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tanks can block to maybe save someone.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/gBTOOYV.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Range Check&lt;/strong&gt; - Will do a fast pulse  once someone is far enough and he is not in animation.
+This will command the spike turrets to fire a set of lasers that will stun anyone hit.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/JdGnsrk.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Ress Bait&lt;/strong&gt; - Exactly the same as Frontal Spikes, except aimed in front at the rezzer with more range.&lt;/p&gt;
+&lt;h3&gt;Basic attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;basic-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Disk Throw&lt;/strong&gt; - Rogash will spin up his beyblade and throw it at the tank and it will rebound back to him. Block in front and turn around to block the return hit. KD if hit.
+Dps must dps from his right side, the rebound will hit you on the left side while behind.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/TmNXjx8.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Spin&lt;/strong&gt; - Rogash will whirlwind in 11-12m radius, spam staggering anyone hit. Tanks can block for the group, kaia, or rally cry to prevent stagger.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/y8S9F8f.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Tank Kick&lt;/strong&gt; - Will attempt to knock the tank far away, blockable.
+If Rogash kicks immediately, it is blockable.
+If Rogash crouches and delays his kick by 2 seconds, you gotta dodge or have priest pre lock pull you.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/PyQrrcx.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Frontal Laser Beam&lt;/strong&gt; - Rogash will charge with his right hand and shoot a laser beam in a straight line. Spam staggers and rapidly applies debuff stacks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Move out of the way or explode.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/uqCKCT9.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Frontal Energy Blast&lt;/strong&gt; - Rogash will have a blue energy ball on his hand and attempt to shoot you with it. &lt;strong&gt;Iframe or go to the side to avoid. Stuns if hit.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Frontal Energy Punch&lt;/strong&gt; - Similar to the blast, he will rear back and gain a blue ball on his fist and punch you with it. &lt;strong&gt;This is blockable.&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/2QGsJgg.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Frontal Spikes&lt;/strong&gt; - Rogash will raise his spikes above his head with the blades pointing &lt;strong&gt;UPWARD&lt;/strong&gt; and then slam the tank. He will then shoot them sideways, hitting to the left and right of the tank. Both hits blockable.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/l9WS59Y.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Backhit Spikes&lt;/strong&gt; - When raising his spikes, the blades will instead face &lt;strong&gt;DOWNWARDS&lt;/strong&gt; and hit behind him, applies a nasty bleed (&lt;strong&gt;cleanse&lt;/strong&gt;).&lt;/p&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/rqMnF9U.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Back Laser&lt;/strong&gt; - Rogash will look over his shoulder and then fire a laser directly out of his back. Spam staggers and rapidly applies debuff stacks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Move away or explode. This will always happen after a Spin.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/NeObFaf.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;h3&gt;Special attacks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;special-attacks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#special-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;80% Spike Drones and Electric Field&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4 (6 in HM) Spike Drones will spawn at the cardinal directions and the edge will be covered in blue lava&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Drones in Normal Mode&lt;span class=&#34;absolute -mt-20&#34; id=&#34;drones-in-normal-mode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#drones-in-normal-mode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/B5ejYTa.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h5&gt;Drones in Hard Mode&lt;span class=&#34;absolute -mt-20&#34; id=&#34;drones-in-hard-mode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#drones-in-hard-mode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/B5ejYTa.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These drones will fixate on a single player, indicated by an eye above their head (bahaar laser/gardan unleash/lumikan buff) this lasts for 30 ish seconds.
+If you have this eye, a message will appear at 80% and 60 seconds cd after&lt;/li&gt;
+&lt;li&gt;2 seconds after the message appears, all 4 drones will shoot lasers at the fixated person, dealing moderate damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Lasers from drones in Normal Mode&lt;span class=&#34;absolute -mt-20&#34; id=&#34;lasers-from-drones-in-normal-mode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#lasers-from-drones-in-normal-mode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/609vL23.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h5&gt;Lasers from drones in Hard Mode&lt;span class=&#34;absolute -mt-20&#34; id=&#34;lasers-from-drones-in-hard-mode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#lasers-from-drones-in-hard-mode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Q4UdxOY.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In/Out Donuts&lt;/strong&gt; - Also starting at 80%, Rogash will raise his hand and gain either a red or blue orb on his hand. He will slam it and create donuts, direction is determined by the color of the orb on his hand.
+It is &lt;strong&gt;EXACTLY&lt;/strong&gt; like Draakon arena, spawning 3 donuts back to back, with even the same range.
+A single iframe is enough to get you in or out if you are near him.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After the 3 donuts are finished, you will see energy appear above rogash quickly, triggering a room wide aoe.
+&lt;ul&gt;
+&lt;li&gt;This AoE kds, use kaia or rally cry to prevent it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;THE EXPLOSION IS NOT IFRAMEABLE&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;50% Shield&lt;span class=&#34;absolute -mt-20&#34; id=&#34;50-shield&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#50-shield&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Rogash will go to the middle of the room and shield for 10 seconds.
+Failure to break this shield will result in heavy pulsing damage from an orbital strike. &lt;strong&gt;Tanks must stand with the party and hold block&lt;/strong&gt;, healer spam heals and you can actually survive through it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/wZlV3nK.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Version 2:&lt;/strong&gt; Failing to break the shield:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/PCBqfwq.gif&#34; width=&#34;520&#34; height=&#34;440&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;40% Puddles&lt;/strong&gt; - Rogash will spawn a message and immediately spawn 3 puddles in the middle of the room, 1 small, 1 medium, and 1 large.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These puddles stagger you.
+At the same time, the spike drones will trigger a wave, instantly killing you if hit. Can iframe over them if need be.&lt;/li&gt;
+&lt;li&gt;You are forced to find the safe spot in the middle of the room, there will always be one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/2p6Lw4x.gif&#34; width=&#34;350&#34; height=&#34;270&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4d66rCS.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;35% Puddles + Stun&lt;span class=&#34;absolute -mt-20&#34; id=&#34;35-puddles--stun&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#35-puddles--stun&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;At 35%, rogash will move to the center of the room and the spike drones will shoot solid lasers at him, stunning him briefly.
+Touching these solid lasers will also stun you for a VERY long time, &lt;strong&gt;stay out&lt;/strong&gt;.
+When rogash recovers from the stun, a wave will &lt;strong&gt;IMMEDIATELY&lt;/strong&gt; come out of him, instantly killing anyone hit, iframe over it&lt;/li&gt;
+&lt;li&gt;After the wave, Rogash must be stunned within 3 seconds, otherwise he will wipe you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Version 1:&lt;/strong&gt; Success :&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/dylDNaH.gif&#34; width=&#34;520&#34; height=&#34;440&#34;/&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Version 2:&lt;/strong&gt; Failing :&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://i.imgur.com/qB5oeQD.gif&#34; width=&#34;520&#34; height=&#34;440&#34;/&gt;&lt;/center&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;center&gt;&lt;h3&gt;Sources&lt;/h3&gt;&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;Tera Dungeon Guides Discord&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Lilith&#39;s Keep (Hard)</title>
       <link>https://tenacity-tera.eu/dungeon-guide/agaia/lilith-keep-hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
