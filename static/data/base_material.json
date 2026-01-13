@@ -1,0 +1,54 @@
+{
+  "Bottle of Lake of Tear Water": {
+    "baseItem": "Empty Glass Bottle",
+    "amount": 1
+  },
+  "Bottle of Fountain of Shara Water": {
+    "baseItem": "Empty Glass Bottle",
+    "amount": 1
+  },
+  "Bottle of Mirage Oasis Water": {
+    "baseItem": "Empty Glass Bottle",
+    "amount": 1
+  },
+  "Wheat": {
+    "baseItem": "Wheat Seed",
+    "amount": 1
+  },
+  "Flame Pepper": {
+    "baseItem": "Flame Pepper Seed",
+    "amount": 1
+  },
+  "Cobseed": {
+    "baseItem": "Cobseed Seed",
+    "amount": 1
+  },
+  "Taproot": {
+    "baseItem": "Taproot Seed",
+    "amount": 1
+  },
+  "Moongourd": {
+    "baseItem": "Moongourd Seed",
+    "amount": 1
+  },
+  "Apple": {
+    "baseItem": "Apple Seed",
+    "amount": 1
+  },
+  "Orange": {
+    "baseItem": "Orange Seed",
+    "amount": 1
+  },
+  "Lemon": {
+    "baseItem": "Lemon Seed",
+    "amount": 1
+  },
+  "Shevranberry": {
+    "baseItem": "Shevranberry Seed",
+    "amount": 1
+  },
+  "Carrot": {
+    "baseItem": "Carrot Seed",
+    "amount": 1
+  }
+}

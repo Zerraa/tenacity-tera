@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   {{- partial "head.html" . -}}
-  <body dir="ltr">
+  <body dir="ltr" class="{{ with .Params.bodyClass }}{{ . }}{{ end }}">
+    <div id="sticky-header">
+     
     {{- partial "navbar.html" . -}}
+    </div>
     {{- block "main" . }}{{ end -}}
     {{- if or (eq .Site.Params.footer.enable nil) (.Site.Params.footer.enable) }}
       {{ partial "footer.html" . }}
@@ -10,3 +13,12 @@
   </body>
   {{ partial "scripts.html" . }}
 </html>
+
+<style>
+
+  #sticky-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+</style>
