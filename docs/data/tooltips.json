@@ -1,0 +1,1977 @@
+{
+  "Veteran Apothecary Dye": {
+    "id": "206",
+    "tooltip": "Select a dye color for your armor from a multitude of hues. Armor color may affect final result.",
+    "icon": "/icons/Icon_Items/dye_result_random_Tex.png"
+  },
+  "Premium Handmade Munsell Dye Bundle": {
+    "id": "236",
+    "tooltip": "Dye your equipment a color that lasts for 1 hour. (This special bundle provides a broader range of colors than the others.) [Caution: The final color of your equipment may vary depending on its original color and the color of dyes used.]",
+    "icon": "/icons/Icon_Items/dye_result_06_Tex.png"
+  },
+  "Ruby": {
+    "id": "366",
+    "tooltip": "<font color = '#2478FF'>[Jewel]</font> Can be used to craft a sapphire, or sold to a shop for gold.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAlchemy - Jewelss$BROpen World Content$BRCelestial Arena$BRGuardian Legion Jewel Box",
+    "icon": "/icons/Icon_Items/T_ruby_Tex.png"
+  },
+  "Sapphire": {
+    "id": "367",
+    "tooltip": "<font color = '#2478FF'>[Jewel]</font> Can be used to craft an emerald, or sold to a shop for gold.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAlchemy - Jewelss$BROpen World Content$BRCelestial Arena$BRGuardian Legion Jewel Box",
+    "icon": "/icons/Icon_Items/T_sapphire_Tex.png"
+  },
+  "Emerald": {
+    "id": "368",
+    "tooltip": "<font color = '#2478FF'>[Jewel]</font>Can be used to enchant items, as a crafting component, or sold to a shop for gold.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRFrostmetal Gear$BRStormcry Gear$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAlchemy - Jewels$BROpen World Content$BRGhillieglade$BRAce dungeons$BRGuardian Legion Mission",
+    "icon": "/icons/Icon_Items/T_emerald_Tex.png"
+  },
+  "Diamond": {
+    "id": "369",
+    "tooltip": "<font color = '#2478FF'>[Jewel]</font>Can be used to enchant items, or sold to a merchant for gold.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BREnchanting Gear$BRUpgrading Gear$BRFairywing Rod$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAlchemy - Jewels$BRItem level 476 or higher dungeons$BRAce dungeons$BRGuardian Legion Mission",
+    "icon": "/icons/Icon_Items/T_diamond_Tex.png"
+  },
+  "Straw Scarab": {
+    "id": "450348",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRFormed from processed insect remains and simple materials.",
+    "icon": "/icons/Icon_Items/StrawScarab_Tex.png"
+  },
+  "Elemental Scarab": {
+    "id": "450349",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRCrafted using insect parts infused with elemental properties.",
+    "icon": "/icons/Icon_Items/ElementalScarab_Tex.png"
+  },
+  "Aurora Scarab": {
+    "id": "450350",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRA high-grade scarab shaped from rare insect fragments and aurora energy.",
+    "icon": "/icons/Icon_Items/AuroraScarab_Tex.png"
+  },
+  "Shevranberry": {
+    "id": "450629",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRRare blue-hued berry found in the misty forests of Shara.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/Shrevranberry_Tex.png"
+  },
+  "Taproot": {
+    "id": "450624",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRCrisp root vegetable, often used in nutritious meals for travelers.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/Taproot_Tex.png"
+  },
+  "Moongourd": {
+    "id": "450625",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRThick-skinned gourd that ripens under the glow of nocturnal moons.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/Moongourd_Tex.png"
+  },
+  "Butter": {
+    "id": "450384",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSmooth, churned butter beloved in Amani recipes.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/Butter_Tex.png"
+  },
+  "Flame Pepper": {
+    "id": "450622",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSpicy pepper that burns as fiercely as dragonfire.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/FlamePepper_Tex.png"
+  },
+  "Cobseed": {
+    "id": "450623",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRGolden grain essential for many Castanic and Popori dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/Cobseed_Tex.png"
+  },
+  "Lein's Dark Root Beer": {
+    "id": "450432",
+    "tooltip": "<font color = '#2478FF'>[Drink]</font>$BRDark root beer with a rich taste and a special kick, one of the many prides of Lein's Farm. It deserves its reputation as the best root beer in the Freeholds. They say you should gulp it down to really enjoy it.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Attack Speed by $H_W_GOOD$value$COLOR_END.$BRDizziness$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Drinks)",
+    "icon": "/icons/Icon_Items/LeinRootBeer_Tex.png"
+  },
+  "Golden Talent": {
+    "id": "98500",
+    "tooltip": "<font color = '#2478FF'>[Enchanting Material]</font> An ancient coin found throughout the world. Can be used for enchanting or upgrading gear and accessories, or crafted into a Golden Daric.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTier 5 Halidom and Relics$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSuperior Vanguard Reward Box$BRVanguard Reward Box$BRElleon's Mark of Valor$BRGhillieglade",
+    "icon": "/icons/Icon_Items/CoreColor2_1_Tex.png"
+  },
+  "Golden Daric": {
+    "id": "98501",
+    "tooltip": "<font color = '#2478FF'>[Enchanting Material]</font> Crafted from Golden Talents. Can be used for enchanting or upgrading gear and accessories, or crafted into a Golden Plate.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRStormcry Gear$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSmelting (Enchanting Materials)",
+    "icon": "/icons/Icon_Items/CoreColor2_2_Tex.png"
+  },
+  "Golden Plate": {
+    "id": "98502",
+    "tooltip": "<font color = '#2478FF'>[Enchanting Material]</font> Crafted from Golden Darics. Can be used for enchanting or upgrading gear and accessories.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRStormcry Gear$BRHeroic Oath gear$BR$BREthereal Accessories$BR<font color = '#FFBB00'>[Source]</font>$BRSmelting (Enchanting Materials)",
+    "icon": "/icons/Icon_Items/CoreColor2_3_Tex.png"
+  },
+  "Silver Talent": {
+    "id": "98514",
+    "tooltip": "<font color = '#2478FF'>[Enchanting Material]</font> An ancient coin found throughout the world. Can be used for enchanting or upgrading gear and accessories, or crafted into a Silver Siglo.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTier 5 Halidom and Relics$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSuperior Vanguard Reward Box$BRVanguard Reward Box$BRElleon's Mark of Valor$BRGhillieglade",
+    "icon": "/icons/Icon_Items/CoreColor1_1_Tex.png"
+  },
+  "Silver Siglo": {
+    "id": "98515",
+    "tooltip": "<font color = '#2478FF'>[Enchanting Material]</font> Crafted from Silver Talent. Can be used for upgrading gear and accessories.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRDaylight Accessories$BRFrostmetal Belt$BRSuperior Brooches$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing (Enchanting Materials)",
+    "icon": "/icons/Icon_Items/CoreColor1_2_Tex.png"
+  },
+  "Silver Plate": {
+    "id": "98516",
+    "tooltip": "<font color = '#2478FF'>[Enchanting Material]</font> Crafted from Silver Siglos. Can be used for enchanting or upgrading gear and accessories.$BR$BR<font color = '#41FF3A'>[Usage]$BREntropy Necklace$BREntropy Earring$BREntropy Ring$BREntropy Circlet$BRStormcry Belt$BRQuatrefoil Brooch$BRMarrow Brooch$BREthereal Accessories$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing (Enchanting Materials)",
+    "icon": "/icons/Icon_Items/CoreColor1_3_Tex.png"
+  },
+  "Black Ribbon Straw Brim Hat": {
+    "id": "200194",
+    "tooltip": "Honorific accessory.\nA wide-brimmed straw hat with the top dyed black.\nHonorific items fade soon after leaving the guild's Skycastle.",
+    "icon": "/icons/Icon_Equipments.Acc_170_Tex.png"
+  },
+  "Stamp: Spring Dreams": {
+    "id": "201590",
+    "tooltip": "Right-click to equip in the [Style Info] > [Stamp] slot.<BR><BR>Leave a trail of blooming flowers behind you.",
+    "icon": "/icons/Icon_Items/FootPrint_FlowerRoad_Tex.png"
+  },
+  "Stamp: Fire Admiral": {
+    "id": "201972",
+    "tooltip": "Right-click to equip in the [Style Info] > [Stamp] slot.<BR><BR>Leave a trail of sparking butterflies behind you.",
+    "icon": "/icons/Icon_Items/FootPrint_6Anniversary01_Tex.png"
+  },
+  "Stamp: Frost Lily": {
+    "id": "201984",
+    "tooltip": "Right-click to equip in the [Style Info] > [Stamp] slot.<BR><BR>Leave a trail of delicate ice flowers behind you.",
+    "icon": "/icons/Icon_Items/FootPrint_6Anniversary02_Tex.png"
+  },
+  "Stamp: Blossom Dreams": {
+    "id": "203908",
+    "tooltip": "Right-click to equip in the [Style Info] > [Footsteps] slot.<BR><BR>Leave a trail of delicate cherry blossom behind you.",
+    "icon": "/icons/Icon_Items/FootPrint_CherryBlossom_A_Tex.png"
+  },
+  "Stamp: Rite of Spring": {
+    "id": "203920",
+    "tooltip": "Right-click to equip in the [Style Info] > [Footsteps] slot.<BR><BR>Leave a trail of delicate cherry blossom behind you which occasionally sprout a mighty cherry tree.",
+    "icon": "/icons/Icon_Items/FootPrint_CherryBlossom_B_Tex.png"
+  },
+  "Craft Kit": {
+    "id": "204050",
+    "tooltip": "<font color = '#2478FF'>[Crafting Material]</font> Used as crafting component. Can be purchased from merchants.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAlchemy$BRSmelting$BRProcessing$BRCrafting-Etching$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAlchemy Materials$BRSmelting Materials$BRProcessing Materials$BREtching Materials",
+    "icon": "/icons/Icon_Items/Refine_Kit_6_Tex.png"
+  },
+  "White Sugar": {
+    "id": "450450",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRFinely ground sugar, imported from the orchards of Velika Outskirts.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/WhiteSugar_Tex.png"
+  },
+  "Purified Water": {
+    "id": "450338",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRPurified through careful distillation, this water is essential for alchemy.",
+    "icon": "/icons/Icon_Items/purifiedwater_Tex.png"
+  },
+  "Fresh Milk": {
+    "id": "450454",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRFresh milk delivered daily from the pastures of Essenia.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/milkbottle_Tex.png"
+  },
+  "Olive Oil": {
+    "id": "450452",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRPure olive oil pressed from groves near Lumbertown.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/OliveOil_Tex.png"
+  },
+  "Egg": {
+    "id": "450455",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA farm-fresh egg, essential for countless recipes.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/q_Egg_Tex.png"
+  },
+  "Starter": {
+    "id": "450456",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA cultivated culture used to begin fermentation in fine dishes.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/Starter_Tex.png"
+  },
+  "Steamed Fish": {
+    "id": "450437",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRFish gently steamed to preserve its natural taste and tenderness.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRaises max HP and MP by $H_W_GOOD$value$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD$value4$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_ENDof your maximum MP every $H_W_GOOD$tickInterval3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/SteamedFish_Tex.png"
+  },
+  "Fish Steak": {
+    "id": "450438",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRThick cut of fish grilled to perfection, favored by Amani for its hearty texture.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a BAF by 10%.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/FishSteak_Tex.png"
+  },
+  "Fish Fritters": {
+    "id": "450439",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRMinced fish mixed with batter and fried into small, savory bites.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Increases healing effects of skills by $H_W_GOOD$value$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD$value2$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/FishFritters_Tex.png"
+  },
+  "Fish Salad": {
+    "id": "450440",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRChilled fish combined with fresh vegetables for a light and refreshing meal.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Flight Speed by $H_W_GOOD$value$COLOR_END.$BRRecovers $H_W_GOOD$value2$COLOR_END of Flight Gauge every $H_W_GOOD$tickInterval2$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/FishSalad_Tex.png"
+  },
+  "Dressing": {
+    "id": "450380",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA fresh blend of herbs and oils, ideal for light meals.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/Dressing_Tex.png"
+  },
+  "Vinegar": {
+    "id": "450379",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA sharp, aged vinegar brewed in Velika's finest cellars.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/Vinegar_Tex.png"
+  },
+  "Distilled Liquor": {
+    "id": "450458",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRPotent spirits distilled through ancient Velikan methods.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/DistilledLiquor_Tex.png"
+  },
+  "Angler's Whiskers I": {
+    "id": "450832",
+    "tooltip": "<font color = '#2478FF'>[Angler's Whiskers]</font>$BRA finely crafted mask resembling the whiskers of a legendary fish.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories$BR$BRCan be upgraded to a Angler's Whiskers II.",
+    "icon": "/icons/Icon_Items/Gear_AnglerWhiskers_Tex.png"
+  },
+  "Crude Sickle": {
+    "id": "451064",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your Plant harvesting time by $H_W_GOOD2 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.$BR$BR<font color = '#FFBB00'>[Upgrade]</font>$BRCan be upgraded to a Low Quality Sickle.",
+    "icon": "/icons/Icon_Items/parts_lightarmorC6_Tex.png"
+  },
+  "Superior Sickle": {
+    "id": "451069",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your Plant harvesting time by $H_W_GOOD8 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.",
+    "icon": "/icons/Icon_Items/parts_lightarmorC7_Tex.png"
+  },
+  "Crude Extractor": {
+    "id": "451076",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your Energy harnessing time by $H_W_GOOD2 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.$BR$BR<font color = '#FFBB00'>[Upgrade]</font>$BRCan be upgraded to a Low Quality Extractor.",
+    "icon": "/icons/Icon_Items/parts_lightarmorC12_Tex.png"
+  },
+  "Superior Extractor": {
+    "id": "451081",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your Energy harnessing time by $H_W_GOOD8 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.",
+    "icon": "/icons/Icon_Items/parts_lightarmorC11_Tex.png"
+  },
+  "Harmony Grass": {
+    "id": "206800",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRHarvested alongside raw plant materials. Used in Cooking.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRHarmony Grass$BRWild Cobseed$BRWild Veridia$BROrange Mushroom$BRMoongourd$BRApple Tree$BR$BRGathering nodes are located all around the world. Specific locations for this material are listed in Achievement (Extracurricular Activities).",
+    "icon": "/icons/Icon_Items/q_GreenGrass_Tex.png"
+  },
+  "Apple": {
+    "id": "450626",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRJuicy fruit grown in orchards favored by Elinu and Popori alike.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/Apple_Tex.png"
+  },
+  "Achromic Essence": {
+    "id": "451525",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRFound in the wilds of Arborea. Small crystals glimmer in the light of Balder's Eye.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAchromic Essence (Arborea)",
+    "icon": "/icons/Icon_Items/Union_Collect3_Tex.png"
+  },
+  "Opal Essence Crystal": {
+    "id": "206821",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRCrystalline energy harnessed for crafting magical items. Can be Processed into Opal Silex.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRWhite Essence$BR$BRGathering nodes are located all around the world. Specific locations for this material are listed in Achievement (Extracurricular Activities).",
+    "icon": "/icons/Icon_Items/Union_Quest3_Tex.png"
+  },
+  "Obsidian Essence Crystal": {
+    "id": "206822",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRCrystalline energy harnessed for crafting magical items. Can be Processed into Obsidian Silex.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRObsidian Essence$BR$BRGathering nodes are located all around the world. Specific locations for this material are listed in Achievement (Extracurricular Activities).",
+    "icon": "/icons/Icon_Items/BlockOfChaos_Tex.png"
+  },
+  "Duranium Ore": {
+    "id": "451575",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRDense ore extracted from Exodor's mineral veins.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRDuranium Ore (Exodor Archipelago)",
+    "icon": "/icons/Icon_Items/DuraniumOre_Tex.png"
+  },
+  "Metal Solvent": {
+    "id": "450339",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRSpecially made to extract properties from refined metals.",
+    "icon": "/icons/Icon_Items/metalsolvent_Tex.png"
+  },
+  "Herbal Powder": {
+    "id": "450340",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRFinely ground herbs, commonly used in basic alchemical recipes.",
+    "icon": "/icons/Icon_Items/herbalpowder_Tex.png"
+  },
+  "Spirit Powder": {
+    "id": "450341",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRDust imbued with faint traces of spiritual energy.",
+    "icon": "/icons/Icon_Items/spiritpowder_Tex.png"
+  },
+  "Essence of Nature": {
+    "id": "450342",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRHarnesses the raw essence of nature to enhance mixtures.",
+    "icon": "/icons/Icon_Items/EssenceOfNature_Tex.png"
+  },
+  "Clear Liquid Reagent": {
+    "id": "450343",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRA liquid base that helps stabilize alchemical compounds.",
+    "icon": "/icons/Icon_Items/ClearLiquidReagent_Tex.png"
+  },
+  "Pure Powder Reagent": {
+    "id": "450344",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRHigh-purity powder ideal for advanced alchemy.",
+    "icon": "/icons/Icon_Items/purepowderreagent_Tex.png"
+  },
+  "Fortitude Reagent": {
+    "id": "450345",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRImproves the resilience of crafted materials.",
+    "icon": "/icons/Icon_Items/fortituderegent_Tex.png"
+  },
+  "Tranquility Reagent": {
+    "id": "450346",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRReduces instability in sensitive alchemy processes.",
+    "icon": "/icons/Icon_Items/tranquilityregent_Tex.png"
+  },
+  "Refined Reagent": {
+    "id": "450347",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRCarefully refined for use in complex transmutations.",
+    "icon": "/icons/Icon_Items/refinedregent_Tex.png"
+  },
+  "Crafting Additive I": {
+    "id": "450351",
+    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 2.5%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "icon": "/icons/Icon_Items/Enrichment_0_Tex.png"
+  },
+  "Crafting Additive II": {
+    "id": "450352",
+    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 5%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "icon": "/icons/Icon_Items/Enrichment_Tex.png"
+  },
+  "Crafting Additive III": {
+    "id": "450353",
+    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 10%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "icon": "/icons/Icon_Items/Enrichment_Masterpiece_Tex.png"
+  },
+  "Crafting Additive IV": {
+    "id": "450354",
+    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 15%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "icon": "/icons/Icon_Items/Enrichment_2_Tex.png"
+  },
+  "Crafting Additive V": {
+    "id": "450355",
+    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 20%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "icon": "/icons/Icon_Items/Enrichment_superior_Tex.png"
+  },
+  "Wheat Flour": {
+    "id": "450372",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRFinely milled wheat, essential for countless recipes across Arborea.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/WheatFlour_Tex.png"
+  },
+  "Corn Flour": {
+    "id": "450373",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRGround cornmeal, a staple in Castanic cooking.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/CornFlour_Tex.png"
+  },
+  "Taproot Flour": {
+    "id": "450374",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSoft taproot flour, favored in northern recipes for hearty meals.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/PotatoFlour_Tex.png"
+  },
+  "Wheat Dough": {
+    "id": "450375",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRPrepared dough ready to become the foundation of baked goods.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/WheatDough_Tex.png"
+  },
+  "Corn Dough": {
+    "id": "450376",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRCorn-based dough, perfect for rustic breads and campfire treats.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/CornDough_Tex.png"
+  },
+  "Taproot Dough": {
+    "id": "450377",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSmooth taproot dough, known for making filling comfort food.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/PotatoDough_Tex.png"
+  },
+  "Mixed Herbs": {
+    "id": "450378",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA fragrant herb blend harvested from the slopes of Acarum.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/MixedHerbs_Tex.png"
+  },
+  "White Sauce": {
+    "id": "450381",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRCreamy sauce often served in High Elf cuisine.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/WhiteSauce_Tex.png"
+  },
+  "Red Sauce": {
+    "id": "450382",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRRich and savory, this sauce adds depth to any dish.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/RedSauce_Tex.png"
+  },
+  "Fruit Juice": {
+    "id": "450383",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRFreshly squeezed juice made from Arborean fruits.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/FruitJuice_Tex.png"
+  },
+  "Cheese": {
+    "id": "450385",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRAged to perfection, this cheese is prized in Allemantheia.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/Cheese_Tex.png"
+  },
+  "Spicy Powder": {
+    "id": "450386",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA fiery spice blend crafted by expert Barakan chefs.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/SpicyPowder_Tex.png"
+  },
+  "Sweet Powder": {
+    "id": "450387",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSpice of sweetness used to balance bold flavors.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/SweetPowder_Tex.png"
+  },
+  "Velika Meal": {
+    "id": "450417",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRFrom Velika’s hearth, this fare sharpens both blade and will.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD20$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/VelikaMeal_Tex.png"
+  },
+  "Allemantheia Meal": {
+    "id": "450418",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRDrawn from Allemantheia’s fields, it lends stout endurance to those who hold fast.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD10$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD10%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/AllemantheiaMeal_Tex.png"
+  },
+  "Kaiator Meal": {
+    "id": "450419",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRSeasoned in Kaiator’s kilns, its bold flavor stokes raw power.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD10$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/KaiatorMeal_Tex.png"
+  },
+  "Highwatch Meal": {
+    "id": "450420",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRCrafted by Highwatch mages, it hums with arcane might in every spoonful.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD1,861$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/HighwatchMeal_Tex.png"
+  },
+  "Balderon Meal": {
+    "id": "450421",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRForged in Balderon’s halls, its hearty blend fortifies the body with steadfast vigor.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD1,861$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/BalderonMeal_Tex.png"
+  },
+  "Special Velika Meal": {
+    "id": "450422",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRTreated as honor fare in Velika, it tempers fury into precise strikes.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD22$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/VelikaMeal_Tex.png"
+  },
+  "Special Allemantheia Meal": {
+    "id": "450423",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRServed beneath Allemantheia’s spires, it bolsters fortitude.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD11$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD11%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/AllemantheiaMeal_Tex.png"
+  },
+  "Special Kaiator Meal": {
+    "id": "450424",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRCelebrated at Kaiator’s snow rites, it channels power into your body.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD11$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/KaiatorMeal_Tex.png"
+  },
+  "Special Highwatch Meal": {
+    "id": "450425",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRUnder Highwatch’s starlight, it deepens your focus.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD3,360$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/HighwatchMeal_Tex.png"
+  },
+  "Special Balderon Meal": {
+    "id": "450426",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRCrafted in Balderon, it steeps the spirit in unbreakable resolve.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD3,360$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/BalderonMeal_Tex.png"
+  },
+  "Marvelous Velika Meal": {
+    "id": "450427",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRFit for Velika’s champions, this feast hones instincts to razor’s edge.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD24$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "icon": "/icons/Icon_Items/VelikaMeal_Tex.png"
+  },
+  "Marvelous Allemantheia Meal": {
+    "id": "450428",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Allemantheia’s halls, it unveils hidden vigor.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD12$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD12%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "icon": "/icons/Icon_Items/AllemantheiaMeal_Tex.png"
+  },
+  "Marvelous Kaiator Meal": {
+    "id": "450429",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BROffered in Kaiator halls, this meal elevates you to a legend.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD12$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "icon": "/icons/Icon_Items/KaiatorMeal_Tex.png"
+  },
+  "Marvelous Highwatch Meal": {
+    "id": "450430",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Highwatch’s moonlit feasts, it weaves potent magical energy around you.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD5,660$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "icon": "/icons/Icon_Items/HighwatchMeal_Tex.png"
+  },
+  "Marvelous Balderon Meal": {
+    "id": "450431",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Balderon’s grand halls, this meal grants unbreakable strength.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD5,660$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "icon": "/icons/Icon_Items/BalderonMeal_Tex.png"
+  },
+  "Lein's Fruit Wine": {
+    "id": "450433",
+    "tooltip": "<font color = '#2478FF'>[Drink]</font>$BRWine from Lein’s Farm, smooth and full-bodied with an unexpected warm bite. Renowned across the Freeholds for its depth of flavor.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD$value$COLOR_END.$BRDizziness$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Drinks)",
+    "icon": "/icons/Icon_Items/LeinFruitWine_Tex.png"
+  },
+  "Carrot Smoothie": {
+    "id": "450434",
+    "tooltip": "<font color = '#2478FF'>[Drink]</font>$BRTRefreshing blend made from finely crushed carrots.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases mount speed while flying by $H_W_GOOD40$COLOR_END.$BRRestores $H_W_GOOD20$COLOR_END flight gauge every $H_W_GOOD10$COLOR_END seconds.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Drinks)",
+    "icon": "/icons/Icon_Items/CarrotSmoothie_Tex.png"
+  },
+  "Herbal Juice": {
+    "id": "450435",
+    "tooltip": "<font color = '#2478FF'>[Drink]</font>$BRCalming herbal drink brewed to steady the body.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases your noncombat Movement Speed by $H_W_GOOD20$COLOR_END.$BRReduces aggro gains to nothing.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Drinks)",
+    "icon": "/icons/Icon_Items/HerbalJuice_Tex.png"
+  },
+  "Fried Fish": {
+    "id": "450436",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRFresh fish lightly fried until crisp, bringing out a rich and satisfying flavor.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Resist Factor by $H_W_GOOD$value$COLOR_END.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD$tickInterval2$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD$value3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/FriedFish_Tex.png"
+  },
+  "Carrot Pie": {
+    "id": "450441",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRA warm pie filled with sweet carrots, often prepared for long days of work and travel.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRReduces gathering time by $H_W_GOOD20%$COLOR_END.$BRIncreases movement speed by $H_W_GOOD20%$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/CarrotPie_Tex.png"
+  },
+  "Sweet Pudding": {
+    "id": "450442",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRA smooth and creamy dessert with a delicate sweetness.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases critical success by $H_W_GOOD15%$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/SweetPudding_Tex.png"
+  },
+  "Soft Omelet": {
+    "id": "450443",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRA fluffy omelet cooked slowly to achieve a tender texture.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRReduces crafting time by $H_W_GOOD20%$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "icon": "/icons/Icon_Items/SoftOmelet_Tex.png"
+  },
+  "Good Pet Food": {
+    "id": "450444",
+    "tooltip": "<font color = '#2478FF'>[Pet Food]</font>$BRA simple meal for a pet.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRecovers 50 stamina.$BR$BRChoose a partner and use the <font color='#66bbff'>Gift Button</font> in the Companion List.$BRPartners use Gifted Skills more often when stamina is high.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Pet Food)",
+    "icon": "/icons/Icon_Items/GoodPetFood_Tex.png"
+  },
+  "Nutricious Pet Food": {
+    "id": "450445",
+    "tooltip": "<font color = '#2478FF'>[Pet Food]</font>$BR A healthy meal for a pet.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRecovers 100 stamina.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Pet Food)",
+    "icon": "/icons/Icon_Items/NutriciousPetFood_Tex.png"
+  },
+  "Sweet Cooking Honey": {
+    "id": "450447",
+    "tooltip": "<font color = '#2478FF'>[Cooking Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 10%.$BR$BRConsumed each time. Not necessary, but useful for cooking.",
+    "icon": "/icons/Icon_Items/HoneyBottle_Tex.png"
+  },
+  "Dark Beer": {
+    "id": "450448",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA rich, malty brew favored in the taverns of Kaiator.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/DarkBeer_Tex.png"
+  },
+  "Sea Salt": {
+    "id": "450449",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRCrystals of salt harvested from the sea.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/SeaSalt_Tex.png"
+  },
+  "Cooking Oil": {
+    "id": "450451",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA common oil used for frying and sautéing in every corner of Arborea.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/CookingOil_Tex.png"
+  },
+  "Deep Frying Oil": {
+    "id": "450453",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSpecialized oil with a high heat tolerance for perfect crispiness.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/DeepFryingOil_Tex.png"
+  },
+  "Smooth Cream": {
+    "id": "450457",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRCream whipped to a silky smoothness, perfect for desserts.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking Shop",
+    "icon": "/icons/Icon_Items/CreamNew_Tex.png"
+  },
+  "Shadowglass Powder": {
+    "id": "450470",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRFinely ground shadowglass, often used in dark enchantments.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Shadowglass Essence",
+    "icon": "/icons/Icon_Items/Shadowglasspowder_Tex.png"
+  },
+  "Sunflare Powder": {
+    "id": "450471",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRSunflare dust, warm to the touch and brilliant in color.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Sunflare Essence",
+    "icon": "/icons/Icon_Items/Sunflarepowder_Tex.png"
+  },
+  "Verdestone Powder": {
+    "id": "450472",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRPowdered verdestone, known for its calming green glow.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Verdestone Essence",
+    "icon": "/icons/Icon_Items/Verdestonepowder_Tex.png"
+  },
+  "Moonshard Powder": {
+    "id": "450473",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRMoonshard powder, shimmering softly under starlight.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Moonshard Essence",
+    "icon": "/icons/Icon_Items/Moonshardpowder_Tex.png"
+  },
+  "Deepsea Azurite Powder": {
+    "id": "450474",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRDeepsea azurite powder, favored by master jewelers.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Deepsea Azurite Essence",
+    "icon": "/icons/Icon_Items/Deepseapowder_Tex.png"
+  },
+  "Shadowglass Crystal": {
+    "id": "450475",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA jagged shard of shadowglass, humming with dark energy.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Essence Powder and Refined Reagent",
+    "icon": "/icons/Icon_Items/Shadowglasscrystal_Tex.png"
+  },
+  "Sunflare Crystal": {
+    "id": "450476",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRRadiant sunflare crystal, glowing with stored solar heat.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Essence Powder and Refined Reagent",
+    "icon": "/icons/Icon_Items/Sunflarecrystal_Tex.png"
+  },
+  "Verdestone Crystal": {
+    "id": "450477",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRSmooth verdestone crystal, said to soothe the spirit.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Essence Powder and Refined Reagent",
+    "icon": "/icons/Icon_Items/Verdestonecrystal_Tex.png"
+  },
+  "Moonshard Crystal": {
+    "id": "450478",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRMoonshard crystal, its hues shifting with lunar phases.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Essence Powder and Refined Reagent",
+    "icon": "/icons/Icon_Items/Moonshardcrystal_Tex.png"
+  },
+  "Deepsea Azurite Crystal": {
+    "id": "450479",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA gleaming deepsea azurite crystal, cold as the abyss.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Essence Powder and Refined Reagent",
+    "icon": "/icons/Icon_Items/Deepseacrystal_Tex.png"
+  },
+  "Translucent Crystal": {
+    "id": "450480",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRAn ethereal etherglass crystal, nearly weightless and clear.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCombining Crystals",
+    "icon": "/icons/Icon_Items/Translucentcrystal_Tex.png"
+  },
+  "Design: Silvaron Ingot": {
+    "id": "450489",
+    "tooltip": "Use this design to learn the corresponding crafting skill.",
+    "icon": "/icons/Icon_Items/SmeltingRecipe_Tex.png"
+  },
+  "Melted Pyrelite Shard": {
+    "id": "450496",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRMelted shard of pyrelite, a common ore from volcanic regions.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMelting Pyrelite Ore",
+    "icon": "/icons/Icon_Items/Meltedpyreliteshard_Tex.png"
+  },
+  "Melted Darksteel Shard": {
+    "id": "450497",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRShard of darksteel, prized for its incredible durability.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMelting Darksteel Ore",
+    "icon": "/icons/Icon_Items/Melteddarksteelshard_Tex.png"
+  },
+  "Melted Gloomstone Shard": {
+    "id": "450498",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRShard of gloomstone, known to dampen magical energies.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMelting Gloomstone Ore",
+    "icon": "/icons/Icon_Items/Meltedgloomstoneshard_Tex.png"
+  },
+  "Melted Silvaron Shard": {
+    "id": "450499",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRShard of silvaron, a light and flexible crafting metal.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMelting Silvaron Ore",
+    "icon": "/icons/Icon_Items/Meltedsilvaronshard_Tex.png"
+  },
+  "Melted Luminite Shard": {
+    "id": "450500",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRShard of luminite, shimmering faintly with stored light.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMelting Luminite Ore",
+    "icon": "/icons/Icon_Items/Meltedluminiteshard_Tex.png"
+  },
+  "Pyrelite Ingot": {
+    "id": "450501",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRA solid bar of refined pyrelite, glowing with inner heat.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Melted Shards and Rough Stone",
+    "icon": "/icons/Icon_Items/Pyreliteingot_Tex.png"
+  },
+  "Darksteel Ingot": {
+    "id": "450502",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRUnbreakable ingot of darksteel, used in heavy armor.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Melted Shards and Rough Stone",
+    "icon": "/icons/Icon_Items/Darksteelingot_Tex.png"
+  },
+  "Gloomstone Ingot": {
+    "id": "450503",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRGloomstone ingot, effective in damping unwanted auras.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Melted Shards and Rough Stone",
+    "icon": "/icons/Icon_Items/Gloomstoneingot_Tex.png"
+  },
+  "Silvaron Ingot": {
+    "id": "450504",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRLight silvaron ingot, perfect for intricate mechanisms.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Melted Shards and Rough Stone",
+    "icon": "/icons/Icon_Items/Silvaroningot_Tex.png"
+  },
+  "Luminite Ingot": {
+    "id": "450505",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRBright luminite ingot, glowing softly in the dark.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Melted Shards and Rough Stone",
+    "icon": "/icons/Icon_Items/Luminiteingot_Tex.png"
+  },
+  "Polished Pyrelite Ingot": {
+    "id": "450506",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRA flawlessly polished pyrelite ingot, radiating warmth.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPolishing Pyrelite Ingot with Metal Solvent",
+    "icon": "/icons/Icon_Items/PolishedPyreliteingot_Tex.png"
+  },
+  "Polished Darksteel Ingot": {
+    "id": "450507",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRA mirror-smooth darksteel ingot, nearly indestructible.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPolishing Darksteel Ingot with Metal Solvent",
+    "icon": "/icons/Icon_Items/PolishedDarksteelingot_Tex.png"
+  },
+  "Polished Gloomstone Ingot": {
+    "id": "450508",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRRefined gloomstone ingot, humming with suppressed magic.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPolishing Gloomstone Ingot with Metal Solvent",
+    "icon": "/icons/Icon_Items/PolishedGloomstoneingot_Tex.png"
+  },
+  "Polished Silvaron Ingot": {
+    "id": "450509",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRSilvaron, buffed to a pristine finish.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPolishing Silvaron Ingot with Metal Solvent",
+    "icon": "/icons/Icon_Items/PolishedSilvaroningot_Tex.png"
+  },
+  "Polished Luminite Ingot": {
+    "id": "450510",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRRadiant luminite ingot, emitting a soft glow.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPolishing Luminite Ingot with Metal Solvent",
+    "icon": "/icons/Icon_Items/PolishedLuminiteingot_Tex.png"
+  },
+  "Landmine": {
+    "id": "450517",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRDeploys a trap that triggers when stepped on to deal heavy area damage to enemies within range.",
+    "icon": "/icons/Icon_Items/Union_Bomb2_Tex.png"
+  },
+  "Time Bomb": {
+    "id": "450518",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRDeploys an unstable explosive that detonates after a short delay.",
+    "icon": "/icons/Icon_Items/Union_Bomb4_Tex.png"
+  },
+  "Summon: Attack Flag": {
+    "id": "450519",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRSummons an Attack Flag which lasts 2 minutes and increases your and your allies <font color = '#41FF3A'>Power</font> by <font color = '#41FF3A'>30%</font> in radius of 15 meters.",
+    "icon": "/icons/Icon_Items/Scroll_Cri_Power_Level_60_Tex.png"
+  },
+  "Summon: Endurance Flag": {
+    "id": "450520",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRSummons an Endurance Flag which lasts 2 minutes and increases your and your allies <font color = '#41FF3A'>Endurance</font> by <font color = '#41FF3A'>30%</font> in radius of 15 meters.",
+    "icon": "/icons/Icon_Items/Scroll_Def_Protect_Level_60_Tex.png"
+  },
+  "Summon: Recovery Flag": {
+    "id": "450521",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRSummons a Recovery Flag which lasts 2 minutes and recovers your and your allies <font color = '#41FF3A'>HP</font> by <font color = '#41FF3A'>5%</font> in radius of 15 meters every few seconds.",
+    "icon": "/icons/Icon_Items/Scroll_Atk_Speed_Level_60_Tex.png"
+  },
+  "Grinded Balder Essence": {
+    "id": "450528",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA finely ground essence infused with Balder’s divine energy.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Balder's Essence",
+    "icon": "/icons/Icon_Items/GrindedBalderessence_Tex.png"
+  },
+  "Grinded Dagon Essence": {
+    "id": "450529",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRCrushed remnants of Dagon’s chaotic power, still pulsing faintly.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Dagon's Essence",
+    "icon": "/icons/Icon_Items/GrindedDagonessence_Tex.png"
+  },
+  "Grinded Roak Essence": {
+    "id": "450530",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRPulverized Roak essence, carrying the echoes of ancient storms.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Roak's Essence",
+    "icon": "/icons/Icon_Items/GrindedRoakessence_Tex.png"
+  },
+  "Grinded Ishara Essence": {
+    "id": "450531",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRGround essence imbued with Ishara’s wisdom and foresight.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Ishara's Essence",
+    "icon": "/icons/Icon_Items/GrindedIsharaessence_Tex.png"
+  },
+  "Grinded Oryin Essence": {
+    "id": "450532",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA dust-like essence once part of Oryin’s celestial spirit.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Oryin's Essence",
+    "icon": "/icons/Icon_Items/GrindedOryinessence_Tex.png"
+  },
+  "Purified Essence of Arun": {
+    "id": "450538",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA purified crystalline form of Arun's raw energy.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPurifying Essences",
+    "icon": "/icons/Icon_Items/PurifiedEssenceArun_Tex.png"
+  },
+  "Purified Essence of Shara": {
+    "id": "450539",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA refined essence drawn from the depths of Shara’s lands.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPurifying Essences",
+    "icon": "/icons/Icon_Items/PurifiedEssenceShara_Tex.png"
+  },
+  "Purified Essence of Dawn": {
+    "id": "450540",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BREssence distilled from the First Light of Dawn, radiating warmth.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPurifying Essences",
+    "icon": "/icons/Icon_Items/PurifiedEssenceDawn_Tex.png"
+  },
+  "Purified Essence of Veil": {
+    "id": "450541",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA purified essence shrouded in mystery, said to hold forgotten truths.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPurifying Essences",
+    "icon": "/icons/Icon_Items/PurifiedEssenceVeil_Tex.png"
+  },
+  "Manahan's Nucleus": {
+    "id": "450542",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRAn essence of unparalleled purity, sought by master crafters.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCombining Pure Essences",
+    "icon": "/icons/Icon_Items/PureEssence_Tex.png"
+  },
+  "Weapon Etching Dust": {
+    "id": "450551",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "Enduring Weapon Etching Dust": {
+    "id": "450552",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "Glove Etching Dust": {
+    "id": "450553",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "Enduring Glove Etching Dust": {
+    "id": "450554",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "Armor Etching Dust": {
+    "id": "450555",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "Enduring Armor Etching Dust": {
+    "id": "450556",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "Boots Etching Dust": {
+    "id": "450557",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "Enduring Boots Etching Dust": {
+    "id": "450558",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "Ring Etching Dust": {
+    "id": "450569",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "Enduring Ring Etching Dust": {
+    "id": "450570",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "Earrings Etching Dust": {
+    "id": "450571",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "Enduring Earrings Etching Dust": {
+    "id": "450572",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "Necklace Etching Dust": {
+    "id": "450573",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "Enduring Necklace Etching Dust": {
+    "id": "450574",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "Belt Etching Dust": {
+    "id": "450575",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "Enduring Belt Etching Dust": {
+    "id": "450576",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "Brooch Etching Dust": {
+    "id": "450577",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "Enduring Brooch Etching Dust": {
+    "id": "450578",
+    "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "Mystic Thread": {
+    "id": "450589",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Tool]</font>$BRThread imbued with mystical energy, essential for enchanted garments.",
+    "icon": "/icons/Icon_Items/Mysticthread_Tex.png"
+  },
+  "Shimmering Scissors": {
+    "id": "450590",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Tool]</font>$BRGleaming scissors that hum with latent magic, cutting fabric effortlessly.",
+    "icon": "/icons/Icon_Items/ShimmerScissors_Tex.png"
+  },
+  "Phantom Silk": {
+    "id": "450591",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Tool]</font>$BREthereal silk that shifts between realms, prized by master tailors.",
+    "icon": "/icons/Icon_Items/PhantomSilk_Tex.png"
+  },
+  "Spellwoven Spindle": {
+    "id": "450592",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Tool]</font>$BRAn enchanted spindle that weaves arcane patterns into cloth.",
+    "icon": "/icons/Icon_Items/SpellwovenSpindle_Tex.png"
+  },
+  "Blessed Loom": {
+    "id": "450593",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Tool]</font>$BRA loom blessed by artisans of Velika, ensuring flawless craftsmanship.",
+    "icon": "/icons/Icon_Items/BlessedLoom_Tex.png"
+  },
+  "Flax Fabric": {
+    "id": "450594",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRSturdy flax fabric, woven for practical yet durable attire.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Flax Thread",
+    "icon": "/icons/Icon_Items/FlaxFabric_Tex.png"
+  },
+  "Cotton Fabric": {
+    "id": "450595",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRSoft yet resilient cotton, favored in both casual and battle wear.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Cotton Yarn",
+    "icon": "/icons/Icon_Items/CottonFabric_Tex.png"
+  },
+  "Fine Linen": {
+    "id": "450597",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRFine linen favored by nobles, lightweight yet remarkably strong.",
+    "icon": "/icons/Icon_Items/FineLinen_Tex.png"
+  },
+  "Silk Weave": {
+    "id": "450598",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRExquisite silk woven with arcane precision, shimmering in the light.",
+    "icon": "/icons/Icon_Items/SilkWeave_Tex.png"
+  },
+  "Flax": {
+    "id": "450601",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRA hardy plant cultivated for its versatile fibers.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGathering Plants",
+    "icon": "/icons/Icon_Items/Flax_Tex.png"
+  },
+  "Flax Thread": {
+    "id": "450602",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRThread spun from flax fibers, used in sturdy textiles.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Flax",
+    "icon": "/icons/Icon_Items/FlaxThread_Tex.png"
+  },
+  "Cotton": {
+    "id": "450603",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRSoft plant fibers harvested for weaving and tailoring.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGathering Plants",
+    "icon": "/icons/Icon_Items/Cotton_Tex.png"
+  },
+  "Cotton Yarn": {
+    "id": "450604",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRYarn spun from cotton, favored for its lightweight texture.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Cotton",
+    "icon": "/icons/Icon_Items/CottonYarn_Tex.png"
+  },
+  "Empty Wooden Crate": {
+    "id": "450621",
+    "tooltip": "<font color = '#2478FF'>[Delivery]</font>$BREmpty wooden crate, sturdy and ready to hold fresh goods.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFarming or Fishing Merchant",
+    "icon": "/icons/Icon_Items/q_WoodenBox_Tex.png"
+  },
+  "Lemon": {
+    "id": "450628",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSour fruit with a sharp, invigorating scent.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/Lemon_Tex.png"
+  },
+  "Raw Noruk Meat": {
+    "id": "450636",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRFreshly gathered Noruk meat, ideal for crafting and cooking.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Noruk (North Arun - Ex Prima)",
+    "icon": "/icons/Icon_Items/Rawnorukmeat_Tex.png"
+  },
+  "Raw Pigling Meat": {
+    "id": "450637",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRPigling meat, favorite meat in Kaiator, rich in flavor and a great base for many dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Pigling (North Shara - Kaiator Outskirts)",
+    "icon": "/icons/Icon_Items/Rawpiglingmeat_Tex.png"
+  },
+  "Raw Boar Meat": {
+    "id": "450638",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRWild boar meat, prized for its robust taste and versatility.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Boars (South Shara - Feral Valley)",
+    "icon": "/icons/Icon_Items/Rawboarmeat_Tex.png"
+  },
+  "Raw Bear Meat": {
+    "id": "450639",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRBear meat, a hearty ingredient for robust meals.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Bear (South Arun - Fey Forest/Valley of Titans)",
+    "icon": "/icons/Icon_Items/Rawbearmeat_Tex.png"
+  },
+  "Raw Naga Meat": {
+    "id": "450640",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRNaga meat, often used in exotic recipes with a strong flavor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Naga (Exodor Archipelago - Exodor Farmland)",
+    "icon": "/icons/Icon_Items/Rawnagameat_Tex.png"
+  },
+  "Raw Tough Tuskboar Meat": {
+    "id": "450641",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRTough tuskboar meat, requiring expert processing to unlock its full flavor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Tough Tuskboar (Arborea - Velika Outskirts)",
+    "icon": "/icons/Icon_Items/Rawtoughtuskboarmeat_Tex.png"
+  },
+  "Processed Noruk Meat": {
+    "id": "450642",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRCarefully processed Noruk meat, known for its savory richness, perfect for hearty dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Raw Meat",
+    "icon": "/icons/Icon_Items/Processednorukmeat_Tex.png"
+  },
+  "Processed Pigling Meat": {
+    "id": "450643",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRPigling meat, meticulously processed to enhance its tender texture and flavor, making it ideal for culinary delights.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKProcessing Raw Meat",
+    "icon": "/icons/Icon_Items/Processedpiglingmeat_Tex.png"
+  },
+  "Processed Boar Meat": {
+    "id": "450644",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRBoar meat, expertly processed to retain its bold and hearty flavor, a versatile ingredient for various recipes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Raw Meat",
+    "icon": "/icons/Icon_Items/Processedboarmeat_Tex.png"
+  },
+  "Processed Bear Meat": {
+    "id": "450645",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRBear meat, processed to preserve its robust essence, adding richness to any dish.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Raw Meat",
+    "icon": "/icons/Icon_Items/Processedbearmeat_Tex.png"
+  },
+  "Processed Naga Meat": {
+    "id": "450646",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRNaga meat, carefully processed to highlight its unique, exotic flavor, perfect for special recipes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Raw Meat",
+    "icon": "/icons/Icon_Items/Processednagameat_Tex.png"
+  },
+  "Processed Tough Tuskboar Meat": {
+    "id": "450647",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRTough tuskboar meat, processed with skill to unlock its deep, savory taste, ideal for crafting substantial meals.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Raw Meat",
+    "icon": "/icons/Icon_Items/Processedtoughtuskboarmeat_Tex.png"
+  },
+  "Noruk Hide": {
+    "id": "450653",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRDurable hide from the wild Noruk, often used in crafting strong armor and gear.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Hide into Leather$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Noruk (North Arun - Ex Prima)",
+    "icon": "/icons/Icon_Items/Norukhide_Tex.png"
+  },
+  "Sabertooth Hide": {
+    "id": "450654",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRSabertooth hide, prized for its strength and resilience, often used to craft protective armor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Hide into Leather$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Sabertooths (South Arun - Basilisk Crag)",
+    "icon": "/icons/Icon_Items/Sabertoothhide_Tex.png"
+  },
+  "Wolf Hide": {
+    "id": "450655",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRWolf hide, sought after for its flexibility and durability, perfect for lightweight armor and accessories.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Hide into Leather$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Wolves (South Shara - Sienna Canyon)",
+    "icon": "/icons/Icon_Items/Wolfhide_Tex.png"
+  },
+  "Hyena Hide": {
+    "id": "450656",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRHyena hide, known for its rugged toughness, frequently used in crafting sturdy yet flexible gear.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Hide into Leather$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Hyenas (North Shara - Vale of Spires)",
+    "icon": "/icons/Icon_Items/Hyenahide_Tex.png"
+  },
+  "Unicorn Hide": {
+    "id": "450657",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRUnicorn hide, a rare and magical material, often used in the creation of exquisite armor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Hide into Leather$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Unicorns (Exodor Archipelago - Rosema Tribe Residence)",
+    "icon": "/icons/Icon_Items/Unicornhide_Tex.png"
+  },
+  "Processed Noruk Leather": {
+    "id": "450658",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRDurable hide from the wild Noruk, refined for various uses.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTailoring$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessed from Noruk Hide",
+    "icon": "/icons/Icon_Items/Processednorukleather_Tex.png"
+  },
+  "Processed Sabertooth Leather": {
+    "id": "450659",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRSabertooth hide, carefully processed for its strength and resilience.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTailoring$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessed from Sabertooth Hide",
+    "icon": "/icons/Icon_Items/Processedsabertoothleather_Tex.png"
+  },
+  "Processed Wolf Leather": {
+    "id": "450660",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRWolf hide, refined to enhance its flexibility and durability.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTailoring$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessed from Wolf Hide",
+    "icon": "/icons/Icon_Items/Processedwolfleather_Tex.png"
+  },
+  "Processed Hyena Leather": {
+    "id": "450661",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRHyena hide, expertly treated for its tough yet flexible properties.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTailoring$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessed from Hyena Hide",
+    "icon": "/icons/Icon_Items/Processedhyenaleather_Tex.png"
+  },
+  "Processed Unicorn Leather": {
+    "id": "450662",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRUnicorn hide, delicately processed for its unique magical properties.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTailoring$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessed from Unicorn Hide",
+    "icon": "/icons/Icon_Items/Processedunicornleather_Tex.png"
+  },
+  "Lump of Sugar": {
+    "id": "450672",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRRefined sugar cube, often given to horses.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame a Smoky Black, Overo or Silver Gray Horse in Shadevale Camp in Fey Forest.$BR$BRThese horses have <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/Lumpofsugar_Tex.png"
+  },
+  "Caramelized Lump of Sugar": {
+    "id": "450673",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRCaramelized sugar cube, its rich sweetness enticing even the wariest steed.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame an Armored Smoky Black, Overo or Silver Gray in Two Oaks Ranch in Valley of Titans.$BR$BRThese horses have <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/ShadowLumpofsugar_Tex.png"
+  },
+  "Powdered Lump of Sugar": {
+    "id": "450674",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRPowdered sugar cube, light and airy, favored by noble mounts.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame Lord's Smoky Black, Overo or Silver Gray in Suncrest Camp in Celestial Hills.$BR$BRThese horses have <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/RadiantLumpofsugar_Tex.png"
+  },
+  "Prime Cut of Meat": {
+    "id": "450675",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRPrime Cut of Meat, a preferred offering for lions.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame a Shade Roar, Ember Roar or Silver Roar in Dune's Rest Camp in Allemantheia Outskirts.$BR$BRThis lion has <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/FreshMeat_Tex.png"
+  },
+  "Charred Prime Cut of Meat": {
+    "id": "450676",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRCharred meat, carrying a mysterious odor, sought after by fierce lions.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame an Fierce Blazemane, Gloommane or Veilmane in Firebase Intrepid in Fyrmount.$BR$BRThis lion has <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/ShadowFreshMeat_Tex.png"
+  },
+  "Seasoned Prime Cut of Meat": {
+    "id": "450677",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRSeasoned cut of meat, rich with flavor, favored by the mightiest of lions.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame a King's Shade, Blaze or Might in Mirage Oasis in Allemantheia Outskirts.$BR$BRThis lion has <font color = '#f7a001'>movement speed of 330</font> and an ability to fly.",
+    "icon": "/icons/Icon_Items/RadiantFreshMeat_Tex.png"
+  },
+  "Wolf Tag": {
+    "id": "450678",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRWolf tag, a preferred marking for wolves.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame a Rosawolf, Duskwolf or Dawnwolf near Camp Verdant in Scythera Fae.$BR$BRThis wolf has <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/WolfTag_Tex.png"
+  },
+  "Ancient Wolf Tag": {
+    "id": "450679",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRAncient Wolf Tag, touched by darkness, signifying a rare bond.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame a Vengeful Frostfang, Stormfang or Verdantfang in Firebase Audacity in Plain of the Damned.$BR$BRThis wolf has <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/ShadowWolfTag_Tex.png"
+  },
+  "Inscribed Wolf Tag": {
+    "id": "450680",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRInscribed Wolf Tag, imbued with light, marking an exceptional companion.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame a Tamer's Thunderhowl, Briarhowl or Ragehowl near Icebase Defiance in Vale of Spires.$BR$BRThis wolf has <font color = '#f7a001'>movement speed of 330</font> and an ability to fly.",
+    "icon": "/icons/Icon_Items/RadiantWolfTag_Tex.png"
+  },
+  "Dragon Armor": {
+    "id": "450684",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRArmor designed for dragons, providing the necessary protection to bond with them.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame an Aurelian Dragon, Cerulean Dragon or an Eclipse Dragon near Roostcliff Quarter in Sienna Canyon.$BR$BRThis dragon has <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/DragonArmor_Tex.png"
+  },
+  "Reinforced Dragon Armor": {
+    "id": "450685",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRReinforced armor with a mysterious aura, its dark plating resonates with draconic might.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame a Gilded Obsidian Fury, Sunscale Fury or Moonscale Fury near Holdouts Redoubt in Mount Tyrannas.$BR$BRThis dragon has <font color = '#f7a001'>movement speed of 330</font>.",
+    "icon": "/icons/Icon_Items/ShadowDragonArmor_Tex.png"
+  },
+  "Radiant Dragon Armor": {
+    "id": "450686",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BROrnate armor imbued with energy, imbued with celestial fire to strengthen the bond.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame a Warden's Veilborn Sovereign, Warden's Duskrise Sovereign or Warden's Dawnbreak Sovereign near Jagged Crest in Wyrmgorge.$BR$BRThis dragon has <font color = '#f7a001'>movement speed of 330</font> and an ability to fly.",
+    "icon": "/icons/Icon_Items/RadiantDragonArmor_Tex.png"
+  },
+  "Ostgarath's Fishing Rod I": {
+    "id": "450694",
+    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA strong Ostgarath fishing rod.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a high-grade fish by $H_W_GOOD3%$COLOR_END$BRDecreases waiting time by $H_W_GOOD1.5%$COLOR_END $BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 1-3 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to a Xermetal Rod I.",
+    "icon": "/icons/Icon_Items/OstgarathFishingRod_Tex.png"
+  },
+  "Essenia's Fishing Rod I": {
+    "id": "450704",
+    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA light and flexible Essenia fishing rod.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a Big-Ass Fish by $H_W_GOOD0.3%$COLOR_END$BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 1-3 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to an Essenia's Fishing Rod II.",
+    "icon": "/icons/Icon_Items/EsseniaFishingRod_Tex.png"
+  },
+  "Pora Elinu's Fishing Rod I": {
+    "id": "450714",
+    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA brilliant Pora Elinu fishing rod crafted with a touch of fairy powder.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases auto-fishing waiting time by 3% $BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 1-3 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to a Pora Elinu's Fishing Rod II.",
+    "icon": "/icons/Icon_Items/PoraElinuFishingRod_Tex.png"
+  },
+  "Ironclad Beetle": {
+    "id": "450736",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRResilient beetle with a near-impenetrable shell, commonly found in the rugged argon terrain near Pathfinder Post.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Hooked Fish Bait$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCatching bugs around Pathfinder Post",
+    "icon": "/icons/Icon_Items/Ironcladbeetle_Tex.png"
+  },
+  "Ember Beetle": {
+    "id": "450737",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRFiery insect thriving in the molten landscapes of Fyrmount, glowing with ember-like heat.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Hooked Fish Bait$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCatching bugs at Fyrmount",
+    "icon": "/icons/Icon_Items/Emberbeetle_Tex.png"
+  },
+  "Dune Beetle": {
+    "id": "450738",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRHardy beetle adapted to the arid sands of Wyrmgorge, known for its swift burrowing.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Hooked Fish Bait$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCatching bugs at Wyrmgorge",
+    "icon": "/icons/Icon_Items/Dunebeetle_Tex.png"
+  },
+  "Azure Beetle": {
+    "id": "450739",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRLuminous beetle native to Ex Prima, shimmering with a faint glow.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Hooked Fish Bait$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCatching bugs at Ex Prima",
+    "icon": "/icons/Icon_Items/Azurebeetle_Tex.png"
+  },
+  "Stag Beetle": {
+    "id": "450740",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRLarge-horned beetle often seen around Popolion, prized for its big horns.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Hooked Fish Bait$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCatching bugs at Popolion",
+    "icon": "/icons/Icon_Items/Stagbeetle_Tex.png"
+  },
+  "Writhing Glowworm": {
+    "id": "450741",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRWrithing, bioluminescent worm that emits a faint glow, making it irresistible to fish.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Hooked Fish Bait$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCatching bugs at Stepstone Island",
+    "icon": "/icons/Icon_Items/WrithingGlowworm_Tex.png"
+  },
+  "Metal Hook": {
+    "id": "450742",
+    "tooltip": "<font color = '#2478FF'>[Crafting Tool]</font>$BRSturdy metal hook used as a base for crafting bait with beetles.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Hooked Fish Bait$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFishing Supplies Merchants",
+    "icon": "/icons/Icon_Items/MetalHook_Tex.png"
+  },
+  "Angler's Seal": {
+    "id": "450815",
+    "tooltip": "<font color = '#2478FF'>[Fishing Resource]</font>$BREarned every time you catch a fish. Used to upgrade fishing rods, or can be exchanged at an Angler Token Vendor for useful items.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRFishing Rod Upgrades$BRAngler Token Vendor$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFishing",
+    "icon": "/icons/Icon_Items/AnglerSeal_Tex.png"
+  },
+  "Arborean Filet": {
+    "id": "450816",
+    "tooltip": "<font color = '#FFA500'>[Fish Filet]</font>$BRFresh cut of fish, commonly used in various Arborean dishes. Mild in flavor, but a staple in many meals.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFiletting Grade 0-5 Arborea Fish",
+    "icon": "/icons/Icon_Items/ArboreanFilet_Tex.png"
+  },
+  "Prime Arborean Filet": {
+    "id": "450817",
+    "tooltip": "<font color = '#FFA500'>[Fish Filet]</font>$BRHigh-quality filet from the finest fish of Arborea. Rich in flavor, often reserved for gourmet cooking.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFiletting Grade 5-10 Arborea Fish",
+    "icon": "/icons/Icon_Items/PrimeArboreanFilet_Tex.png"
+  },
+  "Exodor Filet": {
+    "id": "450818",
+    "tooltip": "<font color = '#FFA500'>[Fish Filet]</font>$BRSlice of fish harvested from the vibrant waters of Exodor. Its texture is slightly firmer and spicier than its Arborean counterpart.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFiletting Grade 0-5 Exodor Fish",
+    "icon": "/icons/Icon_Items/ExodorFilet_Tex.png"
+  },
+  "Prime Exodor Filet": {
+    "id": "450819",
+    "tooltip": "<font color = '#FFA500'>[Fish Filet]</font>$BRPremium cut from the rare fish of Exodor. Its unique taste and tenderness make it a prized ingredient.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFiletting Grade 5-10 Exodor Fish",
+    "icon": "/icons/Icon_Items/PrimeExodorFilet_Tex.png"
+  },
+  "Titan Filet": {
+    "id": "450820",
+    "tooltip": "<font color = '#FFA500'>[Fish Filet]</font>$BRColossal portion of fish meat, sourced from only the largest catches. Used in feasts and extravagant dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFiletting Arborea and Exodor Big-Ass Fish",
+    "icon": "/icons/Icon_Items/TitanFilet_Tex.png"
+  },
+  "Arborean Filet Crate": {
+    "id": "450826",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRCrate of freshly packed filets, sourced from Arborea's abundant waters. Ideal for trade or delivery.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Arborean Filet",
+    "icon": "/icons/Icon_Items/Material_box_1_Tex.png"
+  },
+  "Prime Arborean Filet Crate": {
+    "id": "450827",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRPremium selection of Arborean fish, expertly cut and packed for high-value angler requests.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Prime Arborean Filet",
+    "icon": "/icons/Icon_Items/Material_box_2_Tex.png"
+  },
+  "Exodor Filet Crate": {
+    "id": "450828",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRCrate containing carefully prepared filets from Exodor’s unique aquatic species. Ready for delivery.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Grade Exodor Filet",
+    "icon": "/icons/Icon_Items/Material_box_4_Tex.png"
+  },
+  "Prime Exodor Filet Crate": {
+    "id": "450829",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRSuperior-grade filet package featuring the finest Exodor fish, sought after by discerning buyers.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Prime Exodor Filet",
+    "icon": "/icons/Icon_Items/Material_box_5_Tex.png"
+  },
+  "Titan Filet Crate": {
+    "id": "450830",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRMassive, dense cuts of fish from the largest aquatic fish. Only the most skilled anglers can catch these and prepare them to their finest potential.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Titan Filet",
+    "icon": "/icons/Icon_Items/Material_box_6_Tex.png"
+  },
+  "Angler's Belt I": {
+    "id": "450843",
+    "tooltip": "<font color = '#2478FF'>[Angler's Belt]</font>$BRSturdy belt adorned with hooks and lures, favored by seasoned anglers.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "icon": "/icons/Icon_Items/Gear_AnglerBelt_Tex.png"
+  },
+  "Angler's Emblem I": {
+    "id": "450854",
+    "tooltip": "<font color = '#2478FF'>[Angler's Emblem]</font>$BRA durable emblem decorated with sharp hooks and intricate lures.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "icon": "/icons/Icon_Items/Gear_AnglerEmblem_Tex.png"
+  },
+  "Angler's Circlet I": {
+    "id": "450868",
+    "tooltip": "<font color = '#2478FF'>[Angler's Circlet]</font>$BRBeautifully crafted circlet, adorned with delicate hooks and shimmering lures, mark of an expert angler's skill.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories$BR$BRCan be upgraded to a Angler's Circlet II.",
+    "icon": "/icons/Icon_Items/Gear_AnglerCirclet_Tex.png"
+  },
+  "Angler's Armor I": {
+    "id": "450878",
+    "tooltip": "<font color = '#2478FF'>[Angler's Gear]</font>$BRRobust chest armor, designed to withstand the elements and keep anglers safe.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD5%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Gear$BR$BRCan be upgraded to a Angler's Armor II.",
+    "icon": "/icons/Icon_Items/Gear_AnglerArmor_Tex.png"
+  },
+  "Angler's Gloves I": {
+    "id": "450888",
+    "tooltip": "<font color = '#2478FF'>[Angler's Gear]</font>$BRTough gauntlets crafted for anglers, ensuring a secure grip and added protection when reeling in big catches.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD10%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD10%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Gear$BR$BRCan be upgraded to a Angler's Gloves II.",
+    "icon": "/icons/Icon_Items/Gear_AnglerGlove_Tex.png"
+  },
+  "Angler's Boots I": {
+    "id": "450898",
+    "tooltip": "<font color = '#2478FF'>[Angler's Gear]</font>$BRDurable boots made for anglers, offering reliable support and traction on both land and water.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD5%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Gear$BR$BRCan be upgraded to a Angler's Boots II.",
+    "icon": "/icons/Icon_Items/Gear_AnglerFoot_Tex.png"
+  },
+  "Angler's Ring I": {
+    "id": "450911",
+    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRSimple yet sturdy ring, adorned with small hooks, worn by anglers to mark their passion for the craft.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "icon": "/icons/Icon_Items/Gear_AnglerRing_Tex.png"
+  },
+  "Angler's Necklace I": {
+    "id": "450921",
+    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRNecklace featuring delicate lures, favored by anglers for both its practicality and style.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "icon": "/icons/Icon_Items/Gear_AnglerNecklace_Tex.png"
+  },
+  "Angler's Earring I": {
+    "id": "450931",
+    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRSimple earring featuring a small hook design, worn by anglers as a practical accessory for their craft.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "icon": "/icons/Icon_Items/Gear_AnglerEarring_Tex.png"
+  },
+  "Pyrelite Ore": {
+    "id": "450941",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRBrimming with latent heat, this rare ore is favored by master blacksmiths for crafting weapons that can withstand extreme temperatures.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be melted into Melted Pyrelite Shards.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPyrelite Ore (Arcadia, Poporia, Ostgarath, Ruinweald, Arx Umbra, Ex Prima, Highwatch Outskirts, Savage Reach)",
+    "icon": "/icons/Icon_Items/PyreliteOre_Tex.png"
+  },
+  "Darksteel Ore": {
+    "id": "450942",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRExceptionally dense metal with a deep, shadowed hue. Known for its unmatched resilience and high smelting yield.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be melted into Melted Darksteel Shards.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRDarksteel Ore (Allemantheia, Veritas District, Essenia, Westonia, Val Palrada, Val Elenium)",
+    "icon": "/icons/Icon_Items/DarksteelOre_Tex.png"
+  },
+  "Gloomstone Ore": {
+    "id": "450943",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRAbsorbs light, making it difficult to spot without proper tools. Holds unusual properties that resist traditional refinement.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be melted into Melted Gloomstone Shards.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGloomstone Ore (Kaiator Outskirts, Kaiator, Blessing Basin, Essenia, Sylvanoth, Lorcada)",
+    "icon": "/icons/Icon_Items/GloomstoneOre_Tex.png"
+  },
+  "Silvaron Ore": {
+    "id": "450944",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRSmooth, reflective metal that remains cool to the touch even when exposed to extreme conditions. Highly valued for its purity.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be melted into Melted Silvaron Shards.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSilvaron Ore (Island of Dawn, Val Aureum, Velika, Veritas District)",
+    "icon": "/icons/Icon_Items/SilvaronOre_Tex.png"
+  },
+  "Luminite Ore": {
+    "id": "450945",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRRadiates a faint glow, even in complete darkness. Known for its affinity with areas rich in magical energy.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be melted into Melted Luminite Shards.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRLuminite Ore (Val Tirkai, Spring Valley, Val Kaeli)",
+    "icon": "/icons/Icon_Items/LuminiteOre_Tex.png"
+  },
+  "Essence of Balder": {
+    "id": "450946",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRShimmering with divine clarity, this essence holds the wisdom of Balder, god of light and knowledge. Found where celestial energy lingers.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be grinded into Grinded Essence of Balder.$BR$BR<font color = '#FFBB00'>[Source]</font>$BREssence of Balder (Island of Dawn, Allemantheia, Val Elenium, Arx Umbra, Ex Prima, Highwatch Outskirts, Savage Reach)",
+    "icon": "/icons/Icon_Items/BalderEssence_Tex.png"
+  },
+  "Essence of Dagon": {
+    "id": "450947",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRSeething with the might of Dagon, god of destruction, this essence carries raw, unrelenting power. Found where battle and devastation have scarred the land.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be grinded into Grinded Essence of Dagon.$BR$BR<font color = '#FFBB00'>[Source]</font>$BREssence of Dagon (Island of Dawn, Kaiator Outskirts, Kaiator, Val Aureum, Ruinweald, Lorcada)",
+    "icon": "/icons/Icon_Items/DagonEssence_Tex.png"
+  },
+  "Essence of Roak": {
+    "id": "450948",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRSolid and unyielding, this essence embodies Roak. Its energy pulses in the deep places of Arborea, where the land stands eternal.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be grinded into Grinded Essence of Roak.$BR$BR<font color = '#FFBB00'>[Source]</font>$BREssence of Roak (Kaiator Outskirts, Kaiator, Westonia, Val Elenium, Lorcada)",
+    "icon": "/icons/Icon_Items/RoakEssence_Tex.png"
+  },
+  "Essence of Ishara": {
+    "id": "450949",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRMystical energy brimming with insight, tied to Ishara, goddess of fate and magic. Found where the threads of destiny intertwine.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be grinded into Grinded Essence of Ishara.$BR$BR<font color = '#FFBB00'>[Source]</font>$BREssence of Ishara (Allemantheia, Val Aureum, Westonia, Arx Umbra, Ex Prima, Highwatch Outskirts, Savage Reach)",
+    "icon": "/icons/Icon_Items/IsharaEssence_Tex.png"
+  },
+  "Essence of Oryin": {
+    "id": "450950",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRVibrant with the lifeforce of Oryin, god of knowledge, this essence pulses with the rhythms of the wild.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be grinded into Grinded Essence of Oryin.$BR$BR<font color = '#FFBB00'>[Source]</font>$BREssence of Oryin (Val Tirkai, Spring Valley, Val Kaeli)",
+    "icon": "/icons/Icon_Items/OryinEssence_Tex.png"
+  },
+  "Solleaf Herb": {
+    "id": "450951",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRAbsorbs the sun’s warmth, carrying a revitalizing energy. Often sought for its invigorating properties.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSolleaf Herb (Poporia, Ostgarath, Sylvanoth)",
+    "icon": "/icons/Icon_Items/SolleafHerb_Tex.png"
+  },
+  "Noctis Bloom": {
+    "id": "450952",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRA moonlit blossom with a quiet, calming aura.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRNoctis Bloom (Arcadia, Ruinweald, Blessing Basin, Essenia, Sylvanoth)",
+    "icon": "/icons/Icon_Items/NoctisBloom_Tex.png"
+  },
+  "Dewpetal Root": {
+    "id": "450953",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRHolds the smell of a fresh morning mist, known for its soothing effects.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRDewpetal Root (Veritas District, Poporia, Ruinweald, Blessing Basin, Essenia)",
+    "icon": "/icons/Icon_Items/DewpetalRoot_Tex.png"
+  },
+  "Stormvine": {
+    "id": "450954",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRVines alive with a faint crackle of storm energy.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRStormvine (Ostgarath, Velika, Val Palrada)",
+    "icon": "/icons/Icon_Items/Stormvine_Tex.png"
+  },
+  "Verdant Sprig": {
+    "id": "450955",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRBrimming with nature’s vitality, often used in traditional recipes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRVerdant Sprig (Veritas District, Arcadia, Val Palrada)",
+    "icon": "/icons/Icon_Items/VerdantSprig_Tex.png"
+  },
+  "Wild Grass": {
+    "id": "450956",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRCommonly found across Arborea, valued for its versatility in various recipes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRWild Grass (Arborea)",
+    "icon": "/icons/Icon_Items/WildGrass_Tex.png"
+  },
+  "Rough Stone": {
+    "id": "450957",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRFound in abundance across Arborea, rough and unrefined, yet essential for many designs.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRRough Stone (Arborea)",
+    "icon": "/icons/Icon_Items/RoughStone_Tex.png"
+  },
+  "Bottle of Lake of Tear Water": {
+    "id": "450994",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRWater drawn from Seren's Lake, known for its calming properties and untouched purity.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRSimple Alchemy$BRCooking Recipes$BR$BR<font color = '#FFBB00'>[Source]</font>$BRUsing Empty Glass Bottle near Lake of Tear's Water Source",
+    "icon": "/icons/Icon_Items/SerenLakeWater_Tex.png"
+  },
+  "Bottle of Fountain of Shara Water": {
+    "id": "450995",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRPurified by the Fountain of Shara, this water is said to carry the echoes of divine wisdom. Barakas and High Elves value it for its clarity, both in sight and wisdom.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRSimple Alchemy$BRCooking Recipes$BR$BR<font color = '#FFBB00'>[Source]</font>$BRUsing Empty Glass Bottle near Fountain of Shara's Water Source",
+    "icon": "/icons/Icon_Items/SharaLakeWater_Tex.png"
+  },
+  "Bottle of Mirage Oasis Water": {
+    "id": "450996",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRWater from Mirage Oasis, carrying the essence of survival and endurance. Though drawn from a fleeting source, it holds the strength of those who wander the sands.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRSimple Alchemy$BRCooking Recipes$BR$BR<font color = '#FFBB00'>[Source]</font>$BRUsing Empty Glass Bottle near Mirage Oasis's Water Source",
+    "icon": "/icons/Icon_Items/MirageOasisWater_Tex.png"
+  },
+  "Sturdy Stepstone Wood Branch": {
+    "id": "450998",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRTough wood from Stepstone Island, naturally resistant to water and wear. Anglers prize it for making fishing rod blanks strong enough to handle even the fiercest catch.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Fishing Rods$BR$BR<font color = '#FFBB00'>[Source]</font>$BRTeresa on Stepstone Island (Windmill Hill)",
+    "icon": "/icons/Icon_Items/StepstoneWoodBranch_Tex.png"
+  },
+  "Sturdy Fishing Rod Handle": {
+    "id": "450999",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRExpertly shaped for balance and grip, this handle ensures stability even against the mightiest catch.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting Fishing Rods$BR$BR<font color = '#FFBB00'>[Source]</font>$BRLiam in Kaiator (Forgeheart)",
+    "icon": "/icons/Icon_Items/FishingRodHandle_Tex.png"
+  },
+  "Free Trader's HP Potion": {
+    "id": "451004",
+    "tooltip": "<font color = '#2478FF'>[Potion]</font>$BRInstant HP recovery.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRecovers $H_W_GOOD50%$COLOR_END of your HP.",
+    "icon": "/icons/Icon_Items/Eagles_Potion_Level_60_Tex.png"
+  },
+  "Rejuvenating Free Trader's HP Potion": {
+    "id": "451005",
+    "tooltip": "<font color = '#2478FF'>[Potion]</font>$BRContinuous HP recovery.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRecovers $H_W_GOOD5%$COLOR_END of your maximum HP up to $H_W_GOOD75%$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time",
+    "icon": "/icons/Icon_Items/Suspicious_Argon_Potion_Tex.png"
+  },
+  "Free Trader's MP Potion": {
+    "id": "451006",
+    "tooltip": "<font color = '#2478FF'>[Potion]</font>$BRInstant MP replenishment.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRReplenishes $H_W_GOOD1.300$COLOR_END of your MP. Robe wearers replenish an extra 1.040 MP.",
+    "icon": "/icons/Icon_Items/Lions_Potion_Level_60_Tex.png"
+  },
+  "Rejuvenating Free Trader's MP Potion": {
+    "id": "451007",
+    "tooltip": "<font color = '#2478FF'>[Potion]</font>$BRContinuous MP replenishment.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRReplenishes $H_W_GOOD216$COLOR_END MP every $tickInterval up to $H_W_GOOD3,240$COLOR_END. Robe wearers replenish by $H_W_GOOD386$COLOR_END MP up to $H_W_GOOD5,790$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time",
+    "icon": "/icons/Icon_Items/Refinedl_Argon_Potion_Tex.png"
+  },
+  "Savage Draught": {
+    "id": "451010",
+    "tooltip": "<font color = '#2478FF'>[Draught]</font>$BRIncreased power for a certain duration.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD7$COLOR_END for 30 minutes. Cannot be used simultaneously with other Draughts.",
+    "icon": "/icons/Icon_Items/Talisman_Potion_IV_Tex.png"
+  },
+  "Vigorous Draught": {
+    "id": "451011",
+    "tooltip": "<font color = '#2478FF'>[Draught]</font>$BRIncreased crit factor for a certain duration.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD7$COLOR_END for 30 minutes. Cannot be used simultaneously with other Draughts.",
+    "icon": "/icons/Icon_Items/Talisman_Potion_III_Tex.png"
+  },
+  "[Guild] Arun's Savage Draught": {
+    "id": "451014",
+    "tooltip": "<font color = '#2478FF'>[Draught]</font>$BRIncreased power for a certain duration.$BRWhen used, applies to all guild members. Does not work on characters in dungeons or battlegrounds.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD7$COLOR_END for 30 minutes. Cannot be used simultaneously with other Draughts.",
+    "icon": "/icons/Icon_Items/Talisman_Potion_IV_Tex.png"
+  },
+  "[Guild] Arun's Vigorous Draught": {
+    "id": "451015",
+    "tooltip": "<font color = '#2478FF'>[Draught]</font>$BRIncreased crit factor for a certain duration.$BRWhen used, applies to all guild members. Does not work on characters in dungeons or battlegrounds.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD7$COLOR_END for 30 minutes. Cannot be used simultaneously with other Draughts.",
+    "icon": "/icons/Icon_Items/Talisman_Potion_III_Tex.png"
+  },
+  "Emblem of the Roaming Pact": {
+    "id": "451016",
+    "tooltip": "<font color = '#2478FF'>[Partner Adventure Loot]</font>$BREarned every time you send your partner to adventure. Carries the essence of the places explored.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTaming Pets$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/EmblemOfRoamingPact_Tex.png"
+  },
+  "Echelon's Golden Coin": {
+    "id": "451018",
+    "tooltip": "<font color = '#2478FF'>[Guild Resource]</font>$BRCan be bought from Guild Shop. Used to craft useful items for your guild.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRGuild Manufacture$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGuild Shop",
+    "icon": "/icons/Icon_Items/EchelonGoldenCoin_Tex.png"
+  },
+  "Small Orb of Wisdom": {
+    "id": "451021",
+    "tooltip": "<font color = '#2478FF'>[Pet XP Food]</font>$BRIncreases a Pet's XP by small amount.$BR$BRUse by clicking the Growth button on a level 10 or lower pet.$BRHigher-level pets have a greater chance to produce a partner when combined. Pets that have reached level 10 can evolve into a partner.",
+    "icon": "/icons/Icon_Items/Orbofwisdom_small_Tex.png"
+  },
+  "Orb of Wisdom": {
+    "id": "451022",
+    "tooltip": "<font color = '#2478FF'>[Pet XP Food]</font>$BRIncreases a Pet's XP by a large amount.$BR$BRUse by clicking the Growth button on a level 10 or lower pet.$BRHigher-level pets have a greater chance to produce a partner when combined. Pets that have reached level 10 can evolve into a partner.",
+    "icon": "/icons/Icon_Items/Orbofwisdom_Tex.png"
+  },
+  "Summon: Canon": {
+    "id": "451027",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRDeploys a mobile cannon that lasts for 5 minutes. Can be manned and repositioned for strategic firepower.",
+    "icon": "/icons/Icon_Items/G_SummonCannon_Tex.png"
+  },
+  "Summon: Fixed Cannon": {
+    "id": "451028",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRDeploys a stationary cannon that lasts for 5 minutes. Can be manned for defense but cannot be moved. Can be repaired if broken by up to 2 players.",
+    "icon": "/icons/Icon_Items/G_FixedCannon_Tex.png"
+  },
+  "Guild Tower Repair Toolkit": {
+    "id": "451030",
+    "tooltip": "<font color = '#2478FF'>[Guild Tower Repair]</font>$BRRestores durability of a damaged guild tower when used at least 5 meters away from guild tower.",
+    "icon": "/icons/Icon_Items/G_GuildTowerRepairKit_Tex.png"
+  },
+  "Hunting Arrow": {
+    "id": "451032",
+    "tooltip": "<font color = '#2478FF'>[Hunting Tool]</font>$BRStandard arrows used for hunting targets.",
+    "icon": "/icons/Icon_Items/HuntingArrow_Tex.png"
+  },
+  "Beast Fat": {
+    "id": "451035",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRHeavy and viscous, this fat burns clean and is favored by craftsmen in Kaiator.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRHunting Monsters",
+    "icon": "/icons/Icon_Items/BeastFat_Tex.png"
+  },
+  "Rough Timber": {
+    "id": "451038",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRUnprocessed wood with a strong grain and faint traces of mana from Arborea’s wilds.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGathering Trees near Lumbertown",
+    "icon": "/icons/Icon_Items/RoughTimber_Tex.png"
+  },
+  "Tanning Agent": {
+    "id": "451042",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRA coarse solution applied to raw hides to prevent decay.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for processing raw hide.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRHunting Merchant",
+    "icon": "/icons/Icon_Items/TanningAgent_Tex.png"
+  },
+  "Siege Barrel": {
+    "id": "451048",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRPlaces a volatile barrel that explodes after a short delay dealing massive AoE damage and burns the area around.",
+    "icon": "/icons/Icon_Items/Firecracker_Letter_Tex.png"
+  },
+  "Venom Trap": {
+    "id": "451051",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRDeploys a trap that triggers when stepped on that applies poison to enemies.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDeals 2% HP damage over time for 20 seconds.",
+    "icon": "/icons/Icon_Items/G_VenomTrap_Tex.png"
+  },
+  "Flame Trap": {
+    "id": "451052",
+    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRDeploys a trap that triggers when stepped on that applies weakening burn to enemies.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRReduces endurance by 10% for 10 seconds.",
+    "icon": "/icons/Icon_Items/G_FlameTrap_Tex.png"
+  },
+  "Refined Spice Mix": {
+    "id": "451055",
+    "tooltip": "<font color = '#2478FF'>[Cooking Enhancer]</font>$BREnhances the flavor and aroma of dishes, unlocking richer taste.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Special Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/homonparts1a_Tex.png"
+  },
+  "Celestial Spice Mix": {
+    "id": "451056",
+    "tooltip": "<font color = '#2478FF'>[Cooking Enhancer]</font>$BRSweet spice mix that imparts a celestial aroma and elevates luxury meals.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Luxury Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking",
+    "icon": "/icons/Icon_Items/homonparts2a_Tex.png"
+  },
+  "Trace of Energy": {
+    "id": "451057",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRA faintly glowing substance found throughout Arborea.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRTrace of Energy (Arborea)",
+    "icon": "/icons/Icon_Items/TraceOfEnergy_Tex.png"
+  },
+  "Wheat": {
+    "id": "451058",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA staple grain harvested across Arborea, used in countless traditional dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGathering$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/Wheat_Tex.png"
+  },
+  "Carrot": {
+    "id": "451059",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA common root crop, valued for its mild sweetness and versatility in everyday cooking.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "icon": "/icons/Icon_Items/Carrot_Tex.png"
+  },
+  "Crude Pickaxe": {
+    "id": "451070",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your Mining time by $H_W_GOOD2 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.$BR$BR<font color = '#FFBB00'>[Upgrade]</font>$BRCan be upgraded to a Low Quality Pickaxe",
+    "icon": "/icons/Icon_Items/Pickaxe_01_Tex.png"
+  },
+  "Superior Pickaxe": {
+    "id": "451075",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your Mining time by $H_W_GOOD8 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.",
+    "icon": "/icons/Icon_Items/Pickaxe_Tex.png"
+  },
+  "Combined Gathering Tool": {
+    "id": "451082",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your gathering time by $H_W_GOOD8 seconds$COLOR_END. Does not stack with other Gathering Tool effects.",
+    "icon": "/icons/Icon_Items/collection_KitSet_Tex.png"
+  },
+  "Gatherer's Armor": {
+    "id": "451086",
+    "tooltip": "<font color = '#2478FF'>[Gatherer's Gear]</font>$BRSturdy chest armor built to endure harsh terrain and protect gatherers in the wild.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Gathering Gear.",
+    "icon": "/icons/Icon_Items/Gear_Gatherer_Armor_Tex.png"
+  },
+  "Gatherer's Gloves": {
+    "id": "451087",
+    "tooltip": "<font color = '#2478FF'>[Gatherer's Gear]</font>$BRRugged gloves made for gatherers, offering grip and hand protection while harvesting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Gathering Gear.",
+    "icon": "/icons/Icon_Items/Gear_Gatherer_Glove_Tex.png"
+  },
+  "Gatherer's Boots": {
+    "id": "451088",
+    "tooltip": "<font color = '#2478FF'>[Gatherer's Gear]</font>$BRReliable boots for gatherers, designed for stability on rough terrain.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Gathering Gear.",
+    "icon": "/icons/Icon_Items/Gear_Gatherer_Boots_Tex.png"
+  },
+  "Charm: Goddess’s Favor I": {
+    "id": "451089",
+    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BRHarness the blessing of the goddess to speed up your gathering and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODall$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper4_Tex.png"
+  },
+  "Charm: Elinu’s Bloom I": {
+    "id": "451094",
+    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BREnhances your plant gathering with Elinu’s natural bloom, quickening your harvest and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODherb$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Kaia’s Might$BRCannot be used with Charm: Isren’s Insight$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper2_Tex.png"
+  },
+  "Charm: Kaia’s Might I": {
+    "id": "451099",
+    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BRInfused with the power of Kaia, this charm sharpens your mining skills, reducing time and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODmining$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Elinu’s Bloom$BRCannot be used with Charm: Isren’s Insight$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper2_Tex.png"
+  },
+  "Charm: Icaruna’s Curiosity I": {
+    "id": "451104",
+    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BRInspired by Icaruna’s inquisitive nature, this charm quickens insect gathering and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODinsect$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Elinu’s Bloom$BRCannot be used with Charm: Kaia’s Might$BRCannot be used with Charm: Isren’s Insight$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper2_Tex.png"
+  },
+  "Charm: Isren’s Insight I": {
+    "id": "451109",
+    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BRGain Isren’s sharp insight to hasten your energy gathering speed and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODenergy$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Elinu’s Bloom$BRCannot be used with Charm: Kaia’s Might$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper2_Tex.png"
+  },
+  "Charm: Zuras’s Flow I": {
+    "id": "451114",
+    "tooltip": "<font color='#2478FF'>[Fishing Charm]</font>$BRHarness the calming currents of Zuras to quicken your catch.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases Auto Fishing Time by $H_W_GOOD1%$COLOR_END$BRDecreases Manual Fishing Time by $H_W_GOOD1%$COLOR_END$BRDecreases Fishing Difficulty by $H_W_GOOD10%$COLOR_END$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper3_Tex.png"
+  },
+  "Charm: Zuras’s Breath I": {
+    "id": "451119",
+    "tooltip": "<font color='#2478FF'>[Fishing Charm]</font>$BRInvoke the breath of Zuras to subtly hasten your fishing reflexes.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases Auto Fishing Time by $H_W_GOOD1%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Zuras’s Grace$BRCannot be used with Charm: Zuras’s Blessing$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper3_Tex.png"
+  },
+  "Charm: Zuras’s Grace I": {
+    "id": "451124",
+    "tooltip": "<font color='#2478FF'>[Fishing Charm]</font>$BRDraw on the grace of Zuras to refine your manual fishing skills.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases Manual Fishing Time by $H_W_GOOD1%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Zuras’s Breath$BRCannot be used with Charm: Zuras’s Blessing$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper3_Tex.png"
+  },
+  "Charm: Zuras’s Blessing I": {
+    "id": "451129",
+    "tooltip": "<font color='#2478FF'>[Fishing Charm]</font>$BRChannel the blessing of Zuras to lessen your overall fishing efforts.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases Fishing Difficulty by $H_W_GOOD10%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Zuras’s Breath$BRCannot be used with Charm: Zuras’s Grace$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
+    "icon": "/icons/Icon_Items/abnormalpaper3_Tex.png"
+  },
+  "Diluted Charm Solution": {
+    "id": "451143",
+    "tooltip": "<font color = '#2478FF'>[Charm Enhancer]</font>$BRAlchemic solution that subtly enhances the potency of charms.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUpgrade Charms from Tier I to Tier II$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy",
+    "icon": "/icons/Icon_Items/DilutedCharm_Tex.png"
+  },
+  "Refined Charm Tincture": {
+    "id": "451144",
+    "tooltip": "<font color = '#2478FF'>[Charm Enhancer]</font>$BRRefined tincture that strengthens the effects and allure of charms.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUpgrade Charms from Tier II to Tier III$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy",
+    "icon": "/icons/Icon_Items/RefinedCharm_Tex.png"
+  },
+  "Concentrated Charm Extract": {
+    "id": "451145",
+    "tooltip": "<font color = '#2478FF'>[Charm Enhancer]</font>$BRConcentrated extract that greatly amplifies charm effectiveness.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUpgrade Charms from Tier III to Tier IV$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy",
+    "icon": "/icons/Icon_Items/ConcentratedCharm_Tex.png"
+  },
+  "Masterwork Charm Catalyst": {
+    "id": "451146",
+    "tooltip": "<font color = '#2478FF'>[Charm Enhancer]</font>$BRMasterwork catalyst that perfects charm infusion and maximizes potency.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUpgrade Charms from Tier IV to Tier V$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy",
+    "icon": "/icons/Icon_Items/MasterworkCharm_Tex.png"
+  },
+  "Grizzlink Shard": {
+    "id": "451174",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRRugged shard infused with forest scent.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Brown Bear partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/GrizzlinkShard_Tex.png"
+  },
+  "Purrismatic Shard": {
+    "id": "451175",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRWarm shard that hums with playful energy.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Kitty partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/PurrismaticShard_Tex.png"
+  },
+  "Guinfinity Shard": {
+    "id": "451176",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRSoft shard that smells faintly of hay and fruit.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Guinea Pig partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/GuifinityShard_Tex.png"
+  },
+  "Moomentum Shard": {
+    "id": "451177",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRSturdy shard resonating with slow, contented energy.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Cow partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/MoomentumShard_Tex.png"
+  },
+  "Bamboom Shard": {
+    "id": "451178",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRPeaceful shard said to echo with bamboo winds.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Panda partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/BamboomShard_Tex.png"
+  },
+  "Hopelessly Cute Shard": {
+    "id": "451179",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRHeart-shaped shard that glows with cheerful warmth.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Pink Bunny partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/HopelesslyCuteShard_Tex.png"
+  },
+  "Lootenant Shard": {
+    "id": "451180",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRSneaky little shard that rattles when shaken.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Raccoon partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/LootentantShard_Tex.png"
+  },
+  "Beary Ominous Shard": {
+    "id": "451181",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRShadowy shard with deep, growling resonance.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Black Bear partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/BearlyOminousShard_Tex.png"
+  },
+  "Howlite Heart Shard": {
+    "id": "451182",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRWild shard that pulses with restless energy.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Wolf partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/HowliteHeartShard_Tex.png"
+  },
+  "Familiar’s Egg": {
+    "id": "451183",
+    "tooltip": "<font color = '#2478FF'>[Partner Egg]</font>$BRSmooth, iridescent egg infused with latent energy.$BR$BR<font color='#41FF3A'>[Usage]</font>$BRUsed with taming shards to help hatch a partner.$BR$BR<font color='#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/FamiliarEgg_Tex.png"
+  },
+  "Care and Use of Your Pet Grizzler": {
+    "id": "451201",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet bear.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Bear_Tex.png"
+  },
+  "Care and Use of Your Pet Purrito": {
+    "id": "451202",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet kitty.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Cat_Tex.png"
+  },
+  "Care and Use of Your Pet Guinny Puff": {
+    "id": "451203",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet guinea pig.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_GuineaPig_Tex.png"
+  },
+  "Care and Use of Your Pet Moochi": {
+    "id": "451204",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet cow.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_MilkCow_Tex.png"
+  },
+  "Care and Use of Your Pet Bamboozle": {
+    "id": "451205",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet panda.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Panda_Tex.png"
+  },
+  "Care and Use of Your Pet Hoplet": {
+    "id": "451206",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet bunny.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Rabbit_Tex.png"
+  },
+  "Care and Use of Your Pet Rascaloon": {
+    "id": "451207",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet racoon.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Raccoon_Tex.png"
+  },
+  "Care and Use of Your Pet Beary Good": {
+    "id": "451208",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet black bear.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Thibetanus_Tex.png"
+  },
+  "Care and Use of Your Pet Howlito": {
+    "id": "451209",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a pet wolf.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Wolf_Tex.png"
+  },
+  "Smart Box: Veggie Weapon Skin (Permanent)": {
+    "id": "451371",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRPlantastic!<BR><BR>A smart box containing a permanent Veggie Weapon Skin. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Flaming Golden Dragon Weapon Skin (Permanent)": {
+    "id": "451372",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRBurning hot!<BR><BR>A smart box with a permanent Flaming Golden Dragon weapon skin. [Smart boxes automatically generate the corresponding equipment for your character when you open them. Cannot be used by Reapers.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Glacial Silver Dragon Weapon Skin (Permanent)": {
+    "id": "451373",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRIce cold!<BR><BR>A smart box with a permanent Glacial Silver Dragon weapon skin. [Smart boxes automatically generate the corresponding equipment for your character when you open them. Cannot be used by Reapers.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Golden Dragon Weapon Skin": {
+    "id": "451374",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRMajesty forged in flame.<BR><BR>A smart box with a Golden Dragon Weapon Skin. [Smart boxes automatically generate the corresponding equipment for your character when you open them. Cannot be used by Reapers.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Black Dragon Weapon Skin": {
+    "id": "451375",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRPower wrapped in shadow.<BR><BR>A smart box with a Black Dragon Weapon Skin. [Smart boxes automatically generate the corresponding equipment for your character when you open them. Cannot be used by Reapers.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Free Traders Tabard": {
+    "id": "451376",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRFor those who deal in style.<BR><BR>A smart box containing a permanent Free Traders Tabard. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Enlightened Union Tabard": {
+    "id": "451377",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRUnity, with elegance.<BR><BR>A smart box containing a permanent Enlightened Union Tabard. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Iron Order Tabard": {
+    "id": "451378",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRStrength, sealed in steel.<BR><BR>A smart box containing a permanent Iron Order Tabard. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Imperial Nutcracker Jacket": {
+    "id": "451379",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRFormal, festive, and formidable.<BR><BR>A smart box containing a permanent Imperial Nutcracker Jacket. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Dyeable Imperial Nutcracker Jacket": {
+    "id": "451380",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRTradition, tailored to your taste.<BR><BR>A smart box containing a permanent Dyeable Imperial Nutcracker Jacket. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Sterling Armor": {
+    "id": "451381",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRSilver shine, battle ready.<BR><BR>A smart box containing a permanent Sterling Armor. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: 24-Karat Armor": {
+    "id": "451382",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRGolden glory never fades.<BR><BR>A smart box containing a permanent 24-Karat Armor. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Darkened Armor": {
+    "id": "451383",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRShadow-forged and resolute.<BR><BR>A smart box containing a permanent Darkened Armor. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Phantom Armor": {
+    "id": "451384",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRDrift between worlds in silence.<BR><BR>A smart box containing a permanent Phantom Armor. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Wood Pixie Costume": {
+    "id": "451385",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRNature's charm, finely stitched.<BR><BR>A smart box containing a permanent Wood Pixie Costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Dyeable Pixie Costume": {
+    "id": "451386",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRWhimsy woven your way.<BR><BR>A smart box containing a permanent Dyeable Pixie Costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Resolute Plate Armor": {
+    "id": "451387",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRDuty, worn with pride<BR><BR>A smart box containing a permanent Resolute Plate Armor. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Enlightenment Plate Armor": {
+    "id": "451388",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRArmor as radiant as purpose.<BR><BR>A smart box containing a permanent Enlightenment Plate Armor. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Smart Box: Renegade Plate Armor": {
+    "id": "451389",
+    "tooltip": "<font color = '#2478FF'>[Crafted Costume Box]</font>$BRDefy the world. Look good doing it.<BR><BR>A smart box containing a permanent Renegade Plate Armor. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]",
+    "icon": "/icons/Icon_Items/Gift_Box04_Tex.png"
+  },
+  "Fenrir’s Howl Shard": {
+    "id": "451391",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRRugged shard pulsing with Fenrir’s fierce spirit.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Fenrir partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/FenrirHowlShard_Tex.png"
+  },
+  "Raven’s Trick Shard": {
+    "id": "451392",
+    "tooltip": "<font color = '#2478FF'>[Taming Shard]</font>$BRShiny shard crackling with the mischievous wit of the ravens.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRRequired to form a bond with a Huginn & Muginn partner.$BR$BR<font color = '#F2C211'>[Source]</font>$BRPartner Adventure",
+    "icon": "/icons/Icon_Items/RavenTrickShard_Tex.png"
+  },
+  "Care and Use of Your Pet Fenrir": {
+    "id": "451395",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a legendary pet Fenrir.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Bear_Tex.png"
+  },
+  "Care and Use of Your Pet Huginn & Muginn": {
+    "id": "451396",
+    "tooltip": "<font color = '#2478FF'>[License]</font>$BRUse to learn how to summon a legendary pet Huginn & Muginn.$BR$BR<font color = '#41FF3A'>[Abilities]</font>$BRAuto-potion$BRSelf-sufficient",
+    "icon": "/icons/Icon_Items/Pet_Animal_Bear_Tex.png"
+  },
+  "Tempered Hide": {
+    "id": "451418",
+    "tooltip": "<font color = '#2478FF'>[Taming Resource]</font>$BRDurable, tempered hide prized for its strength and flexibility. Used to craft taming items for horses.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRHorse Taming Items$BR$BR<font color = '#FFBB00'>[Source]</font>$BRTaming Profession",
+    "icon": "/icons/Icon_Items/HorseTameMat_Tex.png"
+  },
+  "Prime Beast Cut": {
+    "id": "451419",
+    "tooltip": "<font color = '#2478FF'>[Taming Resource]</font>$BRRichly marbled cut of meat renowned for its tenderness and aroma. Used to craft taming items for lions.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRLion Taming Items$BR$BR<font color = '#FFBB00'>[Source]</font>$BRTaming Profession",
+    "icon": "/icons/Icon_Items/LionTameMat_Tex.png"
+  },
+  "Chained Spirit Essence": {
+    "id": "451420",
+    "tooltip": "<font color = '#2478FF'>[Taming Resource]</font>$BREssence refined through combining lesser essences, its invigorating scent makes you dizzy. Used to craft taming items for wolves.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRWolf Taming Items$BR$BR<font color = '#FFBB00'>[Source]</font>$BRTaming Profession",
+    "icon": "/icons/Icon_Items/WolfTameMat_Tex.png"
+  },
+  "Molten Core Ingot": {
+    "id": "451421",
+    "tooltip": "<font color = '#2478FF'>[Taming Resource]</font>$BRCore of molten metal pulsating with heat. Used to craft taming items for dragons.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRDragon Taming Items$BR$BR<font color = '#FFBB00'>[Source]</font>$BRTaming Profession",
+    "icon": "/icons/Icon_Items/DragonTameMat_Tex.png"
+  },
+  "Binding Stone": {
+    "id": "451422",
+    "tooltip": "<font color = '#2478FF'>[Taming Core]</font>$BRHeartstone infused with mana, swirling with binding energy. Used to craft taming items.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTaming Items$BR$BR<font color = '#FFBB00'>[Source]</font>$BRTaming Master Merchant in Scythera Fae",
+    "icon": "/icons/Icon_Items/TameCore_Tex.png"
+  },
+  "Shadowglass Essence": {
+    "id": "451457",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRPolished from obsidian shadows, whispering of twilight.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Shadowglass Essence.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRShadowglass Essence (Island of Dawn, Allemantheia, Val Elenium, Arx Umbra, Ex Prima, Highwatch Outskirts, Savage Reach)",
+    "icon": "/icons/Icon_Items/ShadowGlassEssence_Tex.png"
+  },
+  "Sunflare Essence": {
+    "id": "451458",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRRadiant with solar fury, pulsing like a miniature sunburst at dawn.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Sunflare Essence.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSunflare Essence (Island of Dawn, Kaiator Outskirts, Kaiator, Val Aureum, Lorcada)",
+    "icon": "/icons/Icon_Items/SunflareEssence_Tex.png"
+  },
+  "Verdestone Essence": {
+    "id": "451459",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRSolid and verdant, embodying the unwavering strength of ancient stone.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Verdestone Essence.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRVerdestone Essence (Kaiator Outskirts, Kaiator, Westonia, Val Elenium, Lorcada)",
+    "icon": "/icons/Icon_Items/VerdestoneEssence_Tex.png"
+  },
+  "Moonshard Essence": {
+    "id": "451460",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRCooled by moonlight, glowing with soft, silvery power.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Moonshard Essence.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMoonshard Essence (Allemantheia, Val Aureum, Westonia, Arx Umbra, Ex Prima, Highwatch Outskirts, Savage Reach)",
+    "icon": "/icons/Icon_Items/MoonshardEssence_Tex.png"
+  },
+  "Deepsea Azurite Essence": {
+    "id": "451461",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRSteeped from the depths, hums with the pulse of underwater currents.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Deepsea Azurite Essence.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRDeepsea Azurite Essence (Allemantheia, Val Aureum, Westonia, Val Tirkai, Arx Umbra, Spring Valley, Ex Prima, Highwatch Outskirts, Savage Reach, Val Kaeli)",
+    "icon": "/icons/Icon_Items/AzuriteEssence_Tex.png"
+  },
+  "[Face] Processing Liquid": {
+    "id": "451518",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRRefined liquid used to craft a costume.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting costumes from tailoring.$BR$BR<font color = '#F2C211'>[Source]</font>$BRTailoring Merchant",
+    "icon": "/icons/Icon_Items/refinedplantA9_Tex.png"
+  },
+  "[Head] Processing Liquid": {
+    "id": "451519",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRRefined liquid used to craft a costume.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting costumes from tailoring.$BR$BR<font color = '#F2C211'>[Source]</font>$BRTailoring Merchant",
+    "icon": "/icons/Icon_Items/refinedplantA9_Tex.png"
+  },
+  "[Body] Processing Liquid": {
+    "id": "451520",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRRefined liquid used to craft a costume.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting costumes from tailoring.$BR$BR<font color = '#F2C211'>[Source]</font>$BRTailoring Merchant",
+    "icon": "/icons/Icon_Items/refinedplantA9_Tex.png"
+  },
+  "[Weapon] Processing Liquid": {
+    "id": "451521",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRRefined liquid used to craft a costume.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting costumes from tailoring.$BR$BR<font color = '#F2C211'>[Source]</font>$BRTailoring Merchant",
+    "icon": "/icons/Icon_Items/refinedplantA9_Tex.png"
+  },
+  "[Back] Processing Liquid": {
+    "id": "451522",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRRefined liquid used to craft a costume.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting costumes from tailoring.$BR$BR<font color = '#F2C211'>[Source]</font>$BRTailoring Merchant",
+    "icon": "/icons/Icon_Items/refinedplantA9_Tex.png"
+  },
+  "[Stamp] Processing Liquid": {
+    "id": "451523",
+    "tooltip": "<font color = '#2478FF'>[Tailoring Material]</font>$BRRefined liquid used to craft a costume.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCrafting costumes from tailoring.$BR$BR<font color = '#F2C211'>[Source]</font>$BRTailoring Merchant",
+    "icon": "/icons/Icon_Items/refinedplantA9_Tex.png"
+  },
+  "Insect Scale II": {
+    "id": "451530",
+    "tooltip": "<font color = '#2478FF'>[Byproduct]</font>$BRA shimmering scale obtained from processing raw insects.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting higher tier baits.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRNets obtained through crafting Fishing Bait",
+    "icon": "/icons/Icon_Items/q_WhiteScale_Tex.png"
+  },
+  "Hooked Ironclad Beetle Net": {
+    "id": "451531",
+    "tooltip": "<font color = '#2478FF'>[Fishing Bait Net]</font>$BRProcessed insects, packed together with shining scales.",
+    "icon": "/icons/Icon_Items/Cash_Material_box_1_Tex.png"
+  },
+  "Hooked Ember Beetle Net": {
+    "id": "451532",
+    "tooltip": "<font color = '#2478FF'>[Fishing Bait Net]</font>$BRProcessed insects, packed together with shining scales.",
+    "icon": "/icons/Icon_Items/Cash_Material_box_2_Tex.png"
+  },
+  "Hooked Dune Beetle Net": {
+    "id": "451533",
+    "tooltip": "<font color = '#2478FF'>[Fishing Bait Net]</font>$BRProcessed insects, packed together with shining scales.",
+    "icon": "/icons/Icon_Items/Cash_Material_box_3_Tex.png"
+  },
+  "Hooked Azure Beetle Net": {
+    "id": "451534",
+    "tooltip": "<font color = '#2478FF'>[Fishing Bait Net]</font>$BRProcessed insects, packed together with shining scales.",
+    "icon": "/icons/Icon_Items/Cash_Material_box_4_Tex.png"
+  },
+  "Hooked Stag Beetle Net": {
+    "id": "451535",
+    "tooltip": "<font color = '#2478FF'>[Fishing Bait Net]</font>$BRProcessed insects, packed together with shining scales.",
+    "icon": "/icons/Icon_Items/Cash_Material_box_5_Tex.png"
+  },
+  "Mechanical Beetle Net": {
+    "id": "451536",
+    "tooltip": "<font color = '#2478FF'>[Fishing Bait Net]</font>$BRProcessed insects, packed together with shining scales.",
+    "icon": "/icons/Icon_Items/Cash_Material_box_5_Tex.png"
+  },
+  "Nature's Fruit": {
+    "id": "451539",
+    "tooltip": "<font color = '#2478FF'>[Soothing Presence Item]</font>$BRA rare fruit infused with calming natural mana.<BR><BR>Required to use the <font color = '#41FF3A'>Soothing Presence</font> skill.",
+    "icon": "/icons/Icon_Items/deco_apple_Tex.png"
+  },
+  "Soothing Dewleaf": {
+    "id": "451550",
+    "tooltip": "<font color = '#00BFFF'>[Gathering Treasure Map Item]</font>$BRA rare herb whose leaves gather crystallized dew infused with calming mana.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRNaslow's Bountiful Treasure Map",
+    "icon": "/icons/Icon_Items/Essence_Of_Epidemic_Tex.png"
+  },
+  "Insect Scale III": {
+    "id": "451558",
+    "tooltip": "<font color = '#2478FF'>[Byproduct]</font>$BRA shimmering scale obtained from processing raw insects.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting higher tier baits.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRNets obtained through crafting Fishing Bait",
+    "icon": "/icons/Icon_Items/q_WhiteScale_Tex.png"
+  },
+  "Insect Scale IV": {
+    "id": "451559",
+    "tooltip": "<font color = '#2478FF'>[Byproduct]</font>$BRA shimmering scale obtained from processing raw insects.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting higher tier baits.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRNets obtained through crafting Fishing Bait",
+    "icon": "/icons/Icon_Items/q_WhiteScale_Tex.png"
+  },
+  "Insect Scale V": {
+    "id": "451560",
+    "tooltip": "<font color = '#2478FF'>[Byproduct]</font>$BRA shimmering scale obtained from processing raw insects.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting higher tier baits.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRNets obtained through crafting Fishing Bait",
+    "icon": "/icons/Icon_Items/q_WhiteScale_Tex.png"
+  },
+  "Insect Scale VI": {
+    "id": "451561",
+    "tooltip": "<font color = '#2478FF'>[Byproduct]</font>$BRA shimmering scale obtained from processing raw insects.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting higher tier baits.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRNets obtained through crafting Fishing Bait",
+    "icon": "/icons/Icon_Items/q_WhiteScale_Tex.png"
+  },
+  "Azart Crystal": {
+    "id": "451576",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRFragment of raw Azart energy collected from Exodor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Azart Crystal.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAzart Crystal (Exodor Archipelago)",
+    "icon": "/icons/Icon_Items/AzartCrystal_Tex.png"
+  },
+  "Azartroot": {
+    "id": "451577",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRHardy Exodor plant pulsating with latent Azart energy.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Azartroot.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAzartroot (Exodor Archipelago)",
+    "icon": "/icons/Icon_Items/Azartroot_Tex.png"
+  },
+  "Melted Duranium Shard": {
+    "id": "451583",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRMelted shard of Duranium, extracted from Exodor ore.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMelting Pyrelite Ore",
+    "icon": "/icons/Icon_Items/MeltedDuraniumOre_Tex.png"
+  },
+  "Duranium Ingot": {
+    "id": "451584",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRA solid bar of Duranium ingot, forged from melted duranium ore.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Melted Shards and Rough Stone",
+    "icon": "/icons/Icon_Items/DuraniumIngot_Tex.png"
+  },
+  "Polished Duranium Ingot": {
+    "id": "451585",
+    "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRPolished Duranium ingot, shiny and ready for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPolishing Duranium Ingot with Metal Solvent",
+    "icon": "/icons/Icon_Items/PolishedDuraniumIngot_Tex.png"
+  },
+  "Grinded Azart Crystal": {
+    "id": "451586",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRFinely ground Azart Crystal, releasing stable Azart energy.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Azart Crystal",
+    "icon": "/icons/Icon_Items/GroundedAzartCrystal_Tex.png"
+  },
+  "Grinded Azartroot": {
+    "id": "451587",
+    "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRGround Azartroot infused with concentrated plant energy.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Azartroot",
+    "icon": "/icons/Icon_Items/GroundedAzartroot_Tex.png"
+  }
+}

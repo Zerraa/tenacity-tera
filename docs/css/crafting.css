@@ -1,0 +1,490 @@
+ body {
+    background-color: #121212;
+    color: #eee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  body.wide-page .page-layout {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+  }
+
+  input {
+    padding: 8px 10px;
+    width: 300px;
+    border-radius: 6px;
+    border: 1px solid #444;
+    background-color: #1e1e1e;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+
+  input:focus {
+    outline: none;
+    border-color: #888;
+  }
+
+  button {
+    padding: 8px 15px;
+    border-radius: 6px;
+    border: none;
+    background-color: #444;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 500;
+    margin-bottom: 20px;
+  }
+
+  button:hover {
+    background-color: #666;
+  }
+
+  #suggestions {
+  position: absolute; 
+  top: 100%; 
+  left: 0;
+  width: 100%;
+  z-index: 9999;  /* make sure it's above bottom bar */
+  background: #222;
+  color: #fff;
+  border-radius: 6px;
+  display: none;
+  box-sizing: border-box;
+  max-height: 300px;       /* optional scroll if many items */
+  overflow-y: auto;
+}
+
+
+#suggestions div {
+  padding: 6px;
+  cursor: pointer;
+}
+
+#suggestions div:hover {
+  background-color: #333;
+}
+
+
+  .craft-result {
+    margin-top: 20px;
+    background-color: #1e1e1e;
+    padding: 15px 20px;
+    border-radius: 8px;
+    max-width: 350px;
+  }
+
+  .craft-item {
+    font-weight: 600;
+    margin-top: 10px;
+  }
+
+.material-row {
+  position: relative; /* so tooltip is positioned relative to the row */
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.material-row .tooltip {
+  display: none;
+  position: absolute;
+  left: 100%;        /* right next to the item */
+  top: 0;
+  background: #222;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 6px;
+  max-width: 800px;  /* make it wider */
+  min-width: 800px;  /* optional: prevent very narrow tooltips */
+  z-index: 50;
+  white-space: normal;  /* allow text to wrap normally */
+  word-break: break-word; /* prevent long words from overflowing */
+  line-height: 1.4;   /* better readability */
+  box-shadow: 0 0 8px rgba(0,0,0,0.6); /* subtle shadow */
+}
+
+.material-row:hover .tooltip {
+  display: block;
+}
+
+.tooltip-good {
+    color: #6ef;  /* greenish for GOOD */
+    font-weight: bold;
+}
+
+.tooltip-bad {
+    color: #f66;  /* reddish for BAD */
+    font-weight: bold;
+}
+
+.tooltip-tag {
+    font-weight: bold;
+    color: #ffd479; /* or whatever accent color you like for tags */
+}
+
+
+.material-text {
+  white-space: nowrap;
+  cursor: help; /* shows user can hover for info */
+}
+
+.toggle-btn {
+  width: 16px;
+  height: 16px;
+  min-width: 16px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0;
+  margin: 0;
+
+  border-radius: 3px;
+  border: 1px solid #444;
+
+  background: #1e1e1e;
+  color: #ccc;
+
+  font-size: 12px;
+  line-height: 1;        /* 👈 prevents vertical drift */
+
+  cursor: pointer;
+}
+
+.bullet {
+  width: 16px;
+  height: 16px;
+  min-width: 16px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bullet {
+  color: #666;
+}
+
+.toggle-btn {
+  padding: 0;
+  border-radius: 3px;
+  border: 1px solid #444;
+  background: #1e1e1e;
+  color: #ccc;
+  cursor: pointer;
+}
+
+.toggle-btn:hover {
+  background: #333;
+  color: #fff;
+}
+
+.totals-sidebar {
+  background-color: #1e1e1e;
+  padding: 15px;
+  border-radius: 8px;
+  min-width: 400px;
+  max-height: 900px; /* optional scroll if many items */
+  overflow-y: auto;
+  position: sticky;
+  top: 10px; /* stays visible */
+  margin-top: 0;
+}
+
+.totals-sidebar h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #333;
+  padding-bottom: 5px;
+}
+
+.totals-sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.95em;
+}
+
+.totals-sidebar li {
+  display: flex;
+  justify-content: flex-start; /* left-align text */
+  align-items: center;
+  gap: 10px; /* space between item and cost */
+  margin: 4px 0;
+  line-height: 1.3;
+}
+
+.totals-sidebar li .unit {
+  font-size: 0.8em;
+  color: #888; /* muted for less visual noise */
+  margin-left: 4px;
+}
+
+.totals-sidebar li .cost {
+  margin-left: auto; /* pushes the cost to the right edge */
+  color: #ffd479;
+  font-weight: bold;
+}
+
+.totals-sidebar li.grand-total {
+  border-top: 1px solid #333;
+  margin-top: 8px;
+  padding-top: 6px;
+  font-size: 1em;
+}
+
+.totals-sidebar li .unit {
+  font-size: 0.95em;   /* same as main totals */
+  color: #888;
+  margin-left: 4px;
+}
+
+.page-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 60px;
+}
+
+.left-column {
+  flex: 1;
+}
+
+.search-box {
+  position: relative; /* for autocomplete box positioning */
+  display: flex;
+  flex-wrap: nowrap; /* keep everything on the same line */
+  gap: 3px; /* space between input and button */
+}
+
+.search-box input {
+  min-width: 100; /* prevent overflow in flex container */
+}
+
+.search-box button {
+  flex: 0 0 auto; /* button keeps its size */
+  height: 42px; /* uniform height */
+  padding: 3px 15px;
+  font-size: 1em;
+}
+
+/* IMPORTANT: remove vertical offset */
+button {
+  margin-bottom: 0;
+}
+
+.price {
+  color: #aaa;
+  margin-left: 6px;
+}
+
+.cost {
+  color: #ffd479;
+  margin-left: 6px;
+}
+
+.grand-total {
+  margin-top: 12px;
+  padding-top: 8px;
+  border-top: 1px solid #333;
+  font-size: 1em;
+}
+
+#totals-wrapper:hover {
+    cursor: pointer;
+}
+
+#totals-wrapper::after {
+    content: "Click to Copy";
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 10px;
+    color: #aaa;
+    padding: 2px 4px;
+}
+
+.left-split {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+
+.main-column {
+  flex: 1;                /* takes remaining space */
+  min-width: 0;           /* IMPORTANT: prevents overflow */
+}
+
+.buff-panel {
+   min-width: 300px;
+   max-width: 330px;
+}
+
+.buff-panel ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Buff options container */
+.buff-option {
+  display: flex;
+  align-items: center; /* vertically center checkbox + text */
+  gap: 6px;            /* space between checkbox and text */
+  margin-bottom: 6px;
+  min-width: 300px;
+  max-height: 900px; /* optional scroll if many items */
+  background-color: #1e1e1e;
+}
+
+/* Make the checkbox itself smaller */
+.buff-option input[type="checkbox"] {
+  width: 16px;   /* smaller width */
+  height: 16px;  /* smaller height */
+  min-width: 16px;
+  min-height: 16px;
+}
+
+/* Label text stays normal size and next to checkbox */
+.buff-option label {
+  font-size: 0.9em;   /* normal text size */
+  line-height: 1.2;
+  white-space: normal; /* allow wrapping if really long, but stays next to checkbox */
+}
+
+.buff-results {
+    margin-top: 10px;
+    border-top: 1px solid #333;
+    padding-top: 6px;   /* smaller padding */
+    font-size: 0.85em;  /* slightly smaller text */
+    line-height: 1.2em; /* tighter spacing between lines */
+    max-height: 400px;  /* limit height */
+    overflow-y: auto;   /* scroll if content is too long */
+}
+
+.buff-results p {
+    margin: 2px 0;           /* tighter vertical spacing */
+    line-height: 1.3em;      /* closer lines */
+}
+
+body.wide-page .page-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 60px; /* already exists, for main-left vs totals sidebar */
+  max-width: 1600px;      /* your wide width */
+  margin-left: -290px;      /* push it closer to the left */
+  margin-right: 0;        /* optional, reduces right space */
+}
+
+body.wide-page .buff-column {
+  margin-right: 45px; /* buffer between buff panel and search/results */
+}
+
+.buff-option select {
+  background-color: #1e1e1e;
+  color: #fff;
+  border: 1px solid #444;
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 0.9em;
+  width: 100%; /* make it full width of panel */
+  max-width: 225px;   /* or whatever fits your panel */
+  text-overflow: ellipsis;
+}
+
+.bottom-bar {
+  position: sticky;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 0.9em;
+  display: flex;
+  flex-direction: column;   /* stack rows vertically */
+  gap: 5px;                 /* small spacing between rows */
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+  background: transparent;
+  z-index: 999;
+  margin-top: 80px;
+}
+
+.bottom-bar.stuck {
+  background: rgba(30, 30, 30, 0.95);
+  border-top: 1px solid #333;
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.5);
+}
+
+.bottom-bar .bottom-row {
+  display: flex;
+  flex-wrap: wrap;          /* items wrap naturally if long */
+  gap: 8px;                 /* space between items */
+}
+
+#totals-list li.nested {
+  margin-left: 20px;
+  font-size: 0.95em;
+  color: #ccc;
+}
+#totals-list li.nested span {
+  display: block;
+}
+
+.toast {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+
+  background: #1f2933;
+  color: #e5e7eb;
+  padding: 10px 16px;
+  border-radius: 8px;
+
+  font-size: 0.9em;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+
+  opacity: 0;
+  transform: translateY(10px);
+  pointer-events: none;
+
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Disabled buff row */
+.buff-option.disabled {
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+/* Warning text */
+.buff-warning {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 6px;
+  font-size: 0.85em;
+  color: #ffb347;
+  white-space: nowrap;
+}
+
+.buff-warning .icon {
+  font-size: 1em;
+}
