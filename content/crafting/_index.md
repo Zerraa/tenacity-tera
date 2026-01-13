@@ -1,5 +1,5 @@
 ---
-title: Crafting Calculator
+title: Crafting Calculator [TEST]
 description: 
 weight: 1
 toc: true
