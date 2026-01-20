@@ -6,7 +6,7 @@
     },
     "critChance": 0,
     "critYield": {},
-    "profession": "110"
+    "profession": "101"
   },
   "Sapphire": {
     "amount": 1,
@@ -16,7 +16,7 @@
     },
     "critChance": 0,
     "critYield": {},
-    "profession": "110"
+    "profession": "101"
   },
   "Emerald": {
     "amount": 1,
@@ -26,7 +26,7 @@
     },
     "critChance": 0,
     "critYield": {},
-    "profession": "110"
+    "profession": "101"
   },
   "Diamond": {
     "amount": 1,
@@ -36,17 +36,18 @@
     },
     "critChance": 0,
     "critYield": {},
-    "profession": "110"
+    "profession": "101"
   },
   "Veteran Apothecary Dye": {
     "amount": 1,
     "materials": {
-      "Premium Handmade Munsell Dye Bundle": 5,
-      "Achromic Essence": 20,
-      "Opal Essence Crystal": 20,
-      "Obsidian Essence Crystal": 20
+      "Empty Vial": 1,
+      "Verdigris Flake": 10,
+      "Indigo Petal": 10,
+      "Achromic Essence": 200,
+      "Craft Kit": 200
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
       "Veteran Apothecary Dye": 2
     },
@@ -464,32 +465,6 @@
     "critYield": {},
     "profession": "107"
   },
-  "Cyasma Rejuvenation Potion": {
-    "amount": 2,
-    "materials": {
-      "Harmony Grass": 15,
-      "Cyasmic Essence": 45,
-      "Craft Kit": 300
-    },
-    "critChance": 0.05,
-    "critYield": {
-      "Cyasma Rejuvenation Potion": 3
-    },
-    "profession": "101"
-  },
-  "Cyasma Health Potion": {
-    "amount": 2,
-    "materials": {
-      "Achromic Essence": 15,
-      "Casian Leaf": 45,
-      "Craft Kit": 300
-    },
-    "critChance": 0.05,
-    "critYield": {
-      "Cyasma Health Potion": 3
-    },
-    "profession": "101"
-  },
   "Forgotten Accessory Box": {
     "amount": 1,
     "materials": {
@@ -857,7 +832,7 @@
     "profession": "102"
   },
   "Vinegar": {
-    "amount": 1,
+    "amount": 2,
     "materials": {
       "White Sugar": 3,
       "Distilled Liquor": 3,
@@ -865,7 +840,7 @@
     },
     "critChance": 0.1,
     "critYield": {
-      "Vinegar": 2
+      "Vinegar": 3
     },
     "profession": "102"
   },
@@ -1362,30 +1337,30 @@
     "profession": "102"
   },
   "Good Pet Food": {
-    "amount": 1,
+    "amount": 3,
     "materials": {
-      "Prime Arborean Filet": 50,
+      "Arborean Filet": 50,
       "Cooking Oil": 10,
       "Lemon": 10,
       "Sea Salt": 5
     },
-    "critChance": 0.05,
+    "critChance": 0.2,
     "critYield": {
-      "Good Pet Food": 2
+      "Good Pet Food": 5
     },
     "profession": "102"
   },
   "Nutricious Pet Food": {
-    "amount": 1,
+    "amount": 3,
     "materials": {
-      "Exodor Filet": 50,
+      "Prime Exodor Filet": 50,
       "Cooking Oil": 10,
       "Lemon": 10,
       "Sea Salt": 5
     },
-    "critChance": 0.05,
+    "critChance": 0.2,
     "critYield": {
-      "Nutricious Pet Food": 2
+      "Nutricious Pet Food": 5
     },
     "profession": "102"
   },
@@ -1534,7 +1509,7 @@
       "Sunflare Crystal": 5,
       "Verdestone Crystal": 5,
       "Moonshard Crystal": 5,
-      "Design: Silvaron Ingot": 5
+      "Deepsea Azurite Crystal": 5
     },
     "critChance": 0.03,
     "critYield": {
@@ -1607,8 +1582,8 @@
     "materials": {
       "Melted Pyrelite Shard": 3,
       "Clear Liquid Reagent": 5,
-      "Rough Stone": 10,
-      "Craft Kit": 25
+      "Rough Stone": 3,
+      "Craft Kit": 15
     },
     "critChance": 0.05,
     "critYield": {
@@ -1621,8 +1596,8 @@
     "materials": {
       "Melted Darksteel Shard": 3,
       "Clear Liquid Reagent": 5,
-      "Rough Stone": 10,
-      "Craft Kit": 25
+      "Rough Stone": 3,
+      "Craft Kit": 15
     },
     "critChance": 0.05,
     "critYield": {
@@ -1635,8 +1610,8 @@
     "materials": {
       "Melted Gloomstone Shard": 3,
       "Clear Liquid Reagent": 5,
-      "Rough Stone": 10,
-      "Craft Kit": 25
+      "Rough Stone": 3,
+      "Craft Kit": 15
     },
     "critChance": 0.05,
     "critYield": {
@@ -1649,8 +1624,8 @@
     "materials": {
       "Melted Silvaron Shard": 3,
       "Clear Liquid Reagent": 5,
-      "Rough Stone": 10,
-      "Craft Kit": 25
+      "Rough Stone": 3,
+      "Craft Kit": 15
     },
     "critChance": 0.05,
     "critYield": {
@@ -1663,8 +1638,8 @@
     "materials": {
       "Melted Luminite Shard": 3,
       "Clear Liquid Reagent": 5,
-      "Rough Stone": 10,
-      "Craft Kit": 25
+      "Rough Stone": 3,
+      "Craft Kit": 15
     },
     "critChance": 0.05,
     "critYield": {
@@ -1790,10 +1765,8 @@
       "Echelon's Golden Coin": 10,
       "Craft Kit": 250
     },
-    "critChance": 0.05,
-    "critYield": {
-      "Landmine": 2
-    },
+    "critChance": 0,
+    "critYield": {},
     "profession": "104"
   },
   "Time Bomb": {
@@ -1804,10 +1777,8 @@
       "Echelon's Golden Coin": 10,
       "Craft Kit": 250
     },
-    "critChance": 0.05,
-    "critYield": {
-      "Time Bomb": 2
-    },
+    "critChance": 0,
+    "critYield": {},
     "profession": "104"
   },
   "Summon: Attack Flag": {
@@ -1818,10 +1789,8 @@
       "Echelon's Golden Coin": 40,
       "Craft Kit": 250
     },
-    "critChance": 0.05,
-    "critYield": {
-      "Summon: Attack Flag": 2
-    },
+    "critChance": 0,
+    "critYield": {},
     "profession": "104"
   },
   "Summon: Endurance Flag": {
@@ -1832,10 +1801,8 @@
       "Echelon's Golden Coin": 40,
       "Craft Kit": 250
     },
-    "critChance": 0.05,
-    "critYield": {
-      "Summon: Endurance Flag": 2
-    },
+    "critChance": 0,
+    "critYield": {},
     "profession": "104"
   },
   "Summon: Recovery Flag": {
@@ -1846,10 +1813,8 @@
       "Echelon's Golden Coin": 40,
       "Craft Kit": 250
     },
-    "critChance": 0.05,
-    "critYield": {
-      "Summon: Recovery Flag": 2
-    },
+    "critChance": 0,
+    "critYield": {},
     "profession": "104"
   },
   "Grinded Balder Essence": {
@@ -2205,28 +2170,25 @@
     "profession": "106"
   },
   "Mystic Thread": {
-    "amount": 1,
+    "amount": 2,
     "materials": {
-      "Pyrelite Ingot": 1,
-      "Straw Scarab": 1,
-      "Craft Kit": 100
+      "Straw Scarab": 3,
+      "Sinew Strand": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Mystic Thread": 2
+      "Mystic Thread": 3
     },
     "profession": "107"
   },
   "Shimmering Scissors": {
-    "amount": 1,
+    "amount": 2,
     "materials": {
-      "Darksteel Ingot": 1,
-      "Elemental Scarab": 1,
-      "Craft Kit": 100
+      "Melted Darksteel Shard": 3
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Shimmering Scissors": 2
+      "Shimmering Scissors": 3
     },
     "profession": "107"
   },
@@ -2752,7 +2714,7 @@
     "critYield": {},
     "profession": "109"
   },
-  "Angler's Circlet I": {
+  "Angler's Circlet": {
     "amount": 1,
     "materials": {
       "Angler's Seal": 50,
@@ -2776,7 +2738,7 @@
     "critYield": {},
     "profession": "109"
   },
-  "Angler's Belt I": {
+  "Angler's Belt": {
     "amount": 1,
     "materials": {
       "Angler's Seal": 50,
@@ -2788,7 +2750,7 @@
     "critYield": {},
     "profession": "109"
   },
-  "Angler's Emblem I": {
+  "Angler's Emblem": {
     "amount": 1,
     "materials": {
       "Angler's Seal": 50,
@@ -2800,7 +2762,7 @@
     "critYield": {},
     "profession": "109"
   },
-  "Angler's Ring I": {
+  "Angler's Ring": {
     "amount": 1,
     "materials": {
       "Angler's Seal": 50,
@@ -2812,7 +2774,7 @@
     "critYield": {},
     "profession": "109"
   },
-  "Angler's Necklace I": {
+  "Angler's Necklace": {
     "amount": 1,
     "materials": {
       "Angler's Seal": 50,
@@ -2824,49 +2786,13 @@
     "critYield": {},
     "profession": "109"
   },
-  "Angler's Earring I": {
+  "Angler's Earring": {
     "amount": 1,
     "materials": {
       "Angler's Seal": 50,
       "Processed Wolf Leather": 10,
       "Sunflare Powder": 15,
       "Craft Kit": 1000
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "109"
-  },
-  "Angler's Armor I": {
-    "amount": 1,
-    "materials": {
-      "Angler's Seal": 100,
-      "Processed Unicorn Leather": 20,
-      "Fortitude Reagent": 1,
-      "Craft Kit": 2000
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "109"
-  },
-  "Angler's Gloves I": {
-    "amount": 1,
-    "materials": {
-      "Angler's Seal": 100,
-      "Processed Unicorn Leather": 20,
-      "Fortitude Reagent": 1,
-      "Craft Kit": 2000
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "109"
-  },
-  "Angler's Boots I": {
-    "amount": 1,
-    "materials": {
-      "Angler's Seal": 100,
-      "Processed Unicorn Leather": 20,
-      "Fortitude Reagent": 1,
-      "Craft Kit": 2000
     },
     "critChance": 0,
     "critYield": {},
@@ -2880,23 +2806,22 @@
       "Purified Water": 5,
       "Craft Kit": 100
     },
-    "critChance": 0.01,
+    "critChance": 0.03,
     "critYield": {
-      "Free Trader's HP Potion": 2
+      "Free Trader's HP Potion": 3
     },
     "profession": "101"
   },
   "Rejuvenating Free Trader's HP Potion": {
     "amount": 1,
     "materials": {
-      "Free Trader's HP Potion": 1,
       "Herbal Powder": 5,
-      "Grinded Oryin Essence": 50,
-      "Craft Kit": 500
+      "Grinded Oryin Essence": 7,
+      "Essence of Nature": 2
     },
-    "critChance": 0.01,
+    "critChance": 0.05,
     "critYield": {
-      "Rejuvenating Free Trader's HP Potion": 2
+      "Rejuvenating Free Trader's HP Potion": 3
     },
     "profession": "101"
   },
@@ -2908,23 +2833,22 @@
       "Purified Water": 5,
       "Craft Kit": 100
     },
-    "critChance": 0.01,
+    "critChance": 0.03,
     "critYield": {
-      "Free Trader's MP Potion": 2
+      "Free Trader's MP Potion": 3
     },
     "profession": "101"
   },
   "Rejuvenating Free Trader's MP Potion": {
     "amount": 1,
     "materials": {
-      "Free Trader's MP Potion": 1,
       "Herbal Powder": 5,
-      "Grinded Ishara Essence": 50,
-      "Craft Kit": 500
+      "Grinded Ishara Essence": 7,
+      "Essence of Nature": 2
     },
-    "critChance": 0.01,
+    "critChance": 0.05,
     "critYield": {
-      "Rejuvenating Free Trader's MP Potion": 2
+      "Rejuvenating Free Trader's MP Potion": 3
     },
     "profession": "101"
   },
@@ -2935,7 +2859,7 @@
       "Pure Powder Reagent": 2,
       "Essence of Nature": 2
     },
-    "critChance": 0.01,
+    "critChance": 0.05,
     "critYield": {
       "Savage Draught": 2
     },
@@ -2948,7 +2872,7 @@
       "Pure Powder Reagent": 2,
       "Essence of Nature": 2
     },
-    "critChance": 0.01,
+    "critChance": 0.05,
     "critYield": {
       "Vigorous Draught": 2
     },
@@ -3039,18 +2963,6 @@
       "Translucent Crystal": 20,
       "Echelon's Golden Coin": 200,
       "Craft Kit": 1000
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "104"
-  },
-  "Siege Barrel": {
-    "amount": 1,
-    "materials": {
-      "Silvaron Ingot": 10,
-      "Metal Solvent": 2,
-      "Echelon's Golden Coin": 10,
-      "Craft Kit": 250
     },
     "critChance": 0,
     "critYield": {},
@@ -3164,7 +3076,7 @@
     "critYield": {},
     "profession": "108"
   },
-  "Gatherer's Armor": {
+  "Lifeskiller's Armor": {
     "amount": 1,
     "materials": {
       "Processed Noruk Leather": 25,
@@ -3177,7 +3089,7 @@
     "critYield": {},
     "profession": "108"
   },
-  "Gatherer's Gloves": {
+  "Lifeskiller's Gloves": {
     "amount": 1,
     "materials": {
       "Processed Noruk Leather": 50,
@@ -3190,7 +3102,7 @@
     "critYield": {},
     "profession": "108"
   },
-  "Gatherer's Boots": {
+  "Lifeskiller's Boots": {
     "amount": 1,
     "materials": {
       "Processed Noruk Leather": 25,
@@ -3202,170 +3114,6 @@
     "critChance": 0,
     "critYield": {},
     "profession": "108"
-  },
-  "Diluted Charm Solution": {
-    "amount": 1,
-    "materials": {
-      "Essence of Nature": 2,
-      "Clear Liquid Reagent": 5
-    },
-    "critChance": 0.05,
-    "critYield": {
-      "Diluted Charm Solution": 2
-    },
-    "profession": "101"
-  },
-  "Refined Charm Tincture": {
-    "amount": 1,
-    "materials": {
-      "Diluted Charm Solution": 1,
-      "Essence of Nature": 5,
-      "Tranquility Reagent": 5,
-      "Craft Kit": 250
-    },
-    "critChance": 0.05,
-    "critYield": {
-      "Refined Charm Tincture": 2
-    },
-    "profession": "101"
-  },
-  "Concentrated Charm Extract": {
-    "amount": 1,
-    "materials": {
-      "Refined Charm Tincture": 1,
-      "Essence of Nature": 10,
-      "Refined Reagent": 5,
-      "Craft Kit": 100
-    },
-    "critChance": 0.05,
-    "critYield": {
-      "Concentrated Charm Extract": 2
-    },
-    "profession": "101"
-  },
-  "Masterwork Charm Catalyst": {
-    "amount": 1,
-    "materials": {
-      "Concentrated Charm Extract": 1,
-      "Essence of Nature": 15,
-      "Straw Scarab": 5,
-      "Refined Reagent": 5,
-      "Craft Kit": 250
-    },
-    "critChance": 0.05,
-    "critYield": {
-      "Masterwork Charm Catalyst": 2
-    },
-    "profession": "101"
-  },
-  "Charm: Goddess’s Favor I": {
-    "amount": 1,
-    "materials": {
-      "Wolf Hide": 5,
-      "Rough Stone": 50,
-      "Wild Grass": 50,
-      "Achromic Essence": 50,
-      "Craft Kit": 500
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
-  },
-  "Charm: Elinu’s Bloom I": {
-    "amount": 1,
-    "materials": {
-      "Hyena Hide": 5,
-      "Essence of Nature": 10,
-      "Wild Grass": 50,
-      "Craft Kit": 300
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
-  },
-  "Charm: Kaia’s Might I": {
-    "amount": 1,
-    "materials": {
-      "Hyena Hide": 5,
-      "Essence of Nature": 10,
-      "Rough Stone": 50,
-      "Craft Kit": 300
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
-  },
-  "Charm: Icaruna’s Curiosity I": {
-    "amount": 1,
-    "materials": {
-      "Hyena Hide": 5,
-      "Essence of Nature": 10,
-      "Ironclad Beetle": 50,
-      "Craft Kit": 300
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
-  },
-  "Charm: Isren’s Insight I": {
-    "amount": 1,
-    "materials": {
-      "Hyena Hide": 5,
-      "Essence of Nature": 10,
-      "Achromic Essence": 50,
-      "Craft Kit": 300
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
-  },
-  "Charm: Zuras’s Flow I": {
-    "amount": 1,
-    "materials": {
-      "Sabertooth Hide": 5,
-      "Essence of Nature": 10,
-      "Angler's Seal": 200,
-      "Craft Kit": 500
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
-  },
-  "Charm: Zuras’s Breath I": {
-    "amount": 1,
-    "materials": {
-      "Sabertooth Hide": 5,
-      "Essence of Nature": 10,
-      "Angler's Seal": 100,
-      "Craft Kit": 300
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
-  },
-  "Charm: Zuras’s Grace I": {
-    "amount": 1,
-    "materials": {
-      "Sabertooth Hide": 5,
-      "Essence of Nature": 10,
-      "Angler's Seal": 100,
-      "Craft Kit": 300
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
-  },
-  "Charm: Zuras’s Blessing I": {
-    "amount": 1,
-    "materials": {
-      "Sabertooth Hide": 5,
-      "Essence of Nature": 10,
-      "Angler's Seal": 100,
-      "Craft Kit": 300
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "101"
   },
   "Care and Use of Your Pet Grizzler": {
     "amount": 1,
@@ -3493,8 +3241,7 @@
     "materials": {
       "[Weapon] Processing Liquid": 1,
       "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1,
-      "Craft Kit": 5000
+      "Polished Luminite Ingot": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3505,8 +3252,7 @@
     "materials": {
       "[Weapon] Processing Liquid": 1,
       "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1,
-      "Craft Kit": 5000
+      "Polished Luminite Ingot": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3517,8 +3263,7 @@
     "materials": {
       "[Weapon] Processing Liquid": 1,
       "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1,
-      "Craft Kit": 5000
+      "Polished Luminite Ingot": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3529,8 +3274,7 @@
     "materials": {
       "[Weapon] Processing Liquid": 1,
       "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1,
-      "Craft Kit": 5000
+      "Polished Luminite Ingot": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3541,8 +3285,7 @@
     "materials": {
       "[Weapon] Processing Liquid": 1,
       "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1,
-      "Craft Kit": 5000
+      "Polished Luminite Ingot": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -4153,8 +3896,8 @@
   "Molten Core Ingot": {
     "amount": 1,
     "materials": {
-      "Polished Gloomstone Ingot": 10,
-      "Polished Silvaron Ingot": 10,
+      "Polished Gloomstone Ingot": 5,
+      "Polished Silvaron Ingot": 5,
       "Manahan's Nucleus": 1,
       "Translucent Crystal": 1,
       "Spirit Powder": 4,
@@ -4167,13 +3910,28 @@
   "Nature's Fruit": {
     "amount": 1,
     "materials": {
+      "Refined Reagent": 2,
+      "Essence of Nature": 10,
+      "Spirit Powder": 5,
+      "Stormvine": 20,
+      "Craft Kit": 100
+    },
+    "critChance": 0.1,
+    "critYield": {
+      "Nature's Fruit": 2
+    },
+    "profession": "108"
+  },
+  "Azart Energy": {
+    "amount": 1,
+    "materials": {
       "Tranquility Reagent": 2,
       "Azart Crystal": 20,
       "Craft Kit": 100
     },
     "critChance": 0.15,
     "critYield": {
-      "Nature's Fruit": 2
+      "Azart Energy": 2
     },
     "profession": "108"
   }
