@@ -670,68 +670,66 @@
   "Crafting Additive I": {
     "amount": 1,
     "materials": {
-      "Purified Essence of Arun": 100,
-      "Shadowglass Crystal": 20,
-      "Fortitude Reagent": 5,
-      "Craft Kit": 1000
+      "Purified Essence of Arun": 3,
+      "Shadowglass Crystal": 3,
+      "Clear Liquid Reagent": 3
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Crafting Additive I": 2
+      "Crafting Additive II": 1
     },
     "profession": "101"
   },
   "Crafting Additive II": {
     "amount": 1,
     "materials": {
-      "Purified Essence of Shara": 100,
-      "Sunflare Crystal": 20,
-      "Fortitude Reagent": 5,
-      "Craft Kit": 1000
+      "Purified Essence of Shara": 5,
+      "Sunflare Crystal": 5,
+      "Pure Powder Reagent": 3
     },
-    "critChance": 0.05,
+    "critChance": 0.075,
     "critYield": {
-      "Crafting Additive II": 2
+      "Crafting Additive III": 1
     },
     "profession": "101"
   },
   "Crafting Additive III": {
     "amount": 1,
     "materials": {
-      "Purified Essence of Dawn": 100,
-      "Verdestone Crystal": 20,
-      "Tranquility Reagent": 5,
-      "Craft Kit": 1000
+      "Manahan's Nucleus": 1,
+      "Verdestone Crystal": 5,
+      "Fortitude Reagent": 2,
+      "Craft Kit": 100
     },
     "critChance": 0.05,
     "critYield": {
-      "Crafting Additive III": 2
+      "Crafting Additive IV": 1
     },
     "profession": "101"
   },
   "Crafting Additive IV": {
     "amount": 1,
     "materials": {
-      "Purified Essence of Veil": 100,
-      "Moonshard Crystal": 20,
-      "Tranquility Reagent": 5,
-      "Craft Kit": 1000
+      "Manahan's Nucleus": 5,
+      "Essence of Nature": 5,
+      "Tranquility Reagent": 2,
+      "Craft Kit": 250
     },
-    "critChance": 0.05,
+    "critChance": 0.03,
     "critYield": {
-      "Crafting Additive IV": 2
+      "Crafting Additive V": 1
     },
     "profession": "101"
   },
   "Crafting Additive V": {
     "amount": 1,
     "materials": {
-      "Manahan's Nucleus": 100,
-      "Deepsea Azurite Crystal": 20,
-      "Refined Reagent": 5,
-      "Craft Kit": 1000
+      "Manahan's Nucleus": 10,
+      "Essence of Nature": 10,
+      "Refined Reagent": 1,
+      "Craft Kit": 500
     },
-    "critChance": 0.05,
+    "critChance": 0.01,
     "critYield": {
       "Crafting Additive V": 2
     },
@@ -741,8 +739,7 @@
     "amount": 1,
     "materials": {
       "Wheat": 3,
-      "Purified Water": 3,
-      "Craft Kit": 10
+      "Purified Water": 1
     },
     "critChance": 0.5,
     "critYield": {
@@ -754,8 +751,7 @@
     "amount": 1,
     "materials": {
       "Cobseed": 3,
-      "Purified Water": 3,
-      "Craft Kit": 10
+      "Purified Water": 1
     },
     "critChance": 0.5,
     "critYield": {
@@ -767,8 +763,7 @@
     "amount": 1,
     "materials": {
       "Taproot": 3,
-      "Purified Water": 3,
-      "Craft Kit": 10
+      "Purified Water": 1
     },
     "critChance": 0.5,
     "critYield": {
@@ -859,9 +854,9 @@
   "Dressing": {
     "amount": 1,
     "materials": {
-      "Smooth Cream": 5,
-      "Olive Oil": 5,
-      "Vinegar": 3,
+      "Smooth Cream": 3,
+      "Olive Oil": 3,
+      "Vinegar": 2,
       "Lemon": 3
     },
     "critChance": 0.15,
@@ -873,9 +868,9 @@
   "White Sauce": {
     "amount": 1,
     "materials": {
-      "Smooth Cream": 5,
-      "Olive Oil": 5,
-      "Vinegar": 3,
+      "Smooth Cream": 3,
+      "Olive Oil": 3,
+      "Vinegar": 2,
       "Moongourd": 3
     },
     "critChance": 0.15,
@@ -887,9 +882,9 @@
   "Red Sauce": {
     "amount": 1,
     "materials": {
-      "Smooth Cream": 5,
-      "Olive Oil": 5,
-      "Vinegar": 3,
+      "Smooth Cream": 3,
+      "Olive Oil": 3,
+      "Vinegar": 2,
       "Flame Pepper": 3
     },
     "critChance": 0.15,
@@ -1098,7 +1093,6 @@
     "materials": {
       "Special Velika Meal": 1,
       "Celestial Spice Mix": 5,
-      "Taproot Dough": 5,
       "Processed Naga Meat": 10,
       "Mixed Herbs": 5
     },
@@ -1113,7 +1107,6 @@
     "materials": {
       "Special Allemantheia Meal": 1,
       "Celestial Spice Mix": 5,
-      "Taproot Dough": 5,
       "Processed Naga Meat": 10,
       "Mixed Herbs": 5
     },
@@ -1128,7 +1121,6 @@
     "materials": {
       "Special Kaiator Meal": 1,
       "Celestial Spice Mix": 5,
-      "Taproot Dough": 5,
       "Processed Naga Meat": 10,
       "Mixed Herbs": 5
     },
@@ -1143,7 +1135,6 @@
     "materials": {
       "Special Highwatch Meal": 1,
       "Celestial Spice Mix": 5,
-      "Taproot Dough": 5,
       "Processed Naga Meat": 10,
       "Mixed Herbs": 5
     },
@@ -1158,7 +1149,6 @@
     "materials": {
       "Special Balderon Meal": 1,
       "Celestial Spice Mix": 5,
-      "Taproot Dough": 5,
       "Processed Naga Meat": 10,
       "Mixed Herbs": 5
     },
@@ -1297,7 +1287,7 @@
   "Carrot Pie": {
     "amount": 1,
     "materials": {
-      "Wheat Dough": 5,
+      "Taproot Dough": 5,
       "Carrot": 50,
       "Smooth Cream": 10,
       "White Sugar": 10
@@ -1577,11 +1567,23 @@
     },
     "profession": "104"
   },
+  "Melted Duranium Shard": {
+    "amount": 1,
+    "materials": {
+      "Duranium Ore": 5,
+      "Metal Solvent": 2
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "Melted Duranium Shard": 3
+    },
+    "profession": "104"
+  },
   "Pyrelite Ingot": {
     "amount": 1,
     "materials": {
       "Melted Pyrelite Shard": 3,
-      "Clear Liquid Reagent": 5,
+      "Clear Liquid Reagent": 3,
       "Rough Stone": 3,
       "Craft Kit": 15
     },
@@ -1595,7 +1597,7 @@
     "amount": 1,
     "materials": {
       "Melted Darksteel Shard": 3,
-      "Clear Liquid Reagent": 5,
+      "Clear Liquid Reagent": 3,
       "Rough Stone": 3,
       "Craft Kit": 15
     },
@@ -1609,7 +1611,7 @@
     "amount": 1,
     "materials": {
       "Melted Gloomstone Shard": 3,
-      "Clear Liquid Reagent": 5,
+      "Clear Liquid Reagent": 3,
       "Rough Stone": 3,
       "Craft Kit": 15
     },
@@ -1623,7 +1625,7 @@
     "amount": 1,
     "materials": {
       "Melted Silvaron Shard": 3,
-      "Clear Liquid Reagent": 5,
+      "Clear Liquid Reagent": 3,
       "Rough Stone": 3,
       "Craft Kit": 15
     },
@@ -1637,7 +1639,7 @@
     "amount": 1,
     "materials": {
       "Melted Luminite Shard": 3,
-      "Clear Liquid Reagent": 5,
+      "Clear Liquid Reagent": 3,
       "Rough Stone": 3,
       "Craft Kit": 15
     },
@@ -1647,11 +1649,24 @@
     },
     "profession": "104"
   },
+  "Duranium Ingot": {
+    "amount": 1,
+    "materials": {
+      "Melted Duranium Shard": 3,
+      "Clear Liquid Reagent": 3,
+      "Rough Stone": 3,
+      "Craft Kit": 25
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "Duranium Ingot": 3
+    },
+    "profession": "104"
+  },
   "Polished Pyrelite Ingot": {
     "amount": 2,
     "materials": {
-      "Pyrelite Ingot": 10,
-      "Metal Solvent": 10,
+      "Pyrelite Ingot": 5,
       "Rough Stone": 25,
       "Craft Kit": 100
     },
@@ -1664,8 +1679,7 @@
   "Polished Darksteel Ingot": {
     "amount": 2,
     "materials": {
-      "Darksteel Ingot": 10,
-      "Metal Solvent": 5,
+      "Darksteel Ingot": 5,
       "Rough Stone": 25,
       "Craft Kit": 100
     },
@@ -1678,8 +1692,7 @@
   "Polished Gloomstone Ingot": {
     "amount": 2,
     "materials": {
-      "Gloomstone Ingot": 10,
-      "Metal Solvent": 5,
+      "Gloomstone Ingot": 5,
       "Rough Stone": 25,
       "Craft Kit": 100
     },
@@ -1692,8 +1705,7 @@
   "Polished Silvaron Ingot": {
     "amount": 2,
     "materials": {
-      "Silvaron Ingot": 10,
-      "Metal Solvent": 5,
+      "Silvaron Ingot": 5,
       "Rough Stone": 25,
       "Craft Kit": 100
     },
@@ -1706,10 +1718,9 @@
   "Polished Luminite Ingot": {
     "amount": 2,
     "materials": {
-      "Luminite Ingot": 10,
-      "Metal Solvent": 5,
+      "Luminite Ingot": 5,
       "Rough Stone": 25,
-      "Craft Kit": 10
+      "Craft Kit": 100
     },
     "critChance": 0.05,
     "critYield": {
@@ -1717,37 +1728,10 @@
     },
     "profession": "104"
   },
-  "Melted Duranium Shard": {
-    "amount": 1,
-    "materials": {
-      "Duranium Ore": 5,
-      "Metal Solvent": 2
-    },
-    "critChance": 0.05,
-    "critYield": {
-      "Melted Duranium Shard": 3
-    },
-    "profession": "104"
-  },
-  "Duranium Ingot": {
-    "amount": 1,
-    "materials": {
-      "Melted Duranium Shard": 3,
-      "Clear Liquid Reagent": 5,
-      "Rough Stone": 10,
-      "Craft Kit": 25
-    },
-    "critChance": 0.05,
-    "critYield": {
-      "Duranium Ingot": 3
-    },
-    "profession": "104"
-  },
   "Polished Duranium Ingot": {
     "amount": 2,
     "materials": {
-      "Duranium Ingot": 10,
-      "Metal Solvent": 10,
+      "Duranium Ingot": 5,
       "Rough Stone": 25,
       "Craft Kit": 100
     },
@@ -2436,7 +2420,7 @@
     "materials": {
       "Tempered Hide": 1,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2447,7 +2431,7 @@
     "materials": {
       "Tempered Hide": 2,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2458,7 +2442,7 @@
     "materials": {
       "Tempered Hide": 3,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2469,7 +2453,7 @@
     "materials": {
       "Prime Beast Cut": 4,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2480,7 +2464,7 @@
     "materials": {
       "Prime Beast Cut": 6,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2491,7 +2475,7 @@
     "materials": {
       "Prime Beast Cut": 8,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2502,7 +2486,7 @@
     "materials": {
       "Chained Spirit Essence": 12,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2513,7 +2497,7 @@
     "materials": {
       "Chained Spirit Essence": 16,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2524,7 +2508,7 @@
     "materials": {
       "Chained Spirit Essence": 20,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2535,7 +2519,7 @@
     "materials": {
       "Molten Core Ingot": 30,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2546,7 +2530,7 @@
     "materials": {
       "Molten Core Ingot": 50,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2557,7 +2541,7 @@
     "materials": {
       "Molten Core Ingot": 70,
       "Binding Stone": 5,
-      "Craft Kit": 10000
+      "Craft Kit": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -2802,7 +2786,7 @@
     "amount": 1,
     "materials": {
       "Bottle of Lake of Tear Water": 3,
-      "Achromic Essence": 50,
+      "Achromic Essence": 25,
       "Purified Water": 5,
       "Craft Kit": 100
     },
@@ -2829,7 +2813,7 @@
     "amount": 1,
     "materials": {
       "Bottle of Fountain of Shara Water": 3,
-      "Achromic Essence": 50,
+      "Achromic Essence": 25,
       "Purified Water": 5,
       "Craft Kit": 100
     },
@@ -2969,13 +2953,13 @@
     "profession": "104"
   },
   "Hunting Arrow": {
-    "amount": 2,
+    "amount": 3,
     "materials": {
       "Pyrelite Ingot": 1,
       "Rough Timber": 1,
       "Craft Kit": 100
     },
-    "critChance": 0.05,
+    "critChance": 0.2,
     "critYield": {
       "Hunting Arrow": 5
     },
