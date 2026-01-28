@@ -516,7 +516,7 @@
     "amount": 2,
     "materials": {
       "Rough Stone": 3,
-      "Purified Water": 1
+      "Standard Alchemy Water": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -529,7 +529,7 @@
     "materials": {
       "Solleaf Herb": 5,
       "Wild Grass": 7,
-      "Purified Water": 1
+      "Standard Alchemy Water": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -542,7 +542,7 @@
     "materials": {
       "Dewpetal Root": 5,
       "Wild Grass": 7,
-      "Purified Water": 1
+      "Standard Alchemy Water": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -2156,8 +2156,9 @@
   "Mystic Thread": {
     "amount": 2,
     "materials": {
-      "Straw Scarab": 3,
-      "Sinew Strand": 1
+      "Sinew Strand": 2,
+      "Flax Thread": 2,
+      "Rough Timber": 2
     },
     "critChance": 0.1,
     "critYield": {
@@ -2168,7 +2169,8 @@
   "Shimmering Scissors": {
     "amount": 2,
     "materials": {
-      "Melted Darksteel Shard": 3
+      "Melted Darksteel Shard": 3,
+      "Straw Scarab": 2
     },
     "critChance": 0.1,
     "critYield": {
@@ -2180,10 +2182,9 @@
     "amount": 1,
     "materials": {
       "Silk Weave": 1,
-      "Mystic Thread": 1,
-      "Craft Kit": 100
+      "Fine Linen": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.075,
     "critYield": {
       "Phantom Silk": 2
     },
@@ -2192,11 +2193,11 @@
   "Spellwoven Spindle": {
     "amount": 1,
     "materials": {
-      "Mystic Thread": 1,
-      "Manahan's Nucleus": 1,
-      "Craft Kit": 100
+      "Mystic Thread": 3,
+      "Cotton Yarn": 5,
+      "Purified Essence of Veil": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.075,
     "critYield": {
       "Spellwoven Spindle": 2
     },
@@ -2208,7 +2209,7 @@
       "Spellwoven Spindle": 1,
       "Phantom Silk": 1,
       "Manahan's Nucleus": 1,
-      "Craft Kit": 100
+      "Rough Timber": 3
     },
     "critChance": 0.05,
     "critYield": {
@@ -2219,10 +2220,10 @@
   "Flax Thread": {
     "amount": 1,
     "materials": {
-      "Flax": 1,
-      "Craft Kit": 100
+      "Flax": 3,
+      "Stormvine": 4
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
       "Flax Thread": 2
     },
@@ -2235,7 +2236,7 @@
       "Shimmering Scissors": 1,
       "Craft Kit": 100
     },
-    "critChance": 0.05,
+    "critChance": 0.075,
     "critYield": {
       "Flax Fabric": 2
     },
@@ -2244,10 +2245,10 @@
   "Cotton Yarn": {
     "amount": 1,
     "materials": {
-      "Cotton": 1,
-      "Craft Kit": 100
+      "Cotton": 3,
+      "Noctis Bloom": 4
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
       "Cotton Yarn": 2
     },
@@ -2260,7 +2261,7 @@
       "Shimmering Scissors": 1,
       "Craft Kit": 100
     },
-    "critChance": 0.05,
+    "critChance": 0.075,
     "critYield": {
       "Cotton Fabric": 2
     },
