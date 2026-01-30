@@ -1,13 +1,23 @@
 {
   "Veteran Apothecary Dye": {
     "id": "206",
-    "tooltip": "Select a dye color for your armor from a multitude of hues. Armor color may affect final result.",
+    "tooltip": "<font color = '#2478FF'>[Apothecary Dye]</font>$BRSelect a dye color for your armor from a multitude of hues. Armor color may affect final result.",
     "icon": "/icons/Icon_Items/dye_result_random_Tex.png"
   },
-  "Premium Handmade Munsell Dye Bundle": {
-    "id": "236",
-    "tooltip": "Dye your equipment a color that lasts for 1 hour. (This special bundle provides a broader range of colors than the others.) [Caution: The final color of your equipment may vary depending on its original color and the color of dyes used.]",
-    "icon": "/icons/Icon_Items/dye_result_06_Tex.png"
+  "Verdigris Flake": {
+    "id": "451594",
+    "tooltip": "<font color = '#2478FF'>[Dye Ingredient]</font>$BRMineral mined by Amanis for producing dye.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy Merchant",
+    "icon": "/icons/Icon_Items/dye_material_04_Tex.png"
+  },
+  "Indigo Petal": {
+    "id": "451595",
+    "tooltip": "<font color = '#2478FF'>[Dye Ingredient]</font>$BRFlower gathered by Elins for producing dye.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy Merchant",
+    "icon": "/icons/Icon_Items/dye_material_05_Tex.png"
+  },
+  "Empty Vial": {
+    "id": "451593",
+    "tooltip": "<font color = '#2478FF'>[Dye Ingredient]</font>$BRSmall glass bottle for storing dyes. Required for making dyes.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy Merchant",
+    "icon": "/icons/Icon_Items/dye_empty_bottle_Tex.png"
   },
   "Ruby": {
     "id": "366",
@@ -211,7 +221,7 @@
   },
   "Angler's Whiskers I": {
     "id": "450832",
-    "tooltip": "<font color = '#2478FF'>[Angler's Whiskers]</font>$BRA finely crafted mask resembling the whiskers of a legendary fish.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories$BR$BRCan be upgraded to a Angler's Whiskers II.",
+    "tooltip": "<font color = '#2478FF'>[Angler's Whiskers]</font>$BRA finely crafted mask resembling the whiskers of a legendary fish.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories$BR$BRCan be upgraded to a Angler's Whiskers II.",
     "icon": "/icons/Icon_Items/Gear_AnglerWhiskers_Tex.png"
   },
   "Crude Sickle": {
@@ -234,11 +244,6 @@
     "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your Energy harnessing time by $H_W_GOOD8 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.",
     "icon": "/icons/Icon_Items/parts_lightarmorC11_Tex.png"
   },
-  "Harmony Grass": {
-    "id": "206800",
-    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRHarvested alongside raw plant materials. Used in Cooking.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRHarmony Grass$BRWild Cobseed$BRWild Veridia$BROrange Mushroom$BRMoongourd$BRApple Tree$BR$BRGathering nodes are located all around the world. Specific locations for this material are listed in Achievement (Extracurricular Activities).",
-    "icon": "/icons/Icon_Items/q_GreenGrass_Tex.png"
-  },
   "Apple": {
     "id": "450626",
     "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRJuicy fruit grown in orchards favored by Elinu and Popori alike.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
@@ -248,16 +253,6 @@
     "id": "451525",
     "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRFound in the wilds of Arborea. Small crystals glimmer in the light of Balder's Eye.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAchromic Essence (Arborea)",
     "icon": "/icons/Icon_Items/Union_Collect3_Tex.png"
-  },
-  "Opal Essence Crystal": {
-    "id": "206821",
-    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRCrystalline energy harnessed for crafting magical items. Can be Processed into Opal Silex.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRWhite Essence$BR$BRGathering nodes are located all around the world. Specific locations for this material are listed in Achievement (Extracurricular Activities).",
-    "icon": "/icons/Icon_Items/Union_Quest3_Tex.png"
-  },
-  "Obsidian Essence Crystal": {
-    "id": "206822",
-    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRCrystalline energy harnessed for crafting magical items. Can be Processed into Obsidian Silex.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRObsidian Essence$BR$BRGathering nodes are located all around the world. Specific locations for this material are listed in Achievement (Extracurricular Activities).",
-    "icon": "/icons/Icon_Items/BlockOfChaos_Tex.png"
   },
   "Duranium Ore": {
     "id": "451575",
@@ -604,11 +599,6 @@
     "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRAn ethereal etherglass crystal, nearly weightless and clear.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCombining Crystals",
     "icon": "/icons/Icon_Items/Translucentcrystal_Tex.png"
   },
-  "Design: Silvaron Ingot": {
-    "id": "450489",
-    "tooltip": "Use this design to learn the corresponding crafting skill.",
-    "icon": "/icons/Icon_Items/SmeltingRecipe_Tex.png"
-  },
   "Melted Pyrelite Shard": {
     "id": "450496",
     "tooltip": "<font color = '#2478FF'>[Smelting Material]</font>$BRMelted shard of pyrelite, a common ore from volcanic regions.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMelting Pyrelite Ore",
@@ -951,7 +941,7 @@
   },
   "Raw Tough Tuskboar Meat": {
     "id": "450641",
-    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRTough tuskboar meat, requiring expert processing to unlock its full flavor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Tough Tuskboar (Arborea - Velika Outskirts)",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRTough tuskboar meat, requiring expert processing to unlock its full flavor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Tough Tuskboar (Velika - Velika Outskirts)",
     "icon": "/icons/Icon_Items/Rawtoughtuskboarmeat_Tex.png"
   },
   "Processed Noruk Meat": {
@@ -1199,49 +1189,34 @@
     "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRMassive, dense cuts of fish from the largest aquatic fish. Only the most skilled anglers can catch these and prepare them to their finest potential.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Titan Filet",
     "icon": "/icons/Icon_Items/Material_box_6_Tex.png"
   },
-  "Angler's Belt I": {
+  "Angler's Belt": {
     "id": "450843",
-    "tooltip": "<font color = '#2478FF'>[Angler's Belt]</font>$BRSturdy belt adorned with hooks and lures, favored by seasoned anglers.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "tooltip": "<font color = '#2478FF'>[Angler's Belt]</font>$BRSturdy belt adorned with hooks and lures, favored by seasoned anglers.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
     "icon": "/icons/Icon_Items/Gear_AnglerBelt_Tex.png"
   },
-  "Angler's Emblem I": {
+  "Angler's Emblem": {
     "id": "450854",
-    "tooltip": "<font color = '#2478FF'>[Angler's Emblem]</font>$BRA durable emblem decorated with sharp hooks and intricate lures.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "tooltip": "<font color = '#2478FF'>[Angler's Emblem]</font>$BRA durable emblem decorated with sharp hooks and intricate lures.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
     "icon": "/icons/Icon_Items/Gear_AnglerEmblem_Tex.png"
   },
-  "Angler's Circlet I": {
+  "Angler's Circlet": {
     "id": "450868",
-    "tooltip": "<font color = '#2478FF'>[Angler's Circlet]</font>$BRBeautifully crafted circlet, adorned with delicate hooks and shimmering lures, mark of an expert angler's skill.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories$BR$BRCan be upgraded to a Angler's Circlet II.",
+    "tooltip": "<font color = '#2478FF'>[Angler's Circlet]</font>$BRBeautifully crafted circlet, adorned with delicate hooks and shimmering lures, mark of an expert angler's skill.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories$BR$BRCan be upgraded to a Angler's Circlet II.",
     "icon": "/icons/Icon_Items/Gear_AnglerCirclet_Tex.png"
   },
-  "Angler's Armor I": {
-    "id": "450878",
-    "tooltip": "<font color = '#2478FF'>[Angler's Gear]</font>$BRRobust chest armor, designed to withstand the elements and keep anglers safe.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD5%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Gear$BR$BRCan be upgraded to a Angler's Armor II.",
-    "icon": "/icons/Icon_Items/Gear_AnglerArmor_Tex.png"
-  },
-  "Angler's Gloves I": {
-    "id": "450888",
-    "tooltip": "<font color = '#2478FF'>[Angler's Gear]</font>$BRTough gauntlets crafted for anglers, ensuring a secure grip and added protection when reeling in big catches.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD10%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD10%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Gear$BR$BRCan be upgraded to a Angler's Gloves II.",
-    "icon": "/icons/Icon_Items/Gear_AnglerGlove_Tex.png"
-  },
-  "Angler's Boots I": {
-    "id": "450898",
-    "tooltip": "<font color = '#2478FF'>[Angler's Gear]</font>$BRDurable boots made for anglers, offering reliable support and traction on both land and water.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD5%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Gear$BR$BRCan be upgraded to a Angler's Boots II.",
-    "icon": "/icons/Icon_Items/Gear_AnglerFoot_Tex.png"
-  },
-  "Angler's Ring I": {
+  "Angler's Ring": {
     "id": "450911",
-    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRSimple yet sturdy ring, adorned with small hooks, worn by anglers to mark their passion for the craft.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRSimple yet sturdy ring, adorned with small hooks, worn by anglers to mark their passion for the craft.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
     "icon": "/icons/Icon_Items/Gear_AnglerRing_Tex.png"
   },
-  "Angler's Necklace I": {
+  "Angler's Necklace": {
     "id": "450921",
-    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRNecklace featuring delicate lures, favored by anglers for both its practicality and style.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRNecklace featuring delicate lures, favored by anglers for both its practicality and style.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
     "icon": "/icons/Icon_Items/Gear_AnglerNecklace_Tex.png"
   },
-  "Angler's Earring I": {
+  "Angler's Earring": {
     "id": "450931",
-    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRSimple earring featuring a small hook design, worn by anglers as a practical accessory for their craft.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases waiting time by $H_W_GOOD1.8%$COLOR_END$BRDecreases auto-fishing time by $H_W_GOOD2.5%$COLOR_END$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
+    "tooltip": "<font color = '#2478FF'>[Angler's Accessory]</font>$BRSimple earring featuring a small hook design, worn by anglers as a practical accessory for their craft.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Accessories",
     "icon": "/icons/Icon_Items/Gear_AnglerEarring_Tex.png"
   },
   "Pyrelite Ore": {
@@ -1431,7 +1406,7 @@
   },
   "Hunting Arrow": {
     "id": "451032",
-    "tooltip": "<font color = '#2478FF'>[Hunting Tool]</font>$BRStandard arrows used for hunting targets.",
+    "tooltip": "<font color = '#2478FF'>[Hunting Tool]</font>$BRStandard arrows used for hunting targets.$BR$BR<font color = '#41FF3A'>[Damage]</font>$BR100.000 Damage$BR$BR<font color = '#FFBB00'>[Source]</font>$BRRecipe can be obtained from Chives after finishing the [Important] Life of Arborea quest.",
     "icon": "/icons/Icon_Items/HuntingArrow_Tex.png"
   },
   "Beast Fat": {
@@ -1449,10 +1424,10 @@
     "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRA coarse solution applied to raw hides to prevent decay.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for processing raw hide.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRHunting Merchant",
     "icon": "/icons/Icon_Items/TanningAgent_Tex.png"
   },
-  "Siege Barrel": {
-    "id": "451048",
-    "tooltip": "<font color = '#2478FF'>[Guild Manufacture]</font>$BRPlaces a volatile barrel that explodes after a short delay dealing massive AoE damage and burns the area around.",
-    "icon": "/icons/Icon_Items/Firecracker_Letter_Tex.png"
+  "Sinew Strand": {
+    "id": "451045",
+    "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRFlexible strand of muscle fiber.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRHunting Monsters",
+    "icon": "/icons/Icon_Items/SinewStrand_Tex.png"
   },
   "Venom Trap": {
     "id": "451051",
@@ -1504,85 +1479,20 @@
     "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your gathering time by $H_W_GOOD8 seconds$COLOR_END. Does not stack with other Gathering Tool effects.",
     "icon": "/icons/Icon_Items/collection_KitSet_Tex.png"
   },
-  "Gatherer's Armor": {
+  "Lifeskiller's Armor": {
     "id": "451086",
-    "tooltip": "<font color = '#2478FF'>[Gatherer's Gear]</font>$BRSturdy chest armor built to endure harsh terrain and protect gatherers in the wild.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Gathering Gear.",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Gear]</font>$BRSturdy chest armor built to endure harsh terrain and protect gatherers in the wild.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Lifeskiller Gear.",
     "icon": "/icons/Icon_Items/Gear_Gatherer_Armor_Tex.png"
   },
-  "Gatherer's Gloves": {
+  "Lifeskiller's Gloves": {
     "id": "451087",
-    "tooltip": "<font color = '#2478FF'>[Gatherer's Gear]</font>$BRRugged gloves made for gatherers, offering grip and hand protection while harvesting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Gathering Gear.",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Gear]</font>$BRRugged gloves made for gatherers, offering grip and hand protection while harvesting.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Lifeskiller Gear.",
     "icon": "/icons/Icon_Items/Gear_Gatherer_Glove_Tex.png"
   },
-  "Gatherer's Boots": {
+  "Lifeskiller's Boots": {
     "id": "451088",
-    "tooltip": "<font color = '#2478FF'>[Gatherer's Gear]</font>$BRReliable boots for gatherers, designed for stability on rough terrain.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Gathering Gear.",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Gear]</font>$BRReliable boots for gatherers, designed for stability on rough terrain.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Lifeskiller Gear.",
     "icon": "/icons/Icon_Items/Gear_Gatherer_Boots_Tex.png"
-  },
-  "Charm: Goddess’s Favor I": {
-    "id": "451089",
-    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BRHarness the blessing of the goddess to speed up your gathering and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODall$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper4_Tex.png"
-  },
-  "Charm: Elinu’s Bloom I": {
-    "id": "451094",
-    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BREnhances your plant gathering with Elinu’s natural bloom, quickening your harvest and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODherb$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Kaia’s Might$BRCannot be used with Charm: Isren’s Insight$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper2_Tex.png"
-  },
-  "Charm: Kaia’s Might I": {
-    "id": "451099",
-    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BRInfused with the power of Kaia, this charm sharpens your mining skills, reducing time and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODmining$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Elinu’s Bloom$BRCannot be used with Charm: Isren’s Insight$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper2_Tex.png"
-  },
-  "Charm: Icaruna’s Curiosity I": {
-    "id": "451104",
-    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BRInspired by Icaruna’s inquisitive nature, this charm quickens insect gathering and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODinsect$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Elinu’s Bloom$BRCannot be used with Charm: Kaia’s Might$BRCannot be used with Charm: Isren’s Insight$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper2_Tex.png"
-  },
-  "Charm: Isren’s Insight I": {
-    "id": "451109",
-    "tooltip": "<font color='#2478FF'>[Gathering Charm]</font>$BRGain Isren’s sharp insight to hasten your energy gathering speed and improves critical success.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases $H_W_GOODenergy$COLOR_END Gathering Time by $H_W_GOOD0.6 sec$COLOR_END$BRIncreases Critical Gathering by $H_W_GOOD15%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Elinu’s Bloom$BRCannot be used with Charm: Kaia’s Might$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper2_Tex.png"
-  },
-  "Charm: Zuras’s Flow I": {
-    "id": "451114",
-    "tooltip": "<font color='#2478FF'>[Fishing Charm]</font>$BRHarness the calming currents of Zuras to quicken your catch.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases Auto Fishing Time by $H_W_GOOD1%$COLOR_END$BRDecreases Manual Fishing Time by $H_W_GOOD1%$COLOR_END$BRDecreases Fishing Difficulty by $H_W_GOOD10%$COLOR_END$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper3_Tex.png"
-  },
-  "Charm: Zuras’s Breath I": {
-    "id": "451119",
-    "tooltip": "<font color='#2478FF'>[Fishing Charm]</font>$BRInvoke the breath of Zuras to subtly hasten your fishing reflexes.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases Auto Fishing Time by $H_W_GOOD1%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Zuras’s Grace$BRCannot be used with Charm: Zuras’s Blessing$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper3_Tex.png"
-  },
-  "Charm: Zuras’s Grace I": {
-    "id": "451124",
-    "tooltip": "<font color='#2478FF'>[Fishing Charm]</font>$BRDraw on the grace of Zuras to refine your manual fishing skills.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases Manual Fishing Time by $H_W_GOOD1%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Zuras’s Breath$BRCannot be used with Charm: Zuras’s Blessing$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper3_Tex.png"
-  },
-  "Charm: Zuras’s Blessing I": {
-    "id": "451129",
-    "tooltip": "<font color='#2478FF'>[Fishing Charm]</font>$BRChannel the blessing of Zuras to lessen your overall fishing efforts.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases Fishing Difficulty by $H_W_GOOD10%$COLOR_END$BR$BR<font color='#c21919'>[Caution]</font>$BRCannot be used with Charm: Zuras’s Breath$BRCannot be used with Charm: Zuras’s Grace$BR$BR<font color='#FFBB00'>[Duration]</font>$BR5 minutes",
-    "icon": "/icons/Icon_Items/abnormalpaper3_Tex.png"
-  },
-  "Diluted Charm Solution": {
-    "id": "451143",
-    "tooltip": "<font color = '#2478FF'>[Charm Enhancer]</font>$BRAlchemic solution that subtly enhances the potency of charms.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUpgrade Charms from Tier I to Tier II$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy",
-    "icon": "/icons/Icon_Items/DilutedCharm_Tex.png"
-  },
-  "Refined Charm Tincture": {
-    "id": "451144",
-    "tooltip": "<font color = '#2478FF'>[Charm Enhancer]</font>$BRRefined tincture that strengthens the effects and allure of charms.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUpgrade Charms from Tier II to Tier III$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy",
-    "icon": "/icons/Icon_Items/RefinedCharm_Tex.png"
-  },
-  "Concentrated Charm Extract": {
-    "id": "451145",
-    "tooltip": "<font color = '#2478FF'>[Charm Enhancer]</font>$BRConcentrated extract that greatly amplifies charm effectiveness.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUpgrade Charms from Tier III to Tier IV$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy",
-    "icon": "/icons/Icon_Items/ConcentratedCharm_Tex.png"
-  },
-  "Masterwork Charm Catalyst": {
-    "id": "451146",
-    "tooltip": "<font color = '#2478FF'>[Charm Enhancer]</font>$BRMasterwork catalyst that perfects charm infusion and maximizes potency.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUpgrade Charms from Tier IV to Tier V$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy",
-    "icon": "/icons/Icon_Items/MasterworkCharm_Tex.png"
   },
   "Grizzlink Shard": {
     "id": "451174",
@@ -1939,6 +1849,11 @@
     "tooltip": "<font color = '#2478FF'>[Byproduct]</font>$BRA shimmering scale obtained from processing raw insects.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting higher tier baits.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRNets obtained through crafting Fishing Bait",
     "icon": "/icons/Icon_Items/q_WhiteScale_Tex.png"
   },
+  "Azart Energy": {
+    "id": "451574",
+    "tooltip": "<font color = '#2478FF'>[Azart Item]</font>$BRStabilized volatile Azart energy.<BR><BR>Required to use <font color = '#41FF3A'>Azart Jump Platforms</font> and <font color = '#41FF3A'>fly in Exodor</font>.",
+    "icon": "/icons/Icon_Items/Orb_of_DragonPower_Tex.png"
+  },
   "Azart Crystal": {
     "id": "451576",
     "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRFragment of raw Azart energy collected from Exodor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Azart Crystal.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAzart Crystal (Exodor Archipelago)",
@@ -1973,5 +1888,11 @@
     "id": "451587",
     "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRGround Azartroot infused with concentrated plant energy.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Azartroot",
     "icon": "/icons/Icon_Items/GroundedAzartroot_Tex.png"
+  },
+  "Standard Alchemy Water": {
+    "id": "451624",
+    "tooltip": "<font color = '#2478FF'>[Alchemy Material]</font>$BRStandardized water prepared for use in alchemy.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRSimple Alchemy$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy Merchants",
+    "icon": "/icons/Icon_Items/q_blackbottle_Tex.png"
   }
+  
 }
