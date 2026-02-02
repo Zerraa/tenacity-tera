@@ -97,9 +97,9 @@
     "amount": 1,
     "materials": {
       "[Face] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Mystic Thread": 1,
-      "Shimmering Scissors": 1
+      "Processed Noruk Leather": 15,
+      "Silk Weave": 5,
+      "Polished Gloomstone Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -109,9 +109,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -121,9 +121,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -133,9 +133,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -145,9 +145,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -157,9 +157,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -168,10 +168,10 @@
   "Teddy Rosevelt": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -180,10 +180,10 @@
   "Teddy Brownvelt": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -193,9 +193,9 @@
     "amount": 1,
     "materials": {
       "[Weapon] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1,
-      "Craft Kit": 5000
+      "Processed Noruk Leather": 15,
+      "Spellwoven Spindle": 8,
+      "Polished Luminite Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -204,10 +204,10 @@
   "Stamp: Red Shiba": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -216,10 +216,10 @@
   "Stamp: Shiba in the Dark": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -228,10 +228,10 @@
   "Stamp: Cream of Shiba": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -241,9 +241,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -253,9 +253,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -265,9 +265,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -277,9 +277,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -289,9 +289,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -301,9 +301,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -313,9 +313,9 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Blessed Loom": 5,
+      "Shimmering Scissors": 3
     },
     "critChance": 0,
     "critYield": {},
@@ -324,10 +324,10 @@
   "Sparkling Ice Magic Diadem": {
     "amount": 1,
     "materials": {
-      "[Body] Processing Liquid": 1,
-      "Processed Unicorn Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "[Head] Processing Liquid": 1,
+      "Processed Wolf Leather": 1,
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -338,8 +338,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -350,8 +350,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -362,8 +362,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -374,8 +374,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -385,9 +385,9 @@
     "amount": 1,
     "materials": {
       "[Face] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Mystic Thread": 1,
-      "Shimmering Scissors": 1
+      "Processed Noruk Leather": 15,
+      "Silk Weave": 5,
+      "Polished Gloomstone Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -397,9 +397,9 @@
     "amount": 1,
     "materials": {
       "[Face] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Mystic Thread": 1,
-      "Shimmering Scissors": 1
+      "Processed Noruk Leather": 15,
+      "Silk Weave": 5,
+      "Polished Gloomstone Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -408,10 +408,10 @@
   "Hanbok Drum": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -420,10 +420,10 @@
   "Halloween Minigame Steward Gun": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -432,10 +432,10 @@
   "Majestic Rainbow Wings": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -444,10 +444,10 @@
   "Shimmering Rainbow Wings": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -456,10 +456,10 @@
   "Frozen Azure Phoenix Wings": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -2153,6 +2153,60 @@
     },
     "profession": "106"
   },
+  "Lifeskiller's Armor Etching (Gathering Time)": {
+    "amount": 1,
+    "materials": {
+      "Craft Kit": 1
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "106"
+  },
+  "Lifeskiller's Armor Etching (Movement Speed)": {
+    "amount": 1,
+    "materials": {
+      "Craft Kit": 1
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "106"
+  },
+  "Lifeskiller's Glove Etching (Critical Crafting)": {
+    "amount": 1,
+    "materials": {
+      "Craft Kit": 1
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "106"
+  },
+  "Lifeskiller's Glove Etching (Crafting Speed)": {
+    "amount": 1,
+    "materials": {
+      "Craft Kit": 1
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "106"
+  },
+  "Lifeskiller's Boots Etching (Fish Waiting Time)": {
+    "amount": 1,
+    "materials": {
+      "Craft Kit": 1
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "106"
+  },
+  "Lifeskiller's Boots Etching (Auto-Fishing Time)": {
+    "amount": 1,
+    "materials": {
+      "Craft Kit": 1
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "106"
+  },
   "Mystic Thread": {
     "amount": 2,
     "materials": {
@@ -3225,8 +3279,9 @@
     "amount": 1,
     "materials": {
       "[Weapon] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1
+      "Processed Noruk Leather": 15,
+      "Spellwoven Spindle": 8,
+      "Polished Luminite Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3236,8 +3291,9 @@
     "amount": 1,
     "materials": {
       "[Weapon] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1
+      "Processed Noruk Leather": 15,
+      "Spellwoven Spindle": 8,
+      "Polished Luminite Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3247,8 +3303,9 @@
     "amount": 1,
     "materials": {
       "[Weapon] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1
+      "Processed Noruk Leather": 15,
+      "Spellwoven Spindle": 8,
+      "Polished Luminite Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3258,8 +3315,9 @@
     "amount": 1,
     "materials": {
       "[Weapon] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1
+      "Processed Noruk Leather": 15,
+      "Spellwoven Spindle": 8,
+      "Polished Luminite Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3269,8 +3327,9 @@
     "amount": 1,
     "materials": {
       "[Weapon] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Polished Luminite Ingot": 1
+      "Processed Noruk Leather": 15,
+      "Spellwoven Spindle": 8,
+      "Polished Luminite Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3281,8 +3340,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3293,8 +3352,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3305,8 +3364,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3317,8 +3376,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3329,8 +3388,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3341,8 +3400,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3353,8 +3412,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3365,8 +3424,8 @@
     "materials": {
       "[Head] Processing Liquid": 1,
       "Processed Wolf Leather": 1,
-      "Shimmering Scissors": 1,
-      "Phantom Silk": 1
+      "Phantom Silk": 5,
+      "Polished Silvaron Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3376,9 +3435,9 @@
     "amount": 1,
     "materials": {
       "[Face] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Mystic Thread": 1,
-      "Shimmering Scissors": 1
+      "Processed Noruk Leather": 15,
+      "Silk Weave": 5,
+      "Polished Gloomstone Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3388,9 +3447,9 @@
     "amount": 1,
     "materials": {
       "[Face] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Mystic Thread": 1,
-      "Shimmering Scissors": 1
+      "Processed Noruk Leather": 15,
+      "Silk Weave": 5,
+      "Polished Gloomstone Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3400,9 +3459,9 @@
     "amount": 1,
     "materials": {
       "[Face] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Mystic Thread": 1,
-      "Shimmering Scissors": 1
+      "Processed Noruk Leather": 15,
+      "Silk Weave": 5,
+      "Polished Gloomstone Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3412,9 +3471,9 @@
     "amount": 1,
     "materials": {
       "[Face] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Mystic Thread": 1,
-      "Shimmering Scissors": 1
+      "Processed Noruk Leather": 15,
+      "Silk Weave": 5,
+      "Polished Gloomstone Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3424,9 +3483,9 @@
     "amount": 1,
     "materials": {
       "[Face] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Mystic Thread": 1,
-      "Shimmering Scissors": 1
+      "Processed Noruk Leather": 15,
+      "Silk Weave": 5,
+      "Polished Gloomstone Ingot": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3603,10 +3662,10 @@
   "White Fur Coat": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -3615,10 +3674,10 @@
   "Black Fur Coat": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -3627,10 +3686,10 @@
   "Wood Pixie Wings": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -3639,10 +3698,10 @@
   "Snow Pixie Wings": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -3651,10 +3710,10 @@
   "Midnight Pixie Wings": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -3663,10 +3722,10 @@
   "Resolute Knight's Shield": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -3675,10 +3734,10 @@
   "Enlightenment Knight's Shield": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -3687,10 +3746,10 @@
   "Renegade Knight's Shield": {
     "amount": 1,
     "materials": {
-      "[Back] Processing Liquid": 1,
-      "Wolf Hide": 1,
-      "Shimmering Scissors": 1,
-      "Spellwoven Spindle": 1
+      "[Back] Processing Liquid": 15,
+      "Processed Hyena Leather": 15,
+      "Fine Linen": 10,
+      "Blessed Loom": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -3700,9 +3759,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3712,9 +3772,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3724,9 +3785,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3736,9 +3798,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3748,9 +3811,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3760,9 +3824,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3772,9 +3837,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3784,9 +3850,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3796,9 +3863,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3808,9 +3876,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3820,9 +3889,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3832,9 +3902,10 @@
     "amount": 1,
     "materials": {
       "[Stamp] Processing Liquid": 1,
-      "Translucent Crystal": 1,
-      "Manahan's Nucleus": 1,
-      "Mystic Thread": 1
+      "Translucent Crystal": 4,
+      "Silk Weave": 5,
+      "Spellwoven Spindle": 5,
+      "Blessed Loom": 1
     },
     "critChance": 0,
     "critYield": {},
@@ -3920,5 +3991,4 @@
     },
     "profession": "108"
   }
-  
 }
