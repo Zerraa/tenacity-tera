@@ -110,8 +110,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -122,8 +123,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -134,8 +136,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -146,8 +149,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -158,8 +162,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -242,8 +247,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -254,8 +260,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -266,8 +273,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -278,8 +286,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -290,8 +299,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -302,8 +312,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -314,8 +325,9 @@
     "materials": {
       "[Body] Processing Liquid": 1,
       "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
       "Blessed Loom": 5,
-      "Shimmering Scissors": 3
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3495,9 +3507,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3507,9 +3520,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3519,9 +3533,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3531,9 +3546,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3543,9 +3559,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3555,9 +3572,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3567,9 +3585,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3579,9 +3598,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3591,9 +3611,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3603,9 +3624,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3615,9 +3637,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3627,9 +3650,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3639,9 +3663,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
@@ -3651,9 +3676,10 @@
     "amount": 1,
     "materials": {
       "[Body] Processing Liquid": 1,
-      "Processed Noruk Leather": 1,
-      "Shimmering Scissors": 1,
-      "Blessed Loom": 1
+      "Processed Unicorn Leather": 15,
+      "Shimmering Scissors": 3,
+      "Blessed Loom": 5,
+      "Phantom Silk": 10
     },
     "critChance": 0,
     "critYield": {},
