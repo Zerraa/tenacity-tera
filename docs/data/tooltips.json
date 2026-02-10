@@ -191,7 +191,7 @@
   },
   "Fish Steak": {
     "id": "450438",
-    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRThick cut of fish grilled to perfection, favored by Amani for its hearty texture.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a BAF by 10%.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRThick cut of fish grilled to perfection, favored by Amani for its hearty texture.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a BAF by $H_W_GOOD10%$COLOR_END.$BRDecreases Fishing Difficulty by $H_W_GOOD15%$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/FishSteak_Tex.png"
   },
   "Fish Fritters": {
@@ -304,29 +304,29 @@
     "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRCarefully refined for use in complex transmutations.",
     "icon": "/icons/Icon_Items/refinedregent_Tex.png"
   },
-  "Crafting Additive I": {
+  "Crafting Additive Token I": {
     "id": "450351",
-    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 2.5%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "tooltip": "<font color = '#2478FF'>[Additive Token]</font>$BRUsed to buy additive. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Enrichment_0_Tex.png"
   },
-  "Crafting Additive II": {
+  "Crafting Additive Token II": {
     "id": "450352",
-    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 5%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "tooltip": "<font color = '#2478FF'>[Additive Token]</font>$BRUsed to buy additive. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Enrichment_Tex.png"
   },
-  "Crafting Additive III": {
+  "Crafting Additive Token III": {
     "id": "450353",
-    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 10%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "tooltip": "<font color = '#2478FF'>[Additive Token]</font>$BRUsed to buy additive. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Enrichment_Masterpiece_Tex.png"
   },
-  "Crafting Additive IV": {
+  "Crafting Additive Token IV": {
     "id": "450354",
-    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 15%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "tooltip": "<font color = '#2478FF'>[Additive Token]</font>$BRUsed to buy additive. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Enrichment_2_Tex.png"
   },
-  "Crafting Additive V": {
+  "Crafting Additive Token V": {
     "id": "450355",
-    "tooltip": "<font color = '#2478FF'>[Additive]</font>$BRIncreases the chance of <font color = '#2478FF'>critical success</font> by 20%.$BR$BRConsumed each time. Not necessary, but useful for crafting.",
+    "tooltip": "<font color = '#2478FF'>[Additive Token]</font>$BRUsed to buy additive. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Enrichment_superior_Tex.png"
   },
   "Wheat Flour": {
@@ -396,77 +396,77 @@
   },
   "Velika Meal": {
     "id": "450417",
-    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRFrom Velika’s hearth, this fare sharpens both blade and will.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD20$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRFrom Velika’s hearth, this fare sharpens both blade and will.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD20$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRRaises max MP by $H_W_GOOD10%$COLOR_END.$BRRaises max HP by $H_W_GOOD10%$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/VelikaMeal_Tex.png"
   },
   "Allemantheia Meal": {
     "id": "450418",
-    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRDrawn from Allemantheia’s fields, it lends stout endurance to those who hold fast.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD10$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD10%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRDrawn from Allemantheia’s fields, it lends stout endurance to those who hold fast.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD10$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRRaises max MP by $H_W_GOOD10%$COLOR_END.$BRRaises max HP by $H_W_GOOD10%$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD10%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/AllemantheiaMeal_Tex.png"
   },
   "Kaiator Meal": {
     "id": "450419",
-    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRSeasoned in Kaiator’s kilns, its bold flavor stokes raw power.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD10$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRSeasoned in Kaiator’s kilns, its bold flavor stokes raw power.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD10$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRRaises max MP by $H_W_GOOD10%$COLOR_END.$BRRaises max HP by $H_W_GOOD10%$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/KaiatorMeal_Tex.png"
   },
   "Highwatch Meal": {
     "id": "450420",
-    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRCrafted by Highwatch mages, it hums with arcane might in every spoonful.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD1,861$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRCrafted by Highwatch mages, it hums with arcane might in every spoonful.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD1,861$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRRaises max MP by $H_W_GOOD10%$COLOR_END.$BRRaises max HP by $H_W_GOOD10%$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/HighwatchMeal_Tex.png"
   },
   "Balderon Meal": {
     "id": "450421",
-    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRForged in Balderon’s halls, its hearty blend fortifies the body with steadfast vigor.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD1,861$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Normal Dish]</font>$BRForged in Balderon’s halls, its hearty blend fortifies the body with steadfast vigor.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD1,861$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD20$COLOR_END.$BRRaises max MP by $H_W_GOOD10%$COLOR_END.$BRRaises max HP by $H_W_GOOD10%$COLOR_END.$BRReplenishes $H_W_GOOD1%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/BalderonMeal_Tex.png"
   },
   "Special Velika Meal": {
     "id": "450422",
-    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRTreated as honor fare in Velika, it tempers fury into precise strikes.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD22$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRTreated as honor fare in Velika, it tempers fury into precise strikes.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD22$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRRaises max MP by $H_W_GOOD11%$COLOR_END.$BRRaises max HP by $H_W_GOOD11%$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/VelikaMeal_Tex.png"
   },
   "Special Allemantheia Meal": {
     "id": "450423",
-    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRServed beneath Allemantheia’s spires, it bolsters fortitude.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD11$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD11%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRServed beneath Allemantheia’s spires, it bolsters fortitude.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD11$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRRaises max MP by $H_W_GOOD11%$COLOR_END.$BRRaises max HP by $H_W_GOOD11%$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD11%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/AllemantheiaMeal_Tex.png"
   },
   "Special Kaiator Meal": {
     "id": "450424",
-    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRCelebrated at Kaiator’s snow rites, it channels power into your body.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD11$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRCelebrated at Kaiator’s snow rites, it channels power into your body.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD11$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRRaises max MP by $H_W_GOOD11%$COLOR_END.$BRRaises max HP by $H_W_GOOD11%$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/KaiatorMeal_Tex.png"
   },
   "Special Highwatch Meal": {
     "id": "450425",
-    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRUnder Highwatch’s starlight, it deepens your focus.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD3,360$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRUnder Highwatch’s starlight, it deepens your focus.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD3,360$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRRaises max MP by $H_W_GOOD11%$COLOR_END.$BRRaises max HP by $H_W_GOOD11%$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/HighwatchMeal_Tex.png"
   },
   "Special Balderon Meal": {
     "id": "450426",
-    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRCrafted in Balderon, it steeps the spirit in unbreakable resolve.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD3,360$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Special Dish]</font>$BRCrafted in Balderon, it steeps the spirit in unbreakable resolve.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD3,360$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD22$COLOR_END.$BRRaises max MP by $H_W_GOOD11%$COLOR_END.$BRRaises max HP by $H_W_GOOD11%$COLOR_END.$BRReplenishes $H_W_GOOD1.5%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD1.5%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD3$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Normal Dishes)",
     "icon": "/icons/Icon_Items/BalderonMeal_Tex.png"
   },
   "Marvelous Velika Meal": {
     "id": "450427",
-    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRFit for Velika’s champions, this feast hones instincts to razor’s edge.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD24$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRFit for Velika’s champions, this feast hones instincts to razor’s edge.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Crit Factor by $H_W_GOOD24$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRRaises max MP by $H_W_GOOD12%$COLOR_END.$BRRaises max HP by $H_W_GOOD12%$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
     "icon": "/icons/Icon_Items/VelikaMeal_Tex.png"
   },
   "Marvelous Allemantheia Meal": {
     "id": "450428",
-    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Allemantheia’s halls, it unveils hidden vigor.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD12$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD12%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Allemantheia’s halls, it unveils hidden vigor.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Endurance by $H_W_GOOD12$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRRaises max MP by $H_W_GOOD12%$COLOR_END.$BRRaises max HP by $H_W_GOOD12%$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases healing effects by $H_W_GOOD12%$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
     "icon": "/icons/Icon_Items/AllemantheiaMeal_Tex.png"
   },
   "Marvelous Kaiator Meal": {
     "id": "450429",
-    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BROffered in Kaiator halls, this meal elevates you to a legend.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD12$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BROffered in Kaiator halls, this meal elevates you to a legend.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Power by $H_W_GOOD12$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRRaises max MP by $H_W_GOOD12%$COLOR_END.$BRRaises max HP by $H_W_GOOD12%$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
     "icon": "/icons/Icon_Items/KaiatorMeal_Tex.png"
   },
   "Marvelous Highwatch Meal": {
     "id": "450430",
-    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Highwatch’s moonlit feasts, it weaves potent magical energy around you.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD5,660$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Highwatch’s moonlit feasts, it weaves potent magical energy around you.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Magic Amplification by $H_W_GOOD5,660$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRRaises max MP by $H_W_GOOD12%$COLOR_END.$BRRaises max HP by $H_W_GOOD12%$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
     "icon": "/icons/Icon_Items/HighwatchMeal_Tex.png"
   },
   "Marvelous Balderon Meal": {
     "id": "450431",
-    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Balderon’s grand halls, this meal grants unbreakable strength.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD5,660$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
+    "tooltip": "<font color = '#2478FF'>[Luxury Dish]</font>$BRIn Balderon’s grand halls, this meal grants unbreakable strength.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases Physical Amplification by $H_W_GOOD5,660$COLOR_END.$BRIncreases Crit Resist Factor by $H_W_GOOD25$COLOR_END.$BRRaises max MP by $H_W_GOOD12%$COLOR_END.$BRRaises max HP by $H_W_GOOD12%$COLOR_END.$BRReplenishes $H_W_GOOD2%$COLOR_END of your maximum MP every $H_W_GOOD5$COLOR_END seconds.$BRRecovers $H_W_GOOD2%$COLOR_END of your maximum HP every $H_W_GOOD5$COLOR_END.$BRIncreases Attack Speed by $H_W_GOOD5$COLOR_END.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time$BRBuff obtained through the meal will not disappear upon dying.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Luxury Dishes)",
     "icon": "/icons/Icon_Items/BalderonMeal_Tex.png"
   },
   "Lein's Fruit Wine": {
@@ -506,12 +506,12 @@
   },
   "Good Pet Food": {
     "id": "450444",
-    "tooltip": "<font color = '#2478FF'>[Pet Food]</font>$BRA simple meal for a pet.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRecovers 50 stamina.$BR$BRChoose a partner and use the <font color='#66bbff'>Gift Button</font> in the Companion List.$BRPartners use Gifted Skills more often when stamina is high.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Pet Food)",
+    "tooltip": "<font color = '#2478FF'>[Pet Food]</font>$BRA simple meal for a pet.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRecovers 150 stamina.$BR$BRChoose a partner and use the <font color='#66bbff'>Gift Button</font> in the Companion List.$BRPartners use Gifted Skills more often when stamina is high.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Pet Food)",
     "icon": "/icons/Icon_Items/GoodPetFood_Tex.png"
   },
   "Nutricious Pet Food": {
     "id": "450445",
-    "tooltip": "<font color = '#2478FF'>[Pet Food]</font>$BR A healthy meal for a pet.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRecovers 100 stamina.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Pet Food)",
+    "tooltip": "<font color = '#2478FF'>[Pet Food]</font>$BR A healthy meal for a pet.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRRecovers 300 stamina.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCooking (Pet Food)",
     "icon": "/icons/Icon_Items/NutriciousPetFood_Tex.png"
   },
   "Sweet Cooking Honey": {
@@ -749,92 +749,92 @@
     "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRAn essence of unparalleled purity, sought by master crafters.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCombining Pure Essences",
     "icon": "/icons/Icon_Items/PureEssence_Tex.png"
   },
-  "Weapon Etching Dust": {
+  "[Artisan] Weapon Etching Dust": {
     "id": "450551",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
   },
-  "Enduring Weapon Etching Dust": {
+  "[Artisan] Enduring Weapon Etching Dust": {
     "id": "450552",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
   },
-  "Glove Etching Dust": {
+  "[Artisan] Glove Etching Dust": {
     "id": "450553",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
   },
-  "Enduring Glove Etching Dust": {
+  "[Artisan] Enduring Glove Etching Dust": {
     "id": "450554",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
   },
-  "Armor Etching Dust": {
+  "[Artisan] Armor Etching Dust": {
     "id": "450555",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
   },
-  "Enduring Armor Etching Dust": {
+  "[Artisan] Enduring Armor Etching Dust": {
     "id": "450556",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
   },
-  "Boots Etching Dust": {
+  "[Artisan] Boots Etching Dust": {
     "id": "450557",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
   },
-  "Enduring Boots Etching Dust": {
+  "[Artisan] Enduring Boots Etching Dust": {
     "id": "450558",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
   },
-  "Ring Etching Dust": {
+  "[Artisan] Ring Etching Dust": {
     "id": "450569",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
   },
-  "Enduring Ring Etching Dust": {
+  "[Artisan] Enduring Ring Etching Dust": {
     "id": "450570",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
   },
-  "Earrings Etching Dust": {
+  "[Artisan] Earrings Etching Dust": {
     "id": "450571",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
   },
-  "Enduring Earrings Etching Dust": {
+  "[Artisan] Enduring Earrings Etching Dust": {
     "id": "450572",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
   },
-  "Necklace Etching Dust": {
+  "[Artisan] Necklace Etching Dust": {
     "id": "450573",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
   },
-  "Enduring Necklace Etching Dust": {
+  "[Artisan] Enduring Necklace Etching Dust": {
     "id": "450574",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
   },
-  "Belt Etching Dust": {
+  "[Artisan] Belt Etching Dust": {
     "id": "450575",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
   },
-  "Enduring Belt Etching Dust": {
+  "[Artisan] Enduring Belt Etching Dust": {
     "id": "450576",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
   },
-  "Brooch Etching Dust": {
+  "[Artisan] Brooch Etching Dust": {
     "id": "450577",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
   },
-  "Enduring Brooch Etching Dust": {
+  "[Artisan] Enduring Brooch Etching Dust": {
     "id": "450578",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
     "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
@@ -1036,7 +1036,7 @@
   },
   "Powdered Lump of Sugar": {
     "id": "450674",
-    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRPowdered sugar cube, light and airy, favored by noble mounts.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame Lord's Smoky Black, Overo or Silver Gray in Suncrest Camp in Celestial Hills.$BR$BRThese horses have <font color = '#f7a001'>movement speed of 330</font>.",
+    "tooltip": "<font color = '#2478FF'>[Taming Tool]</font>$BRPowdered sugar cube, light and airy, favored by noble mounts.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRTame Lord's Blue Roan, Overo or Silver Gray in Suncrest Camp in Celestial Hills.$BR$BRThese horses have <font color = '#f7a001'>movement speed of 330</font>.",
     "icon": "/icons/Icon_Items/RadiantLumpofsugar_Tex.png"
   },
   "Prime Cut of Meat": {
@@ -1086,17 +1086,17 @@
   },
   "Ostgarath's Fishing Rod I": {
     "id": "450694",
-    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA strong Ostgarath fishing rod.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a high-grade fish by $H_W_GOOD3%$COLOR_END$BRDecreases waiting time by $H_W_GOOD1.5%$COLOR_END $BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 1-3 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to a Xermetal Rod I.",
+    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA strong Ostgarath fishing rod.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a high-grade fish by $H_W_GOOD3%$COLOR_END$BRDecreases waiting time by $H_W_GOOD1.5%$COLOR_END $BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 0-2 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to a Xermetal Rod I.",
     "icon": "/icons/Icon_Items/OstgarathFishingRod_Tex.png"
   },
   "Essenia's Fishing Rod I": {
     "id": "450704",
-    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA light and flexible Essenia fishing rod.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a Big-Ass Fish by $H_W_GOOD0.3%$COLOR_END$BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 1-3 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to an Essenia's Fishing Rod II.",
+    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA light and flexible Essenia fishing rod.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRIncreases the chance to catch a Big-Ass Fish by $H_W_GOOD0.3%$COLOR_END$BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 0-2 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to an Essenia's Fishing Rod II.",
     "icon": "/icons/Icon_Items/EsseniaFishingRod_Tex.png"
   },
   "Pora Elinu's Fishing Rod I": {
     "id": "450714",
-    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA brilliant Pora Elinu fishing rod crafted with a touch of fairy powder.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases auto-fishing waiting time by 3% $BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 1-3 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to a Pora Elinu's Fishing Rod II.",
+    "tooltip": "<font color = '#2478FF'>[Fishing Rod]</font>$BRA brilliant Pora Elinu fishing rod crafted with a touch of fairy powder.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases auto-fishing waiting time by 3% $BR$BR<font color = '#41FF3A'>[Items]</font>$BRGrade 0-2 Fish$BRAngler's Seal$BR$BR<font color = '#FFBB00'>[Source]</font>$BRCrafting Fishing Rods$BR$BRYou must have at least one piece of bait to fish. Bait can be crafted, or purchased from Trade Broker.$BR$BRPlacing a fishing rod on the shortcut tray allows you to control float distance by charging up your cast.$BR$BRCan be upgraded to a Pora Elinu's Fishing Rod II.",
     "icon": "/icons/Icon_Items/PoraElinuFishingRod_Tex.png"
   },
   "Ironclad Beetle": {
@@ -1406,7 +1406,7 @@
   },
   "Hunting Arrow": {
     "id": "451032",
-    "tooltip": "<font color = '#2478FF'>[Hunting Tool]</font>$BRStandard arrows used for hunting targets.$BR$BR<font color = '#41FF3A'>[Damage]</font>$BR100.000 Damage$BR$BR<font color = '#FFBB00'>[Source]</font>$BRRecipe can be obtained from Chives after finishing the [Important] Life of Arborea quest.",
+    "tooltip": "<font color = '#2478FF'>[Hunting Tool]</font>$BRStandard arrows used for hunting targets.$BR$BR<font color = '#41FF3A'>[Damage]</font>$BR10.000 Damage",
     "icon": "/icons/Icon_Items/HuntingArrow_Tex.png"
   },
   "Beast Fat": {
@@ -1889,10 +1889,209 @@
     "tooltip": "<font color = '#2478FF'>[Core Material]</font>$BRGround Azartroot infused with concentrated plant energy.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Azartroot",
     "icon": "/icons/Icon_Items/GroundedAzartroot_Tex.png"
   },
+  "Enhanced Hunting Arrow": {
+    "id": "451606",
+    "tooltip": "<font color = '#2478FF'>[Hunting Tool]</font>$BREnhanced arrows used for hunting targets.$BR$BR<font color = '#41FF3A'>[Damage]</font>$BR150.000 Damage$BR$BR<font color = '#FFBB00'>[Source]</font>$BRRecipe can be obtained from Chives after finishing the [Important] Life of Arborea quest.",
+    "icon": "/icons/Icon_Items/EnhancedHuntingArrow_Tex.png"
+  },
   "Standard Alchemy Water": {
     "id": "451624",
     "tooltip": "<font color = '#2478FF'>[Alchemy Material]</font>$BRStandardized water prepared for use in alchemy.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRSimple Alchemy$BR$BR<font color = '#FFBB00'>[Source]</font>$BRSimple Alchemy Merchants",
     "icon": "/icons/Icon_Items/q_blackbottle_Tex.png"
+  },
+  "[Basic] Weapon Etching Dust": {
+    "id": "451638",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "[Basic] Glove Etching Dust": {
+    "id": "451639",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "[Basic] Armor Etching Dust": {
+    "id": "451640",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "[Basic] Boots Etching Dust": {
+    "id": "451641",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "[Basic] Enduring Weapon Etching Dust": {
+    "id": "451642",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "[Basic] Enduring Glove Etching Dust": {
+    "id": "451643",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "[Basic] Enduring Armor Etching Dust": {
+    "id": "451644",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "[Basic] Enduring Boots Etching Dust": {
+    "id": "451645",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "[Basic] Ring Etching Dust": {
+    "id": "451651",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "[Basic] Earrings Etching Dust": {
+    "id": "451652",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "[Basic] Necklace Etching Dust": {
+    "id": "451653",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "[Basic] Belt Etching Dust": {
+    "id": "451654",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "[Basic] Brooch Etching Dust": {
+    "id": "451655",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "[Basic] Enduring Ring Etching Dust": {
+    "id": "451656",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "[Basic] Enduring Earrings Etching Dust": {
+    "id": "451657",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "[Basic] Enduring Necklace Etching Dust": {
+    "id": "451658",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "[Basic] Enduring Belt Etching Dust": {
+    "id": "451659",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "[Basic] Enduring Brooch Etching Dust": {
+    "id": "451660",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "[Master] Weapon Etching Dust": {
+    "id": "451724",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "[Master] Glove Etching Dust": {
+    "id": "451725",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "[Master] Armor Etching Dust": {
+    "id": "451726",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "[Master] Boots Etching Dust": {
+    "id": "451727",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "[Master] Ring Etching Dust": {
+    "id": "451732",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+  },
+  "[Master] Earrings Etching Dust": {
+    "id": "451733",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+  },
+  "[Master] Necklace Etching Dust": {
+    "id": "451734",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "[Master] Belt Etching Dust": {
+    "id": "451735",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+  },
+  "[Master] Brooch Etching Dust": {
+    "id": "451736",
+    "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
+    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+  },
+  "Crude Bug Net": {
+    "id": "452100",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your bug catching time by $H_W_GOOD2 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.$BR$BR<font color = '#FFBB00'>[Upgrade]</font>$BRCan be upgraded to a Low Quality Bug Net.",
+    "icon": "/icons/Icon_Items/parts_heavyweaponC6_Tex.png"
+  },
+  "Superior Bug Net": {
+    "id": "452105",
+    "tooltip": "<font color = '#2478FF'>[Gathering Tool]</font>$BR$BRUse to assist in gathering.$BR$BR<font color = '#41FF3A'>[Effect]</font>$BRDecreases your bug catching time by $H_W_GOOD8 seconds$COLOR_END.$BRDoes not stack with other Gathering Tool effects.",
+    "icon": "/icons/Icon_Items/parts_heavyweaponC7_Tex.png"
+  },
+  "Refined Monster Leather": {
+    "id": "452108",
+    "tooltip": "<font color = '#2478FF'>[Hunting Tool]</font>$BRHigh-quality leather refined through processing.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFusing processed leathers and Leather Loom Kit",
+    "icon": "/icons/Icon_Items/High_Quality_Leather_Tex.png"
+  },
+  "Lifeskiller's Armor Etching (Gathering Time)": {
+    "id": "453044",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Etching]</font>$BRUsed to apply a permanent etching effect to an armor.<BR><BR><font color = '#41FF3A'>[Effect]</font><BR>Decreases your gathering time by 2%.",
+    "icon": "/icons/Icon_Items/arm_Enchant_Scroll_4_Tex.png"
+  },
+  "Lifeskiller's Armor Etching (Movement Speed)": {
+    "id": "453045",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Etching]</font>$BRUsed to apply a permanent etching effect to an armor.<BR><BR><font color = '#41FF3A'>[Effect]</font><BR>Increases Movement Speed by 2%.",
+    "icon": "/icons/Icon_Items/arm_Enchant_Scroll_4_Tex.png"
+  },
+  "Lifeskiller's Glove Etching (Critical Crafting)": {
+    "id": "453046",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Etching]</font>$BRUsed to apply a permanent etching effect to a glove.<BR><BR><font color = '#41FF3A'>[Effect]</font><BR>Increases chance of critical crafting by 5%.",
+    "icon": "/icons/Icon_Items/body_Enchant_Scroll_4_Tex.png"
+  },
+  "Lifeskiller's Glove Etching (Crafting Speed)": {
+    "id": "453047",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Etching]</font>$BRUsed to apply a permanent etching effect to a glove.<BR><BR><font color = '#41FF3A'>[Effect]</font><BR>Increases crafting speed by 5%.",
+    "icon": "/icons/Icon_Items/body_Enchant_Scroll_4_Tex.png"
+  },
+  "Lifeskiller's Boots Etching (Fish Waiting Time)": {
+    "id": "453048",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Etching]</font>$BRUsed to apply a permanent etching effect to boots.<BR><BR><font color = '#41FF3A'>[Effect]</font><BR>Decreases waiting time by 5%.",
+    "icon": "/icons/Icon_Items/leg_Enchant_Scroll_4_Tex.png"
+  },
+  "Lifeskiller's Boots Etching (Auto-Fishing Time)": {
+    "id": "453049",
+    "tooltip": "<font color = '#2478FF'>[Lifeskiller's Etching]</font>$BRUsed to apply a permanent etching effect to boots.<BR><BR><font color = '#41FF3A'>[Effect]</font><BR>Decreases auto-fishing time 5%.",
+    "icon": "/icons/Icon_Items/leg_Enchant_Scroll_4_Tex.png"
+  },
+  "[Common Talisman Upgrade] Essence of Arborea": {
+    "id": "453076",
+    "tooltip": "Use this design to learn the corresponding crafting skill.",
+    "icon": "/icons/Icon_Items/ProcessingRecipe_Tex.png"
+  },
+  "[Rare Talisman Upgrade] Essence of Arborea": {
+    "id": "453077",
+    "tooltip": "Use this design to learn the corresponding crafting skill.",
+    "icon": "/icons/Icon_Items/ProcessingRecipe_Tex.png"
+  },
+  "[Superior Talisman Upgrade] Essence of Arborea": {
+    "id": "453078",
+    "tooltip": "Use this design to learn the corresponding crafting skill.",
+    "icon": "/icons/Icon_Items/ProcessingRecipe_Tex.png"
   }
-  
 }
