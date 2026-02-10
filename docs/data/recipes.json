@@ -337,7 +337,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -349,7 +349,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -361,7 +361,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -373,7 +373,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -385,7 +385,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -477,43 +477,6 @@
     "critYield": {},
     "profession": "107"
   },
-  "Forgotten Accessory Box": {
-    "amount": 1,
-    "materials": {
-      "Echoing Crest": 20,
-      "Skynest Fragment": 20,
-      "Craft Kit": 6000
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "105"
-  },
-  "Awakened Accessory Box": {
-    "amount": 1,
-    "materials": {
-      "Echoing Crest": 20,
-      "Skynest Fragment": 20,
-      "Soulecho Gem": 76,
-      "Bloodforged Seal": 76,
-      "Craft Kit": 5600
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "105"
-  },
-  "Elder's Accessory Box": {
-    "amount": 1,
-    "materials": {
-      "Soulecho Gem": 76,
-      "Bloodforged Seal": 76,
-      "Riftborn Ember": 68,
-      "Kelsaik’s Ichor": 68,
-      "Craft Kit": 4500
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "105"
-  },
   "Purified Water": {
     "amount": 10,
     "materials": {
@@ -604,10 +567,8 @@
   "Fortitude Reagent": {
     "amount": 1,
     "materials": {
-      "Aurora Scarab": 2,
-      "Soothing Dewleaf": 3,
-      "Grinded Balder Essence": 5,
-      "Clear Liquid Reagent": 3
+      "Essence of Oryin": 10,
+      "Essence of Balder": 10
     },
     "critChance": 0.05,
     "critYield": {
@@ -618,10 +579,8 @@
   "Tranquility Reagent": {
     "amount": 1,
     "materials": {
-      "Straw Scarab": 2,
-      "Soothing Dewleaf": 5,
-      "Grinded Ishara Essence": 7,
-      "Clear Liquid Reagent": 3
+      "Purified Essence of Dawn": 4,
+      "Purified Essence of Shara": 4
     },
     "critChance": 0.05,
     "critYield": {
@@ -633,9 +592,8 @@
     "amount": 1,
     "materials": {
       "Elemental Scarab": 3,
-      "Soothing Dewleaf": 10,
-      "Grinded Oryin Essence": 10,
-      "Clear Liquid Reagent": 3
+      "Clear Liquid Reagent": 3,
+      "Manahan's Nucleus": 2
     },
     "critChance": 0.05,
     "critYield": {
@@ -679,71 +637,67 @@
     },
     "profession": "101"
   },
-  "Crafting Additive I": {
+  "Crafting Additive Token I": {
     "amount": 1,
     "materials": {
-      "Purified Essence of Arun": 3,
-      "Shadowglass Crystal": 3,
-      "Clear Liquid Reagent": 3
+      "Clear Liquid Reagent": 3,
+      "Spirit Powder": 2
     },
     "critChance": 0.1,
     "critYield": {
-      "Crafting Additive II": 1
+      "Crafting Additive Token II": 1
     },
     "profession": "101"
   },
-  "Crafting Additive II": {
+  "Crafting Additive Token II": {
     "amount": 1,
     "materials": {
-      "Purified Essence of Shara": 5,
-      "Sunflare Crystal": 5,
-      "Pure Powder Reagent": 3
+      "Pure Powder Reagent": 3,
+      "Elemental Scarab": 5,
+      "Spirit Powder": 2
     },
     "critChance": 0.075,
     "critYield": {
-      "Crafting Additive III": 1
+      "Crafting Additive Token III": 1
     },
     "profession": "101"
   },
-  "Crafting Additive III": {
+  "Crafting Additive Token III": {
     "amount": 1,
     "materials": {
-      "Manahan's Nucleus": 1,
-      "Verdestone Crystal": 5,
+      "Purified Essence of Arun": 5,
       "Fortitude Reagent": 2,
       "Craft Kit": 100
     },
     "critChance": 0.05,
     "critYield": {
-      "Crafting Additive IV": 1
+      "Crafting Additive Token IV": 1
     },
     "profession": "101"
   },
-  "Crafting Additive IV": {
+  "Crafting Additive Token IV": {
     "amount": 1,
     "materials": {
-      "Manahan's Nucleus": 5,
       "Essence of Nature": 5,
       "Tranquility Reagent": 2,
       "Craft Kit": 250
     },
     "critChance": 0.03,
     "critYield": {
-      "Crafting Additive V": 1
+      "Crafting Additive Token V": 1
     },
     "profession": "101"
   },
-  "Crafting Additive V": {
+  "Crafting Additive Token V": {
     "amount": 1,
     "materials": {
-      "Manahan's Nucleus": 10,
       "Essence of Nature": 10,
-      "Refined Reagent": 1,
+      "Refined Reagent": 2,
       "Craft Kit": 500
     },
     "critChance": 0.01,
     "critYield": {
-      "Crafting Additive V": 2
+      "Crafting Additive Token V": 2
     },
     "profession": "101"
   },
@@ -1383,7 +1337,7 @@
     "amount": 1,
     "materials": {
       "Shadowglass Essence": 6,
-      "Craft Kit": 100
+      "Purified Water": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -1395,7 +1349,7 @@
     "amount": 1,
     "materials": {
       "Sunflare Essence": 6,
-      "Craft Kit": 100
+      "Purified Water": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -1407,7 +1361,7 @@
     "amount": 1,
     "materials": {
       "Verdestone Essence": 6,
-      "Craft Kit": 100
+      "Purified Water": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -1419,7 +1373,7 @@
     "amount": 1,
     "materials": {
       "Moonshard Essence": 6,
-      "Craft Kit": 100
+      "Purified Water": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -1431,7 +1385,7 @@
     "amount": 1,
     "materials": {
       "Deepsea Azurite Essence": 6,
-      "Craft Kit": 100
+      "Purified Water": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -1876,10 +1830,10 @@
   "Purified Essence of Arun": {
     "amount": 1,
     "materials": {
-      "Shadowglass Powder": 1,
-      "Grinded Balder Essence": 1,
-      "Spirit Powder": 1,
-      "Craft Kit": 100
+      "Shadowglass Powder": 2,
+      "Grinded Balder Essence": 4,
+      "Bottle of Lake of Tear Water": 5,
+      "Spirit Powder": 1
     },
     "critChance": 0.03,
     "critYield": {
@@ -1890,10 +1844,10 @@
   "Purified Essence of Shara": {
     "amount": 1,
     "materials": {
-      "Sunflare Powder": 1,
-      "Grinded Dagon Essence": 1,
-      "Spirit Powder": 1,
-      "Craft Kit": 100
+      "Sunflare Powder": 2,
+      "Grinded Dagon Essence": 4,
+      "Bottle of Lake of Tear Water": 5,
+      "Spirit Powder": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -1904,10 +1858,10 @@
   "Purified Essence of Dawn": {
     "amount": 1,
     "materials": {
-      "Verdestone Powder": 1,
-      "Grinded Roak Essence": 1,
-      "Spirit Powder": 1,
-      "Craft Kit": 100
+      "Verdestone Powder": 2,
+      "Grinded Roak Essence": 4,
+      "Bottle of Fountain of Shara Water": 5,
+      "Spirit Powder": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -1918,10 +1872,10 @@
   "Purified Essence of Veil": {
     "amount": 1,
     "materials": {
-      "Moonshard Powder": 1,
-      "Grinded Ishara Essence": 1,
-      "Spirit Powder": 1,
-      "Craft Kit": 100
+      "Moonshard Powder": 2,
+      "Grinded Ishara Essence": 4,
+      "Bottle of Fountain of Shara Water": 5,
+      "Spirit Powder": 1
     },
     "critChance": 0.05,
     "critYield": {
@@ -1965,210 +1919,313 @@
     "critYield": {
       "Grinded Azartroot": 2
     },
-    "profession": "101"
+    "profession": "106"
   },
-  "Weapon Etching Dust": {
+  "[Basic] Weapon Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Weapon Etching Dust": 2
+      "[Basic] Enduring Weapon Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Weapon Etching Dust": {
+  "[Basic] Glove Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Enduring Weapon Etching Dust": 2
+      "[Basic] Enduring Glove Etching Dust": 1
     },
     "profession": "106"
   },
-  "Glove Etching Dust": {
+  "[Basic] Armor Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Glove Etching Dust": 2
+      "[Basic] Enduring Armor Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Glove Etching Dust": {
+  "[Basic] Boots Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Enduring Glove Etching Dust": 2
+      "[Basic] Enduring Boots Etching Dust": 1
     },
     "profession": "106"
   },
-  "Armor Etching Dust": {
+  "[Basic] Ring Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Armor Etching Dust": 2
+      "[Basic] Enduring Ring Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Armor Etching Dust": {
+  "[Basic] Earrings Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Enduring Armor Etching Dust": 2
+      "[Basic] Enduring Earrings Etching Dust": 1
     },
     "profession": "106"
   },
-  "Boots Etching Dust": {
+  "[Basic] Necklace Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Boots Etching Dust": 2
+      "[Basic] Enduring Necklace Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Boots Etching Dust": {
+  "[Basic] Belt Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Enduring Boots Etching Dust": 2
+      "[Basic] Enduring Belt Etching Dust": 1
     },
     "profession": "106"
   },
-  "Ring Etching Dust": {
+  "[Basic] Brooch Etching Dust": {
     "amount": 1,
     "materials": {
       "Craft Kit": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.1,
     "critYield": {
-      "Ring Etching Dust": 2
+      "[Basic] Enduring Brooch Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Ring Etching Dust": {
+  "[Artisan] Weapon Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Weapon Etching Dust": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.08,
     "critYield": {
-      "Enduring Ring Etching Dust": 2
+      "[Artisan] Enduring Weapon Etching Dust": 1
     },
     "profession": "106"
   },
-  "Earrings Etching Dust": {
+  "[Artisan] Glove Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Glove Etching Dust": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.08,
     "critYield": {
-      "Earrings Etching Dust": 2
+      "[Artisan] Enduring Glove Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Earrings Etching Dust": {
+  "[Artisan] Armor Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Armor Etching Dust": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.08,
     "critYield": {
-      "Enduring Earrings Etching Dust": 2
+      "[Artisan] Enduring Armor Etching Dust": 1
     },
     "profession": "106"
   },
-  "Necklace Etching Dust": {
+  "[Artisan] Boots Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Boots Etching Dust": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.08,
     "critYield": {
-      "Necklace Etching Dust": 2
+      "[Artisan] Enduring Boots Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Necklace Etching Dust": {
+  "[Artisan] Ring Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Ring Etching Dust": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.08,
     "critYield": {
-      "Enduring Necklace Etching Dust": 2
+      "[Artisan] Enduring Ring Etching Dust": 1
     },
     "profession": "106"
   },
-  "Belt Etching Dust": {
+  "[Artisan] Earrings Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Earrings Etching Dust": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.08,
     "critYield": {
-      "Belt Etching Dust": 2
+      "[Artisan] Enduring Earrings Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Belt Etching Dust": {
+  "[Artisan] Necklace Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Necklace Etching Dust": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.08,
     "critYield": {
-      "Enduring Belt Etching Dust": 2
+      "[Artisan] Enduring Necklace Etching Dust": 1
     },
     "profession": "106"
   },
-  "Brooch Etching Dust": {
+  "[Artisan] Belt Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Belt Etching Dust": 1
     },
-    "critChance": 0.05,
+    "critChance": 0.08,
     "critYield": {
-      "Brooch Etching Dust": 2
+      "[Artisan] Enduring Belt Etching Dust": 1
     },
     "profession": "106"
   },
-  "Enduring Brooch Etching Dust": {
+  "[Artisan] Brooch Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "[Basic] Enduring Brooch Etching Dust": 1
+    },
+    "critChance": 0.08,
+    "critYield": {
+      "[Artisan] Enduring Brooch Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Weapon Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Weapon Etching Dust": 1
     },
     "critChance": 0.05,
     "critYield": {
-      "Enduring Brooch Etching Dust": 2
+      "[Master] Enduring Weapon Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Glove Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Glove Etching Dust": 1
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "[Master] Enduring Glove Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Armor Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Armor Etching Dust": 1
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "[Master] Enduring Armor Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Boots Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Boots Etching Dust": 1
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "[Master] Enduring Boots Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Ring Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Ring Etching Dust": 1
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "[Master] Enduring Ring Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Earrings Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Earrings Etching Dust": 1
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "[Master] Enduring Earrings Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Necklace Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Necklace Etching Dust": 1
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "[Master] Enduring Necklace Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Belt Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Belt Etching Dust": 1
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "[Master] Enduring Belt Etching Dust": 1
+    },
+    "profession": "106"
+  },
+  "[Master] Brooch Etching Dust": {
+    "amount": 1,
+    "materials": {
+      "[Artisan] Enduring Brooch Etching Dust": 1
+    },
+    "critChance": 0.05,
+    "critYield": {
+      "[Master] Enduring Brooch Etching Dust": 1
     },
     "profession": "106"
   },
   "Lifeskiller's Armor Etching (Gathering Time)": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Soothing Dewleaf": 40,
+      "Purified Essence of Arun": 20,
+      "Essence of Nature": 10,
+      "Refined Reagent": 3,
+      "Polished Duranium Ingot": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -2177,7 +2234,11 @@
   "Lifeskiller's Armor Etching (Movement Speed)": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Soothing Dewleaf": 40,
+      "Purified Essence of Arun": 20,
+      "Essence of Nature": 10,
+      "Refined Reagent": 3,
+      "Polished Duranium Ingot": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -2186,7 +2247,11 @@
   "Lifeskiller's Glove Etching (Critical Crafting)": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Soothing Dewleaf": 40,
+      "Purified Essence of Shara": 20,
+      "Essence of Nature": 10,
+      "Refined Reagent": 3,
+      "Polished Duranium Ingot": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -2195,7 +2260,11 @@
   "Lifeskiller's Glove Etching (Crafting Speed)": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Soothing Dewleaf": 40,
+      "Purified Essence of Shara": 20,
+      "Essence of Nature": 10,
+      "Refined Reagent": 3,
+      "Polished Duranium Ingot": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -2204,7 +2273,11 @@
   "Lifeskiller's Boots Etching (Fish Waiting Time)": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Soothing Dewleaf": 40,
+      "Purified Essence of Dawn": 20,
+      "Essence of Nature": 10,
+      "Refined Reagent": 3,
+      "Polished Duranium Ingot": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -2213,7 +2286,11 @@
   "Lifeskiller's Boots Etching (Auto-Fishing Time)": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Soothing Dewleaf": 40,
+      "Purified Essence of Dawn": 20,
+      "Essence of Nature": 10,
+      "Refined Reagent": 3,
+      "Polished Duranium Ingot": 5
     },
     "critChance": 0,
     "critYield": {},
@@ -2432,10 +2509,12 @@
     "materials": {
       "Noruk Hide": 1,
       "Tanning Agent": 3,
-      "Craft Kit": 150
+      "Shimmering Scissors": 1
     },
-    "critChance": 0,
-    "critYield": {},
+    "critChance": 0.05,
+    "critYield": {
+      "Processed Noruk Leather": 2
+    },
     "profession": "108"
   },
   "Processed Sabertooth Leather": {
@@ -2443,10 +2522,12 @@
     "materials": {
       "Sabertooth Hide": 1,
       "Tanning Agent": 3,
-      "Craft Kit": 150
+      "Shimmering Scissors": 1
     },
-    "critChance": 0,
-    "critYield": {},
+    "critChance": 0.05,
+    "critYield": {
+      "Processed Sabertooth Leather": 2
+    },
     "profession": "108"
   },
   "Processed Wolf Leather": {
@@ -2454,10 +2535,12 @@
     "materials": {
       "Wolf Hide": 1,
       "Tanning Agent": 3,
-      "Craft Kit": 150
+      "Shimmering Scissors": 1
     },
-    "critChance": 0,
-    "critYield": {},
+    "critChance": 0.05,
+    "critYield": {
+      "Processed Wolf Leather": 2
+    },
     "profession": "108"
   },
   "Processed Hyena Leather": {
@@ -2465,10 +2548,12 @@
     "materials": {
       "Hyena Hide": 1,
       "Tanning Agent": 3,
-      "Craft Kit": 150
+      "Shimmering Scissors": 1
     },
-    "critChance": 0,
-    "critYield": {},
+    "critChance": 0.05,
+    "critYield": {
+      "Processed Hyena Leather": 2
+    },
     "profession": "108"
   },
   "Processed Unicorn Leather": {
@@ -2476,10 +2561,12 @@
     "materials": {
       "Unicorn Hide": 1,
       "Tanning Agent": 3,
-      "Craft Kit": 150
+      "Shimmering Scissors": 1
     },
-    "critChance": 0,
-    "critYield": {},
+    "critChance": 0.05,
+    "critYield": {
+      "Processed Unicorn Leather": 2
+    },
     "profession": "108"
   },
   "Lump of Sugar": {
@@ -2653,7 +2740,7 @@
   "Hooked Ironclad Beetle Net": {
     "amount": 1,
     "materials": {
-      "Ironclad Beetle": 5,
+      "Ironclad Beetle": 3,
       "Metal Hook": 5
     },
     "critChance": 0,
@@ -2663,7 +2750,7 @@
   "Hooked Ember Beetle Net": {
     "amount": 1,
     "materials": {
-      "Ember Beetle": 5,
+      "Ember Beetle": 3,
       "Insect Scale II": 10,
       "Metal Hook": 5
     },
@@ -2674,7 +2761,7 @@
   "Hooked Dune Beetle Net": {
     "amount": 1,
     "materials": {
-      "Dune Beetle": 5,
+      "Dune Beetle": 3,
       "Insect Scale III": 10,
       "Metal Hook": 5
     },
@@ -2685,7 +2772,7 @@
   "Hooked Azure Beetle Net": {
     "amount": 1,
     "materials": {
-      "Azure Beetle": 5,
+      "Azure Beetle": 3,
       "Insect Scale IV": 15,
       "Metal Hook": 5
     },
@@ -2696,7 +2783,7 @@
   "Hooked Stag Beetle Net": {
     "amount": 1,
     "materials": {
-      "Stag Beetle": 5,
+      "Stag Beetle": 3,
       "Insect Scale V": 20,
       "Metal Hook": 5
     },
@@ -2707,7 +2794,7 @@
   "Mechanical Beetle Net": {
     "amount": 1,
     "materials": {
-      "Writhing Glowworm": 5,
+      "Writhing Glowworm": 3,
       "Insect Scale VI": 30,
       "Metal Hook": 5
     },
@@ -3022,11 +3109,24 @@
   "Hunting Arrow": {
     "amount": 3,
     "materials": {
-      "Pyrelite Ingot": 1,
+      "Rough Stone": 10,
       "Rough Timber": 1,
       "Craft Kit": 100
     },
     "critChance": 0.2,
+    "critYield": {
+      "Hunting Arrow": 5
+    },
+    "profession": "108"
+  },
+  "Enhanced Hunting Arrow": {
+    "amount": 3,
+    "materials": {
+      "Pyrelite Ingot": 1,
+      "Rough Timber": 3,
+      "Craft Kit": 100
+    },
+    "critChance": 0.1,
     "critYield": {
       "Hunting Arrow": 5
     },
@@ -3115,12 +3215,25 @@
     "critYield": {},
     "profession": "108"
   },
+  "Crude Bug Net": {
+    "amount": 1,
+    "materials": {
+      "Ironclad Beetle": 150,
+      "Ember Beetle": 150,
+      "Fortitude Reagent": 3,
+      "Craft Kit": 100
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "108"
+  },
   "Combined Gathering Tool": {
     "amount": 1,
     "materials": {
       "Superior Sickle": 1,
       "Superior Pickaxe": 1,
       "Superior Extractor": 1,
+      "Superior Bug Net": 1,
       "Craft Kit": 5000
     },
     "critChance": 0,
@@ -3130,11 +3243,12 @@
   "Lifeskiller's Armor": {
     "amount": 1,
     "materials": {
-      "Processed Noruk Leather": 25,
-      "Essence of Nature": 25,
-      "Noctis Bloom": 150,
-      "Wild Grass": 100,
-      "Craft Kit": 5000
+      "Processed Noruk Leather": 150,
+      "Essence of Nature": 40,
+      "Spirit Powder": 50,
+      "Silk Weave": 30,
+      "Soothing Dewleaf": 250,
+      "Achromic Essence": 1000
     },
     "critChance": 0,
     "critYield": {},
@@ -3143,11 +3257,12 @@
   "Lifeskiller's Gloves": {
     "amount": 1,
     "materials": {
-      "Processed Noruk Leather": 50,
-      "Essence of Nature": 25,
-      "Solleaf Herb": 200,
-      "Wild Grass": 200,
-      "Craft Kit": 5000
+      "Refined Monster Leather": 150,
+      "Essence of Nature": 100,
+      "Manahan's Nucleus": 40,
+      "Translucent Crystal": 40,
+      "Soothing Dewleaf": 1250,
+      "Achromic Essence": 5000
     },
     "critChance": 0,
     "critYield": {},
@@ -3156,11 +3271,12 @@
   "Lifeskiller's Boots": {
     "amount": 1,
     "materials": {
-      "Processed Noruk Leather": 25,
-      "Essence of Nature": 25,
-      "Verdant Sprig": 150,
-      "Wild Grass": 100,
-      "Craft Kit": 5000
+      "Processed Unicorn Leather": 40,
+      "Processed Hyena Leather": 40,
+      "Essence of Nature": 75,
+      "Darksteel Ingot": 100,
+      "Soothing Dewleaf": 500,
+      "Achromic Essence": 2500
     },
     "critChance": 0,
     "critYield": {},
@@ -3351,7 +3467,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -3363,7 +3479,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -3375,7 +3491,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -3387,7 +3503,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -3399,7 +3515,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -3411,7 +3527,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -3423,7 +3539,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -3435,7 +3551,7 @@
     "amount": 1,
     "materials": {
       "[Head] Processing Liquid": 1,
-      "Processed Wolf Leather": 1,
+      "Processed Wolf Leather": 15,
       "Phantom Silk": 5,
       "Polished Silvaron Ingot": 10
     },
@@ -4016,5 +4132,41 @@
       "Azart Energy": 2
     },
     "profession": "108"
+  },
+  "[Common Talisman Upgrade] Essence of Arborea": {
+    "amount": 1,
+    "materials": {
+      "Purified Essence of Arun": 4,
+      "Spirit Powder": 3,
+      "Fortitude Reagent": 2,
+      "Soothing Dewleaf": 4
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "103"
+  },
+  "[Rare Talisman Upgrade] Essence of Arborea": {
+    "amount": 1,
+    "materials": {
+      "Purified Essence of Shara": 5,
+      "Spirit Powder": 7,
+      "Tranquility Reagent": 2,
+      "Soothing Dewleaf": 7
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "103"
+  },
+  "[Superior Talisman Upgrade] Essence of Arborea": {
+    "amount": 1,
+    "materials": {
+      "Purified Essence of Dawn": 5,
+      "Spirit Powder": 10,
+      "Refined Reagent": 2,
+      "Soothing Dewleaf": 10
+    },
+    "critChance": 0,
+    "critYield": {},
+    "profession": "103"
   }
 }
