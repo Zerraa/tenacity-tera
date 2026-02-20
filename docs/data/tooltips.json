@@ -56,17 +56,17 @@
   },
   "Shevranberry": {
     "id": "450629",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRRare blue-hued berry found in the misty forests of Shara.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRRare blue-hued berry found in the misty forests of Shara.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but may cause discomfort.",
     "icon": "/icons/Icon_Items/Shrevranberry_Tex.png"
   },
   "Taproot": {
     "id": "450624",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRCrisp root vegetable, often used in nutritious meals for travelers.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRCrisp root vegetable, often used in nutritious meals for travelers.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but may cause discomfort.",
     "icon": "/icons/Icon_Items/Taproot_Tex.png"
   },
   "Moongourd": {
     "id": "450625",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRThick-skinned gourd that ripens under the glow of nocturnal moons.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRThick-skinned gourd that ripens under the glow of nocturnal moons.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but may cause discomfort.",
     "icon": "/icons/Icon_Items/Moongourd_Tex.png"
   },
   "Butter": {
@@ -76,12 +76,12 @@
   },
   "Flame Pepper": {
     "id": "450622",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSpicy pepper that burns as fiercely as dragonfire.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSpicy pepper that burns as fiercely as dragonfire.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but may cause discomfort.",
     "icon": "/icons/Icon_Items/FlamePepper_Tex.png"
   },
   "Cobseed": {
     "id": "450623",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRGolden grain essential for many Castanic and Popori dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRGolden grain essential for many Castanic and Popori dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but may cause discomfort.",
     "icon": "/icons/Icon_Items/Cobseed_Tex.png"
   },
   "Lein's Dark Root Beer": {
@@ -246,7 +246,7 @@
   },
   "Apple": {
     "id": "450626",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRJuicy fruit grown in orchards favored by Elinu and Popori alike.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRJuicy fruit grown in orchards favored by Elinu and Popori alike.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but may cause discomfort.",
     "icon": "/icons/Icon_Items/Apple_Tex.png"
   },
   "Achromic Essence": {
@@ -564,9 +564,9 @@
     "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRMoonshard powder, shimmering softly under starlight.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Moonshard Essence",
     "icon": "/icons/Icon_Items/Moonshardpowder_Tex.png"
   },
-  "Deepsea Azurite Powder": {
+  "Azurite Powder": {
     "id": "450474",
-    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRDeepsea azurite powder, favored by master jewelers.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Deepsea Azurite Essence",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRAzurite powder, favored by master jewelers.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrinding Azurite Essence",
     "icon": "/icons/Icon_Items/Deepseapowder_Tex.png"
   },
   "Shadowglass Crystal": {
@@ -589,9 +589,9 @@
     "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRMoonshard crystal, its hues shifting with lunar phases.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Essence Powder and Refined Reagent",
     "icon": "/icons/Icon_Items/Moonshardcrystal_Tex.png"
   },
-  "Deepsea Azurite Crystal": {
+  "Azurite Crystal": {
     "id": "450479",
-    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA gleaming deepsea azurite crystal, cold as the abyss.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Essence Powder and Refined Reagent",
+    "tooltip": "<font color = '#2478FF'>[Processing Material]</font>$BRA gleaming Azurite crystal, cold as the abyss.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Essence Powder and Refined Reagent",
     "icon": "/icons/Icon_Items/Deepseacrystal_Tex.png"
   },
   "Translucent Crystal": {
@@ -752,92 +752,92 @@
   "[Artisan] Weapon Etching Dust": {
     "id": "450551",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/weapon_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Weapon Etching Dust": {
     "id": "450552",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/weapon_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Glove Etching Dust": {
     "id": "450553",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/weapon_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Glove Etching Dust": {
     "id": "450554",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/weapon_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Armor Etching Dust": {
     "id": "450555",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/arm_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Armor Etching Dust": {
     "id": "450556",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/arm_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Boots Etching Dust": {
     "id": "450557",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/leg_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Boots Etching Dust": {
     "id": "450558",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/leg_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Ring Etching Dust": {
     "id": "450569",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/ring_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Ring Etching Dust": {
     "id": "450570",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/ring_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Earrings Etching Dust": {
     "id": "450571",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Earrings Etching Dust": {
     "id": "450572",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Necklace Etching Dust": {
     "id": "450573",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/necklace_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Necklace Etching Dust": {
     "id": "450574",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/necklace_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Belt Etching Dust": {
     "id": "450575",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/belt_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Belt Etching Dust": {
     "id": "450576",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/belt_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Brooch Etching Dust": {
     "id": "450577",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T2_4_Tex.png"
   },
   "[Artisan] Enduring Brooch Etching Dust": {
     "id": "450578",
     "tooltip": "<font color = '#2478FF'>[Enduring Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T2_4_Tex.png"
   },
   "Mystic Thread": {
     "id": "450589",
@@ -911,7 +911,7 @@
   },
   "Lemon": {
     "id": "450628",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSour fruit with a sharp, invigorating scent.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRSour fruit with a sharp, invigorating scent.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but may cause discomfort.",
     "icon": "/icons/Icon_Items/Lemon_Tex.png"
   },
   "Raw Noruk Meat": {
@@ -937,7 +937,7 @@
   "Raw Naga Meat": {
     "id": "450640",
     "tooltip": "<font color = '#2478FF'>[Hunting Material]</font>$BRNaga meat, often used in exotic recipes with a strong flavor.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRProcessing Raw Meat$BR$BR<font color = '#FFBB00'>[Source]</font>$BRKilling Naga (Exodor Archipelago - Exodor Farmland)",
-    "icon": "/icons/Icon_Items/Rawnagameat_Tex.png"
+    "icon": "/icons/Icon_Items/Rawbearmeat_Tex.png"
   },
   "Raw Tough Tuskboar Meat": {
     "id": "450641",
@@ -967,7 +967,7 @@
   "Processed Naga Meat": {
     "id": "450646",
     "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRNaga meat, carefully processed to highlight its unique, exotic flavor, perfect for special recipes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRProcessing Raw Meat",
-    "icon": "/icons/Icon_Items/Processednagameat_Tex.png"
+    "icon": "/icons/Icon_Items/Processedbearmeat_Tex.png"
   },
   "Processed Tough Tuskboar Meat": {
     "id": "450647",
@@ -1136,7 +1136,7 @@
   },
   "Angler's Seal": {
     "id": "450815",
-    "tooltip": "<font color = '#2478FF'>[Fishing Resource]</font>$BREarned every time you catch a fish. Used to upgrade fishing rods, or can be exchanged at an Angler Token Vendor for useful items.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRFishing Rod Upgrades$BRAngler Token Vendor$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFishing",
+    "tooltip": "<font color = '#2478FF'>[Fishing Resource]</font>$BREarned every time you catch a fish. Can be exchanged for useful items and Fish Crate Designs.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRFishing Rod Upgrades$BRAngler Token Vendor$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFishing",
     "icon": "/icons/Icon_Items/AnglerSeal_Tex.png"
   },
   "Arborean Filet": {
@@ -1159,35 +1159,25 @@
     "tooltip": "<font color = '#FFA500'>[Fish Filet]</font>$BRPremium cut from the rare fish of Exodor. Its unique taste and tenderness make it a prized ingredient.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFiletting Grade 5-10 Exodor Fish",
     "icon": "/icons/Icon_Items/PrimeExodorFilet_Tex.png"
   },
-  "Titan Filet": {
-    "id": "450820",
-    "tooltip": "<font color = '#FFA500'>[Fish Filet]</font>$BRColossal portion of fish meat, sourced from only the largest catches. Used in feasts and extravagant dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRFiletting Arborea and Exodor Big-Ass Fish",
-    "icon": "/icons/Icon_Items/TitanFilet_Tex.png"
-  },
   "Arborean Filet Crate": {
     "id": "450826",
-    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRCrate of freshly packed filets, sourced from Arborea's abundant waters. Ideal for trade or delivery.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Arborean Filet",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRCrate of freshly packed filets, sourced from Arborea's abundant waters. Ideal for trade or delivery.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Recipe Source]</font>$BRRecipe can be obtained from Angler's Seals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Arborean Filet",
     "icon": "/icons/Icon_Items/Material_box_1_Tex.png"
   },
   "Prime Arborean Filet Crate": {
     "id": "450827",
-    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRPremium selection of Arborean fish, expertly cut and packed for high-value angler requests.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Prime Arborean Filet",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRPremium selection of Arborean fish, expertly cut and packed for high-value angler requests.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Recipe Source]</font>$BRRecipe can be obtained from Angler's Seals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Prime Arborean Filet",
     "icon": "/icons/Icon_Items/Material_box_2_Tex.png"
   },
   "Exodor Filet Crate": {
     "id": "450828",
-    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRCrate containing carefully prepared filets from Exodor’s unique aquatic species. Ready for delivery.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Grade Exodor Filet",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRCrate containing carefully prepared filets from Exodor’s unique aquatic species. Ready for delivery.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Recipe Source]</font>$BRRecipe can be obtained from Angler's Seals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Grade Exodor Filet",
     "icon": "/icons/Icon_Items/Material_box_4_Tex.png"
   },
   "Prime Exodor Filet Crate": {
     "id": "450829",
-    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRSuperior-grade filet package featuring the finest Exodor fish, sought after by discerning buyers.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Prime Exodor Filet",
+    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRSuperior-grade filet package featuring the finest Exodor fish, sought after by discerning buyers.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Recipe Source]</font>$BRRecipe can be obtained from Angler's Seals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Prime Exodor Filet",
     "icon": "/icons/Icon_Items/Material_box_5_Tex.png"
-  },
-  "Titan Filet Crate": {
-    "id": "450830",
-    "tooltip": "<font color = '#FFA500'>[Delivery]</font>$BRMassive, dense cuts of fish from the largest aquatic fish. Only the most skilled anglers can catch these and prepare them to their finest potential.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRAngler Delivery$BR$BR<font color = '#FFBB00'>[Source]</font>$BRPackaging Titan Filet",
-    "icon": "/icons/Icon_Items/Material_box_6_Tex.png"
   },
   "Angler's Belt": {
     "id": "450843",
@@ -1456,12 +1446,12 @@
   },
   "Wheat": {
     "id": "451058",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA staple grain harvested across Arborea, used in countless traditional dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGathering$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA staple grain harvested across Arborea, used in countless traditional dishes.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGathering$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but raw wheat is not meant to be eaten.",
     "icon": "/icons/Icon_Items/Wheat_Tex.png"
   },
   "Carrot": {
     "id": "451059",
-    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA common root crop, valued for its mild sweetness and versatility in everyday cooking.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds",
+    "tooltip": "<font color = '#2478FF'>[Cooking Ingredient]</font>$BRA common root crop, valued for its mild sweetness and versatility in everyday cooking.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRCooking Meals$BR$BR<font color = '#FFBB00'>[Source]</font>$BRGrow plants at Bamarama Grounds$BR$BR<font color='#c21919'>[Caution]</font>$BRConsuming this item without Cooking will grant a special buff, but may cause discomfort.",
     "icon": "/icons/Icon_Items/Carrot_Tex.png"
   },
   "Crude Pickaxe": {
@@ -1749,9 +1739,9 @@
     "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRCooled by moonlight, glowing with soft, silvery power.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Moonshard Essence.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRMoonshard Essence (Allemantheia, Val Aureum, Westonia, Arx Umbra, Ex Prima, Highwatch Outskirts, Savage Reach)",
     "icon": "/icons/Icon_Items/MoonshardEssence_Tex.png"
   },
-  "Deepsea Azurite Essence": {
+  "Azurite Essence": {
     "id": "451461",
-    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRSteeped from the depths, hums with the pulse of underwater currents.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Deepsea Azurite Essence.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRDeepsea Azurite Essence (Allemantheia, Val Aureum, Westonia, Val Tirkai, Arx Umbra, Spring Valley, Ex Prima, Highwatch Outskirts, Savage Reach, Val Kaeli)",
+    "tooltip": "<font color = '#2478FF'>[Gathered Material]</font>$BRSteeped from the depths, hums with the pulse of underwater currents.$BR$BR<font color = '#41FF3A'>[Usage]</font>$BRUsed for crafting. Can be ground into Grinded Azurite Essence.$BR$BR<font color = '#FFBB00'>[Source]</font>$BRAzurite Essence (Allemantheia, Val Aureum, Westonia, Val Tirkai, Arx Umbra, Spring Valley, Ex Prima, Highwatch Outskirts, Savage Reach, Val Kaeli)",
     "icon": "/icons/Icon_Items/AzuriteEssence_Tex.png"
   },
   "[Face] Processing Liquid": {
@@ -1851,7 +1841,7 @@
   },
   "Azart Energy": {
     "id": "451574",
-    "tooltip": "<font color = '#2478FF'>[Azart Item]</font>$BRStabilized volatile Azart energy.<BR><BR>Required to use <font color = '#41FF3A'>Azart Jump Platforms</font> and <font color = '#41FF3A'>fly in Exodor</font>.",
+    "tooltip": "<font color = '#2478FF'>[Azart Item]</font>$BRStabilized volatile Azart energy.<BR><BR>Required to use <font color = '#41FF3A'>Azart Jump Platforms</font> and <font color = '#41FF3A'>fly in Exodor</font>.$BR$BR<font color = '#FFBB00'>[Duration]</font>$BR$time",
     "icon": "/icons/Icon_Items/Orb_of_DragonPower_Tex.png"
   },
   "Azart Crystal": {
@@ -1892,7 +1882,7 @@
   "Enhanced Hunting Arrow": {
     "id": "451606",
     "tooltip": "<font color = '#2478FF'>[Hunting Tool]</font>$BREnhanced arrows used for hunting targets.$BR$BR<font color = '#41FF3A'>[Damage]</font>$BR150.000 Damage$BR$BR<font color = '#FFBB00'>[Source]</font>$BRRecipe can be obtained from Chives after finishing the [Important] Life of Arborea quest.",
-    "icon": "/icons/Icon_Items/EnhancedHuntingArrow_Tex.png"
+    "icon": "/icons/Icon_Items/HuntingArrow_Tex.png"
   },
   "Standard Alchemy Water": {
     "id": "451624",
@@ -1902,137 +1892,137 @@
   "[Basic] Weapon Etching Dust": {
     "id": "451638",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/weapon_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Glove Etching Dust": {
     "id": "451639",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/arm_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Armor Etching Dust": {
     "id": "451640",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/body_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Boots Etching Dust": {
     "id": "451641",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/leg_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Weapon Etching Dust": {
     "id": "451642",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/weapon_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Glove Etching Dust": {
     "id": "451643",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/arm_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Armor Etching Dust": {
     "id": "451644",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/body_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Boots Etching Dust": {
     "id": "451645",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/leg_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Ring Etching Dust": {
     "id": "451651",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/ring_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Earrings Etching Dust": {
     "id": "451652",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Necklace Etching Dust": {
     "id": "451653",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/necklace_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Belt Etching Dust": {
     "id": "451654",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/belt_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Brooch Etching Dust": {
     "id": "451655",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Ring Etching Dust": {
     "id": "451656",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/ring_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Earrings Etching Dust": {
     "id": "451657",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Necklace Etching Dust": {
     "id": "451658",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/necklace_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Belt Etching Dust": {
     "id": "451659",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/belt_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Basic] Enduring Brooch Etching Dust": {
     "id": "451660",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T1_4_Tex.png"
   },
   "[Master] Weapon Etching Dust": {
     "id": "451724",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your weapon. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/weapon_Enchant_Scroll_T3_4_Tex.png"
   },
   "[Master] Glove Etching Dust": {
     "id": "451725",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your gloves. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/arm_Enchant_Scroll_T3_4_Tex.png"
   },
   "[Master] Armor Etching Dust": {
     "id": "451726",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your armor. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/body_Enchant_Scroll_T3_4_Tex.png"
   },
   "[Master] Boots Etching Dust": {
     "id": "451727",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your boots. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/leg_Enchant_Scroll_T3_4_Tex.png"
   },
   "[Master] Ring Etching Dust": {
     "id": "451732",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your ring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_2_Tex.png"
+    "icon": "/icons/Icon_Items/ring_Enchant_Scroll_T3_4_Tex.png"
   },
   "[Master] Earrings Etching Dust": {
     "id": "451733",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your earring. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_3_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T3_4_Tex.png"
   },
   "[Master] Necklace Etching Dust": {
     "id": "451734",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your necklace. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/necklace_Enchant_Scroll_T3_4_Tex.png"
   },
   "[Master] Belt Etching Dust": {
     "id": "451735",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your belt. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_4_Tex.png"
+    "icon": "/icons/Icon_Items/belt_Enchant_Scroll_T3_4_Tex.png"
   },
   "[Master] Brooch Etching Dust": {
     "id": "451736",
     "tooltip": "<font color = '#2478FF'>[Etching Dust]</font>$BRUsed to apply a new etching effect to your brooch. Right-click to exchange.",
-    "icon": "/icons/Icon_Items/Powder_Meral_1_Tex.png"
+    "icon": "/icons/Icon_Items/brooch_Enchant_Scroll_T3_4_Tex.png"
   },
   "Crude Bug Net": {
     "id": "452100",
