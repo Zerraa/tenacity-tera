@@ -31,5 +31,6 @@
   "[Body] Processing Liquid": 50000000,
   "[Weapon] Processing Liquid": 50000000,
   "[Back] Processing Liquid": 50000000,
-  "[Stamp] Processing Liquid": 50000000
+  "[Stamp] Processing Liquid": 50000000,
+  "Leather Loom Kit": 500000
 }
