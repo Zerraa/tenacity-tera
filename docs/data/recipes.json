@@ -1381,15 +1381,15 @@
     },
     "profession": "103"
   },
-  "Deepsea Azurite Powder": {
+  "Azurite Powder": {
     "amount": 1,
     "materials": {
-      "Deepsea Azurite Essence": 6,
+      "Azurite Essence": 6,
       "Purified Water": 1
     },
     "critChance": 0.05,
     "critYield": {
-      "Deepsea Azurite Powder": 3
+      "Azurite Powder": 3
     },
     "profession": "103"
   },
@@ -1445,16 +1445,16 @@
     },
     "profession": "103"
   },
-  "Deepsea Azurite Crystal": {
+  "Azurite Crystal": {
     "amount": 1,
     "materials": {
-      "Deepsea Azurite Powder": 5,
+      "Azurite Powder": 5,
       "Pure Powder Reagent": 2,
       "Craft Kit": 100
     },
     "critChance": 0.05,
     "critYield": {
-      "Deepsea Azurite Crystal": 4
+      "Azurite Crystal": 4
     },
     "profession": "103"
   },
@@ -1465,7 +1465,7 @@
       "Sunflare Crystal": 5,
       "Verdestone Crystal": 5,
       "Moonshard Crystal": 5,
-      "Deepsea Azurite Crystal": 5
+      "Azurite Crystal": 5
     },
     "critChance": 0.03,
     "critYield": {
@@ -1924,7 +1924,8 @@
   "[Basic] Weapon Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Balder Essence": 10,
+      "Grinded Dagon Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -1935,7 +1936,8 @@
   "[Basic] Glove Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Balder Essence": 10,
+      "Grinded Dagon Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -1946,7 +1948,8 @@
   "[Basic] Armor Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Roak Essence": 10,
+      "Grinded Ishara Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -1957,7 +1960,8 @@
   "[Basic] Boots Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Roak Essence": 10,
+      "Grinded Ishara Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -1968,7 +1972,8 @@
   "[Basic] Ring Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Azartroot": 10,
+      "Grinded Oryin Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -1979,7 +1984,8 @@
   "[Basic] Earrings Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Azartroot": 10,
+      "Grinded Oryin Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -1990,7 +1996,8 @@
   "[Basic] Necklace Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Azartroot": 10,
+      "Grinded Oryin Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -2001,7 +2008,8 @@
   "[Basic] Belt Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Azartroot": 10,
+      "Grinded Oryin Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -2012,7 +2020,8 @@
   "[Basic] Brooch Etching Dust": {
     "amount": 1,
     "materials": {
-      "Craft Kit": 1
+      "Grinded Azartroot": 10,
+      "Grinded Oryin Essence": 5
     },
     "critChance": 0.1,
     "critYield": {
@@ -2023,9 +2032,12 @@
   "[Artisan] Weapon Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Weapon Etching Dust": 1
+      "[Basic] Enduring Weapon Etching Dust": 1,
+      "Purified Essence of Arun": 8,
+      "Essence of Nature": 10,
+      "Duranium Ingot": 5
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Weapon Etching Dust": 1
     },
@@ -2034,9 +2046,12 @@
   "[Artisan] Glove Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Glove Etching Dust": 1
+      "[Basic] Enduring Glove Etching Dust": 1,
+      "Purified Essence of Shara": 8,
+      "Essence of Nature": 10,
+      "Duranium Ingot": 5
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Glove Etching Dust": 1
     },
@@ -2045,9 +2060,12 @@
   "[Artisan] Armor Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Armor Etching Dust": 1
+      "[Basic] Enduring Armor Etching Dust": 1,
+      "Purified Essence of Dawn": 8,
+      "Essence of Nature": 10,
+      "Duranium Ingot": 5
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Armor Etching Dust": 1
     },
@@ -2056,9 +2074,12 @@
   "[Artisan] Boots Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Boots Etching Dust": 1
+      "[Basic] Enduring Boots Etching Dust": 1,
+      "Purified Essence of Veil": 8,
+      "Essence of Nature": 10,
+      "Duranium Ingot": 5
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Boots Etching Dust": 1
     },
@@ -2067,9 +2088,14 @@
   "[Artisan] Ring Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Ring Etching Dust": 1
+      "[Basic] Enduring Ring Etching Dust": 1,
+      "Tranquility Reagent": 5,
+      "Purified Essence of Arun": 2,
+      "Purified Essence of Shara": 2,
+      "Purified Essence of Dawn": 2,
+      "Purified Essence of Veil": 2
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Ring Etching Dust": 1
     },
@@ -2078,9 +2104,14 @@
   "[Artisan] Earrings Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Earrings Etching Dust": 1
+      "[Basic] Enduring Earrings Etching Dust": 1,
+      "Tranquility Reagent": 5,
+      "Purified Essence of Arun": 2,
+      "Purified Essence of Shara": 2,
+      "Purified Essence of Dawn": 2,
+      "Purified Essence of Veil": 2
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Earrings Etching Dust": 1
     },
@@ -2089,9 +2120,14 @@
   "[Artisan] Necklace Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Necklace Etching Dust": 1
+      "[Basic] Enduring Necklace Etching Dust": 1,
+      "Tranquility Reagent": 5,
+      "Purified Essence of Arun": 2,
+      "Purified Essence of Shara": 2,
+      "Purified Essence of Dawn": 2,
+      "Purified Essence of Veil": 2
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Necklace Etching Dust": 1
     },
@@ -2100,9 +2136,14 @@
   "[Artisan] Belt Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Belt Etching Dust": 1
+      "[Basic] Enduring Belt Etching Dust": 1,
+      "Tranquility Reagent": 5,
+      "Purified Essence of Arun": 2,
+      "Purified Essence of Shara": 2,
+      "Purified Essence of Dawn": 2,
+      "Purified Essence of Veil": 2
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Belt Etching Dust": 1
     },
@@ -2111,9 +2152,14 @@
   "[Artisan] Brooch Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Basic] Enduring Brooch Etching Dust": 1
+      "[Basic] Enduring Brooch Etching Dust": 1,
+      "Tranquility Reagent": 5,
+      "Purified Essence of Arun": 2,
+      "Purified Essence of Shara": 2,
+      "Purified Essence of Dawn": 2,
+      "Purified Essence of Veil": 2
     },
-    "critChance": 0.08,
+    "critChance": 0.1,
     "critYield": {
       "[Artisan] Enduring Brooch Etching Dust": 1
     },
@@ -2122,7 +2168,10 @@
   "[Master] Weapon Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Artisan] Enduring Weapon Etching Dust": 1
+      "[Artisan] Enduring Weapon Etching Dust": 1,
+      "Refined Reagent": 3,
+      "Manahan's Nucleus": 4,
+      "Polished Duranium Ingot": 8
     },
     "critChance": 0.05,
     "critYield": {
@@ -2133,7 +2182,10 @@
   "[Master] Glove Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Artisan] Enduring Glove Etching Dust": 1
+      "[Artisan] Enduring Glove Etching Dust": 1,
+      "Refined Reagent": 3,
+      "Manahan's Nucleus": 4,
+      "Polished Duranium Ingot": 8
     },
     "critChance": 0.05,
     "critYield": {
@@ -2144,7 +2196,10 @@
   "[Master] Armor Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Artisan] Enduring Armor Etching Dust": 1
+      "[Artisan] Enduring Armor Etching Dust": 1,
+      "Refined Reagent": 3,
+      "Manahan's Nucleus": 4,
+      "Polished Duranium Ingot": 8
     },
     "critChance": 0.05,
     "critYield": {
@@ -2166,7 +2221,10 @@
   "[Master] Ring Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Artisan] Enduring Ring Etching Dust": 1
+      "[Artisan] Enduring Ring Etching Dust": 1,
+      "Refined Reagent": 3,
+      "Manahan's Nucleus": 4,
+      "Polished Duranium Ingot": 8
     },
     "critChance": 0.05,
     "critYield": {
@@ -2177,7 +2235,10 @@
   "[Master] Earrings Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Artisan] Enduring Earrings Etching Dust": 1
+      "[Artisan] Enduring Earrings Etching Dust": 1,
+      "Refined Reagent": 3,
+      "Manahan's Nucleus": 4,
+      "Translucent Crystal": 3
     },
     "critChance": 0.05,
     "critYield": {
@@ -2188,7 +2249,10 @@
   "[Master] Necklace Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Artisan] Enduring Necklace Etching Dust": 1
+      "[Artisan] Enduring Necklace Etching Dust": 1,
+      "Refined Reagent": 3,
+      "Manahan's Nucleus": 4,
+      "Translucent Crystal": 3
     },
     "critChance": 0.05,
     "critYield": {
@@ -2199,7 +2263,10 @@
   "[Master] Belt Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Artisan] Enduring Belt Etching Dust": 1
+      "[Artisan] Enduring Belt Etching Dust": 1,
+      "Refined Reagent": 3,
+      "Manahan's Nucleus": 4,
+      "Translucent Crystal": 3
     },
     "critChance": 0.05,
     "critYield": {
@@ -2210,7 +2277,10 @@
   "[Master] Brooch Etching Dust": {
     "amount": 1,
     "materials": {
-      "[Artisan] Enduring Brooch Etching Dust": 1
+      "[Artisan] Enduring Brooch Etching Dust": 1,
+      "Refined Reagent": 3,
+      "Manahan's Nucleus": 4,
+      "Translucent Crystal": 3
     },
     "critChance": 0.05,
     "critYield": {
@@ -2842,16 +2912,6 @@
     "critYield": {},
     "profession": "109"
   },
-  "Titan Filet Crate": {
-    "amount": 1,
-    "materials": {
-      "Titan Filet": 20,
-      "Empty Wooden Crate": 1
-    },
-    "critChance": 0,
-    "critYield": {},
-    "profession": "109"
-  },
   "Angler's Circlet": {
     "amount": 1,
     "materials": {
@@ -3110,8 +3170,7 @@
     "amount": 3,
     "materials": {
       "Rough Stone": 10,
-      "Rough Timber": 1,
-      "Craft Kit": 100
+      "Rough Timber": 1
     },
     "critChance": 0.2,
     "critYield": {
@@ -3123,8 +3182,7 @@
     "amount": 3,
     "materials": {
       "Pyrelite Ingot": 1,
-      "Rough Timber": 3,
-      "Craft Kit": 100
+      "Rough Timber": 3
     },
     "critChance": 0.1,
     "critYield": {
@@ -3234,7 +3292,7 @@
       "Superior Pickaxe": 1,
       "Superior Extractor": 1,
       "Superior Bug Net": 1,
-      "Craft Kit": 5000
+      "Soothing Dewleaf": 250
     },
     "critChance": 0,
     "critYield": {},
