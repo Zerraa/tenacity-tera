@@ -495,6 +495,12 @@ Bandersnatch will not be immune to damage during this phase, so it’s possible 
   * Once finished, wait away from the center of the room until Bandersnatch lands from the ceiling. 
   * If caught inside the AoE caused by the landing, you will die.
 
+<center>
+
+![](https://i.imgur.com/Oj6VcnE.png)
+
+</center>
+
 Doing the sequence in the wrong order will curse and kill whoever is inside the totem, even those doing the sequence correctly. It’s possible to avoid death if you get out of the totem quickly.
 
 <center>

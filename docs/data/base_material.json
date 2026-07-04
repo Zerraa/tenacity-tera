@@ -50,9 +50,5 @@
   "Carrot": {
     "baseItem": "Carrot Seed",
     "amount": 1
-  },
-  "Refined Monster Leather": {
-    "baseItem": "Leather Loom Kit",
-    "amount": 1
   }
 }
